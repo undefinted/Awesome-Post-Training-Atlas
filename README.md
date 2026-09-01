@@ -200,12 +200,13 @@ See [TAXONOMY.md](TAXONOMY.md) for inclusion criteria and boundary cases.
 
 The repository contains a lightweight discovery agent that:
 
-1. searches recent arXiv submissions using broad queries;
-2. applies transparent keyword filters and deduplicates known decisions;
-3. optionally uses an LLM to judge scope, classify direction, and draft a
+1. searches the latest 48 hours of arXiv submissions every day;
+2. adds Hugging Face Daily Papers popularity and code signals;
+3. applies transparent keyword filters and deduplicates known decisions;
+4. optionally uses an LLM to judge scope, classify direction, and draft a
    one-sentence key idea;
-4. writes candidates to `data/candidates.yaml`;
-5. opens a reviewable pull request instead of modifying the curated list.
+5. writes candidates to `data/candidates.yaml`;
+6. opens a reviewable daily pull request instead of modifying the curated list.
 
 It works without an API key. To enable semantic triage, add `OPENAI_API_KEY`
 as a GitHub Actions secret. `OPENAI_MODEL` is optional.
@@ -216,6 +217,9 @@ python -m radar.main --days 7
 python -m radar.render --check
 python -m unittest discover -s tests
 ```
+
+See [SOURCES.md](SOURCES.md) for source tiers, freshness targets, and the
+policy for Chinese and international community signals.
 
 ## Contributing
 
@@ -228,4 +232,3 @@ foundation model. Automated candidates are proposals, not endorsements.
 This project is inspired by the research community's many excellent paper
 lists. Its specific focus is a cross-modality taxonomy, chronological reading
 paths inside each direction, and a human-reviewed discovery pipeline.
-
