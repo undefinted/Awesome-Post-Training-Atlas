@@ -1,0 +1,42 @@
+name: Propose a paper
+description: Suggest a paper for the curated atlas
+title: "[Paper]: "
+labels: [paper-proposal]
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: Paper URL
+      placeholder: https://arxiv.org/abs/...
+    validations:
+      required: true
+  - type: dropdown
+    id: direction
+    attributes:
+      label: Primary direction
+      options:
+        - Supervised Adaptation & Data
+        - Preference Optimization & Alignment
+        - Reward Models & Verifiers
+        - Reinforcement Learning & RLVR
+        - Reasoning & Self-Improvement
+        - Agentic & Interactive Post-Training
+        - Multimodal, VLM & MLLM Post-Training
+        - Generative Media Post-Training
+        - Embodied & VLA Post-Training
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why is this post-training work?
+      description: Explain which learning or feedback loop changes the pretrained model.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: One-sentence key idea
+    validations:
+      required: true
+

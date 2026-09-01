@@ -1,0 +1,189 @@
+papers:
+  - id: arxiv:1707.06347
+    title: Proximal Policy Optimization Algorithms
+    date: 2017-07-20
+    direction: reinforcement-learning
+    modalities: [general]
+    tags: [policy-optimization, on-policy, ppo]
+    key_idea: Introduces a clipped surrogate objective that makes policy-gradient updates simpler and more stable.
+    url: https://arxiv.org/abs/1707.06347
+
+  - id: arxiv:2112.09332
+    title: "WebGPT: Browser-assisted question-answering with human feedback"
+    date: 2021-12-17
+    direction: agentic
+    modalities: [language, web-agent]
+    tags: [tool-use, browsing, imitation-learning, reward-modeling]
+    key_idea: Trains a language model to browse the web and answer with citations using demonstrations and human preference feedback.
+    url: https://arxiv.org/abs/2112.09332
+
+  - id: arxiv:2203.02155
+    title: Training language models to follow instructions with human feedback
+    date: 2022-03-04
+    direction: preference-alignment
+    modalities: [language]
+    tags: [sft, reward-modeling, rlhf, ppo]
+    key_idea: Establishes the SFT-to-reward-model-to-RLHF pipeline for aligning language models with human intent.
+    url: https://arxiv.org/abs/2203.02155
+
+  - id: arxiv:2203.14465
+    title: "STaR: Bootstrapping Reasoning With Reasoning"
+    date: 2022-03-28
+    direction: reasoning-self-improvement
+    modalities: [language]
+    tags: [rationale, bootstrapping, self-training]
+    key_idea: Iteratively trains on rationales that lead to correct answers and regenerates rationales for failed examples.
+    url: https://arxiv.org/abs/2203.14465
+
+  - id: arxiv:2212.08073
+    title: "Constitutional AI: Harmlessness from AI Feedback"
+    date: 2022-12-15
+    direction: preference-alignment
+    modalities: [language]
+    tags: [rlaif, critique, revision, constitutional-ai]
+    key_idea: Uses written principles and model-generated critiques to reduce dependence on direct human harmlessness labels.
+    url: https://arxiv.org/abs/2212.08073
+
+  - id: arxiv:2212.10560
+    title: "Self-Instruct: Aligning Language Models with Self-Generated Instructions"
+    date: 2022-12-20
+    direction: supervised-adaptation
+    modalities: [language]
+    tags: [synthetic-data, instruction-tuning, self-generation]
+    key_idea: Bootstraps diverse instruction-following data from a model using filtering before supervised fine-tuning.
+    url: https://arxiv.org/abs/2212.10560
+
+  - id: arxiv:2302.04761
+    title: "Toolformer: Language Models Can Teach Themselves to Use Tools"
+    date: 2023-02-09
+    direction: agentic
+    modalities: [language, tool-agent]
+    tags: [tool-use, self-supervision, api]
+    key_idea: Lets a model generate and filter its own API-call demonstrations, then learns when and how to invoke tools.
+    url: https://arxiv.org/abs/2302.04761
+
+  - id: arxiv:2304.08485
+    title: Visual Instruction Tuning
+    date: 2023-04-17
+    direction: multimodal
+    modalities: [vision-language]
+    tags: [instruction-tuning, synthetic-data, vlm]
+    key_idea: Uses language-model-generated visual instruction data to adapt a vision-language assistant end to end.
+    url: https://arxiv.org/abs/2304.08485
+
+  - id: arxiv:2305.13301
+    title: Training Diffusion Models with Reinforcement Learning
+    date: 2023-05-22
+    direction: generative-media
+    modalities: [image-generation]
+    tags: [diffusion, reinforcement-learning, ddpo]
+    key_idea: Treats diffusion denoising as a multi-step decision process so image generators can optimize downstream rewards directly.
+    url: https://arxiv.org/abs/2305.13301
+
+  - id: arxiv:2305.18290
+    title: "Direct Preference Optimization: Your Language Model is Secretly a Reward Model"
+    date: 2023-05-29
+    direction: preference-alignment
+    modalities: [language]
+    tags: [offline, pairwise-preference, dpo]
+    key_idea: Converts the RLHF objective into a direct classification-style loss over preferred and rejected responses.
+    url: https://arxiv.org/abs/2305.18290
+
+  - id: arxiv:2305.20050
+    title: Let's Verify Step by Step
+    date: 2023-05-31
+    direction: reward-verifiers
+    modalities: [language, math]
+    tags: [process-reward-model, verifier, reasoning]
+    key_idea: Shows that supervising intermediate reasoning steps can outperform outcome-only reward supervision for mathematical reasoning.
+    url: https://arxiv.org/abs/2305.20050
+
+  - id: arxiv:2307.15818
+    title: "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control"
+    date: 2023-07-28
+    direction: embodied-vla
+    modalities: [vision-language-action, robotics]
+    tags: [vla, co-fine-tuning, embodied]
+    key_idea: Co-fine-tunes web-scale vision-language knowledge and robot trajectories by expressing actions as tokens.
+    url: https://arxiv.org/abs/2307.15818
+
+  - id: arxiv:2309.14525
+    title: "LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF"
+    date: 2023-09-25
+    direction: multimodal
+    modalities: [vision-language]
+    tags: [rlhf, hallucination, multimodal-alignment]
+    key_idea: Adds factually grounded preference feedback and RLHF to improve multimodal helpfulness and reduce hallucination.
+    url: https://arxiv.org/abs/2309.14525
+
+  - id: arxiv:2310.01377
+    title: "UltraFeedback: Boosting Language Models with Scaled AI Feedback"
+    date: 2023-10-02
+    direction: supervised-adaptation
+    modalities: [language]
+    tags: [ai-feedback, preference-data, synthetic-data]
+    key_idea: Builds large-scale fine-grained preference data by having strong models critique and score multiple responses.
+    url: https://arxiv.org/abs/2310.01377
+
+  - id: arxiv:2311.12908
+    title: Diffusion Model Alignment Using Direct Preference Optimization
+    date: 2023-11-22
+    direction: generative-media
+    modalities: [image-generation]
+    tags: [diffusion, preference-optimization, dpo]
+    key_idea: Adapts direct preference optimization to diffusion likelihoods to align image generation without a learned reward model.
+    url: https://arxiv.org/abs/2311.12908
+
+  - id: arxiv:2401.10020
+    title: Self-Rewarding Language Models
+    date: 2024-01-18
+    direction: reasoning-self-improvement
+    modalities: [language]
+    tags: [self-reward, iterative-dpo, llm-as-a-judge]
+    key_idea: Iteratively uses the model itself as an instruction follower and judge to create preference data for further training.
+    url: https://arxiv.org/abs/2401.10020
+
+  - id: arxiv:2402.01306
+    title: "KTO: Model Alignment as Prospect Theoretic Optimization"
+    date: 2024-02-02
+    direction: preference-alignment
+    modalities: [language]
+    tags: [binary-feedback, offline, kto]
+    key_idea: Learns from unpaired desirable and undesirable examples using a prospect-theoretic utility objective.
+    url: https://arxiv.org/abs/2402.01306
+
+  - id: arxiv:2402.03300
+    title: "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+    date: 2024-02-05
+    direction: reinforcement-learning
+    modalities: [language, math]
+    tags: [grpo, mathematical-reasoning, reinforcement-learning]
+    key_idea: Introduces Group Relative Policy Optimization to improve mathematical reasoning without a separate critic model.
+    url: https://arxiv.org/abs/2402.03300
+
+  - id: arxiv:2403.09629
+    title: "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking"
+    date: 2024-03-14
+    direction: reasoning-self-improvement
+    modalities: [language]
+    tags: [rationale, self-training, reasoning]
+    key_idea: Trains models to generate useful internal rationales at arbitrary positions in ordinary text.
+    url: https://arxiv.org/abs/2403.09629
+
+  - id: arxiv:2405.14734
+    title: "SimPO: Simple Preference Optimization with a Reference-Free Reward"
+    date: 2024-05-23
+    direction: preference-alignment
+    modalities: [language]
+    tags: [reference-free, preference-optimization, simpo]
+    key_idea: Uses average response log probability as an implicit reward and removes the reference model from preference optimization.
+    url: https://arxiv.org/abs/2405.14734
+
+  - id: arxiv:2501.12948
+    title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+    date: 2025-01-22
+    direction: reinforcement-learning
+    modalities: [language, reasoning]
+    tags: [rlvr, grpo, reasoning, distillation]
+    key_idea: Demonstrates that large-scale reinforcement learning with verifiable rewards can elicit and improve long-form reasoning.
+    url: https://arxiv.org/abs/2501.12948

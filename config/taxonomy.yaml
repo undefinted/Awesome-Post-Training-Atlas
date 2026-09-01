@@ -1,0 +1,20 @@
+directions:
+  - id: supervised-adaptation
+    title: Supervised Adaptation & Data
+  - id: preference-alignment
+    title: Preference Optimization & Alignment
+  - id: reward-verifiers
+    title: Reward Models & Verifiers
+  - id: reinforcement-learning
+    title: Reinforcement Learning & RL with Verifiable Rewards
+  - id: reasoning-self-improvement
+    title: Reasoning & Self-Improvement
+  - id: agentic
+    title: Agentic & Interactive Post-Training
+  - id: multimodal
+    title: Multimodal, VLM & MLLM Post-Training
+  - id: generative-media
+    title: Generative Media Post-Training
+  - id: embodied-vla
+    title: Embodied & VLA Post-Training
+

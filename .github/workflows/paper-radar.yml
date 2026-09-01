@@ -1,0 +1,47 @@
+name: Paper Radar
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: Lookback window in days
+        default: "8"
+        required: true
+  schedule:
+    - cron: "23 2 * * 1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Discover papers
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          RADAR_DAYS: ${{ inputs.days || '8' }}
+        run: python -m radar.main --days "$RADAR_DAYS"
+      - name: Create candidate pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "radar: update paper candidates"
+          branch: radar/weekly-candidates
+          delete-branch: true
+          title: "Radar: weekly post-training paper candidates"
+          body: |
+            Automated candidate update from the Post-Training Paper Radar.
+
+            Please review scope, primary direction, key idea, and duplicates before
+            promoting any entry to `data/papers.yaml`.
+          labels: radar,candidates
+

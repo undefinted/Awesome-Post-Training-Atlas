@@ -1,0 +1,39 @@
+arxiv:
+  categories: [cs.CL, cs.LG, cs.AI, cs.CV, cs.RO]
+  max_results_per_query: 100
+  queries:
+    - 'all:"post-training"'
+    - '(all:"preference optimization" OR all:RLHF OR all:RLAIF OR all:RLVR)'
+    - '(all:"reward model" OR all:verifier OR all:"process reward")'
+    - '(all:"instruction tuning" OR all:"self improvement" OR all:"self-training")'
+    - '(all:"agent training" OR all:"agentic reinforcement learning" OR all:"tool use")'
+    - 'all:multimodal AND (all:alignment OR all:"reinforcement learning")'
+    - '(all:diffusion OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)'
+    - '(all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)'
+
+filter:
+  minimum_score: 3
+  positive_terms:
+    post-training: 4
+    post training: 4
+    preference optimization: 3
+    reinforcement learning: 2
+    instruction tuning: 2
+    reward model: 2
+    verifier: 2
+    self-improvement: 2
+    self-training: 1
+    agentic: 1
+    multimodal: 1
+    vision-language: 1
+    diffusion: 1
+    embodied: 1
+  negative_terms:
+    post-training quantization: -6
+    quantization: -2
+    inference-only: -3
+
+llm:
+  default_model: gpt-5.4-mini
+  batch_size: 10
+  minimum_relevance: 0.65
