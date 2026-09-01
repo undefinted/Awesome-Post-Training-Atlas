@@ -147,7 +147,7 @@ def main() -> None:
             if not cell.get("error") and cell.get("complete")
         }
         directions = set(grouped_queries())
-        cursor = dt.date.today().replace(day=1)
+        cursor = (dt.date.today().replace(day=1) - dt.timedelta(days=1)).replace(day=1)
         selected = None
         for _ in range(36):
             month_key = cursor.strftime("%Y-%m")
