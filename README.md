@@ -26,6 +26,8 @@ additional learning or feedback loop. The scope includes language models,
 VLMs/MLLMs, agents, diffusion and video models, and embodied/VLA systems.
 
 See [TAXONOMY.md](TAXONOMY.md) for inclusion criteria and boundary cases.
+The generated [coverage matrix](COVERAGE.md) makes sparse months and directions
+visible instead of hiding gaps behind a large total paper count.
 
 ## Contents
 
@@ -215,6 +217,7 @@ as a GitHub Actions secret. `OPENAI_MODEL` is optional.
 python -m pip install -r requirements.txt
 python -m radar.main --days 7
 python -m radar.render --check
+python -m radar.coverage --check
 python -m unittest discover -s tests
 ```
 
