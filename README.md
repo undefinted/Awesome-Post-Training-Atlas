@@ -162,6 +162,13 @@ visible instead of hiding gaps behind a large total paper count.
 
 ## Multimodal, VLM & MLLM Post-Training
 
+### 2026
+
+#### April
+
+- **[Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://arxiv.org/abs/2604.28123)** — Inserts a black-box response-level distribution-alignment stage between SFT and RLVR using specialized perception and reasoning discriminators.  
+  2026-04-30 · `on-policy-distillation` · `distribution-alignment` · `rlvr` · `mixture-of-experts` · [code](https://github.com/XIAO4579/PRISM)
+
 ### 2023
 
 #### September
