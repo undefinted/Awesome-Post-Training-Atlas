@@ -5,10 +5,10 @@ on:
     inputs:
       days:
         description: Lookback window in days
-        default: "8"
+        default: "2"
         required: true
   schedule:
-    - cron: "23 2 * * 1"
+    - cron: "23 2 * * *"
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
-          RADAR_DAYS: ${{ inputs.days || '8' }}
+          RADAR_DAYS: ${{ inputs.days || '2' }}
         run: python -m radar.main --days "$RADAR_DAYS"
       - name: Validate generated candidates
         run: |
@@ -39,8 +39,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "radar: update paper candidates"
-          branch: radar/weekly-candidates
+          branch: radar/daily-candidates
           delete-branch: true
-          title: "Radar: weekly post-training paper candidates"
+          title: "Radar: daily post-training paper candidates"
           body-path: data/CANDIDATES.md
           labels: radar,candidates
