@@ -11,6 +11,10 @@ arxiv:
     - '(all:diffusion OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)'
     - '(all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)'
 
+huggingface_daily:
+  enabled: true
+  limit: 100
+
 filter:
   minimum_score: 3
   max_candidates_per_run: 25
