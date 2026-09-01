@@ -16,6 +16,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 ARXIV_API = "https://export.arxiv.org/api/query"
+HF_DAILY_API = "https://huggingface.co/api/daily_papers"
 ATOM = {"atom": "http://www.w3.org/2005/Atom"}
 
 
@@ -76,9 +77,55 @@ def fetch_query(query: str, categories: list[str], maximum: int) -> list[dict]:
                 "abstract": abstract,
                 "authors": [node.findtext("atom:name", "", ATOM) for node in entry.findall("atom:author", ATOM)],
                 "arxiv_categories": categories_found,
+                "source_signals": ["arxiv"],
             }
         )
     return papers
+
+
+def fetch_huggingface_daily(days: int, limit: int) -> list[dict]:
+    cutoff = (dt.date.today() - dt.timedelta(days=days)).isoformat()
+    request = urllib.request.Request(
+        f"{HF_DAILY_API}?{urllib.parse.urlencode({'limit': limit})}",
+        headers={"User-Agent": "Awesome-Post-Training-Atlas/0.1 (GitHub paper radar)"},
+    )
+    with urllib.request.urlopen(request, timeout=45) as response:
+        payload = json.loads(response.read())
+    papers = []
+    for item in payload:
+        paper = item.get("paper") or {}
+        arxiv_id = str(paper.get("id") or "").strip()
+        submitted = str(paper.get("submittedOnDailyAt") or item.get("publishedAt") or "")[:10]
+        if not arxiv_id or submitted < cutoff:
+            continue
+        published = str(paper.get("publishedAt") or item.get("publishedAt") or submitted)[:10]
+        authors = [author.get("name", "") for author in paper.get("authors", []) if author.get("name")]
+        candidate = {
+            "id": f"arxiv:{arxiv_id.lower()}",
+            "title": paper.get("title") or item.get("title") or arxiv_id,
+            "date": published,
+            "updated": submitted,
+            "url": f"https://arxiv.org/abs/{arxiv_id}",
+            "abstract": paper.get("summary") or item.get("summary") or "",
+            "authors": authors,
+            "arxiv_categories": [],
+            "source_signals": ["huggingface-daily"],
+            "huggingface": {
+                "url": f"https://huggingface.co/papers/{arxiv_id}",
+                "upvotes": int(paper.get("upvotes") or 0),
+            },
+        }
+        if paper.get("githubRepo"):
+            candidate["code"] = paper["githubRepo"]
+        papers.append(candidate)
+    return papers
+
+
+def merge_source_record(target: dict, incoming: dict) -> None:
+    target["source_signals"] = sorted(set(target.get("source_signals", [])) | set(incoming.get("source_signals", [])))
+    for key in ("huggingface", "code"):
+        if incoming.get(key):
+            target[key] = incoming[key]
 
 
 def rule_score(paper: dict, config: dict) -> tuple[int, list[str]]:
@@ -181,6 +228,14 @@ def discover(days: int) -> list[dict]:
         for paper in fetch_query(query, radar["arxiv"]["categories"], radar["arxiv"]["max_results_per_query"]):
             if paper["date"] >= cutoff and paper["id"] not in known:
                 found[paper["id"]] = paper
+    if radar.get("huggingface_daily", {}).get("enabled"):
+        for paper in fetch_huggingface_daily(days, radar["huggingface_daily"]["limit"]):
+            if paper["id"] in known:
+                continue
+            if paper["id"] in found:
+                merge_source_record(found[paper["id"]], paper)
+            else:
+                found[paper["id"]] = paper
     shortlisted = []
     for paper in found.values():
         score, reasons = rule_score(paper, radar["filter"])
@@ -216,13 +271,18 @@ def render_candidate_digest(papers: list[dict]) -> str:
         "",
         "Automated proposals only; inclusion requires human review.",
         "",
-        "| Date | Paper | Rule score | Suggested direction |",
-        "|---|---|---:|---|",
+        "| Date | Paper | Sources | Signal | Suggested direction |",
+        "|---|---|---|---:|---|",
     ]
     for paper in papers:
         title = paper["title"].replace("|", "\\|")
         direction = paper.get("direction", "needs-review")
-        lines.append(f"| {paper['date']} | [{title}]({paper['url']}) | {paper['rule_score']} | `{direction}` |")
+        sources = ", ".join(paper.get("source_signals", []))
+        hf = paper.get("huggingface", {})
+        signal = f"{paper['rule_score']}"
+        if hf:
+            signal += f" / HF ↑{hf.get('upvotes', 0)}"
+        lines.append(f"| {paper['date']} | [{title}]({paper['url']}) | {sources} | {signal} | `{direction}` |")
     lines.extend(
         [
             "",
