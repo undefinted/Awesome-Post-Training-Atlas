@@ -13,6 +13,8 @@ arxiv:
 
 filter:
   minimum_score: 3
+  max_candidates_per_run: 25
+  stored_abstract_characters: 1200
   positive_terms:
     post-training: 4
     post training: 4
