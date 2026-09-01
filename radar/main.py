@@ -64,14 +64,15 @@ def fetch_query(query: str, categories: list[str], maximum: int) -> list[dict]:
         abstract = " ".join((entry.findtext("atom:summary", "", ATOM)).split())
         title = " ".join((entry.findtext("atom:title", "", ATOM)).split())
         url = entry.findtext("atom:id", "", ATOM)
+        paper_id = normalize_arxiv_id(url)
         categories_found = [node.attrib["term"] for node in entry.findall("atom:category", ATOM)]
         papers.append(
             {
-                "id": normalize_arxiv_id(url),
+                "id": paper_id,
                 "title": title,
                 "date": entry.findtext("atom:published", "", ATOM)[:10],
                 "updated": entry.findtext("atom:updated", "", ATOM)[:10],
-                "url": url,
+                "url": f"https://arxiv.org/abs/{paper_id.split(':', 1)[1]}",
                 "abstract": abstract,
                 "authors": [node.findtext("atom:name", "", ATOM) for node in entry.findall("atom:author", ATOM)],
                 "arxiv_categories": categories_found,
