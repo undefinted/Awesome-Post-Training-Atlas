@@ -11,10 +11,10 @@ on:
         required: false
       max_per_cell:
         description: Maximum arXiv results inspected per direction-month cell
-        default: "300"
+        default: "1000"
         required: true
   schedule:
-    - cron: "47 3 * * 0"
+    - cron: "47 3 * * *"
 
 permissions:
   contents: write
@@ -34,7 +34,7 @@ jobs:
         env:
           YEAR: ${{ inputs.year }}
           MONTH: ${{ inputs.month }}
-          MAX_PER_CELL: ${{ inputs.max_per_cell || '300' }}
+          MAX_PER_CELL: ${{ inputs.max_per_cell || '1000' }}
         run: |
           if [ -z "$YEAR" ]; then
             python -m radar.monthly --auto --max-per-cell "$MAX_PER_CELL"
