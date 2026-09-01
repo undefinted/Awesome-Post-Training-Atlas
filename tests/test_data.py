@@ -25,7 +25,13 @@ class PaperDataTests(unittest.TestCase):
             self.assertIn(paper["direction"], self.directions)
             self.assertTrue(str(paper["url"]).startswith("https://"))
 
+    def test_community_signal_schema(self):
+        payload = yaml.safe_load((ROOT / "data" / "community_signals.yaml").read_text(encoding="utf-8"))
+        required = {"id", "date", "source", "url", "summary", "related_ids"}
+        for signal in payload["signals"]:
+            self.assertFalse(required - set(signal), signal.get("id"))
+            self.assertTrue(str(signal["url"]).startswith("https://"))
+
 
 if __name__ == "__main__":
     unittest.main()
-
