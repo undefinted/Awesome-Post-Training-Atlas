@@ -1,402 +1,1458 @@
 papers:
-  - id: arxiv:2608.16333
-    title: "Step-Level On-Policy Distillation: Interpolating Between On-Policy Distillation and Supervised Fine-Tuning"
-    date: 2026-08-17
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-distillation, step-level-guidance, sft, long-horizon]
-    key_idea: Corrects student trajectories at the step level, yielding a continuum between supervised fine-tuning and fully on-policy distillation for interactive agents.
-    url: https://arxiv.org/abs/2608.16333
-
-  - id: arxiv:2608.14277
-    title: "SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning"
-    date: 2026-08-14
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, tokenizer-alignment, long-context, reasoning]
-    key_idea: Aligns shared text spans across mismatched teacher and student tokenizers while stabilizing long-context distillation with reference regularization and termination masking.
-    url: https://arxiv.org/abs/2608.14277
-
-  - id: arxiv:2608.05987
-    title: "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning"
-    date: 2026-08-06
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-self-distillation, agentic-rl, temporal-credit, multi-turn]
-    key_idea: Recursively aggregates teacher-student token evidence into turn-level Bayesian credit signals for long-horizon agent training without a separate critic or extra rollouts.
-    url: https://arxiv.org/abs/2608.05987
-    code: https://github.com/ZethWang/AgentOPSD
-
-  - id: arxiv:2607.29494
-    title: "Adaptive FastOPD: Progress-Aware Rollout Horizon Expansion for Efficient On-Policy Distillation"
-    date: 2026-07-31
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-distillation, adaptive-horizon, efficiency, multi-turn]
-    key_idea: Expands the student rollout horizon only when learning at the current boundary plateaus, reducing wasted long-horizon sampling.
-    url: https://arxiv.org/abs/2607.29494
-
-  - id: arxiv:2607.14777
-    title: "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning"
-    date: 2026-07-16
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-distillation, skill-evolution, hindsight, agentic-rl]
-    key_idea: Converts completed on-policy trajectories into evolving hindsight skills and jointly distills their token-level guidance with outcome reinforcement learning.
-    url: https://arxiv.org/abs/2607.14777
-    code: https://github.com/jinyangwu/SEED
-
-  - id: arxiv:2607.13399
-    title: "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations"
-    date: 2026-07-15
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, failure-analysis, regularization, exploration]
-    key_idea: Frames on-policy distillation as an exploration catalyst, diagnoses teacher-student mismatch and length exploitation, and studies clipping and log-compression controls.
-    url: https://arxiv.org/abs/2607.13399
-
-  - id: arxiv:2607.05804
-    title: "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training"
-    date: 2026-07-07
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-distillation, turn-aware, rollout-budgeting, long-horizon]
-    key_idea: Combines adaptive rollout-depth budgeting with a progressive turn-normalized loss to focus learning on useful parts of long agent trajectories.
-    url: https://arxiv.org/abs/2607.05804
-
-  - id: arxiv:2606.26790
-    title: "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning"
-    date: 2026-06-25
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-distillation, skill-distillation, hindsight, agentic-rl]
-    key_idea: Extracts hierarchical hindsight skills from completed student trajectories and combines skill-conditioned token guidance with outcome-based reinforcement learning.
-    url: https://arxiv.org/abs/2606.26790
-
-  - id: arxiv:2606.17628
-    title: "OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation"
-    date: 2026-06-16
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-distillation, memory, experience-evolution, agent]
-    key_idea: Couples fast hierarchical memory evolution with a slow privileged-hindsight distillation loop so an agent internalizes how to select, use, write, and maintain experience.
-    url: https://arxiv.org/abs/2606.17628
-    code: https://github.com/bingreeky/opd-evolver
-
-  - id: arxiv:2606.15912
-    title: "On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents"
-    date: 2026-06-14
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-distillation, curriculum, turn-level-guidance, multi-turn]
-    key_idea: Mixes teacher- and student-generated turns, then gradually removes teacher intervention as the agent becomes capable of completing longer trajectories independently.
-    url: https://arxiv.org/abs/2606.15912
-
-  - id: arxiv:2606.01249
-    title: Trust Region On-Policy Distillation
-    date: 2026-05-31
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, trust-region, clipping, stability]
-    key_idea: Restricts distillation to reliable teacher regions using clipping, masking, and forward-KL controls, with optional off-policy guidance outside the trust region.
-    url: https://arxiv.org/abs/2606.01249
-
-  - id: arxiv:2605.21606
-    title: "When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning"
-    date: 2026-05-20
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-self-distillation, token-reliability, position-weighting, reasoning]
-    key_idea: Models teacher-token reliability as position-dependent and increases supervision weight across a generated reasoning trajectory.
-    url: https://arxiv.org/abs/2605.21606
-    code: https://github.com/SaFo-Lab/PW-OPSD
-
-  - id: arxiv:2605.11739
-    title: "Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation"
-    date: 2026-05-12
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, efficiency, update-extrapolation, analysis]
-    key_idea: Studies why distillation updates anticipate later optimization directions and exploits that structure to extrapolate updates and accelerate training.
-    url: https://arxiv.org/abs/2605.11739
-
-  - id: arxiv:2605.09725
-    title: On-Policy Distillation with Best-of-N Teacher Rollout Selection
-    date: 2026-05-10
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, best-of-n, rollout-selection, teacher-quality]
-    key_idea: Selects among multiple teacher rollouts before supervising the student to reduce the effect of incorrect or high-variance teacher trajectories.
-    url: https://arxiv.org/abs/2605.09725
-
-  - id: arxiv:2605.01347
-    title: "MAD-OPD: Breaking the Ceiling in On-Policy Distillation via Multi-Agent Debate"
-    date: 2026-05-02
-    direction: distillation
-    modalities: [language, agent, reasoning]
-    tags: [on-policy-distillation, multi-agent-debate, teacher-ensemble, agent]
-    key_idea: Replaces a single teacher with a multi-agent debate collective and uses step-level sampling to provide stronger supervision for agentic trajectories.
-    url: https://arxiv.org/abs/2605.01347
-
-  - id: arxiv:2604.24005
-    title: "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents"
-    date: 2026-04-27
-    direction: distillation
-    modalities: [language, agent]
-    tags: [on-policy-distillation, temporal-curriculum, multi-turn, agent]
-    key_idea: Progressively expands trajectory depth to control compounding turn errors and stabilize trajectory-level divergence optimization in autonomous agents.
-    url: https://arxiv.org/abs/2604.24005
-    code: https://github.com/kokolerk/TCOD
-
-  - id: arxiv:2604.13016
-    title: "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe"
-    date: 2026-04-14
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, teacher-student-compatibility, cold-start, analysis]
-    key_idea: Identifies compatible reasoning styles and genuinely novel teacher capability as key success conditions, then derives prompt-selection and off-policy cold-start recipes.
-    url: https://arxiv.org/abs/2604.13016
-
-  - id: arxiv:2604.00626
-    title: A Survey of On-Policy Distillation for Large Language Models
-    date: 2026-04-01
-    direction: distillation
-    modalities: [language]
-    tags: [on-policy-distillation, survey, taxonomy, knowledge-distillation]
-    key_idea: Organizes on-policy distillation by feedback signal, teacher access, and loss granularity under a unified divergence-based view.
-    url: https://arxiv.org/abs/2604.00626
-
-  - id: arxiv:2603.25562
-    title: "Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes"
-    date: 2026-03-26
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, failure-analysis, support-matching, stability]
-    key_idea: Diagnoses sampled-token distillation failures and evaluates top-K local support matching, top-p rollouts, and special-token masking as simple remedies.
-    url: https://arxiv.org/abs/2603.25562
-
-  - id: arxiv:2603.11137
-    title: Scaling Reasoning Efficiently via Relaxed On-Policy Distillation
-    date: 2026-03-11
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, reward-clipping, entropy-sampling, efficiency]
-    key_idea: Interprets distillation as policy optimization and relaxes it through mixture-based reward clipping, entropy-aware token sampling, and staged exploration and refinement.
-    url: https://arxiv.org/abs/2603.11137
-
-  - id: arxiv:2603.07079
-    title: Entropy-Aware On-Policy Distillation of Language Models
-    date: 2026-03-07
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-distillation, entropy, forward-kl, reverse-kl]
-    key_idea: Uses reverse KL on confident teacher tokens and adds forward-KL supervision under high teacher uncertainty to preserve useful output diversity.
-    url: https://arxiv.org/abs/2603.07079
-
-  - id: arxiv:2601.18734
-    title: "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models"
-    date: 2026-01-26
-    direction: distillation
-    modalities: [language, reasoning]
-    tags: [on-policy-self-distillation, privileged-information, reasoning, token-level]
-    key_idea: Uses one model as both privileged-trace teacher and question-only student, matching their token distributions along student-generated reasoning trajectories.
-    url: https://arxiv.org/abs/2601.18734
-
-  - id: arxiv:2604.28123
-    title: "Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL"
-    date: 2026-04-30
-    direction: distillation
-    modalities: [vision-language, multimodal-reasoning]
-    tags: [on-policy-distillation, distribution-alignment, rlvr, mixture-of-experts]
-    key_idea: Inserts a black-box response-level distribution-alignment stage between SFT and RLVR using specialized perception and reasoning discriminators.
-    url: https://arxiv.org/abs/2604.28123
-    code: https://github.com/XIAO4579/PRISM
-
-  - id: arxiv:1707.06347
-    title: Proximal Policy Optimization Algorithms
-    date: 2017-07-20
-    direction: reinforcement-learning
-    modalities: [general]
-    tags: [policy-optimization, on-policy, ppo]
-    key_idea: Introduces a clipped surrogate objective that makes policy-gradient updates simpler and more stable.
-    url: https://arxiv.org/abs/1707.06347
-
-  - id: arxiv:2112.09332
-    title: "WebGPT: Browser-assisted question-answering with human feedback"
-    date: 2021-12-17
-    direction: agentic
-    modalities: [language, web-agent]
-    tags: [tool-use, browsing, imitation-learning, reward-modeling]
-    key_idea: Trains a language model to browse the web and answer with citations using demonstrations and human preference feedback.
-    url: https://arxiv.org/abs/2112.09332
-
-  - id: arxiv:2203.02155
-    title: Training language models to follow instructions with human feedback
-    date: 2022-03-04
-    direction: preference-alignment
-    modalities: [language]
-    tags: [sft, reward-modeling, rlhf, ppo]
-    key_idea: Establishes the SFT-to-reward-model-to-RLHF pipeline for aligning language models with human intent.
-    url: https://arxiv.org/abs/2203.02155
-
-  - id: arxiv:2203.14465
-    title: "STaR: Bootstrapping Reasoning With Reasoning"
-    date: 2022-03-28
-    direction: reasoning-self-improvement
-    modalities: [language]
-    tags: [rationale, bootstrapping, self-training]
-    key_idea: Iteratively trains on rationales that lead to correct answers and regenerates rationales for failed examples.
-    url: https://arxiv.org/abs/2203.14465
-
-  - id: arxiv:2212.08073
-    title: "Constitutional AI: Harmlessness from AI Feedback"
-    date: 2022-12-15
-    direction: preference-alignment
-    modalities: [language]
-    tags: [rlaif, critique, revision, constitutional-ai]
-    key_idea: Uses written principles and model-generated critiques to reduce dependence on direct human harmlessness labels.
-    url: https://arxiv.org/abs/2212.08073
-
-  - id: arxiv:2212.10560
-    title: "Self-Instruct: Aligning Language Models with Self-Generated Instructions"
-    date: 2022-12-20
-    direction: supervised-adaptation
-    modalities: [language]
-    tags: [synthetic-data, instruction-tuning, self-generation]
-    key_idea: Bootstraps diverse instruction-following data from a model using filtering before supervised fine-tuning.
-    url: https://arxiv.org/abs/2212.10560
-
-  - id: arxiv:2302.04761
-    title: "Toolformer: Language Models Can Teach Themselves to Use Tools"
-    date: 2023-02-09
-    direction: agentic
-    modalities: [language, tool-agent]
-    tags: [tool-use, self-supervision, api]
-    key_idea: Lets a model generate and filter its own API-call demonstrations, then learns when and how to invoke tools.
-    url: https://arxiv.org/abs/2302.04761
-
-  - id: arxiv:2304.08485
-    title: Visual Instruction Tuning
-    date: 2023-04-17
-    direction: multimodal
-    modalities: [vision-language]
-    tags: [instruction-tuning, synthetic-data, vlm]
-    key_idea: Uses language-model-generated visual instruction data to adapt a vision-language assistant end to end.
-    url: https://arxiv.org/abs/2304.08485
-
-  - id: arxiv:2305.13301
-    title: Training Diffusion Models with Reinforcement Learning
-    date: 2023-05-22
-    direction: generative-media
-    modalities: [image-generation]
-    tags: [diffusion, reinforcement-learning, ddpo]
-    key_idea: Treats diffusion denoising as a multi-step decision process so image generators can optimize downstream rewards directly.
-    url: https://arxiv.org/abs/2305.13301
-
-  - id: arxiv:2305.18290
-    title: "Direct Preference Optimization: Your Language Model is Secretly a Reward Model"
-    date: 2023-05-29
-    direction: preference-alignment
-    modalities: [language]
-    tags: [offline, pairwise-preference, dpo]
-    key_idea: Converts the RLHF objective into a direct classification-style loss over preferred and rejected responses.
-    url: https://arxiv.org/abs/2305.18290
-
-  - id: arxiv:2305.20050
-    title: Let's Verify Step by Step
-    date: 2023-05-31
-    direction: reward-verifiers
-    modalities: [language, math]
-    tags: [process-reward-model, verifier, reasoning]
-    key_idea: Shows that supervising intermediate reasoning steps can outperform outcome-only reward supervision for mathematical reasoning.
-    url: https://arxiv.org/abs/2305.20050
-
-  - id: arxiv:2307.15818
-    title: "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control"
-    date: 2023-07-28
-    direction: embodied-vla
-    modalities: [vision-language-action, robotics]
-    tags: [vla, co-fine-tuning, embodied]
-    key_idea: Co-fine-tunes web-scale vision-language knowledge and robot trajectories by expressing actions as tokens.
-    url: https://arxiv.org/abs/2307.15818
-
-  - id: arxiv:2309.14525
-    title: "LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF"
-    date: 2023-09-25
-    direction: multimodal
-    modalities: [vision-language]
-    tags: [rlhf, hallucination, multimodal-alignment]
-    key_idea: Adds factually grounded preference feedback and RLHF to improve multimodal helpfulness and reduce hallucination.
-    url: https://arxiv.org/abs/2309.14525
-
-  - id: arxiv:2310.01377
-    title: "UltraFeedback: Boosting Language Models with Scaled AI Feedback"
-    date: 2023-10-02
-    direction: supervised-adaptation
-    modalities: [language]
-    tags: [ai-feedback, preference-data, synthetic-data]
-    key_idea: Builds large-scale fine-grained preference data by having strong models critique and score multiple responses.
-    url: https://arxiv.org/abs/2310.01377
-
-  - id: arxiv:2311.12908
-    title: Diffusion Model Alignment Using Direct Preference Optimization
-    date: 2023-11-22
-    direction: generative-media
-    modalities: [image-generation]
-    tags: [diffusion, preference-optimization, dpo]
-    key_idea: Adapts direct preference optimization to diffusion likelihoods to align image generation without a learned reward model.
-    url: https://arxiv.org/abs/2311.12908
-
-  - id: arxiv:2401.10020
-    title: Self-Rewarding Language Models
-    date: 2024-01-18
-    direction: reasoning-self-improvement
-    modalities: [language]
-    tags: [self-reward, iterative-dpo, llm-as-a-judge]
-    key_idea: Iteratively uses the model itself as an instruction follower and judge to create preference data for further training.
-    url: https://arxiv.org/abs/2401.10020
-
-  - id: arxiv:2402.01306
-    title: "KTO: Model Alignment as Prospect Theoretic Optimization"
-    date: 2024-02-02
-    direction: preference-alignment
-    modalities: [language]
-    tags: [binary-feedback, offline, kto]
-    key_idea: Learns from unpaired desirable and undesirable examples using a prospect-theoretic utility objective.
-    url: https://arxiv.org/abs/2402.01306
-
-  - id: arxiv:2402.03300
-    title: "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-    date: 2024-02-05
-    direction: reinforcement-learning
-    modalities: [language, math]
-    tags: [grpo, mathematical-reasoning, reinforcement-learning]
-    key_idea: Introduces Group Relative Policy Optimization to improve mathematical reasoning without a separate critic model.
-    url: https://arxiv.org/abs/2402.03300
-
-  - id: arxiv:2403.09629
-    title: "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking"
-    date: 2024-03-14
-    direction: reasoning-self-improvement
-    modalities: [language]
-    tags: [rationale, self-training, reasoning]
-    key_idea: Trains models to generate useful internal rationales at arbitrary positions in ordinary text.
-    url: https://arxiv.org/abs/2403.09629
-
-  - id: arxiv:2405.14734
-    title: "SimPO: Simple Preference Optimization with a Reference-Free Reward"
-    date: 2024-05-23
-    direction: preference-alignment
-    modalities: [language]
-    tags: [reference-free, preference-optimization, simpo]
-    key_idea: Uses average response log probability as an implicit reward and removes the reference model from preference optimization.
-    url: https://arxiv.org/abs/2405.14734
-
-  - id: arxiv:2501.12948
-    title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
-    date: 2025-01-22
-    direction: reinforcement-learning
-    modalities: [language, reasoning]
-    tags: [rlvr, grpo, reasoning, distillation]
-    key_idea: Demonstrates that large-scale reinforcement learning with verifiable rewards can elicit and improve long-form reasoning.
-    url: https://arxiv.org/abs/2501.12948
+- id: arxiv:2608.16333
+  title: 'Step-Level On-Policy Distillation: Interpolating Between On-Policy Distillation and Supervised Fine-Tuning'
+  date: 2026-08-17
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-distillation
+  - step-level-guidance
+  - sft
+  - long-horizon
+  key_idea: Corrects student trajectories at the step level, yielding a continuum between supervised fine-tuning and fully
+    on-policy distillation for interactive agents.
+  url: https://arxiv.org/abs/2608.16333
+  authors:
+  - Changhui Sun
+  - Lanbo Liu
+  - Hang Lei
+  - Tong Ling
+  - Jiahang Xie
+  - Zhiyong Zheng
+  - Yujia Wang
+  - Hao Liu
+  - Feng Xiao
+  - Lu Liu
+  - Yanlong Du
+  - Zifeng Cheng
+  - Ziwei Jiang
+  - Qing Gu
+  author_source: arxiv
+- id: arxiv:2608.14277
+  title: 'SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning'
+  date: 2026-08-14
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - tokenizer-alignment
+  - long-context
+  - reasoning
+  key_idea: Aligns shared text spans across mismatched teacher and student tokenizers while stabilizing long-context distillation
+    with reference regularization and termination masking.
+  url: https://arxiv.org/abs/2608.14277
+  authors:
+  - Haonan He
+  - Haodi Lei
+  - Yun Luo
+  - Haoran Zhang
+  - Shunkai Zhang
+  - Yizhuo Li
+  - Shengji Tang
+  - Zhilin Wang
+  - Runzhe Zhan
+  - Lei Bai
+  - Ganqu Cui
+  - Fangchen Yu
+  - Yafu Li
+  - Peng Ye
+  - Ning Ding
+  - Yu Cheng
+  author_source: arxiv
+  institutions:
+  - University of Macau
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2608.05987
+  title: 'AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning'
+  date: 2026-08-06
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-self-distillation
+  - agentic-rl
+  - temporal-credit
+  - multi-turn
+  key_idea: Recursively aggregates teacher-student token evidence into turn-level Bayesian credit signals for long-horizon
+    agent training without a separate critic or extra rollouts.
+  url: https://arxiv.org/abs/2608.05987
+  code: https://github.com/ZethWang/AgentOPSD
+  authors:
+  - Zi-Han Wang
+  - Zhengxi Lu
+  - Zhiyuan Yao
+  - Jinyang Wu
+  - Jie Wu
+  - Zhengzhou Cai
+  - Yueqing Sun
+  - Ziang Ye
+  - Linji Hao
+  - Qi Gu
+  - Xunliang Cai
+  - Yongliang Shen
+  - Yujiu Yang
+  author_source: arxiv
+- id: arxiv:2607.29494
+  title: 'Adaptive FastOPD: Progress-Aware Rollout Horizon Expansion for Efficient On-Policy Distillation'
+  date: 2026-07-31
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-distillation
+  - adaptive-horizon
+  - efficiency
+  - multi-turn
+  key_idea: Expands the student rollout horizon only when learning at the current boundary plateaus, reducing wasted long-horizon
+    sampling.
+  url: https://arxiv.org/abs/2607.29494
+  authors:
+  - Qian Tan
+  - Huaifei Liang
+  - Xuanyu Zhu
+  - Lei Jiang
+  - Yuqiang Li
+  author_source: arxiv
+- id: arxiv:2607.14777
+  title: 'SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning'
+  date: 2026-07-16
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-distillation
+  - skill-evolution
+  - hindsight
+  - agentic-rl
+  key_idea: Converts completed on-policy trajectories into evolving hindsight skills and jointly distills their token-level
+    guidance with outcome reinforcement learning.
+  url: https://arxiv.org/abs/2607.14777
+  code: https://github.com/jinyangwu/SEED
+  authors:
+  - Jinyang Wu
+  - Shuo Yang
+  - Zhengxi Lu
+  - Fan Zhang
+  - Yuhao Shen
+  - Lang Feng
+  - Haoran Luo
+  - Zheng Lian
+  - Shuai Zhang
+  - Zhengqi Wen
+  - Jianhua Tao
+  author_source: arxiv
+- id: arxiv:2607.13399
+  title: 'Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations'
+  date: 2026-07-15
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - failure-analysis
+  - regularization
+  - exploration
+  key_idea: Frames on-policy distillation as an exploration catalyst, diagnoses teacher-student mismatch and length exploitation,
+    and studies clipping and log-compression controls.
+  url: https://arxiv.org/abs/2607.13399
+  authors:
+  - Rui Wang
+  - Hongru Wang
+  - Yi Chen
+  - Boyang Xue
+  - Tianqing Fang
+  - Wenhao Yu
+  - Kam-Fai Wong
+  author_source: arxiv
+  institutions:
+  - Tencent AI Lab
+  - The Chinese University of Hong Kong, University of Edinburgh
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2607.05804
+  title: 'TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training'
+  date: 2026-07-07
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-distillation
+  - turn-aware
+  - rollout-budgeting
+  - long-horizon
+  key_idea: Combines adaptive rollout-depth budgeting with a progressive turn-normalized loss to focus learning on useful
+    parts of long agent trajectories.
+  url: https://arxiv.org/abs/2607.05804
+  authors:
+  - Yuhang Zhou
+  - Kai Zheng
+  - Haoling Li
+  - Dengyun Peng
+  - Can Xu
+  - Jingjing Chen
+  author_source: arxiv
+  institutions:
+  - Microsoft
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2606.26790
+  title: 'OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning'
+  date: 2026-06-25
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-distillation
+  - skill-distillation
+  - hindsight
+  - agentic-rl
+  key_idea: Extracts hierarchical hindsight skills from completed student trajectories and combines skill-conditioned token
+    guidance with outcome-based reinforcement learning.
+  url: https://arxiv.org/abs/2606.26790
+  authors:
+  - Shuo Yang
+  - Jinyang Wu
+  - Zhengxi Lu
+  - Yuhao Shen
+  - Fan Zhang
+  - Lang Feng
+  - Shuai Zhang
+  - Haoran Luo
+  - Zheng Lian
+  - Zhengqi Wen
+  - Jianhua Tao
+  author_source: arxiv
+- id: arxiv:2606.17628
+  title: 'OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation'
+  date: 2026-06-16
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-distillation
+  - memory
+  - experience-evolution
+  - agent
+  key_idea: Couples fast hierarchical memory evolution with a slow privileged-hindsight distillation loop so an agent internalizes
+    how to select, use, write, and maintain experience.
+  url: https://arxiv.org/abs/2606.17628
+  code: https://github.com/bingreeky/opd-evolver
+  authors:
+  - Guibin Zhang
+  - Xun Xu
+  - Yanwei Yue
+  - Zikun Su
+  - Wangchunshu Zhou
+  - Xiaobin Hu
+  - Shuicheng Yan
+  author_source: arxiv
+- id: arxiv:2606.15912
+  title: On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents
+  date: 2026-06-14
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-distillation
+  - curriculum
+  - turn-level-guidance
+  - multi-turn
+  key_idea: Mixes teacher- and student-generated turns, then gradually removes teacher intervention as the agent becomes capable
+    of completing longer trajectories independently.
+  url: https://arxiv.org/abs/2606.15912
+  authors:
+  - Gengsheng Li
+  - Mao Zheng
+  - Mingyang Song
+  - Ruiqi Liu
+  - Tianyu Yang
+  - Jie Sun
+  - Qiyong Zhong
+  - Haiyun Guo
+  - Junfeng Fang
+  - Dan Zhang
+  - Jinqiao Wang
+  author_source: arxiv
+- id: arxiv:2606.01249
+  title: Trust Region On-Policy Distillation
+  date: 2026-05-31
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - trust-region
+  - clipping
+  - stability
+  key_idea: Restricts distillation to reliable teacher regions using clipping, masking, and forward-KL controls, with optional
+    off-policy guidance outside the trust region.
+  url: https://arxiv.org/abs/2606.01249
+  authors:
+  - Xingrun Xing
+  - Haoqing Wang
+  - Boyan Gao
+  - Ziheng Li
+  - Yehui Tang
+  author_source: arxiv
+- id: arxiv:2605.21606
+  title: When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning
+  date: 2026-05-20
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-self-distillation
+  - token-reliability
+  - position-weighting
+  - reasoning
+  key_idea: Models teacher-token reliability as position-dependent and increases supervision weight across a generated reasoning
+    trajectory.
+  url: https://arxiv.org/abs/2605.21606
+  code: https://github.com/SaFo-Lab/PW-OPSD
+  authors:
+  - Xiaogeng Liu
+  - Xinyan Wang
+  - Yingzi Ma
+  - Yechao Zhang
+  - Chaowei Xiao
+  author_source: arxiv
+- id: arxiv:2605.11739
+  title: 'Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation'
+  date: 2026-05-12
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - efficiency
+  - update-extrapolation
+  - analysis
+  key_idea: Studies why distillation updates anticipate later optimization directions and exploits that structure to extrapolate
+    updates and accelerate training.
+  url: https://arxiv.org/abs/2605.11739
+  authors:
+  - Yuchen Cai
+  - Ding Cao
+  - Liang Lin
+  - Chunxi Luo
+  - Xin Xu
+  - Kai Yang
+  - Weijie Liu
+  - Saiyong Yang
+  - Tianxiang Zhao
+  - Guangzhong Sun
+  - Guiquan Liu
+  - Junfeng Fang
+  author_source: arxiv
+- id: arxiv:2605.09725
+  title: On-Policy Distillation with Best-of-N Teacher Rollout Selection
+  date: 2026-05-10
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - best-of-n
+  - rollout-selection
+  - teacher-quality
+  key_idea: Selects among multiple teacher rollouts before supervising the student to reduce the effect of incorrect or high-variance
+    teacher trajectories.
+  url: https://arxiv.org/abs/2605.09725
+  authors:
+  - Ke Zhang
+  - Yunjie Tian
+  - Dongdi Zhao
+  - Yijiang Li
+  - Yuanye Liu
+  - Vishal M Patel
+  - Di Fu
+  author_source: arxiv
+- id: arxiv:2605.01347
+  title: 'MAD-OPD: Breaking the Ceiling in On-Policy Distillation via Multi-Agent Debate'
+  date: 2026-05-02
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - multi-agent-debate
+  - teacher-ensemble
+  - agent
+  key_idea: Replaces a single teacher with a multi-agent debate collective and uses step-level sampling to provide stronger
+    supervision for agentic trajectories.
+  url: https://arxiv.org/abs/2605.01347
+  authors:
+  - Jianze Wang
+  - Ying Liu
+  - Jinlong Chen
+  - Xuchun Hu
+  - Qilong Zhang
+  - Yu Cao
+  - Jun Wang
+  - Hua Yang
+  - Yong Xie
+  - Qianglong Chen
+  author_source: arxiv
+- id: arxiv:2604.24005
+  title: 'TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents'
+  date: 2026-04-27
+  direction: distillation
+  modalities:
+  - language
+  - agent
+  tags:
+  - on-policy-distillation
+  - temporal-curriculum
+  - multi-turn
+  - agent
+  key_idea: Progressively expands trajectory depth to control compounding turn errors and stabilize trajectory-level divergence
+    optimization in autonomous agents.
+  url: https://arxiv.org/abs/2604.24005
+  code: https://github.com/kokolerk/TCOD
+  authors:
+  - Jiaqi Wang
+  - Wenhao Zhang
+  - Weijie Shi
+  - Yaliang Li
+  - James Cheng
+  author_source: arxiv
+- id: arxiv:2604.13016
+  title: 'Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe'
+  date: 2026-04-14
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - teacher-student-compatibility
+  - cold-start
+  - analysis
+  key_idea: Identifies compatible reasoning styles and genuinely novel teacher capability as key success conditions, then
+    derives prompt-selection and off-policy cold-start recipes.
+  url: https://arxiv.org/abs/2604.13016
+  authors:
+  - Yaxuan Li
+  - Yuxin Zuo
+  - Bingxiang He
+  - Jinqian Zhang
+  - Chaojun Xiao
+  - Cheng Qian
+  - Tianyu Yu
+  - Huan-ang Gao
+  - Wenkai Yang
+  - Zhiyuan Liu
+  - Ning Ding
+  author_source: arxiv
+  institutions:
+  - Tsinghua University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2604.00626
+  title: A Survey of On-Policy Distillation for Large Language Models
+  date: 2026-04-01
+  direction: distillation
+  modalities:
+  - language
+  tags:
+  - on-policy-distillation
+  - survey
+  - taxonomy
+  - knowledge-distillation
+  key_idea: Organizes on-policy distillation by feedback signal, teacher access, and loss granularity under a unified divergence-based
+    view.
+  url: https://arxiv.org/abs/2604.00626
+  authors:
+  - Mingyang Song
+  - Mao Zheng
+  author_source: arxiv
+- id: arxiv:2603.25562
+  title: 'Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes'
+  date: 2026-03-26
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - failure-analysis
+  - support-matching
+  - stability
+  key_idea: Diagnoses sampled-token distillation failures and evaluates top-K local support matching, top-p rollouts, and
+    special-token masking as simple remedies.
+  url: https://arxiv.org/abs/2603.25562
+  authors:
+  - Yuqian Fu
+  - Haohuan Huang
+  - Kaiwen Jiang
+  - Jiacai Liu
+  - Zhuo Jiang
+  - Yuanheng Zhu
+  - Dongbin Zhao
+  author_source: arxiv
+  institutions:
+  - UCAS
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2603.11137
+  title: Scaling Reasoning Efficiently via Relaxed On-Policy Distillation
+  date: 2026-03-11
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - reward-clipping
+  - entropy-sampling
+  - efficiency
+  key_idea: Interprets distillation as policy optimization and relaxes it through mixture-based reward clipping, entropy-aware
+    token sampling, and staged exploration and refinement.
+  url: https://arxiv.org/abs/2603.11137
+  authors:
+  - Jongwoo Ko
+  - Sara Abdali
+  - Young Jin Kim
+  - Tianyi Chen
+  - Pashmina Cameron
+  author_source: arxiv
+- id: arxiv:2603.07079
+  title: Entropy-Aware On-Policy Distillation of Language Models
+  date: 2026-03-07
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - entropy
+  - forward-kl
+  - reverse-kl
+  key_idea: Uses reverse KL on confident teacher tokens and adds forward-KL supervision under high teacher uncertainty to
+    preserve useful output diversity.
+  url: https://arxiv.org/abs/2603.07079
+  authors:
+  - Woogyeol Jin
+  - Taywon Min
+  - Yongjin Yang
+  - Dennis Wei
+  - Yi Zhou
+  - Swanand Ravindra Kadhe
+  - Nathalie Baracaldo
+  - Kimin Lee
+  author_source: arxiv
+- id: arxiv:2601.18734
+  title: 'Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models'
+  date: 2026-01-26
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-self-distillation
+  - privileged-information
+  - reasoning
+  - token-level
+  key_idea: Uses one model as both privileged-trace teacher and question-only student, matching their token distributions
+    along student-generated reasoning trajectories.
+  url: https://arxiv.org/abs/2601.18734
+  authors:
+  - Siyan Zhao
+  - Zhihui Xie
+  - Mengchen Liu
+  - Jing Huang
+  - Guan Pang
+  - Feiyu Chen
+  - Aditya Grover
+  author_source: arxiv
+- id: arxiv:2604.28123
+  title: 'Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL'
+  date: 2026-04-30
+  direction: distillation
+  modalities:
+  - vision-language
+  - multimodal-reasoning
+  tags:
+  - on-policy-distillation
+  - distribution-alignment
+  - rlvr
+  - mixture-of-experts
+  key_idea: Inserts a black-box response-level distribution-alignment stage between SFT and RLVR using specialized perception
+    and reasoning discriminators.
+  url: https://arxiv.org/abs/2604.28123
+  code: https://github.com/XIAO4579/PRISM
+  authors:
+  - Sudong Wang
+  - Weiquan Huang
+  - Xiaomin Yu
+  - Zuhao Yang
+  - Hehai Lin
+  - Keming Wu
+  - Chaojun Xiao
+  - Chen Chen
+  - Wenxuan Wang
+  - Beier Zhu
+  - Yunjian Zhang
+  - Chengwei Qin
+  author_source: arxiv
+- id: arxiv:1707.06347
+  title: Proximal Policy Optimization Algorithms
+  date: 2017-07-20
+  direction: reinforcement-learning
+  modalities:
+  - general
+  tags:
+  - policy-optimization
+  - on-policy
+  - ppo
+  key_idea: Introduces a clipped surrogate objective that makes policy-gradient updates simpler and more stable.
+  url: https://arxiv.org/abs/1707.06347
+  authors:
+  - John Schulman
+  - Filip Wolski
+  - Prafulla Dhariwal
+  - Alec Radford
+  - Oleg Klimov
+  author_source: arxiv
+- id: arxiv:2112.09332
+  title: 'WebGPT: Browser-assisted question-answering with human feedback'
+  date: 2021-12-17
+  direction: agentic
+  modalities:
+  - language
+  - web-agent
+  tags:
+  - tool-use
+  - browsing
+  - imitation-learning
+  - reward-modeling
+  key_idea: Trains a language model to browse the web and answer with citations using demonstrations and human preference
+    feedback.
+  url: https://arxiv.org/abs/2112.09332
+  authors:
+  - Reiichiro Nakano
+  - Jacob Hilton
+  - Suchir Balaji
+  - Jeff Wu
+  - Long Ouyang
+  - Christina Kim
+  - Christopher Hesse
+  - Shantanu Jain
+  - Vineet Kosaraju
+  - William Saunders
+  - Xu Jiang
+  - Karl Cobbe
+  - Tyna Eloundou
+  - Gretchen Krueger
+  - Kevin Button
+  - Matthew Knight
+  - Benjamin Chess
+  - John Schulman
+  author_source: arxiv
+- id: arxiv:2203.02155
+  title: Training language models to follow instructions with human feedback
+  date: 2022-03-04
+  direction: preference-alignment
+  modalities:
+  - language
+  tags:
+  - sft
+  - reward-modeling
+  - rlhf
+  - ppo
+  key_idea: Establishes the SFT-to-reward-model-to-RLHF pipeline for aligning language models with human intent.
+  url: https://arxiv.org/abs/2203.02155
+  authors:
+  - Long Ouyang
+  - Jeff Wu
+  - Xu Jiang
+  - Diogo Almeida
+  - Carroll L. Wainwright
+  - Pamela Mishkin
+  - Chong Zhang
+  - Sandhini Agarwal
+  - Katarina Slama
+  - Alex Ray
+  - John Schulman
+  - Jacob Hilton
+  - Fraser Kelton
+  - Luke Miller
+  - Maddie Simens
+  - Amanda Askell
+  - Peter Welinder
+  - Paul Christiano
+  - Jan Leike
+  - Ryan Lowe
+  author_source: arxiv
+- id: arxiv:2203.14465
+  title: 'STaR: Bootstrapping Reasoning With Reasoning'
+  date: 2022-03-28
+  direction: reasoning-self-improvement
+  modalities:
+  - language
+  tags:
+  - rationale
+  - bootstrapping
+  - self-training
+  key_idea: Iteratively trains on rationales that lead to correct answers and regenerates rationales for failed examples.
+  url: https://arxiv.org/abs/2203.14465
+  authors:
+  - Eric Zelikman
+  - Yuhuai Wu
+  - Jesse Mu
+  - Noah D. Goodman
+  author_source: arxiv
+- id: arxiv:2212.08073
+  title: 'Constitutional AI: Harmlessness from AI Feedback'
+  date: 2022-12-15
+  direction: preference-alignment
+  modalities:
+  - language
+  tags:
+  - rlaif
+  - critique
+  - revision
+  - constitutional-ai
+  key_idea: Uses written principles and model-generated critiques to reduce dependence on direct human harmlessness labels.
+  url: https://arxiv.org/abs/2212.08073
+  authors:
+  - Yuntao Bai
+  - Saurav Kadavath
+  - Sandipan Kundu
+  - Amanda Askell
+  - Jackson Kernion
+  - Andy Jones
+  - Anna Chen
+  - Anna Goldie
+  - Azalia Mirhoseini
+  - Cameron McKinnon
+  - Carol Chen
+  - Catherine Olsson
+  - Christopher Olah
+  - Danny Hernandez
+  - Dawn Drain
+  - Deep Ganguli
+  - Dustin Li
+  - Eli Tran-Johnson
+  - Ethan Perez
+  - Jamie Kerr
+  - Jared Mueller
+  - Jeffrey Ladish
+  - Joshua Landau
+  - Kamal Ndousse
+  - Kamile Lukosuite
+  - Liane Lovitt
+  - Michael Sellitto
+  - Nelson Elhage
+  - Nicholas Schiefer
+  - Noemi Mercado
+  - Nova DasSarma
+  - Robert Lasenby
+  - Robin Larson
+  - Sam Ringer
+  - Scott Johnston
+  - Shauna Kravec
+  - Sheer El Showk
+  - Stanislav Fort
+  - Tamera Lanham
+  - Timothy Telleen-Lawton
+  - Tom Conerly
+  - Tom Henighan
+  - Tristan Hume
+  - Samuel R. Bowman
+  - Zac Hatfield-Dodds
+  - Ben Mann
+  - Dario Amodei
+  - Nicholas Joseph
+  - Sam McCandlish
+  - Tom Brown
+  - Jared Kaplan
+  author_source: arxiv
+  institutions:
+  - Anthropic
+  - NYU
+  - OpenAI
+  - Stanford University
+  - UC Berkeley
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2212.10560
+  title: 'Self-Instruct: Aligning Language Models with Self-Generated Instructions'
+  date: 2022-12-20
+  direction: supervised-adaptation
+  modalities:
+  - language
+  tags:
+  - synthetic-data
+  - instruction-tuning
+  - self-generation
+  key_idea: Bootstraps diverse instruction-following data from a model using filtering before supervised fine-tuning.
+  url: https://arxiv.org/abs/2212.10560
+  authors:
+  - Yizhong Wang
+  - Yeganeh Kordi
+  - Swaroop Mishra
+  - Alisa Liu
+  - Noah A. Smith
+  - Daniel Khashabi
+  - Hannaneh Hajishirzi
+  author_source: arxiv
+  institutions:
+  - Allen Institute for AI
+  - Arizona State University
+  - Johns Hopkins University
+  - Northwestern University
+  - University of Washington
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2302.04761
+  title: 'Toolformer: Language Models Can Teach Themselves to Use Tools'
+  date: 2023-02-09
+  direction: agentic
+  modalities:
+  - language
+  - tool-agent
+  tags:
+  - tool-use
+  - self-supervision
+  - api
+  key_idea: Lets a model generate and filter its own API-call demonstrations, then learns when and how to invoke tools.
+  url: https://arxiv.org/abs/2302.04761
+  authors:
+  - Timo Schick
+  - Jane Dwivedi-Yu
+  - Roberto Dessì
+  - Roberta Raileanu
+  - Maria Lomeli
+  - Luke Zettlemoyer
+  - Nicola Cancedda
+  - Thomas Scialom
+  author_source: arxiv
+  institutions:
+  - FAIR
+  - Facebook
+  - University of Washington
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2304.08485
+  title: Visual Instruction Tuning
+  date: 2023-04-17
+  direction: multimodal
+  modalities:
+  - vision-language
+  tags:
+  - instruction-tuning
+  - synthetic-data
+  - vlm
+  key_idea: Uses language-model-generated visual instruction data to adapt a vision-language assistant end to end.
+  url: https://arxiv.org/abs/2304.08485
+  authors:
+  - Haotian Liu
+  - Chunyuan Li
+  - Qingyang Wu
+  - Yong Jae Lee
+  author_source: arxiv
+  institutions:
+  - Columbia University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2305.13301
+  title: Training Diffusion Models with Reinforcement Learning
+  date: 2023-05-22
+  direction: generative-media
+  modalities:
+  - image-generation
+  tags:
+  - diffusion
+  - reinforcement-learning
+  - ddpo
+  key_idea: Treats diffusion denoising as a multi-step decision process so image generators can optimize downstream rewards
+    directly.
+  url: https://arxiv.org/abs/2305.13301
+  authors:
+  - Kevin Black
+  - Michael Janner
+  - Yilun Du
+  - Ilya Kostrikov
+  - Sergey Levine
+  author_source: arxiv
+  institutions:
+  - MIT
+  - University of California, Berkeley
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2305.18290
+  title: 'Direct Preference Optimization: Your Language Model is Secretly a Reward Model'
+  date: 2023-05-29
+  direction: preference-alignment
+  modalities:
+  - language
+  tags:
+  - offline
+  - pairwise-preference
+  - dpo
+  key_idea: Converts the RLHF objective into a direct classification-style loss over preferred and rejected responses.
+  url: https://arxiv.org/abs/2305.18290
+  authors:
+  - Rafael Rafailov
+  - Archit Sharma
+  - Eric Mitchell
+  - Stefano Ermon
+  - Christopher D. Manning
+  - Chelsea Finn
+  author_source: arxiv
+  institutions:
+  - Google
+  - Stanford
+  - Stanford University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2305.20050
+  title: Let's Verify Step by Step
+  date: 2023-05-31
+  direction: reward-verifiers
+  modalities:
+  - language
+  - math
+  tags:
+  - process-reward-model
+  - verifier
+  - reasoning
+  key_idea: Shows that supervising intermediate reasoning steps can outperform outcome-only reward supervision for mathematical
+    reasoning.
+  url: https://arxiv.org/abs/2305.20050
+  authors:
+  - Hunter Lightman
+  - Vineet Kosaraju
+  - Yura Burda
+  - Harri Edwards
+  - Bowen Baker
+  - Teddy Lee
+  - Jan Leike
+  - John Schulman
+  - Ilya Sutskever
+  - Karl Cobbe
+  author_source: arxiv
+- id: arxiv:2307.15818
+  title: 'RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control'
+  date: 2023-07-28
+  direction: embodied-vla
+  modalities:
+  - vision-language-action
+  - robotics
+  tags:
+  - vla
+  - co-fine-tuning
+  - embodied
+  key_idea: Co-fine-tunes web-scale vision-language knowledge and robot trajectories by expressing actions as tokens.
+  url: https://arxiv.org/abs/2307.15818
+  authors:
+  - Anthony Brohan
+  - Noah Brown
+  - Justice Carbajal
+  - Yevgen Chebotar
+  - Xi Chen
+  - Krzysztof Choromanski
+  - Tianli Ding
+  - Danny Driess
+  - Avinava Dubey
+  - Chelsea Finn
+  - Pete Florence
+  - Chuyuan Fu
+  - Montse Gonzalez Arenas
+  - Keerthana Gopalakrishnan
+  - Kehang Han
+  - Karol Hausman
+  - Alexander Herzog
+  - Jasmine Hsu
+  - Brian Ichter
+  - Alex Irpan
+  - Nikhil Joshi
+  - Ryan Julian
+  - Dmitry Kalashnikov
+  - Yuheng Kuang
+  - Isabel Leal
+  - Lisa Lee
+  - Tsang-Wei Edward Lee
+  - Sergey Levine
+  - Yao Lu
+  - Henryk Michalewski
+  - Igor Mordatch
+  - Karl Pertsch
+  - Kanishka Rao
+  - Krista Reymann
+  - Michael Ryoo
+  - Grecia Salazar
+  - Pannag Sanketi
+  - Pierre Sermanet
+  - Jaspiar Singh
+  - Anikait Singh
+  - Radu Soricut
+  - Huong Tran
+  - Vincent Vanhoucke
+  - Quan Vuong
+  - Ayzaan Wahid
+  - Stefan Welker
+  - Paul Wohlhart
+  - Jialin Wu
+  - Fei Xia
+  - Ted Xiao
+  - Peng Xu
+  - Sichun Xu
+  - Tianhe Yu
+  - Brianna Zitkovich
+  author_source: arxiv
+  institutions:
+  - Google
+  - Stanford
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2309.14525
+  title: 'LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF'
+  date: 2023-09-25
+  direction: multimodal
+  modalities:
+  - vision-language
+  tags:
+  - rlhf
+  - hallucination
+  - multimodal-alignment
+  key_idea: Adds factually grounded preference feedback and RLHF to improve multimodal helpfulness and reduce hallucination.
+  url: https://arxiv.org/abs/2309.14525
+  authors:
+  - Zhiqing Sun
+  - Sheng Shen
+  - Shengcao Cao
+  - Haotian Liu
+  - Chunyuan Li
+  - Yikang Shen
+  - Chuang Gan
+  - Liang-Yan Gui
+  - Yu-Xiong Wang
+  - Yiming Yang
+  - Kurt Keutzer
+  - Trevor Darrell
+  author_source: arxiv
+  institutions:
+  - Carnegie Mellon University
+  - University of California, Berkeley
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2310.01377
+  title: 'UltraFeedback: Boosting Language Models with Scaled AI Feedback'
+  date: 2023-10-02
+  direction: supervised-adaptation
+  modalities:
+  - language
+  tags:
+  - ai-feedback
+  - preference-data
+  - synthetic-data
+  key_idea: Builds large-scale fine-grained preference data by having strong models critique and score multiple responses.
+  url: https://arxiv.org/abs/2310.01377
+  authors:
+  - Ganqu Cui
+  - Lifan Yuan
+  - Ning Ding
+  - Guanming Yao
+  - Bingxiang He
+  - Wei Zhu
+  - Yuan Ni
+  - Guotong Xie
+  - Ruobing Xie
+  - Yankai Lin
+  - Zhiyuan Liu
+  - Maosong Sun
+  author_source: arxiv
+  institutions:
+  - University of Illinois Urbana-Champaign
+  - Wechat AI, Tencent Inc.
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2311.12908
+  title: Diffusion Model Alignment Using Direct Preference Optimization
+  date: 2023-11-22
+  direction: generative-media
+  modalities:
+  - image-generation
+  tags:
+  - diffusion
+  - preference-optimization
+  - dpo
+  key_idea: Adapts direct preference optimization to diffusion likelihoods to align image generation without a learned reward
+    model.
+  url: https://arxiv.org/abs/2311.12908
+  authors:
+  - Bram Wallace
+  - Meihua Dang
+  - Rafael Rafailov
+  - Linqi Zhou
+  - Aaron Lou
+  - Senthil Purushwalkam
+  - Stefano Ermon
+  - Caiming Xiong
+  - Shafiq Joty
+  - Nikhil Naik
+  author_source: arxiv
+- id: arxiv:2401.10020
+  title: Self-Rewarding Language Models
+  date: 2024-01-18
+  direction: reasoning-self-improvement
+  modalities:
+  - language
+  tags:
+  - self-reward
+  - iterative-dpo
+  - llm-as-a-judge
+  key_idea: Iteratively uses the model itself as an instruction follower and judge to create preference data for further training.
+  url: https://arxiv.org/abs/2401.10020
+  authors:
+  - Weizhe Yuan
+  - Richard Yuanzhe Pang
+  - Kyunghyun Cho
+  - Xian Li
+  - Sainbayar Sukhbaatar
+  - Jing Xu
+  - Jason Weston
+  author_source: arxiv
+  institutions:
+  - Meta AI
+  - New York University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2402.01306
+  title: 'KTO: Model Alignment as Prospect Theoretic Optimization'
+  date: 2024-02-02
+  direction: preference-alignment
+  modalities:
+  - language
+  tags:
+  - binary-feedback
+  - offline
+  - kto
+  key_idea: Learns from unpaired desirable and undesirable examples using a prospect-theoretic utility objective.
+  url: https://arxiv.org/abs/2402.01306
+  authors:
+  - Kawin Ethayarajh
+  - Winnie Xu
+  - Niklas Muennighoff
+  - Dan Jurafsky
+  - Douwe Kiela
+  author_source: arxiv
+- id: arxiv:2402.03300
+  title: 'DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models'
+  date: 2024-02-05
+  direction: reinforcement-learning
+  modalities:
+  - language
+  - math
+  tags:
+  - grpo
+  - mathematical-reasoning
+  - reinforcement-learning
+  key_idea: Introduces Group Relative Policy Optimization to improve mathematical reasoning without a separate critic model.
+  url: https://arxiv.org/abs/2402.03300
+  authors:
+  - Zhihong Shao
+  - Peiyi Wang
+  - Qihao Zhu
+  - Runxin Xu
+  - Junxiao Song
+  - Xiao Bi
+  - Haowei Zhang
+  - Mingchuan Zhang
+  - Y. K. Li
+  - Y. Wu
+  - Daya Guo
+  author_source: arxiv
+  institutions:
+  - DeepSeek AI
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2403.09629
+  title: 'Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking'
+  date: 2024-03-14
+  direction: reasoning-self-improvement
+  modalities:
+  - language
+  tags:
+  - rationale
+  - self-training
+  - reasoning
+  key_idea: Trains models to generate useful internal rationales at arbitrary positions in ordinary text.
+  url: https://arxiv.org/abs/2403.09629
+  authors:
+  - Eric Zelikman
+  - Georges Harik
+  - Yijia Shao
+  - Varuna Jayasiri
+  - Nick Haber
+  - Noah D. Goodman
+  author_source: arxiv
+  institutions:
+  - Stanford University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2405.14734
+  title: 'SimPO: Simple Preference Optimization with a Reference-Free Reward'
+  date: 2024-05-23
+  direction: preference-alignment
+  modalities:
+  - language
+  tags:
+  - reference-free
+  - preference-optimization
+  - simpo
+  key_idea: Uses average response log probability as an implicit reward and removes the reference model from preference optimization.
+  url: https://arxiv.org/abs/2405.14734
+  authors:
+  - Yu Meng
+  - Mengzhou Xia
+  - Danqi Chen
+  author_source: arxiv
+  institutions:
+  - Princeton University
+  - University of Virginia
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+- id: arxiv:2501.12948
+  title: 'DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning'
+  date: 2025-01-22
+  direction: reinforcement-learning
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - rlvr
+  - grpo
+  - reasoning
+  - distillation
+  key_idea: Demonstrates that large-scale reinforcement learning with verifiable rewards can elicit and improve long-form
+    reasoning.
+  url: https://arxiv.org/abs/2501.12948
+  authors:
+  - ' DeepSeek-AI'
+  - Daya Guo
+  - Dejian Yang
+  - Haowei Zhang
+  - Junxiao Song
+  - Peiyi Wang
+  - Qihao Zhu
+  - Runxin Xu
+  - Ruoyu Zhang
+  - Shirong Ma
+  - Xiao Bi
+  - Xiaokang Zhang
+  - Xingkai Yu
+  - Yu Wu
+  - Z. F. Wu
+  - Zhibin Gou
+  - Zhihong Shao
+  - Zhuoshu Li
+  - Ziyi Gao
+  - Aixin Liu
+  - Bing Xue
+  - Bingxuan Wang
+  - Bochao Wu
+  - Bei Feng
+  - Chengda Lu
+  - Chenggang Zhao
+  - Chengqi Deng
+  - Chenyu Zhang
+  - Chong Ruan
+  - Damai Dai
+  - Deli Chen
+  - Dongjie Ji
+  - Erhang Li
+  - Fangyun Lin
+  - Fucong Dai
+  - Fuli Luo
+  - Guangbo Hao
+  - Guanting Chen
+  - Guowei Li
+  - H. Zhang
+  - Han Bao
+  - Hanwei Xu
+  - Haocheng Wang
+  - Honghui Ding
+  - Huajian Xin
+  - Huazuo Gao
+  - Hui Qu
+  - Hui Li
+  - Jianzhong Guo
+  - Jiashi Li
+  - Jiawei Wang
+  - Jingchang Chen
+  - Jingyang Yuan
+  - Junjie Qiu
+  - Junlong Li
+  - J. L. Cai
+  - Jiaqi Ni
+  - Jian Liang
+  - Jin Chen
+  - Kai Dong
+  - Kai Hu
+  - Kaige Gao
+  - Kang Guan
+  - Kexin Huang
+  - Kuai Yu
+  - Lean Wang
+  - Lecong Zhang
+  - Liang Zhao
+  - Litong Wang
+  - Liyue Zhang
+  - Lei Xu
+  - Leyi Xia
+  - Mingchuan Zhang
+  - Minghua Zhang
+  - Minghui Tang
+  - Meng Li
+  - Miaojun Wang
+  - Mingming Li
+  - Ning Tian
+  - Panpan Huang
+  - Peng Zhang
+  - Qiancheng Wang
+  - Qinyu Chen
+  - Qiushi Du
+  - Ruiqi Ge
+  - Ruisong Zhang
+  - Ruizhe Pan
+  - Runji Wang
+  - R. J. Chen
+  - R. L. Jin
+  - Ruyi Chen
+  - Shanghao Lu
+  - Shangyan Zhou
+  - Shanhuang Chen
+  - Shengfeng Ye
+  - Shiyu Wang
+  - Shuiping Yu
+  - Shunfeng Zhou
+  - Shuting Pan
+  - S. S. Li
+  - Shuang Zhou
+  - Shaoqing Wu
+  - Shengfeng Ye
+  - Tao Yun
+  - Tian Pei
+  - Tianyu Sun
+  - T. Wang
+  - Wangding Zeng
+  - Wanjia Zhao
+  - Wen Liu
+  - Wenfeng Liang
+  - Wenjun Gao
+  - Wenqin Yu
+  - Wentao Zhang
+  - W. L. Xiao
+  - Wei An
+  - Xiaodong Liu
+  - Xiaohan Wang
+  - Xiaokang Chen
+  - Xiaotao Nie
+  - Xin Cheng
+  - Xin Liu
+  - Xin Xie
+  - Xingchao Liu
+  - Xinyu Yang
+  - Xinyuan Li
+  - Xuecheng Su
+  - Xuheng Lin
+  - X. Q. Li
+  - Xiangyue Jin
+  - Xiaojin Shen
+  - Xiaosha Chen
+  - Xiaowen Sun
+  - Xiaoxiang Wang
+  - Xinnan Song
+  - Xinyi Zhou
+  - Xianzu Wang
+  - Xinxia Shan
+  - Y. K. Li
+  - Y. Q. Wang
+  - Y. X. Wei
+  - Yang Zhang
+  - Yanhong Xu
+  - Yao Li
+  - Yao Zhao
+  - Yaofeng Sun
+  - Yaohui Wang
+  - Yi Yu
+  - Yichao Zhang
+  - Yifan Shi
+  - Yiliang Xiong
+  - Ying He
+  - Yishi Piao
+  - Yisong Wang
+  - Yixuan Tan
+  - Yiyang Ma
+  - Yiyuan Liu
+  - Yongqiang Guo
+  - Yuan Ou
+  - Yuduan Wang
+  - Yue Gong
+  - Yuheng Zou
+  - Yujia He
+  - Yunfan Xiong
+  - Yuxiang Luo
+  - Yuxiang You
+  - Yuxuan Liu
+  - Yuyang Zhou
+  - Y. X. Zhu
+  - Yanhong Xu
+  - Yanping Huang
+  - Yaohui Li
+  - Yi Zheng
+  - Yuchen Zhu
+  - Yunxian Ma
+  - Ying Tang
+  - Yukun Zha
+  - Yuting Yan
+  - Z. Z. Ren
+  - Zehui Ren
+  - Zhangli Sha
+  - Zhe Fu
+  - Zhean Xu
+  - Zhenda Xie
+  - Zhengyan Zhang
+  - Zhewen Hao
+  - Zhicheng Ma
+  - Zhigang Yan
+  - Zhiyu Wu
+  - Zihui Gu
+  - Zijia Zhu
+  - Zijun Liu
+  - Zilin Li
+  - Ziwei Xie
+  - Ziyang Song
+  - Zizheng Pan
+  - Zhen Huang
+  - Zhipeng Xu
+  - Zhongyu Zhang
+  - Zhen Zhang
+  author_source: arxiv
+  institutions:
+  - Stanford University
+  - Tsinghua University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.

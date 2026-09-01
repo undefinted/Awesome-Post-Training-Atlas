@@ -24,6 +24,7 @@ class PaperDataTests(unittest.TestCase):
             self.assertFalse(required - set(paper), paper.get("id"))
             self.assertIn(paper["direction"], self.directions)
             self.assertTrue(str(paper["url"]).startswith("https://"))
+            self.assertTrue(paper.get("authors"), paper["id"])
 
     def test_community_signal_schema(self):
         payload = yaml.safe_load((ROOT / "data" / "community_signals.yaml").read_text(encoding="utf-8"))
@@ -43,6 +44,7 @@ class PaperDataTests(unittest.TestCase):
             direction = paper.get("direction") or paper.get("suggested_direction")
             self.assertIn(direction, self.directions, paper["id"])
             self.assertIn("arxiv", " ".join(paper.get("source_signals", [])).lower(), paper["id"])
+            self.assertTrue(paper.get("authors"), paper["id"])
 
 
 if __name__ == "__main__":

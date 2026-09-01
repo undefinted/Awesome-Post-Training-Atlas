@@ -41,12 +41,12 @@ def render_papers(records: list[dict], year_level: int = 2) -> str:
     sections: list[str] = []
     years = sorted({str(paper["date"])[:4] for paper in records}, reverse=True)
     for year in years:
-        sections.append(f"{'#' * year_level} {year}\n")
+        sections.append(f"<a id=\"{year}\"></a>\n\n{'#' * year_level} {year}\n")
         by_year = [paper for paper in records if str(paper["date"]).startswith(year)]
         months = sorted({str(paper["date"])[5:7] for paper in by_year}, reverse=True)
         for month in months:
             month_name = dt.date(2000, int(month), 1).strftime("%B")
-            sections.append(f"{'#' * (year_level + 1)} {month_name}\n")
+            sections.append(f"<a id=\"{year}-{month}\"></a>\n\n{'#' * (year_level + 1)} {month_name}\n")
             by_month = sorted(
                 [paper for paper in by_year if str(paper["date"])[5:7] == month],
                 key=lambda paper: str(paper["date"]),
@@ -55,16 +55,27 @@ def render_papers(records: list[dict], year_level: int = 2) -> str:
             for paper in by_month:
                 if paper.get("discovery_candidate"):
                     sources = ", ".join(paper.get("source_signals", ["academic-search"]))
+                    authors = ", ".join(paper.get("authors", [])[:8])
+                    if len(paper.get("authors", [])) > 8:
+                        authors += ", et al."
                     sections.append(
                         f"- 🔎 **[{paper['title']}]({paper['url']})** — `discovery candidate`; awaiting primary-paper curation.  \n"
-                        f"  {str(paper['date'])} · `{paper.get('classification_method', 'query-hint')}` · `{sources}`\n"
+                        f"  {str(paper['date'])} · `{paper.get('classification_method', 'query-hint')}` · `{sources}`  \n"
+                        f"  Authors: {authors or 'metadata pending'}\n"
                     )
                 else:
                     tags = " · ".join(f"`{tag}`" for tag in paper.get("tags", []))
                     code = f" · [code]({paper['code']})" if paper.get("code") else ""
+                    authors = ", ".join(paper.get("authors", [])[:8])
+                    if len(paper.get("authors", [])) > 8:
+                        authors += ", et al."
+                    institutions = "; ".join(paper.get("institutions", [])[:5])
                     sections.append(
                         f"- **[{paper['title']}]({paper['url']})** — {paper['key_idea']}  \n"
-                        f"  {str(paper['date'])} · {tags}{code}\n"
+                        f"  {str(paper['date'])} · {tags}{code}  \n"
+                        f"  Authors: {authors or 'metadata pending'}"
+                        + (f"  \n  Institutions*: {institutions}" if institutions else "")
+                        + "\n"
                     )
     return "\n".join(sections).rstrip() + "\n"
 
@@ -73,12 +84,22 @@ def direction_page(direction: dict, records: list[dict]) -> str:
     selected = [paper for paper in records if paper["direction"] == direction["id"]]
     curated_count = sum(not paper.get("discovery_candidate") for paper in selected)
     candidate_count = len(selected) - curated_count
+    years = sorted({str(paper["date"])[:4] for paper in selected}, reverse=True)
+    directory = []
+    for year in years:
+        months = sorted({str(paper["date"])[5:7] for paper in selected if str(paper["date"]).startswith(year)}, reverse=True)
+        month_links = " · ".join(f"[{dt.date(2000, int(month), 1).strftime('%b')}](#{year}-{month})" for month in months)
+        directory.append(f"- [{year}](#{year}) — {month_links}")
     return (
         f"# {direction['title']}\n\n"
         "[← Back to the atlas](../README.md)\n\n"
         f"**{len(selected)} papers**: {curated_count} curated and {candidate_count} academic discovery candidates.\n\n"
         "Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.\n\n"
-        f"{render_papers(selected)}"
+        "*Institution names, when shown, come from Semantic Scholar author profiles and may differ from affiliations at publication time.*\n\n"
+        "## Timeline directory\n\n"
+        + "\n".join(directory)
+        + "\n\n"
+        + render_papers(selected)
     )
 
 
@@ -135,4 +156,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
