@@ -20,6 +20,20 @@ def load_yaml(path: Path):
 def render_index() -> str:
     taxonomy = load_yaml(ROOT / "config" / "taxonomy.yaml")["directions"]
     papers = load_yaml(ROOT / "data" / "papers.yaml")["papers"]
+    candidates_path = ROOT / "data" / "candidates.yaml"
+    candidates = (load_yaml(candidates_path) or {}).get("papers", []) if candidates_path.exists() else []
+    known = {paper["id"].lower() for paper in papers}
+    for candidate in candidates:
+        if candidate["id"].lower() in known:
+            continue
+        candidate = dict(candidate)
+        candidate["direction"] = (
+            candidate.get("direction")
+            or candidate.get("suggested_direction")
+            or (candidate.get("direction_hints") or ["needs-review"])[0]
+        )
+        candidate["discovery_candidate"] = True
+        papers.append(candidate)
     sections: list[str] = []
     for direction in taxonomy:
         selected = [paper for paper in papers if paper["direction"] == direction["id"]]
@@ -40,6 +54,13 @@ def render_index() -> str:
                     reverse=True,
                 )
                 for paper in by_month:
+                    if paper.get("discovery_candidate"):
+                        sources = ", ".join(paper.get("source_signals", ["academic-search"]))
+                        sections.append(
+                            f"- 🔎 **[{paper['title']}]({paper['url']})** — `discovery candidate`; awaiting primary-paper curation.  \n"
+                            f"  {str(paper['date'])} · `{paper.get('classification_method', 'query-hint')}` · `{sources}`\n"
+                        )
+                        continue
                     tags = " · ".join(f"`{tag}`" for tag in paper.get("tags", []))
                     code = f" · [code]({paper['code']})" if paper.get("code") else ""
                     sections.append(
@@ -72,4 +93,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

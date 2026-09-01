@@ -9,11 +9,11 @@ on:
         required: true
       pages_per_query:
         description: arXiv result pages advanced per taxonomy query
-        default: "1"
+        default: "2"
         required: true
       max_new:
         description: Maximum historical candidates to enrich per run
-        default: "180"
+        default: "300"
         required: true
   schedule:
     - cron: "47 3 * * 0"
@@ -37,11 +37,14 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           SINCE: ${{ inputs.since || '2024-01-01' }}
-          PAGES: ${{ inputs.pages_per_query || '1' }}
-          MAX_NEW: ${{ inputs.max_new || '180' }}
+          PAGES: ${{ inputs.pages_per_query || '2' }}
+          MAX_NEW: ${{ inputs.max_new || '300' }}
         run: python -m radar.backfill --since "$SINCE" --pages-per-query "$PAGES" --max-new "$MAX_NEW"
       - name: Validate discovery inventory
-        run: python -m unittest discover -s tests
+        run: |
+          python -m radar.render
+          python -m unittest discover -s tests
+          python -m radar.render --check
       - name: Create backfill pull request
         uses: peter-evans/create-pull-request@v8
         with:
@@ -51,5 +54,5 @@ jobs:
           delete-branch: true
           title: "Radar: weekly historical coverage backfill"
           body: |
-            Direct academic-index historical discovery update. Candidates are balanced across taxonomy directions and require curator review before entering the main atlas.
+            Direct academic-index historical discovery update. Candidates are balanced across taxonomy directions, displayed with a provisional marker in the README, and require curator review before promotion to the curated dataset.
           labels: radar,candidates,backfill

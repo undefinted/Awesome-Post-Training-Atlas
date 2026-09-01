@@ -34,8 +34,15 @@ class PaperDataTests(unittest.TestCase):
 
     def test_candidate_ids_are_unique(self):
         payload = yaml.safe_load((ROOT / "data" / "candidates.yaml").read_text(encoding="utf-8")) or {"papers": []}
-        ids = [paper["id"].lower() for paper in payload.get("papers", [])]
+        candidates = payload.get("papers", [])
+        ids = [paper["id"].lower() for paper in candidates]
         self.assertEqual(len(ids), len(set(ids)))
+        curated_ids = {paper["id"].lower() for paper in self.papers}
+        self.assertFalse(curated_ids & set(ids))
+        for paper in candidates:
+            direction = paper.get("direction") or paper.get("suggested_direction")
+            self.assertIn(direction, self.directions, paper["id"])
+            self.assertIn("arxiv", " ".join(paper.get("source_signals", [])).lower(), paper["id"])
 
 
 if __name__ == "__main__":

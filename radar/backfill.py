@@ -24,6 +24,13 @@ STATE_PATH = ROOT / "data" / "search_cursors.yaml"
 AUDIT_PATH = ROOT / "data" / "search_audit.yaml"
 
 
+def choose_direction(paper: dict) -> str:
+    votes = Counter(key.rsplit(":", 1)[0] for key in paper.get("matched_queries", []))
+    if votes:
+        return sorted(votes, key=lambda direction: (-votes[direction], direction))[0]
+    return (paper.get("direction_hints") or ["needs-review"])[0]
+
+
 def load_state() -> dict:
     return load_yaml(STATE_PATH) if STATE_PATH.exists() else {"queries": {}}
 
@@ -91,6 +98,8 @@ def prepare_candidates(papers: list[dict], maximum: int) -> list[dict]:
             continue
         paper["rule_score"] = score
         paper["rule_reasons"] = reasons
+        paper["suggested_direction"] = choose_direction(paper)
+        paper["classification_method"] = "academic-query-vote"
         eligible.append(paper)
     filter_config = dict(radar["filter"])
     filter_config["max_candidates_per_run"] = maximum
@@ -119,6 +128,10 @@ def prepare_candidates(papers: list[dict], maximum: int) -> list[dict]:
 def write_outputs(candidates: list[dict], audit: dict, since: str, until: str) -> None:
     path = ROOT / "data" / "candidates.yaml"
     existing = (load_yaml(path) or {}).get("papers", [])
+    for paper in existing:
+        if not paper.get("llm_assessment"):
+            paper["suggested_direction"] = choose_direction(paper)
+            paper["classification_method"] = "academic-query-vote"
     merged = {paper["id"].lower(): paper for paper in existing}
     for paper in candidates:
         if paper["id"] in merged:
@@ -144,7 +157,7 @@ def write_outputs(candidates: list[dict], audit: dict, since: str, until: str) -
         yaml.safe_dump(audit_payload, handle, sort_keys=False, allow_unicode=True, width=120)
     with STATE_PATH.open("w", encoding="utf-8", newline="\n") as handle:
         yaml.safe_dump(audit["state"], handle, sort_keys=True, allow_unicode=True)
-    counts = Counter(paper.get("direction", (paper.get("direction_hints") or ["needs-review"])[0]) for paper in papers)
+    counts = Counter(paper.get("direction") or paper.get("suggested_direction") or choose_direction(paper) for paper in papers)
     lines = [
         "# Academic discovery coverage",
         "",
@@ -181,4 +194,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
