@@ -1,2 +1,868 @@
-papers: []
-
+papers:
+- id: arxiv:2608.31079
+  title: Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.31079
+  abstract: 'Sycophantic agreement refers to a behavior in which language models excessively affirm the user, often at the
+    cost of factual accuracy. Although sycophantic agreement is a well-known failure of model alignment, there is limited
+    understanding of how it emerges from model training. In this work, we demonstrate that sycophantic agreement can emerge
+    as an unintended consequence of widely used contrastive preference optimization objectives. Using the OLMo 3 post-training
+    pipeline, we show that, for various pairs of teacher models across three families, there is a strong correlation between
+    the log-ratio of the teacher model sycophantic agreement rates and the resulting student model sycophantic agreement rate.
+    We further demonstrate that this unintended transfer is not limited to DPO but also occurs across 6 other preference optimization
+    objectives. To understand whether this effect can be attributed to particular training examples, we analyze the preference
+    data and find that the sycophancy signal is diffused across the entire dataset rather than concentrated in a sparse set
+    of examples: each example appears neutral, i.e., there are no explicit instances of sycophantic agreement, and f'
+  authors:
+  - Camila Blank
+  - Zhuofan Ying
+  - Christopher Potts
+  - Peter Hase
+  - Jing Huang
+  arxiv_categories:
+  - cs.LG
+  source_signals:
+  - arxiv
+  rule_score: 7
+  rule_reasons:
+  - +4:post-training
+  - +3:preference optimization
+  status: candidate
+- id: arxiv:2608.31035
+  title: When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language
+    Models
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.31035
+  abstract: 'Codec-based text-to-speech (TTS) models make language-model post-training applicable to speech generation, but
+    it remains unclear when learned perceptual predictors can serve as reinforcement learning rewards without losing alignment
+    with human listeners. We study this question with Group Relative Policy Optimization (GRPO) using learned rewards for
+    anime-like speaking style, naturalness, likability, and arousal. To prevent perceptual rewards from being optimized through
+    transcript drift, we introduce a character error rate (CER) zone constraint and compare policy optimization with Best-of-$N$
+    reranking under the same reward gate. Across single-reward runs, each reward primarily improves its own target metric,
+    showing that subjective predictors are not interchangeable quality surrogates. Multi-rater A/B tests further show uneven
+    human transfer, while a reward-gap analysis separates average transfer from within-axis calibration: signed reward gaps
+    significantly predict listener choices in the pooled analysis, whereas residual CER gaps do not, but per-axis calibration
+    remains heterogeneous. Best-of-8 is a strong human-level baseline and is not clearly worse than GRPO perceptually, su'
+  authors:
+  - Joonyong Park
+  - Jerry Li
+  arxiv_categories:
+  - cs.CL
+  - cs.SD
+  - eess.AS
+  source_signals:
+  - arxiv
+  rule_score: 6
+  rule_reasons:
+  - +4:post-training
+  - +2:reinforcement learning
+  status: candidate
+- id: arxiv:2608.30528
+  title: 'PAC: Progress-Augmented Advantage Curriculum for Multi-Task Reinforcement Learning of LLMs'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30528
+  abstract: 'Reinforcement learning (RL) is used to improve the reasoning abilities of LLMs, while training data span heterogeneous
+    tasks. However, most RL post-training pipelines rely on fixed or manually designed task mixtures, even though task usefulness
+    changes as training progresses. Online curriculum methods often define learnability by update magnitude, ignoring whether
+    the update translates into reward gains, which can misallocate rollout budget toward tasks with large but ineffective
+    updates. We propose PAC, a Progress-Augmented Advantage Curriculum for multi-task RL of LLMs that combines two task-level
+    signals: advantage-derived learnability, which measures the magnitude of the policy update a task can induce, and recent
+    reward gains, which show whether those updates have improved task performance. A Bayesian Thompson Sampling controller
+    uses these signals to allocate rollouts across tasks during GRPO training. We evaluate PAC under two settings: a multi-level
+    reasoning setting and a multi-domain reasoning setting. PAC improves sample efficiency and final performance: it reaches
+    comparable validation scores with fewer rollout steps and achieves higher final averages than random sampli'
+  authors:
+  - Yuanqiang Yu
+  - Yanzhao Zheng
+  - Zhentao Zhang
+  - Tianze Xu
+  - Chao Ma
+  - Jihuai Zhu
+  - Jiashun Liu
+  - Xinle Deng
+  - Baohua Dong
+  - Hangcheng Zhu
+  - Ruohui Huang
+  arxiv_categories:
+  - cs.LG
+  source_signals:
+  - arxiv
+  rule_score: 6
+  rule_reasons:
+  - +4:post-training
+  - +2:reinforcement learning
+  status: candidate
+- id: arxiv:2608.31075
+  title: 'Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.31075
+  abstract: Recent advances in large reasoning models (LRMs) have shown that reinforcement learning with verifiable rewards
+    (RLVR) can substantially improve reasoning in mathematics and code, where outcomes can be checked automatically. Extending
+    this progress to open-ended and agentic tasks remains difficult because reliable rewards are harder to obtain and direct
+    human supervision cannot keep pace with the scale and complexity of model-generated experience. This paper studies how
+    LRMs can continue to improve as human supervision gradually recedes from the learning loop. We examine two connected dimensions
+    of this problem. The reward axis traces the development from per-instance human judgments to reusable verifiers and rewards
+    that operate even without human feedback. The experience axis examines how learning can progress from human-curated tasks
+    and environments toward self-generated curricula, constructed environments, and autonomous co-evolution. We connect these
+    dimensions through a five-level ladder from L0 to L4 that identifies which parts of the learning process remain under
+    continued human control. Our analysis further highlights the risks introduced by increasingly autonomous reward
+  authors:
+  - Zhiqin Yang
+  - Jingwen Fu
+  - Yuhan Liu
+  - Hengyu Liu
+  - Yonggang Zhang
+  - Kainan Cao
+  - Zizhuo Zhang
+  - Chenxin Li
+  - Ruibin Yuan
+  - Jiahao Pan
+  - Jiankai Sun
+  - Zhenyuan Zhang
+  - Yibo Li
+  - Yunlong Lin
+  - Jing Xiong
+  - Sida Lin
+  - Bo Han
+  - Wei Xue
+  - Yike Guo
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv
+  - huggingface-daily
+  huggingface:
+    url: https://huggingface.co/papers/2608.31075
+    upvotes: 19
+  code: https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision
+  rule_score: 5
+  rule_reasons:
+  - +2:reinforcement learning
+  - +2:verifier
+  - +1:agentic
+  status: candidate
+- id: arxiv:2608.31102
+  title: 'LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.31102
+  abstract: 'Industrial post-training is a brownfield regime. Teams inherit a deployed checkpoint and must land targeted improvements
+    under fixed compute and mixture budgets without regressing the rest. The maintained artifact is increasingly dataware:
+    behavior governed by a curated post-training mixture, updated via bounded mixture patches rather than clean-slate retraining.
+    From an industrial code-generation improvement effort, we offer a maintainer''s perspective on why this work is hard in
+    practice, distilling three recurring challenges, zero-sum mixture design, yield as the binding metric, and end-to-end
+    integration under uncertainty, and arguing that progress depends less on one-off recipes than on an engineering discipline
+    for programming dataware. In our case study, interventions that raised the conversion of teacher distillation into usable
+    training data increased accepted supervision by 2.84 times while using the same solution teacher and four solution attempts
+    per candidate problem. In our primary evaluation, the yield-engineered patch improved CodeForces pass@1 by +2.59 points
+    (+3.11 pass@3) and held-out LiveCodeBench v6 pass@1 by +6.11 (+8.05 pass@3), all statistically significant a'
+  authors:
+  - Gopi Krishnan Rajbahadur
+  - Amir M. Ebrahimi
+  - Boyuan Chen
+  - Ahmed E. Hassan
+  arxiv_categories:
+  - cs.SE
+  - cs.AI
+  - cs.LG
+  source_signals:
+  - arxiv
+  rule_score: 4
+  rule_reasons:
+  - +4:post-training
+  status: candidate
+- id: arxiv:2608.30325
+  title: 'Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30325
+  abstract: 'Natural-language instructions enable flexible control of synthesized speech, yet emotional TTS systems primarily
+    model a single utterance-level affect, leaving multi-emotion control underexplored. We study two complementary multi-emotion
+    TTS tasks: emotion trajectory, which spans several ordered affective stages, and emotion blending, in which multiple emotions
+    coexist throughout an utterance. These tasks expose a supervision mismatch: supervised fine-tuning (SFT) does not explicitly
+    evaluate emotion features, while single-emotion rewards provide neither structure-aware feedback for trajectory completion
+    nor pair-aware feedback for blending. We introduce HybridEmo, a post-training framework that initializes both tasks with
+    SFT and then aligns the speech-token policy through Group Relative Policy Optimization using a sample-aware hybrid reward.
+    For trajectory samples, segment-aligned consistency combines average and weakest-stage evidence to preserve the correctness
+    and completeness of prescribed stages. For blending samples, a GMM-based reward combines frame-level support from the
+    union of target-emotion anchors in an offline emotion space with an utterance-level weaker-target marg'
+  authors:
+  - Yan Zhou
+  - Yun Hong
+  - Yang Feng
+  arxiv_categories:
+  - cs.CL
+  - cs.SD
+  source_signals:
+  - arxiv
+  rule_score: 4
+  rule_reasons:
+  - +4:post-training
+  status: candidate
+- id: arxiv:2608.30322
+  title: Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30322
+  abstract: Professional agent tasks often depend on conventions that are absent from public corpora, yet benchmarks rarely
+    control whether an agent has access to those conventions. We introduce a knowledge-gated task-construction protocol that
+    separates a task instruction from a compact artefact containing private conventions, reference tables, and utility operators.
+    Construction-time provenance, byte-identical task instructions across the provided- and withheld-artefact conditions,
+    leak audits, and executable witnesses make dependence on the artefact explicit and testable. Across fifteen calibration
+    tasks, one frontier agent configuration achieves a 68.0% pass rate with the artefact and 0% without it; on one task, a
+    plausible but incorrect artefact also yields 0% across five trials. Deterministic solvers and rule corpora provide exact
+    ground truth for structured tasks, while named criterion-level rubrics support outputs that cannot be checked by a single
+    executable oracle. A configuration-relative calibration screen retains seven tasks satisfying our five-trial empirical
+    knowledge-gating screen. These experiments validate the behavior of the construction protocol; they do not establish that
+  authors:
+  - Hanlin Tian
+  - Minhao Li
+  - Yu Mi
+  - Sihan Zhu
+  - Zhao Yang
+  - Yuxiang Wang
+  - Hongquan Zhu
+  - Qiufei Hu
+  arxiv_categories:
+  - cs.AI
+  - cs.CL
+  source_signals:
+  - arxiv
+  rule_score: 4
+  rule_reasons:
+  - +4:post-training
+  status: candidate
+- id: arxiv:2608.31046
+  title: Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.31046
+  abstract: On-policy distillation (OPD) offers dense token-level supervision as an alternative to the sparse outcome-level
+    advantages of reinforcement learning with verifiable rewards (RLVR). However, the teacher scores student-generated trajectories
+    that are inherently off-policy for it, so the reliability of its supervision, and hence the source of the student's improvement,
+    remains unclear. We quantitatively analyze teacher supervision during OPD training and find substantial noise whose prevalence
+    increases with teacher scale. Surprisingly, the student policy is insensitive to such noise, converging to comparable
+    performance regardless of whether noisy supervision is retained or removed. Does OPD distill at all? By analyzing what
+    drives its gains, we find that learning concentrates on low log-probability tokens, and using a single fixed negative
+    advantage matches the performance of teacher-provided ones. This suggests that OPD works largely by suppressing low log-probability
+    tokens, which requires no teacher. These findings motivate On-Policy Self-Adaptation (OPSA), a supervision-free method
+    using entropy-adaptive negative advantages. It assigns stronger learning signals to high-entropy p
+  authors:
+  - Yi Ding
+  - Ruqi Zhang
+  arxiv_categories:
+  - cs.LG
+  - cs.CL
+  source_signals:
+  - arxiv
+  - huggingface-daily
+  huggingface:
+    url: https://huggingface.co/papers/2608.31046
+    upvotes: 65
+  code: https://github.com/DripNowhy/On-Policy-Self-Adaptation
+  rule_score: 4
+  rule_reasons:
+  - +2:reinforcement learning
+  - +2:self-improvement
+  status: candidate
+- id: arxiv:2608.31100
+  title: 'S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.31100
+  abstract: 'Large language models (LLMs) increasingly interact with external environments and accumulate substantial behavioral
+    experience, yet existing agent benchmarks largely evaluate them as fixed policies. It therefore remains unclear whether
+    an agent can actively test its behavior, judge the resulting experience, and use that experience to improve future decisions.
+    We introduce \textbf{S\textsuperscript{3}Gym}, an interactive benchmark for evaluating LLM self-improvement through three
+    coupled capabilities: \textbf{Self-Testing}, \textbf{Self-Judging}, and \textbf{Self-Improvement}. S$^3$Gym separates
+    permissive exploration from strict held-out evaluation and instantiates this protocol in seven text-based games with executable
+    environment verifiers. We evaluate three pathways for incorporating interaction experience: direct History ICL, score-conditioned
+    Summary Memory, and parameter Training. Our experiments reveal that self-improvement is neither automatic nor uniform.
+    Context-level experience improves performance for several model--game pairs, but the most effective pathway depends strongly
+    on the task structure: summaries are beneficial when experience can be compressed into reusable'
+  authors:
+  - Jiajun Shi
+  - Siyuan Tao
+  - Yuhao Wu
+  - Zexuan Wang
+  - Jingyuan Zhang
+  - Jiaheng Liu
+  - Xinping Lei
+  - Xinrong Zhang
+  - Siyuan Fang
+  - Zhewen Tan
+  - Tianle Cai
+  - Junhao Fang
+  - Jiameng Huang
+  - Yueyang Wang
+  - Jinkai Liu
+  - Yuxuan Zhang
+  - Jian Yang
+  - Zhoujun Li
+  - Shen Yan
+  - Wenhao Huang
+  - Ge Zhang
+  arxiv_categories:
+  - cs.CL
+  source_signals:
+  - arxiv
+  rule_score: 4
+  rule_reasons:
+  - +2:verifier
+  - +2:self-improvement
+  status: candidate
+- id: arxiv:2608.30841
+  title: 'HSRM: Hidden-State Reward Models for Test-Time Verification'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30841
+  abstract: Large language models can often generate plausible mathematical reasoning traces, but reliably identifying the
+    correct solution among multiple candidates remains a key challenge. Existing test-time reasoning pipelines typically rely
+    on text-based verifiers that re-read each generated solution, making verification an expensive component of inference.
+    Prior work has shown, however, that LLMs often encode correctness-related signals in their internal representations, including
+    awareness of when their own answers are likely to be wrong. Building on this observation, we introduce HSRM, a lightweight
+    hidden-state reward model that verifies candidate solutions by directly reading the generator's internal representations
+    rather than re-processing its text. HSRM extracts hidden states from a frozen generator at reasoning-step boundaries and
+    uses a small Transformer encoder to rank candidates. It is trained from self-generated trajectories with outcome labels,
+    requiring neither human-written process supervision nor a large pretrained verifier. Across four mathematical reasoning
+    benchmarks, HSRM matches or outperforms a 55M-parameter text-only energy verifier in 15 of 16 generator--dataset se
+  authors:
+  - Xianzhi Li
+  - Xiaodan Zhu
+  arxiv_categories:
+  - cs.AI
+  - cs.CL
+  source_signals:
+  - arxiv
+  rule_score: 4
+  rule_reasons:
+  - +2:reward model
+  - +2:verifier
+  status: candidate
+- id: arxiv:2608.30125
+  title: 'VIBE: Video Instruction-aligned Background music gEneration'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30125
+  abstract: 'Current video-to-music (V2M) models lack semantic control and fail to penalize instruction violations, largely
+    due to their reliance on reconstruction objectives and the representational bottleneck of static cross-modal conditioning
+    in Diffusion Autoregressive (DAR) architectures. To resolve this, we introduce VIBE, a novel text-and-video-to-music (T+V2M)
+    generation model that leverages: (1) Conditioning Connection, a depth-wise cross-layer conditioning mechanism that dynamically
+    bridges the planning and diffusion refinement heads and (2) a comprehensive reward modeling taxonomy, optimizing for both
+    hard, verifiable constraints (e.g., tempo, key) and soft, subjective qualities (e.g., musicality, multimodal alignment)
+    with a structured 5-stage training curriculum. Upon evaluation using audio-visual alignment, instruction following, and
+    audio quality metrics, along with a subjective human evaluation study, we observe that VIBE demonstrates enhanced controllability
+    and instruction adherence while performing comparably to most evaluated baselines on generation fidelity and multimodal
+    alignment.'
+  authors:
+  - Aryan Vijay Bhosale
+  - Vaibhavi Lokegaonkar
+  - Vishnu Raj
+  - Gouthaman KV
+  - Sreyan Ghosh
+  - Ramani Duraiswami
+  - Lie Lu
+  - Dinesh Manocha
+  arxiv_categories:
+  - cs.SD
+  - cs.AI
+  - cs.CL
+  - cs.CV
+  - cs.LG
+  source_signals:
+  - arxiv
+  rule_score: 4
+  rule_reasons:
+  - +2:reward model
+  - +1:multimodal
+  - +1:diffusion
+  status: candidate
+- id: arxiv:2608.30672
+  title: 'HiRS-Agent: A Hierarchical Multi-Agent System for Reliable Long-Horizon Remote Sensing Task Solving'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30672
+  abstract: 'Recent advances in large language models and multimodal models have pushed remote sensing (RS) processing from
+    simple perception models to agentic systems designed to tackle complex, long-horizon RS tasks. However, existing systems
+    often rely on monolithic decision-making frameworks, which fail to accommodate the multi-stage, interdependent nature
+    of RS tasks. This centralized approach leads to challenges such as unstable task execution, incorrect tool usage, and
+    error propagation across stages. To address these issues, we propose HiRS-Agent, a hierarchical multi-agent system for
+    long-horizon RS task solving. HiRS-Agent adopts a two-level collaborative architecture: the Manager Layer handles dynamic
+    routing, step-level verification, replanning, and termination control, while the Specialist Layer organizes domain-specific
+    tools according to the RS workflow and is responsible for subtask reasoning and tool execution. To further enhance the
+    system''s capability, we introduce a two-stage supervised tuning strategy and a verification-guided hierarchical reinforcement
+    learning stage to jointly optimize coordination and tool-use policies. Experiments on Earth-Agent Benchmark and ThinkGeo
+    s'
+  authors:
+  - Boyang Mu
+  - Zhiwei Wei
+  - Mugen Peng
+  - Wenjia Xu
+  arxiv_categories:
+  - cs.AI
+  - cs.MA
+  - cs.MM
+  source_signals:
+  - arxiv
+  rule_score: 4
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:agentic
+  - +1:multimodal
+  status: candidate
+- id: arxiv:2608.30935
+  title: 'LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30935
+  abstract: 'Embodied navigation requires agents to translate heterogeneous goals and visual observations into actions across
+    tasks, environments, and robot embodiments. Modern vision-language models (VLMs) already encode spatial priors for visual
+    grounding, spatial reasoning, and pointing, but these capabilities are rarely elicited directly for robot control. Existing
+    navigation systems instead rely on task- or embodiment-specific components, fragmenting perception, reasoning, and action
+    while offering limited generalization. Here we present LightNav-0, a compact generalist embodied navigation model that
+    elicits the spatial intelligence of a pretrained VLM and aligns it with navigation, without task-specific prediction heads.
+    LightNav-0 represents diverse navigation tasks through a unified token interface: dual-channel pointing expresses task-,
+    scene-, and embodiment-agnostic spatial intent, while a residual vector-quantized action tokenizer maps this intent to
+    precise, embodiment-specific trajectories. Together with temporally aware visual history compression, ER mid-training,
+    supervised fine-tuning, and reinforcement learning, this formulation supports instruction following, open-vocabulary'
+  authors:
+  - Shaoan Wang
+  - Aocheng Luo
+  - Fei Huang
+  - Jingyi Xu
+  - Xiaoyang Wang
+  - Yueyu Wang
+  - Qianli Ma
+  - Fan Yang
+  - Ran Mei
+  - Jia Wei
+  - Jiangpeng Hu
+  - Xuhao Liu
+  - Hongming Chen
+  - Yuanbin Shao
+  - Yiyang Lin
+  - Ziliang Li
+  - Liang Pan
+  - Xinhang Liu
+  - Yuntao Ma
+  - Tingxiang Fan
+  arxiv_categories:
+  - cs.RO
+  - cs.AI
+  source_signals:
+  - arxiv
+  - huggingface-daily
+  huggingface:
+    url: https://huggingface.co/papers/2608.30935
+    upvotes: 21
+  code: https://github.com/lightorigins/LightNav-0
+  rule_score: 4
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:vision-language
+  - +1:embodied
+  status: candidate
+- id: arxiv:2608.31106
+  title: 'DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.31106
+  abstract: Recent video generators often omit audio or synthesize it in a separate stage, limiting reciprocal modeling of
+    visual dynamics and acoustic events. We present DreamX-Creator 1.0, a compact native joint audio-video generation system
+    centered on a 7B generator. Conditioned on a first frame and a text prompt, the generator jointly denoises modality-specialized
+    audio and video streams. The streams are processed independently in the first half of the network and coupled in the latter
+    half through Gated Cross-Modal Attention, whose token- and head-wise output gates modulate each active cross-modal attention-head
+    output. A unified Audio-Video Data System constructs and filters temporally coherent clips, produces structured multimodal
+    annotations, and organizes clips into capability-oriented data pools. Progressive Joint Training comprises two audio-video
+    pre-training stages followed by High-Quality Finetuning. Audio-Video Reinforcement Learning further post-trains the generator
+    with Modality-Aware Multimodal Feedback that routes video-, audio-, and cross-modal feedback to the corresponding streams.
+    For high-resolution output, our Autoregressive 1-Step 2K Refinement pipeline adapts a bidir
+  authors:
+  - Jiashu Zhu
+  - Yanhao Zheng
+  - Ruitian Tian
+  - Rujing Dang
+  - Shen Zhang
+  - Bingze Song
+  - Jiachen Lei
+  - Ruimin Lin
+  - Jiahong Wu
+  - Xiangxiang Chu
+  arxiv_categories:
+  - cs.CV
+  - cs.SD
+  source_signals:
+  - arxiv
+  - huggingface-daily
+  huggingface:
+    url: https://huggingface.co/papers/2608.31106
+    upvotes: 70
+  code: https://github.com/AMAP-ML/DreamX-Creator
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:multimodal
+  status: candidate
+- id: arxiv:2608.30597
+  title: 'PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30597
+  abstract: Direct Preference Optimization (DPO) simplifies alignment through pairwise comparisons but assumes all observed
+    preferences are reliable. Real data often violates this assumption, leading to reversed, weak, or ambiguous labels that
+    cause harmful policy updates. To address this, we propose Posterior Label Correction DPO (PLC-DPO) to robustly optimize
+    preferences by routing each pair's training signal as a clean, flip, or tie case. The key idea is to use the calibrated
+    policy-reference margin as online evidence to take appropriate correction actions. This reframes noisy preference learning
+    as actively correcting supervision direction and strength rather than merely filtering suspicious examples. Across 57
+    dataset-model-benchmark cells, PLC-DPO obtains the best mean win rate against DPO (60.5 vs. 55.5 for the next-best method).
+    Injected-noise and tie stress tests, human disagreement analysis, and self-confirmation diagnostics further show that
+    the routing remains stable and distinguishes flipped from weakly directional pairs.
+  authors:
+  - Boryeong Cho
+  - Sumyeong Ahn
+  - Se-Young Yun
+  arxiv_categories:
+  - cs.LG
+  - cs.CL
+  source_signals:
+  - arxiv
+  rule_score: 3
+  rule_reasons:
+  - +3:preference optimization
+  status: candidate
+- id: arxiv:2608.30141
+  title: Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30141
+  abstract: Preference optimization is widely used to align large language models with human preferences, but preference-data
+    composition may also influence privacy-relevant memorization. We examine whether adding synthetic privacy-preference pairs
+    to Direct Preference Optimization (DPO) is associated with lower canary-based memorization signals without modifying the
+    objective or introducing a formal privacy mechanism. We propose Privacy-Pressure Preference Mixing (P3M), a data-composition
+    protocol that varies the amount of privacy-preference data while keeping helpfulness and harmlessness preference data
+    fixed. We evaluate a non-privacy Baseline and privacy-mixing ratios of 0.5, 1.0, and 2.0 using Gemma 3 270M-IT across
+    five random seeds and validate the same four conditions using 4-bit-quantized Gemma 2 2B-IT across three seeds. Overall,
+    under the tested conditions, privacy-preference mixing is associated with lower mean canary suffix log-likelihood proxy
+    values across both model settings and lower aggregate membership-inference attack performance relative to the Baseline
+    in the mixed-source 2B evaluation. Specifically, across the privacy-aware 2B configurations, the mean area under the rece
+  authors:
+  - Dishu Yang
+  - Jingjing Liu
+  - Jize Li
+  arxiv_categories:
+  - cs.CR
+  - cs.LG
+  source_signals:
+  - arxiv
+  rule_score: 3
+  rule_reasons:
+  - +3:preference optimization
+  status: candidate
+- id: arxiv:2608.31077
+  title: Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.31077
+  abstract: 'Outcome-based reinforcement learning provides verified feedback for language-model agents, but assigns trajectory-level
+    advantage uniformly to all decisions, yielding coarse credit over long-horizon interactions. On-policy self-distillation
+    offers finer supervision by re-evaluating sampled behavior with privileged information (PI) available only during training.
+    However, fine-grained supervision is not necessarily fine-grained credit: PI-induced likelihood changes describe how additional
+    information alters policy preference, but do not directly determine how an executable action should inherit the verified
+    task outcome. This creates a supervision-credit gap. Privileged signals may be irrelevant to the current interaction state,
+    operate at a token granularity misaligned with executable decisions, and lack the outcome semantics required for reinforcement.
+    We introduce TASPO, which converts privileged supervision into outcome-grounded action credit. TASPO constructs decision-applicable
+    PI from verified successful experience, aggregates PI-induced likelihood shifts at the executable-action level, and converts
+    relative action support into positive, bounded, mean-preserving weights on th'
+  authors:
+  - Jingxiao Yang
+  - Wangjie Gan
+  - Yingxuan Zhuang
+  - Wenqi Zhang
+  - Jintao Chen
+  - Xuhong Zhang
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:agentic
+  status: candidate
+- id: arxiv:2608.30676
+  title: 'MedAgent-R1: Faithfulness-Aware Reinforcement Learning for Evidence-Grounded Medical Reasoning'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30676
+  abstract: 'When medical AI systems hallucinate clinical reasoning, the consequences extend beyond incorrect answers: fabricated
+    justifications that superficially reference retrieved evidence can mislead clinicians into unsafe treatment decisions.
+    Medical reasoning agents must therefore produce not only correct answers but also faithful justifications that clinicians
+    can verify against cited evidence. We identify a systematic failure mode in RL-trained retrieval agents: outcome-only
+    rewards improve accuracy while degrading faithfulness, a phenomenon we term confident hallucination. The agent learns
+    to answer from parametric memory and backfill plausible but unsupported justifications; citation fabrication rates rise
+    from 16.5% to 31.8% even as accuracy improves by 5 points over the supervised baseline. We address this with a faithfulness-gated
+    reward design: accuracy credit is conditioned on evidence grounding via a hard gate, complemented by retrieval validity
+    and conciseness signals that close exploitation paths unique to agentic retrieval. The resulting system, MedAgent-R1,
+    reduces citation fabrication from 31.8% to 4.7% and raises evidence completeness from 58.7 to 82.6 while maintaining 7'
+  authors:
+  - Jiangwang Chen
+  - Chenghao Zhang
+  - Hengxing Cai
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:agentic
+  status: candidate
+- id: arxiv:2608.30209
+  title: 'DICS: Exploring Data Intrinsic Consistency for Visual Instruction Selection'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30209
+  abstract: 'Visual instruction tuning is crucial for advancing the vision-language alignment and instruction-following capabilities
+    of Vision-Language Models (VLMs). However, identifying optimal subsets under a fixed ratio constraint from rapidly expanding
+    datasets remains a significant bottleneck. While existing methods largely depend on distribution diversity or heuristic
+    filtering, they often overlook the internal coherence within individual samples. To bridge this gap, we propose Data Intrinsic
+    Consistency (DIC), a self-scoring metric designed to quantify the sample-level inter-component consistency. DIC consists
+    of two modules: Visual Information Consistency (VIC), evaluating the alignment between visual content and instructions,
+    and Response Information Consistency (RIC), assessing response coherence relative to the instruction. Building upon DIC,
+    we introduce Data Intrinsic Consistency Selection (DICS), an adaptive data selection method that optimizes the trade-off
+    between high intra-sample consistency and global distributional diversity under varying data budgets. Extensive experiments
+    demonstrate that DICS consistently outperforms state-of-the-art methods across diverse dataset scales'
+  authors:
+  - Yuyang Hong
+  - Jinhui Guo
+  - Jiaqi Gu
+  - Lubin Fan
+  - Ruixiang Wang
+  - Kun Ding
+  - Yue Wu
+  - Shiming Xiang
+  - Jieping Ye
+  arxiv_categories:
+  - cs.CV
+  source_signals:
+  - arxiv
+  - huggingface-daily
+  huggingface:
+    url: https://huggingface.co/papers/2608.30209
+    upvotes: 1
+  rule_score: 3
+  rule_reasons:
+  - +2:instruction tuning
+  - +1:vision-language
+  status: candidate
+- id: arxiv:2608.30705
+  title: 'VisLens: Single-Pass Interpretable Visual Search for Multimodal LLMs'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30705
+  abstract: 'Multimodal large language models (MLLMs) struggle with fine-grained Visual Search, the task of locating small
+    or rare objects in high-resolution images. Existing remedies fall into two families: (1) Training-free methods based on
+    attention or confidence scores are accurate but slow, since they require multiple MLLM queries per example. (2) Reinforcement
+    Learning (RL) trained tool-use models are faster at inference but opaque, since their tool calls remain uncontrollable
+    and hard to interpret. To overcome this, we propose \emph{VisLens} (Visual Focus via Logit Lens), a Visual Search method
+    built on the logit lens, which decodes the semantics held in a hidden state by projecting it through the LLM head. VisLens
+    further uses a lightweight tuned-lens that maps early hidden states into the final hidden state space, so visual tokens
+    can be read out from early layers. These tokens are matched to target words in the query to generate a crop of the relevant
+    region, which is fed back in alongside the original image to produce the final answer. The whole process, from decoding
+    to the final answer, completes in a single forward pass without repeated queries. VisLens matches or exceeds prior ba'
+  authors:
+  - Jingyi He
+  - Sanghwan Kim
+  - Zeynep Akata
+  arxiv_categories:
+  - cs.CV
+  source_signals:
+  - arxiv
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:multimodal
+  status: candidate
+- id: arxiv:2608.30457
+  title: Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30457
+  abstract: Multimodal geometry reasoning requires VLMs to extract precise visual relations and preserve them through multi-step
+    deduction. Existing free-form traces obscure the decisions that determine the answer, and trajectory-level reinforcement
+    learning distributes a single terminal signal across the entire response. We introduce credit-addressable reasoning, in
+    which the semantic units exposed during inference also define where learning compares alternatives and assigns credit.
+    We instantiate this principle with Code-CoT, which retains the diagram, represents visual relations as line-addressable
+    executable code, and organizes reasoning into typed events, and CE-GRPO, which selects event boundaries using structural
+    priors and type-normalized entropy, samples complete continuations from shared prefixes, and converts outcome differences
+    into localized advantages. Across nine geometry benchmarks, CE-GRPO achieves an average accuracy of 76.04, outperforming
+    Qwen3-VL-8B and trajectory-level GRPO by $8.09$ and 3.43 points, respectively. Its relative advantage increases with the
+    number of intermediate events, demonstrating the value of representation--optimization co-design for long, dependency-
+  authors:
+  - Jiani Guo
+  - Junjie Wang
+  - Jie Wu
+  - Pengxiang Zhao
+  - Dongdong Zhang
+  - Shaohan Huang
+  - Yujiu Yang
+  - Furu Wei
+  arxiv_categories:
+  - cs.LG
+  - cs.CL
+  source_signals:
+  - arxiv
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:multimodal
+  status: candidate
+- id: arxiv:2608.30532
+  title: 'DiffPDE: Masked Diffusion Language Models as PDE Solver'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2608.30532
+  abstract: Existing approaches for synthesizing Partial Differential Equation (PDE) solvers predominantly rely on autoregressive
+    models, yet their global left-to-right decoding incurs substantial redundancy when addressing inherently localized bugs.
+    In this work, we challenge this inefficient paradigm and propose DiffPDE, a framework leveraging discrete diffusion language
+    models for targeted code repair. By introducing a localized re-masking and infilling strategy, DiffPDE regenerates only
+    erroneous regions while preserving correct context, naturally aligning generation with the sparse nature of PDE errors.
+    Furthermore, to handle coupled bugs requiring sequential interventions, we present Iterative Debugging GRPO (ID-GRPO),
+    a reinforcement learning scheme that enables multi-round debugging within single trajectories via intermediate rewards.
+    Experiments on PDEBench show that DiffPDE achieves competitive accuracy, outperforms same-scale AR models, and significantly
+    accelerates repair.
+  authors:
+  - Wenxuan Guo
+  - Yuyang Hong
+  - Lubin Fan
+  - Zhaojin Fu
+  - Lin Chen
+  - Kun Ding
+  - Shiming Xiang
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:diffusion
+  status: candidate
+- id: arxiv:2608.30396
+  title: Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation
+  date: '2026-08-31'
+  updated: '2026-09-01'
+  url: https://arxiv.org/abs/2608.30396
+  abstract: 'Long-horizon physical-world agents must reason over distant goals while grounding decisions in reliable closed-loop
+    behavior. Today''s foundation models split these capabilities: vision-language models (VLMs) infer missing information
+    and adapt high-level plans but remain brittle and inefficient at repeated navigation grounding, while navigation foundation
+    models (NFMs) robustly execute semantic goals but operate as bounded episodes without persistent task-level reasoning.
+    We introduce NavMCP, an agentic scaffolding framework that couples a VLM reasoning agent with an NFM executor for long-horizon
+    exploration. The VLM decides what evidence to seek, where to search, and when to stop, while the NFM grounds each semantic
+    sub-goal into closed-loop navigation. Three channels structure their collaboration: intent translates evidence needs into
+    navigation calls, observation converts rollouts into source-grounded trajectory evidence, and memory accumulates findings,
+    negative evidence, and unresolved goals across calls. This design turns isolated navigation rollouts into persistent embodied
+    interaction without retraining either model. On Embodied Question Answering, NavMCP achieves state-of-'
+  authors:
+  - Zixing Lei
+  - Gengze Zhou
+  - Xiong-Hui Chen
+  - Jiazhao Zhang
+  - Yiyang Huang
+  - Hang Yin
+  - Haoqi Yuan
+  - Qi Wu
+  - Weixin Li
+  - Siheng Chen
+  arxiv_categories: []
+  source_signals:
+  - huggingface-daily
+  huggingface:
+    url: https://huggingface.co/papers/2608.30396
+    upvotes: 3
+  rule_score: 3
+  rule_reasons:
+  - +1:agentic
+  - +1:vision-language
+  - +1:embodied
+  status: candidate
+- id: arxiv:2608.29999
+  title: 'TEMPO: Temporally-grounded Multi-task Post-training for Large Audio-Language Models'
+  date: '2026-08-30'
+  updated: '2026-08-30'
+  url: https://arxiv.org/abs/2608.29999
+  abstract: 'Large audio-language models (LALMs) describe audio at the clip level but cannot assign timestamps to the events,
+    speakers, or sounds they identify. Despite being essential for downstream tasks like speech recognition and dense audio
+    captioning, timestamping remains a key limitation of most LALMs. We present TEMPO (Temporally-grounded Multi-task Post-training),
+    the first unified model to handle audio, speech, and music timestamping tasks. Our core contribution is a supervised fine-tuning
+    (SFT) stage built on three innovations: atomic timestamp tokens, a time-aware projector that injects sinusoidal wall-clock
+    encodings into audio frame embeddings, and a distance-aware Gaussian loss. Our training is based on a synthetic-to-real
+    curriculum. We further introduce, to our knowledge, the first application of reinforcement learning to unified audio timestamping,
+    using GRPO with verifiable temporal rewards that directly optimize the evaluation objectives. Rather than serving as the
+    primary source of performance gains, GRPO acts as a refinement stage on top of the SFT checkpoint, providing modest additional
+    improvements. To support this work, we build a training dataset containing 119K sample'
+  authors:
+  - Apoorva Kulkarni
+  - Kaousheik Jayakumar
+  - Sreyan Ghosh
+  - Utathya Aich
+  - Ramani Duraiswami
+  - Dinesh Manocha
+  arxiv_categories:
+  - cs.SD
+  - cs.AI
+  - cs.LG
+  source_signals:
+  - arxiv
+  rule_score: 6
+  rule_reasons:
+  - +4:post-training
+  - +2:reinforcement learning
+  status: candidate
+- id: arxiv:2608.29616
+  title: 'JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction'
+  date: '2026-08-30'
+  updated: '2026-08-30'
+  url: https://arxiv.org/abs/2608.29616
+  abstract: Criminal judgment prediction requires models to infer statutory articles, charges, and sentencing outcomes from
+    case facts. Unlike standard classification tasks, it involves a structured reasoning process in which statutes should
+    be matched with facts, charges should be justified by statutes, and sentencing outcomes should remain consistent with
+    charges. Existing approaches optimize final labels, and while some have attempted to evaluate reasoning quality, their
+    evaluations are indirect, often relying on LLM-generated rubrics that reflect model-internal preferences rather than the
+    inherent logical structure of legal adjudication. We propose Juris Policy Optimization (JPO), a post-training framework
+    for structured legal reasoning in Chinese criminal judgment prediction. JPO first uses teacher-generated rationales to
+    supervise a standardized four-step reasoning process, and then applies reinforcement learning with a composite reward
+    over legal prediction quality, reasoning structure completeness, and cross-step consistency. JPO further introduces token-level
+    advantage reweighting and adaptive clipping for legally salient reasoning segments. Experiments on multiple open-source
+    languag
+  authors:
+  - Zhaolu Kang
+  - Yantao Liu
+  - Tailong Luo
+  - Leqi Zheng
+  - Lei Wei
+  - Chenghua Zhu
+  - Junhao Gong
+  - Jiachen Qian
+  - Eric Hanchen Jiang
+  - Jiaxin Liu
+  - Yuan Wang
+  - Hao Zhang
+  - Zixia Wang
+  - Rong Fu
+  - Zheng Lin
+  - Richeng Xuan
+  - Zhichao Hu
+  arxiv_categories:
+  - cs.CL
+  source_signals:
+  - arxiv
+  rule_score: 6
+  rule_reasons:
+  - +4:post-training
+  - +2:reinforcement learning
+  status: candidate
