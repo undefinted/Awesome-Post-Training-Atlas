@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**176 papers**: 1 curated and 175 academic discovery candidates.
+**190 papers**: 1 curated and 189 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -45,6 +45,62 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks](https://arxiv.org/abs/2608.24101)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Zhi Cao, Howard Ji, Kevin Zhang, Kuangzhi Ge, Li Fei-Fei, Jiajun Wu, Huang Huang
+
+- 🔎 **[RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation](https://arxiv.org/abs/2608.20208)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Shaoxuan Wang, Guangting Zheng, Rui Huang, Zhipeng Tang, Sha Zhang, Jiajun Deng, Yanyong Zhang
+
+- 🔎 **[ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](https://arxiv.org/abs/2608.19182)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jayjun Lee, Jessica Yin, Asif Rana, Nicholas Blauch, Sam Mady, Mohak Bhardwaj, Nima Fazeli, Nathan Ratliff, et al.
+
+- 🔎 **[US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina](https://arxiv.org/abs/2608.16074)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Cheng Zhang, Xingzheng Wu, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai
+
+- 🔎 **[Q-Learning With World Models](https://arxiv.org/abs/2608.17163)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Perry Dong, Yueru Jia, Chelsea Finn, Dorsa Sadigh
+
+- 🔎 **[GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](https://arxiv.org/abs/2608.15875)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors:  GigaBrain Team, Angen Ye, Axiang Sun, Can Jin, Chenxi Cheng, Chong Shi, Dengke Shang, Dingqian Zhang, et al.
+
+- 🔎 **[FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving](https://arxiv.org/abs/2608.13395)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Hao Dou
+
+- 🔎 **[Scaling Automatic Research Agents via World Models](https://arxiv.org/abs/2608.12564)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Xiyuan Yang, Sheikh Sarwar, Jingru Cheng, Zhan Shi, Duanshun Li, Huiyuan Chen, Haiyang Zhang, Xing Fan, et al.
+
+- 🔎 **[Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation](https://arxiv.org/abs/2608.05999)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: He Kong, Zengjue Chen, Qi Wang, Qianli Xing, Runliang Niu, Peidong Liu, Jiawei Li, Shiqi Wang, et al.
+
+- 🔎 **[Toward Integrating Adaptive Experience Replay and Online Uncertainty Estimation in Safe Actor-Critic Optimal Control](https://arxiv.org/abs/2608.04732)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Mahshad Rastegarmoghaddam, Davoud Nikkhouy, Shima Samadzadeh
+
+- 🔎 **[EASy: Towards Efficient LLM-Based Agentic System](https://arxiv.org/abs/2608.04588)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Junnan Liu, Linhao Luo, Thuy-Trang Vu, Gholamreza Haffari
+
+- 🔎 **[SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation](https://arxiv.org/abs/2608.04196)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Nie Lin, Takehiko Ohkawa, Sijin Chen, Ruoshi Wen, Zhuohang Li, Liqun Huang, Zhengming Zhu, Yiming Bao, et al.
+
+- 🔎 **[Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution](https://arxiv.org/abs/2608.03483)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Weichen Xu, Zhenhua Liu, Lin Luo, Yaobo Liang, Chengtang Yao, Qingyu Mei, Jian Cao, Xixin Cao, et al.
+
+- 🔎 **[Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models](https://arxiv.org/abs/2608.02197)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jin Cui, Yanbin Hu, Xinyue Long, Linkai Li, Boran Zhao, Pengju Ren
+
+- 🔎 **[GenTrack: Physical Alignment for Robot-Native Motion Generation and Zero-Shot Humanoid Tracking](https://arxiv.org/abs/2608.01410)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zeyu Ling, Xinyao Yu, Renye Yan, Jikang Cheng, Zhanke Wang, Qing Shuai, Changqing Zou
 
 <a id="2026-07"></a>
 

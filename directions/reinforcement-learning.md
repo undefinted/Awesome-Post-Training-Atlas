@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**399 papers**: 3 curated and 396 academic discovery candidates.
+**418 papers**: 3 curated and 415 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -99,9 +99,69 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-23 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Changjiang Jiang, Qiannian Zhao, Lei Xin, Jinxiang Xie, Preslav Nakov, Zhuohan Xie
 
+- 🔎 **[Enhancing Localized Reasoning for Long Video Understanding via Efficient Segment-to-Video Supervision](https://arxiv.org/abs/2608.20814)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Beibei Zhang, Chao Xu, Jun Lan, Zongyi Li, Lai Wei, Huijia Zhu, Tongwei Ren
+
+- 🔎 **[SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.19842)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Dayang Liang, Lang Feng, Bo An, Yunlong Liu
+
+- 🔎 **[Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs](https://arxiv.org/abs/2608.20492)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yunheng Li, Guohong Mu, Hao Li, Shengsheng Qian, Dingwen Zhang, Qibin Hou, Ming-Ming Cheng
+
+- 🔎 **[Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving](https://arxiv.org/abs/2608.20129)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Mehdi Azarafza, Faezeh Pasandideh, Ali Ehteshami Bejnordi, Stefan Henkler, Achim Rettberg
+
+- 🔎 **[Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress](https://arxiv.org/abs/2608.19408)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Chen Yang, Haiyuan Wan, Rengrong Xiong, Yize Chen, Danny H. K. Tsang
+
+- 🔎 **[RTPO: Reverse-Turn Policy Optimization for Stabilizing Agentic RL Training](https://arxiv.org/abs/2608.18682)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yugu Li, Zehong Cao, Jianglin Qiao, Siyi Hu
+
+- 🔎 **[GUPO: Gradient Uncertainty-aware Policy Optimization for Post-Training Large Language Models](https://arxiv.org/abs/2608.17411)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Peizheng Guo, Jianqi Zhang, Xingyu Zhang, Yun Fan, Jiahuan Zhou, Changwen Zheng, Wenwen Qiang
+
+- 🔎 **[Mint-Agent: Introducing Finance-Native Agentic Foundation Models](https://arxiv.org/abs/2608.16386)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Mint-Agent Team, Kun Wang, Gavin Zhang, Yaze Geng, Lei Tang, Yaoyang Yi, Zonghan Wu, Yifan Hu, et al.
+
+- 🔎 **[Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization](https://arxiv.org/abs/2608.16072)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yixuan Wang, Yifei Chen, Haichao Zhang, Haozheng Luo, Xander Wu, Jie Ni, Yun Fu, Nuno Vasconcelos, et al.
+
+- 🔎 **[HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL](https://arxiv.org/abs/2608.16837)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Langzhe Gu, Chengkai Hou, Meng Li, Xinhua Wang, Jiaming Liu, Xinyuan Lv, Bowei Zhang, Shuanghao Bai, et al.
+
+- 🔎 **[StructRL: Structured Action-Space Exploration for Flow-Based VLAs](https://arxiv.org/abs/2608.15139)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jiarui Yang, Bin Zhu, Jingjing Chen, Na Zou, Yanwei Fu, Jianggang Zhu, Yu-Gang Jiang
+
+- 🔎 **[Latent On-Policy Self-Distillation](https://arxiv.org/abs/2608.13040)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Guibin Zhang, Jiayang Lyu, Ran Sun, Xinlei Yu, Haoyu Zhao, Qibing Ren, Shuicheng Yan
+
+- 🔎 **[GCPO: Diagnosing and Constraining Subspace Geometry in Rollout RL for LLMs](https://arxiv.org/abs/2608.11674)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Kai Yang, Jingwei Xu, Wanyu Wang, Kai-Yuan Guo, Zhenbo Yu, Yi Wang, Yu Qiao
+
+- 🔎 **[Evaluation-Conditioned Training: Teaching Models to Generalize to Stronger Oversight Regimes](https://arxiv.org/abs/2608.10209)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Alec Harris, Kasey Corra, Archie Chaudhury, Yixiong Hao
+
 - 🔎 **[Evidence-RL: Towards Evidence-intensive Visual Reasoning](https://arxiv.org/abs/2608.08021)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-08 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Haojie Huang, Xinlei Yu, Chengming Xu, Zhangquan Chen, Cheng Yang, Qingdong He, Yu Yang, Jiangning Zhang, et al.
+
+- 🔎 **[Control-Diverse Reinforcement Fine-Tuning: Decoupling the Shared Control Bottleneck of RL Post-Training](https://arxiv.org/abs/2608.08224)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Binwen Tan, Jingchao Wang, Dengzhe Hou, Lingyu Jiang, Zeyuan Wu, Yunhan Shen, Fangzhou Lin, Kazunori Yamada, et al.
 
 - 🔎 **[CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](https://arxiv.org/abs/2608.07460)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-07 · `academic-query-vote` · `arxiv-backfill`  
@@ -178,6 +238,22 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[AdaThinkV: Adaptive Thinking for Token-Efficient Video Reasoning](https://arxiv.org/abs/2608.01980)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-03 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Jingqi Tian, Haoji Zhang, Lin Chen, Hongbo Jin, Haonan Xu, Tianrui Zhu, Xingming Shui, Shilin Ma, et al.
+
+- 🔎 **[Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception](https://arxiv.org/abs/2608.01055)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Xinheng Han, Jianfei Wang, Yu Chen, Xiang Wang, Shuai Li, Weixing Li, Feng Pan
+
+- 🔎 **[Element-Aware Group Learning for E-Commerce Image Generation](https://arxiv.org/abs/2608.00584)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jingtong Chen, Jiahui Wang, Xue Zhao, ShaoGuo Liu, Minghao Li
+
+- 🔎 **[SpatialAfford: Teaching Compact VLMs Where to Look and Where to Ground for Affordance](https://arxiv.org/abs/2608.00502)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yufei Zhang, Chenlu Zhan, Donghui Sun, Xiaoxin Chen, Hongwei Wang
+
+- 🔎 **[LUT: Latent Utility Training for Visual Reasoning](https://arxiv.org/abs/2608.00743)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jiaxuan Kang, Siyu Chen, Mingda Li, Mingjie Liu, Tianyue Wang, Zhaoyang Wei, Yongheng Zhang, Yanchao Hao, et al.
 
 <a id="2025"></a>
 

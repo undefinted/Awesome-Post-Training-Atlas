@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**118 papers**: 2 curated and 116 academic discovery candidates.
+**121 papers**: 2 curated and 119 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -53,6 +53,10 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Scaling Reinforcement Learning for Diffusion Models via Velocity Matching](https://arxiv.org/abs/2608.23664)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Jaemoo Choi, Wei Guo, Yuchen Zhu, Arash Vahdat, Molei Tao, Julius Berner, Yongxin Chen
+
+- 🔎 **[ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control](https://arxiv.org/abs/2608.19804)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Xu Yang, Kailai Sun, Dianyu Zhong, Qianchuan Zhao
 
 - 🔎 **[Spatially-Grounded Flow Matching: Structured Source Distributions for Image Generation](https://arxiv.org/abs/2608.15452)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-16 · `academic-query-vote` · `arxiv-backfill`  
@@ -134,6 +138,10 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Haodong Yan, Junfeng Li, Junjie He, Zhide Zhong, MingMing Yu, Wenxuan Song, Jiaguan Zhu, Yangyang Zheng, et al.
 
+- 🔎 **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jinha Kim, Younghun Roh, Jaeyeon Kim
+
 - 🔎 **[ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://arxiv.org/abs/2608.04436)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Jiahao Zhao, Xiaomin Yu, Zhongxiang Sun, Fengwei Teng, Chengwei Qin, Xiaobin Hu, Jun Xu, Shuicheng Yan
@@ -141,6 +149,10 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[STEP-OPD: Rethinking Output Targets and Internal Dynamics in On-Policy Distillation for Diffusion Models](https://arxiv.org/abs/2608.04887)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Qingyan Wei, Guangzhao Li, Xiaobing Tu, Yinggui Wang, Xiantao Zhang, Jinkui Ren, Xiaohong Liu, Linfeng Zhang
+
+- 🔎 **[GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model](https://arxiv.org/abs/2608.03215)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Guanrou Yang, Tian Tan, Qian Chen, Ziyang Ma, Yakun Song, Zhikang Niu, Qi Chen, Wenming Tu, et al.
 
 <a id="2025"></a>
 

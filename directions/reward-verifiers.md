@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**392 papers**: 1 curated and 391 academic discovery candidates.
+**535 papers**: 1 curated and 534 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -218,6 +218,18 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-22 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Peiyuan Zhang, Xiangyu Zhao, Hongbo Liu, Xiaoxing Hu, Mingxin Liu, Shuran Ma, Yunhang Shen, Jian Hu, et al.
 
+- 🔎 **[Hints, Critics, and Teachers: Prior Injection for Sparse-Reward RL in Vision-Language Math Reasoning](https://arxiv.org/abs/2608.21811)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Qiqian Fu
+
+- 🔎 **[CounterAlign: Counterfactual Supervision for Vision-Language-Action Models](https://arxiv.org/abs/2608.21740)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haru Kondoh, Kei Ota, Asako Kanezaki, Yueh-Hua Wu
+
+- 🔎 **[VIG: Visual Information Gain as a Reward Signal for Multimodal Chain-of-Thought Compression](https://arxiv.org/abs/2608.21883)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Wen Luo, Xiaohan Yi, Xiaotao Huang, Liqun Huang
+
 - 🔎 **[Perturb the Thought, Not the Pixels: Latent-Space Rollout Diversification for Reinforcement Learning of Vision-Language Models](https://arxiv.org/abs/2608.21595)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-21 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Michael Jerge, Joseph Pelczar, Justin Downes
@@ -229,6 +241,122 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[FlavourBench: Executable Culinary Reward Maps for Language Model Evaluation and Post-Training](https://arxiv.org/abs/2608.20574)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-20 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Josef Chen, Erim Hayretci
+
+- 🔎 **[DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing](https://arxiv.org/abs/2608.20161)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haoxiang Cao, Jiajiong Cao, Xuanpu Zhang, Changqian Yu, Chaoqun Wang
+
+- 🔎 **[Stopping and Routing LLM Judge Panels](https://arxiv.org/abs/2608.19802)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Bin Zhu, Yi Xie, Yanghui Rao
+
+- 🔎 **[Answer-Level Trust Selection for Physical Vision-Language Reasoning](https://arxiv.org/abs/2608.19807)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Rongyu Yu, Ke Niu, Fengxiang He
+
+- 🔎 **[Interrupting the Loop: Periodic Subject Changes Raise Judged Surprise and Connection in Base Language Models](https://arxiv.org/abs/2608.19893)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Roberto I. Ono Filho
+
+- 🔎 **[Truncate Bad, Upweight Good: BoN-Style Distillation via Rank-Based Classification](https://arxiv.org/abs/2608.19748)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yarin Bar, Yaniv Romano
+
+- 🔎 **[Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning](https://arxiv.org/abs/2608.19181)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zhu Zhang, Jixun Wang, Xiaoang Xu, Xiaorong Wang, Zihan Zhou, Zhiyuan Wang, Shuo Wang, Chaojun Xiao, et al.
+
+- 🔎 **[SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen Liu, Junsu Kim, Zijian Zhou, et al.
+
+- 🔎 **[Competence, Not Accuracy: A Diagnostic for Reference-Free Judge Gates in Skill Optimization](https://arxiv.org/abs/2608.18719)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Chenle Chen, Yangbo Wei, Chao Yao, Shaoqiang Lu, Junhong Qian, Chen Wu, Lei He
+
+- 🔎 **[Continual Reasoning Gym: Diagnosing and Harnessing Shared Reasoning in Continual RLVR](https://arxiv.org/abs/2608.18574)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Lirui Luo, Guoxi Zhang, Hongming Xu, Rongqing Li, Cong Fang, Lifeng Fan
+
+- 🔎 **[Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery](https://arxiv.org/abs/2608.19047)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Alizer Wong, Heng Cui, Yi Tan, Xiongchao Zhan, Liang Lin, Yuxiang Guo, Zhaorong Dai, Zixin Zeng, et al.
+
+- 🔎 **[Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning](https://arxiv.org/abs/2608.19009)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yajie Yin
+
+- 🔎 **[Test-Time Scaling in the Wild: Why Exploitation, Not Exploration, Is the Bottleneck](https://arxiv.org/abs/2608.18931)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Davide Romano, Kanak Raj, Jerrod Parker, Daniele Giofrè
+
+- 🔎 **[Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2608.18787)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haoyu Zhang, Zecui Zeng, Bin Wang, Lusong Li, Liang Lin, Long Cheng
+
+- 🔎 **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jiandong Ding, Huijie Qin, Tiandeng Wu, Yi Cao
+
+- 🔎 **[Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](https://arxiv.org/abs/2608.18324)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jesus Salas
+
+- 🔎 **[Accelerating Visual On-Policy Distillation with Batched Speculative Jacobi Rollouts](https://arxiv.org/abs/2608.18183)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Bingqi Shan, Zhehao Yu, Kenhong Lin, Baoquan Zhang
+
+- 🔎 **[Task-Conditioned Least-Privilege Learning for Executable Terminal and MCP Agents](https://arxiv.org/abs/2608.18351)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Alexander Tu, Michael Tu
+
+- 🔎 **[Efficient RLVR Scheduling via Graph-Structured Online Difficulty Estimation](https://arxiv.org/abs/2608.17941)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zhizhao Liu, Zhiliang Tian, Xi Wang, Zhihua Wen, Yihang Xiong, Zhiquan Lai, Dongsheng Li
+
+- 🔎 **[Write, Execute, Refine: From Skill Followers to Skill Optimizers via Reinforcement Learning from Execution Feedback](https://arxiv.org/abs/2608.17587)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Kang Peng, Zhiwei Zhang, Yichen Zhang, Zezhong Wang, Yiming Du, Geng Tu, Baojun Wang, Bin Liang, et al.
+
+- 🔎 **[Agent Lightning v1.0: Towards Harnessed Agentic RL](https://arxiv.org/abs/2608.17528)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zhiyuan He, Siwei Zhang, Zhiwen Zhou, Yuqing Yang, Yu Kang, Yuge Zhang, Luna K. Qiu, Tin Yan Tsui, et al.
+
+- 🔎 **[TraceSQL: Traceable Answerability Estimation for Reference-Free Text-to-SQL Verification](https://arxiv.org/abs/2608.17795)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Neelesh Kumar Shukla, Debasmita Panda, Srutanik Bhaduri, Aditya Banerjee, Vasu Rangarajan, Viji Krishnamurthy
+
+- 🔎 **[PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance](https://arxiv.org/abs/2608.17220)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Rabimba Karanjai, Yang Lu, Richard Williamson, Hemanth Hm, Prakhar Mehrotra, Lei Xu,  Weidong,  Shi
+
+- 🔎 **[StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding](https://arxiv.org/abs/2608.16320)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Keming Wu, Baoyi Wang, Kaichen Zhang, Xiang An, Zuhao Yang, Sudong Wang, Haowei Zhu, Tingxuan Huang, et al.
+
+- 🔎 **[Uncertainty-Aware Decision Making in Multimodal Large Language Models](https://arxiv.org/abs/2608.17084)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Abderrahmene Boudiaf, Irfan Hussain, Sajid Javed
+
+- 🔎 **[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/abs/2608.16889)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Bingxin Xu, Yuzhang Shang, Emilio Ferrara
+
+- 🔎 **[FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy](https://arxiv.org/abs/2608.16697)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors:  Aniri, Chen Yilin, Jinhe Bi, Junfei Guo, Donglai Ran, Xu Bian, Zengjie Jin, Yujun Wang, et al.
+
+- 🔎 **[OraclePhys: A Systematic Framework for LLM Fine-Tuning on Structural Mechanics](https://arxiv.org/abs/2608.17162)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Mingyu Li, Guorui Song, Jing Lin, Haoqian Wang
+
+- 🔎 **[D2-ScaleAgent: Dual-Dimensional Scaling for Long Document Understanding](https://arxiv.org/abs/2608.16417)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Hao Zhang, Longrong Yang, Lunhao Duan, Ziyang Wang, Qing-Guo Chen, Shanshan Zhao
+
+- 🔎 **[Prior Audit-Repair Context Shifts LLM Verifier Thresholds Toward Leniency](https://arxiv.org/abs/2608.16003)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Parsa Mazaheri, Kasra Mazaheri
 
 - 🔎 **[Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation](https://arxiv.org/abs/2608.15680)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-16 · `academic-query-vote` · `arxiv-backfill`  
@@ -246,6 +374,14 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-15 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Seongyoon Kim
 
+- 🔎 **[VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://arxiv.org/abs/2608.15265)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yansong Ning, Jingwen Ye, Zhongkai Wu, Yang Sun, Yiqin Zhu, Xingyi Li, Weidong Zhang, Hao Liu
+
+- 🔎 **[SCOPE: Score-Isolated Agentic Optimization for Video World Models](https://arxiv.org/abs/2608.15043)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yuhua Jiang, Jiaming Wang, Qingbin Liu, Feifei Gao
+
 - 🔎 **[PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment](https://arxiv.org/abs/2608.14284)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-14 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Yuyang Liu, Yanqing Shen, Ruike Chen, Jifan Zhao, Yuxuan Tian, Yichi Zhang, Tianfeng Long, Zixuan Yin, et al.
@@ -254,9 +390,45 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-14 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Kouki Yuki, Jie Zeng, Kyoko Ogawa, Ryunosuke Ikeda, Yohei Kobashi, Takeshi Kojima, Ikuya Yamada, Yusuke Iwasawa, et al.
 
+- 🔎 **[From Positionwise Confidence to Prefix Scheduling: Verifier Skipping in Speculative Decoding](https://arxiv.org/abs/2608.14787)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haoxuan Luo, Jameson Sandler, Ferdinando Fioretto
+
+- 🔎 **[More Correct Mass, Worse Answers: Why Power Sampling Can Fail and How to Fix It](https://arxiv.org/abs/2608.14420)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haohui Yang, Jiaxing Sun, Xiujun Ma
+
+- 🔎 **[HELIX: Model-Harness Co-evolution for Recursive Self-Improvement](https://arxiv.org/abs/2608.13951)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Tianyu Fan, Chao Huang
+
 - 🔎 **[Towards Socially Compliant Navigation in Deep Reinforcement Learning via Proxemics-Based Reward Modeling](https://arxiv.org/abs/2608.12917)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Takieddine Soualhi, Jacques Saraydaryan, Laetitia Matignon
+
+- 🔎 **[Teach the Magnitude, Not the Direction: Verifier-Bounded Credit Assignment for Multi-Turn Multi-step LLM Agents](https://arxiv.org/abs/2608.13179)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zechuan Wang, Siyuan Lu, Hongxuan Zhang, Linjian Mo, Chenyi Zhuang, Leilei Gan
+
+- 🔎 **[Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents](https://arxiv.org/abs/2608.12764)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haoze Wu, Chuqiao Kuang, Tianyi Zhuang, Xiaoguang Li
+
+- 🔎 **[GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings](https://arxiv.org/abs/2608.13698)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Konstantin Dobler, Federico Scozzafava, Jonathan Janke, Mohamed Ali, Simon Lehnerer
+
+- 🔎 **[SPADE: Speculative Decoding for Precise and Low Cost Distributed Edge Cloud Inference](https://arxiv.org/abs/2608.13076)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Divya Jyoti Bajpai, Kishan Kumar Upadhyay, Manjesh Kumar Hanawal
+
+- 🔎 **[CRAFT: LLM-Based Iterative Refinement for Temporal Reasoning over Clinical Narratives](https://arxiv.org/abs/2608.12779)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Chengyang He, Tahreem Arif, Marko Zivkovic, Lijing Wang, Yue Ning, Ping Wang
+
+- 🔎 **[A Contract-Grade Verifier for LLM-Generated GPU Kernels, and a Native Blackwell Backward for the Gated-Linear-Recurrence Family](https://arxiv.org/abs/2608.12700)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Rishi Shah, Rishav Shrestha
 
 - 🔎 **[REOPD: Reliability-Adaptive Reward Extrapolation for On-Policy Distillation](https://arxiv.org/abs/2608.11698)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `academic-query-vote` · `arxiv-backfill`  
@@ -274,9 +446,85 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-12 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Mariya I. Vasileva
 
+- 🔎 **[Learning from Online User Feedback for Shopping Agents](https://arxiv.org/abs/2608.11604)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haobo Zhang, Kelong Mao, Sulong Xu, Simiu Gu, Zhicheng Dou
+
+- 🔎 **[DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution](https://arxiv.org/abs/2608.12486)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Siheng Xiong, Ali Payani, Oguzhan Gungordu, Faramarz Fekri
+
+- 🔎 **[SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward](https://arxiv.org/abs/2608.12220)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zile Zhou, Huining Yuan, Weichen Zhang, Xinlei Chen, Xiao-ping Zhang
+
+- 🔎 **[Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues](https://arxiv.org/abs/2608.12599)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haoyuan Zhu
+
+- 🔎 **[CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution](https://arxiv.org/abs/2608.12629)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zihao Ye, Yingyi Huang, Hongyi Jin, Bohan Hou, Junru Shao, Zhongming Yu, Jinqi Chen, Meghan Cowan, et al.
+
 - 🔎 **[From Prompting to Behavioral Alignment: Personalized LLM Judges for Recommendation Evaluation](https://arxiv.org/abs/2608.11493)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Alireza S. Ziabari, Kat Ellis, Colleen Chan, Ding Tong
+
+- 🔎 **[Efficient Reinforcement Learning for Long-Horizon Tool-Use Agentic Tasks](https://arxiv.org/abs/2608.10357)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zelei Cheng, Amritansh Mishra, Sambit Sahu, William Campbell
+
+- 🔎 **[ConRub-Med: Reinforcement Learning with Consensus Rubrics for Open-Ended Medical Question Answering](https://arxiv.org/abs/2608.10996)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Taojie Zhu, Yuan Xia, Tao Sun, Yizhi Wang, Yan Chen, Qunshan He, Tian Guan, Jian Wang, et al.
+
+- 🔎 **[PAIR: Pairwise-Aware Inclusion Reweighting for Adaptive Rollout Allocation in RLVR](https://arxiv.org/abs/2608.11368)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Pixel Nomand, Elena Voss, Marcus Hale, Sofia Reyes
+
+- 🔎 **[Dual-Loop Self-Evolution via Verifiable Emotion Feedback for Multi-Turn Empathetic Dialogue](https://arxiv.org/abs/2608.10626)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yi Wei, Shuo Jiang, Huaixia Dou, Jie Zhu, Junhui Li, Lifan Guo, Feng Chen, Chi Zhang
+
+- 🔎 **[VERDICT: Training-Free Step-Wise Verification of Multimodal Reasoning via Disagreement-Aware Consensus](https://arxiv.org/abs/2608.10665)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Rohit Sinha, Kunal Tilaganji, Tanuja Ganu, Nagarajan Natarajan, Amit Sharma, Vineeth Balasubramanian
+
+- 🔎 **[TRACES: A Benchmark for Epistemic Reliability in Scientific Reasoning by LLMs](https://arxiv.org/abs/2608.11415)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Valentin Rodionov, Shamil Assylbekov
+
+- 🔎 **[Governing Agentic AI in FinTech](https://arxiv.org/abs/2608.11344)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Henry Han
+
+- 🔎 **[Self-evolving network verifiers](https://arxiv.org/abs/2608.11340)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Ioannis Protogeros, Tibor Schneider, Laurent Vanbever
+
+- 🔎 **[Terminal Symmetry as a Carrier of Asymmetric Process Knowledge: Statewise Refinement for Anytime Verified Construction](https://arxiv.org/abs/2608.11318)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yi Liu
+
+- 🔎 **[How to Verify Consistency of Probabilistic Claims](https://arxiv.org/abs/2608.11181)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Orr Paradise, Oliver Richardson, Yoshua Bengio, Shafi Goldwasser
+
+- 🔎 **[Hypothesis Frontier: Verifier Guided LLM and Symbolic Search for First-Order Induction](https://arxiv.org/abs/2608.10843)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Serafim Batzoglou
+
+- 🔎 **[Optimal Stopping of Self-Refining Foundation Models](https://arxiv.org/abs/2608.10729)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Kim Hammar, Tansu Alpcan, Emil C. Lupu
+
+- 🔎 **[Conversational Orchestration for Organic 6G](https://arxiv.org/abs/2608.10714)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Masoud Shokrnezhad, Tarik Taleb
+
+- 🔎 **[MERA: Model Evolution and Routing with Skill Adaptation for Agentic Systems at Scale](https://arxiv.org/abs/2608.10333)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yuhang Yao, Zeyu Wang, Wanyi Chen, Tongyun Yang, Yuhang Han, Jie Xiao, Chengke Bao, Tianyi Zhao, et al.
 
 - 🔎 **[Procedural Fairness Failures in RLHF from Preference Averaging](https://arxiv.org/abs/2608.10126)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-10 · `academic-query-vote` · `arxiv-backfill`  
@@ -294,9 +542,89 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-10 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Keyu He, Xuhui Zhou, Maarten Sap
 
+- 🔎 **[Distill Skills into Weights, Not Prompts: Abstract Skills as Privileged Signals for On-Policy Self-Distillation](https://arxiv.org/abs/2608.09826)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yubo Jiang, Fengying Xie, Zhiguo Jiang, Haopeng Zhang
+
+- 🔎 **[Privileged Likelihood Is Not Automatically Value: Three Checks for Token Credit in On-Policy Self-Distillation](https://arxiv.org/abs/2608.09263)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Xuan-Phi Nguyen, Zeyu Leo Liu, Yang Li, Shrey Pandit, Yiran Zhao, Anurag Koul, Shafiq Joty
+
+- 🔎 **[Twin Rollouts: Noise-Coupled Counterfactual Branching in Interactive Video World Models](https://arxiv.org/abs/2608.08982)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yu Ma, Hongli Shi, Xinran Xu
+
+- 🔎 **[SR-OPSD: Self-Referenced On-Policy Self-Distillation](https://arxiv.org/abs/2608.09745)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zhuo Sun, Entong Li, Yanlong Zhao, Xiaoyuan Cheng, Wenxuan Yuan, Kaiyu Li, Che Liu, Huihang Liu, et al.
+
+- 🔎 **[Privileged Solutions or Context-Induced Teacher Behavior? Dissecting On-Policy Self-Distillation](https://arxiv.org/abs/2608.09228)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yuki Ichihara, Naoto Iwase, Mohammad Atif Quamar, Junpei Komiyama
+
+- 🔎 **[Test-Time Scaling for CAD Generation via Verifier-Free Consensus Selection](https://arxiv.org/abs/2608.09706)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Aaron Haag, Altay Kacan, Bertram Fuchs, Oliver Lohse
+
+- 🔎 **[verdi: retrieval is not transfer for continual world model optimization](https://arxiv.org/abs/2608.09537)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Junyu Wu, Shiqin Nie, Youyi Kou, Baohua Yin, Guocai Yao, Qingyu Chen, Jingheng Ma, Shiji Zhou, et al.
+
+- 🔎 **[Consilience for Verifier-Free Test-Time Scaling](https://arxiv.org/abs/2608.09898)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Lecheng Kong, Like Hui, Haitao Mao, Jun Huan
+
+- 🔎 **[Self-Evolving Skills via Surrogate-Guided Solve-and-Reproduce](https://arxiv.org/abs/2608.28638)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jiale Liu, Pinze Ren, Yuqi Xia, Huan Wang, Zhenlin Zhao, Siming Dong
+
+- 🔎 **[Matryoshka Language Model Suites](https://arxiv.org/abs/2608.09703)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Nathan Godey, Yoav Artzi
+
+- 🔎 **[TCS-BENCH: Benchmarking State-of-the-Art Generative AI Theoretical Computer Science Research Ability](https://arxiv.org/abs/2608.09538)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Vincent Cohen-Addad, Dimitris Paparas, Ernest van Wijland, Max Springer, Julien Canitrot-Paradis, Honghao Lin, David Woodruff, Adarsh Kumarappan, et al.
+
+- 🔎 **[Coupled Graph--Policy Distillation for Personalized Medication Safety in Older Adults with Multimorbidity](https://arxiv.org/abs/2608.09443)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zihan Wang, Anglin Liu, Rongyi Wang, Dantong Li, Yi Lu, Siqing Yuan, Hongxia Xu, Zhongtian Long, et al.
+
+- 🔎 **[From Relevance to Execution Utility: Reward-Aware Dynamic Execution Gating for Skill-Based LLM Agents](https://arxiv.org/abs/2608.09168)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Liang He, Jingbo Wen, Hongyu Gu, Hao Li, Haoyu Wang, Yixiong Chen, Kangning Cui, Xilu Wang
+
 - 🔎 **[Multi-Agent Reinforcement Learning via Agent-Specific Preference](https://arxiv.org/abs/2608.08604)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-09 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Ni Mu, Yao Luan, Yiqin Yang, Qing-Shan Jia
+
+- 🔎 **[Improving Generalization Robustness of Multimodal RLVR](https://arxiv.org/abs/2608.08802)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Pengfei Zhou, Zhiwei Tang, Xiaopeng Peng, Chenrui Zhou, Lama Moukheiber, Yixing Ma, Bin Xu, Jiajun Song, et al.
+
+- 🔎 **[LLM Reasoning for Subjective Tasks: Failure Modes, Mitigation, and Dynamic Reasoning Routing](https://arxiv.org/abs/2608.08889)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Juncheng Dong, Ding Tong, Ishan Gupta, Yuyan Wang
+
+- 🔎 **[MedCalc-R1: Knowledge-Guided Reward Framework for Medical Mathematical Reasoning](https://arxiv.org/abs/2608.08623)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haotian Wang, Lian Yan, Xingzhi Yao, Fanshu Meng, Ye He, Jingchi Jiang, Yi Guan
+
+- 🔎 **[Learning from Consensus and Disagreement: Unsupervised On-Policy Self-Distillation with Minority-Trajectory Contrast](https://arxiv.org/abs/2608.08764)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jiaxin Guo, Yanwei Yue, Xuanbo Fan, Chunyu Yang, Yan Zhang
+
+- 🔎 **[PAST: Privileged Adaptation from Complete Student Trajectories for On-Policy Self-Distillation](https://arxiv.org/abs/2608.08726)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yangyang Feng, Zhuoyan Feng, Junlan Chen
+
+- 🔎 **[OmnilingualGAIA2: Evaluating the Multilingual Gap in Frontier AI Agents](https://arxiv.org/abs/2608.08775)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Andrea Caciolai, Pere-Lluís Huguet Cabot, Chierh Cheng, Albert Ventayol-Boada, Gabriel Mejia Gonzalez, Christophe Ropers, Lucas Bandarkar, Sebastian Ruder, et al.
+
+- 🔎 **[AI Evaluation Should Measure Verification Cost, Not Correctness Alone](https://arxiv.org/abs/2608.08709)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Viviana Crescitelli, Generoso Immediato, Fabio Persia, Stefania Costantini
 
 - 🔎 **[Quality-Diversity Stress Tests for Process Reward Models:What Archive Coverage Can and Cannot Certify](https://arxiv.org/abs/2608.08008)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-08 · `academic-query-vote` · `arxiv-backfill`  
@@ -306,6 +634,10 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-08 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Fariya Afrin, Ibne Farabi Shihab
 
+- 🔎 **[Evidence-Grounded Forensic Reasoning for Detecting and Grounding Multi-Modal Media Manipulation](https://arxiv.org/abs/2608.08009)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yichun Yeh, Yiheng Li, Xiaobo Hu, Zhen Lei, Yang Yang
+
 - 🔎 **[Progressive Alignment of Recommender Foundation Model through Multi-Phase Post-Training](https://arxiv.org/abs/2608.06792)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-07 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Oseong Choi, Hoeinn Kim, Jihoon Lee, Byungsoo Kang, Taeyeong Jang
@@ -313,6 +645,34 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.06663)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-07 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Mingguang Chen, Licheng Wang, Bo Qu
+
+- 🔎 **[DiDPO: Diff-in-Diff Policy Optimization for Coding Agent Training](https://arxiv.org/abs/2608.07147)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Xucong Wang, Zhe Zhao, Liheng Yu, Di Wu, Xiaofeng Cao, Pengkun Wang
+
+- 🔎 **[MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents](https://arxiv.org/abs/2608.07068)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zhiyuan Liu, Tinghong Ye, Chenghao Liu, Yizhuo Li, Songfang Huang
+
+- 🔎 **[Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence](https://arxiv.org/abs/2608.06756)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Ying Chen, Weizhen Li, Zhe Hu, Zhenjiang Li, Rui Jiang, Zhifeng Gu, Lihuang Fang, Jiangping Liu, et al.
+
+- 🔎 **[IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents](https://arxiv.org/abs/2608.06735)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Senhao Wang, Chenghao Cai, Haitao Hu, Mingxing Huang, Xingguang Wang, Wenhao Li, Zecheng Lin
+
+- 🔎 **[Debias in Text, Believe Your Eyes: Text-Anchored Cross-Modal Transfer for Visual Counter-Commonsense Reasoning](https://arxiv.org/abs/2608.06938)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Chen Ling, Hanqian Li, Dongnan Liu, Keyu Qian, Jungang Li, Xinglong liu, Shiyi Wang, Xin Dong, et al.
+
+- 🔎 **[Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation](https://arxiv.org/abs/2608.07762)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Sahil Pardasani, Madhusudan Singh
+
+- 🔎 **[EliSeg: Verified Target Construction for Report-Grounded Abnormality Segmentation](https://arxiv.org/abs/2608.07299)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Chengyi Peng, Haoyu Yang, Meixing Shi, Yuxiang Cai, Yankai Jiang
 
 - 🔎 **[Refining Over Resampling: Test-Time Self-Correction for LLM Reasoning](https://arxiv.org/abs/2608.05643)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
@@ -330,6 +690,34 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Gihoon Kim, Jeyoung Lee, Suhan Woo, Sekwon Oh, Minsu Jeon, Hyounsoo Han, Euntai Kim
 
+- 🔎 **[DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](https://arxiv.org/abs/2608.06243)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: ZhiYan Hou, Xinyu Tang, Hongyan An, Jianjin Zhang, Weizhen Wang, Yunyun Han, Gengsheng Li, Xiangzhao Hao, et al.
+
+- 🔎 **[WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://arxiv.org/abs/2608.06474)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Boshui Chen, Huiping Liu, Shaolei Zhang
+
+- 🔎 **[SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries](https://arxiv.org/abs/2608.05604)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Xingyu Tan, Xiaoyang Wang, Qing Liu, Xiwei Xu, Xin Yuan, Liming Zhu, Wenjie Zhang
+
+- 🔎 **[Toward Reliable Context Compression for Long-Horizon Agents: An Empirical Study of Execution Instability](https://arxiv.org/abs/2608.06503)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Guanghui Min, Liang Wu, Mayank Darbari, Chen Chen, Liangjie Hong
+
+- 🔎 **[CyberForge: Verified Vulnerability Injection at Repository Level for Cybersecurity Agent Training](https://arxiv.org/abs/2608.06471)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Amine Lbath, Manan Suri, Aurelien Delaitre, Vadim Okun, Massih-Reza Amini, Ram D. Sriram, Dinesh Manocha
+
+- 🔎 **[CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks](https://arxiv.org/abs/2608.06352)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Fanzhe Meng, Guoxin Chen, Jiale Zhao, Shuang Sun, Zhiyu Lin, Wayne Xin Zhao, Ruihua Song, Ji-Rong Wen, et al.
+
+- 🔎 **[When Self-Evolution Backfires: Pre-Commit Gating against Skill Contamination in LLM Agents](https://arxiv.org/abs/2608.05810)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Linfang Shang, Ming Xu, Yiding Sun, Tianle Xia, Lingxiang Hu, Lan Xu, Ning Zheng
+
 - 🔎 **[Data-DPO: Direct Preference Optimization for Target Model Data Selection in LLM Post-Training](https://arxiv.org/abs/2608.16926)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Peng Sun, Yi Yang, Antong Zhang, Chunxiao Li, Yanbo Wang, Dianbo Liu, xin chen, Kai Yu, et al.
@@ -341,6 +729,190 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Mitigating Rubric Interference in LLM Judges via On-Policy Self-Distillation](https://arxiv.org/abs/2608.14684)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
   Authors: Dingyao Yu, Tong Zhang, Yutao Mou, Yunxiao Zhang, Wei Ye, Shikun Zhang
+
+- 🔎 **[SPOT: Sparse Probing and Outcome Calibration for On-Policy Distillation](https://arxiv.org/abs/2608.04419)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zikun Qu, Min Zhang, Mingze Kong, Zhiwei Shang, Zhengyu Chen, Yikun Ban, Shuang Qiu, Zhongxiang Dai
+
+- 🔎 **[Trident : How to Break Deep Reinforcement Learning Cyber Defenses (Agentic)](https://arxiv.org/abs/2608.04317)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Ryozo Masukawa, Ian Bryant, Armita Kazeminajafabadi, Sanggeon Yun, Hyunwoo Oh, SungHeon Jeong, Nathaniel D. Bastian, Mahdi Imani, et al.
+
+- 🔎 **[Privileged, but Biased: How PI-Conditioned Teachers Break Self-Distillation](https://arxiv.org/abs/2608.04794)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Sarthak Harne, Chinmay Karkar, Yash Pandya, Ahmed Awadallah, Akshay Nambi
+
+- 🔎 **[WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models](https://arxiv.org/abs/2608.04964)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Bohai Gu, Yueyang Yuan, Taiyi Wu, Dazhao Du, Jian Liu, Xiaoyi Pang, Jie Zhang, Xiaocheng Lu, et al.
+
+- 🔎 **[Evaluating Theory of Mind in Reasoning Models: Robustness over Reasoning](https://arxiv.org/abs/2608.04646)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Ian B. de Haan, Peter van der Putten, Max van Duijn
+
+- 🔎 **[Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks](https://arxiv.org/abs/2608.05144)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Boxiu Li, Zimo Wen, Yijia Fan, Chuan Wen, Fan Yang, Hangxi Guo, Jiaao Wu, Jiachen Zhang, et al.
+
+- 🔎 **[ComplexityWorld: Benchmarking Vision-Language Models on Verifiable Visual Decision Making](https://arxiv.org/abs/2608.07584)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Ningxin Pan, Hanyu Li, Yehui Tang
+
+- 🔎 **[SSC: A Verifiable Structured Representation for Bimanual Manipulation Labelling](https://arxiv.org/abs/2608.04425)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yupu Lu, Shuang Wu, Sihan Chen, Ruihua Han, Yichen Zhang, Marcus Kalander, Jia Pan
+
+- 🔎 **[EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement](https://arxiv.org/abs/2608.04968)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jun Nie, Yonggang Zhang, Qianshu Cai, Yiu-ming Cheung, Xinmei Tian, Bo Han
+
+- 🔎 **[Fewer Tokens, Smaller Cache: Reward-Coordinated Efficient Reasoning](https://arxiv.org/abs/2608.04771)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Qiyuan Zhu, Dezhi Li, Pengyu Cheng, Tianle Chen, Jiacheng Wang, Ruijie Shen, Hao Gu, Sida Lin, et al.
+
+- 🔎 **[The Order Is the Guarantee: Verifier-Budgeted Code Deletion with Static-First Learned Proposals](https://arxiv.org/abs/2608.04611)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Ruitong Li, Binjie Guo, Aisheng Mo, Guowei Su, Han Wang, Jie Li, Ru Zhang
+
+- 🔎 **[Relational Response Fields: A General Theory of Black-Box LLM Response Consistency and Recovery](https://arxiv.org/abs/2608.04552)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Song Zichen
+
+- 🔎 **[Enhancing VLM Reward Models Through Structure-Aware Fine-Tuning](https://arxiv.org/abs/2608.03875)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Pyrros Koussios, Chenhao Li, Xin Chen, Andreas Krause
+
+- 🔎 **[When Many Answers Are Valid, Voting Fails: Symbolic Verification for Best-of-K Causal Reasoning in LLMs](https://arxiv.org/abs/2608.03506)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Omatharv Bharat Vaidya, Connor Thomas Jerzak, Zayne Rea Sprague, Fangcong Yin, Nhat Ho
+
+- 🔎 **[When Correct Solutions Repeat: Rarity-Aware Credit Redistribution for GRPO](https://arxiv.org/abs/2608.03467)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Zhe Cao, Miaowen Wen, Fangjiong Chen
+
+- 🔎 **[Don't Peek at the Answer: Outcome-Masked Group Relative Policy Optimization for Label-Free RLVR](https://arxiv.org/abs/2608.03119)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yongshi Ye, Liang Zhang, Yidong Chen, Xiaodong Shi, Biao Fu
+
+- 🔎 **[EvoHIL: Self-Evolving Reward and Flow-Matched Policy Optimization for Robust Human-in-the-Loop Reinforcement Learning](https://arxiv.org/abs/2608.03872)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Shuoqin Zhang, Tongtong Cheng, Xiru Gao, Jinzhuo Peng, Bin Zheng, Jiahao Tu, Ke Wang, Jia Pan, et al.
+
+- 🔎 **[Failure-Informed Image Self-Augmentation for Multimodal Large Language Model Self-Improvement](https://arxiv.org/abs/2608.03733)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Chunyang Jiang, Pingping Zhang, Yuzhi Zhao, Wenao Ma, Zhijian Hou, Mengyang Wu, Yiyang Cai, Senkang Hu, et al.
+
+- 🔎 **[PAMT: Process-Aligned Reinforcement Learning for Multi-Domain Machine Translation](https://arxiv.org/abs/2608.03077)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yongshi Ye, Biao Fu, Chongxuan Huang, Yidong Chen, Xiaodong Shi
+
+- 🔎 **[Perception Before Reasoning: Dynamic Latent Reasoning for Video Understanding and Question Answering](https://arxiv.org/abs/2608.04124)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Haotian Xia, Zilin Xiao, Junbo Zou, Vicente Ordonez, Hanjie Chen
+
+- 🔎 **[Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility](https://arxiv.org/abs/2608.04001)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Mohsen Hariri, Weicong Chen, Nahal Shahini, Vikash Singh, Kai Ye, Amirhossein Samandar, Debargha Ganguly, Sreehari Sankar, et al.
+
+- 🔎 **[The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents](https://arxiv.org/abs/2608.04066)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Mohsen Arjmandi
+
+- 🔎 **[Approximate Speculative Decoding](https://arxiv.org/abs/2608.03447)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yuannuo Feng, Zegang Peng, Yuxin Xie, Yubing Ye, Yizhe Chen, Wenshuai Yao, Wenyong Zhou, Wang Kang
+
+- 🔎 **[AcceptMoE: Commitment-Weighted Self-Sizing Verifier Expert Sets for Efficient MoE Speculative Decoding](https://arxiv.org/abs/2608.02989)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Shuang Liang, Hao Mark Chen, Zhiwen Mo, Qianzhou Wang, Guoyu Li, Lingxiao Ma, Wayne Luk
+
+- 🔎 **[BODHI: Do LLMs Branch Out and Discover Heterogeneous Inferences?](https://arxiv.org/abs/2608.02867)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Soumadeep Saha, Krish Sharma, Akshay Chaturvedi, Nicholas Asher
+
+- 🔎 **[Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning](https://arxiv.org/abs/2608.02831)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Fangxu Yu, Tao Feng, Dehai Min, Zinan Lin, Weijia Xu, Michael Xu, Philip S. Yu, Ge Liu, et al.
+
+- 🔎 **[TCPO: Turn-Level Credit Policy Optimization](https://arxiv.org/abs/2608.01667)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Sicong Liao, Zhi Chen, Yaohua Tang
+
+- 🔎 **[Qwen-CUA: Native Computer Use for (almost) Everything](https://arxiv.org/abs/2608.02352)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Dunjie Lu, Shuai Bai, Tianyi Bai, Sicheng Fan, Chang Gao, Jian Guan, Feng Hu, Mianqiu Huang, et al.
+
+- 🔎 **[Post-Training on Office Work Improves Software Engineering: A Behavioral Account of Cross-Domain Transfer](https://arxiv.org/abs/2608.01604)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Logan Ritchie, Sushant Mehta, Liudas Panavas, Edwin Chen
+
+- 🔎 **[Evaluation Blindness: How Silent Measurement Failures Corrupt AI Systems from Training to Deployment](https://arxiv.org/abs/2608.02786)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Priyanka Bajaj
+
+- 🔎 **[Privacy-Preserving AI Verification via Minimal Information Disclosure](https://arxiv.org/abs/2608.02774)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Sleem Abdelghafar, Gabriel Kulp
+
+- 🔎 **[SearchMaster: Grounded and Regulated Self-Play for Search Agents](https://arxiv.org/abs/2608.01822)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Wentao Tan, Qiong Cao, Jiaqi Wang, Nan Duan
+
+- 🔎 **[Beyond On-Policy Exploration: Integrating External Policy Rollouts for Reinforcement Learning in Diffusion Language Models](https://arxiv.org/abs/2608.01717)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Wonseok Lee, Jimyeong Kim, Jungmin Ko, Wonjong Rhee
+
+- 🔎 **[Does the Competitive Component of Adversarial Self-Play Improve Legal Reasoning? A Controlled Negative Result](https://arxiv.org/abs/2608.01559)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Miseog Shawn Kim
+
+- 🔎 **[Rethinking Personalized Reward Modeling for LLMs under Preference Heterogeneity via Group-Debiased Federated Learning](https://arxiv.org/abs/2608.01556)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Seongyoon Kim, Boryeong Cho, Jihwan Oh, Seokhyun Chung, Se-Young Yun
+
+- 🔎 **[PixVL: Self-Supervised Training of Pixel-Level MLLMs via a Unified Mask--Text Consistency Cycle](https://arxiv.org/abs/2608.01354)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yicheng Xiao, Haoxuan Ma, Caorui Li, Yucheng Wu, Weijie Wang, Haoxiao Wang, Shuang Chen, Fan Yang, et al.
+
+- 🔎 **[PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs](https://arxiv.org/abs/2608.01458)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Priyanka Dey, Brihi Joshi, Preyashi Poddar, Jieyu Zhao, Emilio Ferrara
+
+- 🔎 **[EviSD: Evidence-Conditioned Self-Distillation for Search-Augmented Agents](https://arxiv.org/abs/2608.01359)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Jianan Xie, Xin Sun, Zhongqi Chen, Xing Zheng, Shu Wu, Bowen Song, Liang Wang
+
+- 🔎 **[BiCAA: Bidirectional Credit Assignment for Search-Augmented Agent](https://arxiv.org/abs/2608.01321)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Yibin Huang, Bin Xu, Hailong Cao, Conghui Zhu
+
+- 🔎 **[Judging Is Not Enumerating: Silent Omissions in LLM-Authored Acceptable Sets](https://arxiv.org/abs/2608.01000)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Wenhui Chen, Jianlin Chen, Ziyao Lin, Peiji Long, Chi Man Vong
+
+- 🔎 **[Auditing Discovery Claims: A Two-Sided Criterion for Agentic Science, with the Negative Side Decidable](https://arxiv.org/abs/2608.00981)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Wenhui Chen, Jianlin Chen, Ziyao Lin, Chi Man Vong
+
+- 🔎 **[DiffuseAgent-MI: Distributionally-Grounded,Tool-Integrated Self-Evolving Agents for Faithful Visual Reasoning](https://arxiv.org/abs/2608.00540)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: An Lanji, Dawei Liu, Jin Li, Haoran Xu, Mei Chen, Yu Tian
+
+- 🔎 **[Verifier-Guided Model Discovery for Physical Dynamical Systems with Pretrained Symbolic Transformers](https://arxiv.org/abs/2608.02662)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Farbod Faraji, Francesco Belardinelli
+
+- 🔎 **[Auditable Release Control for Pedagogical Leakage in LLM Tutors](https://arxiv.org/abs/2608.00515)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Nizam Kadir
+
+- 🔎 **[TaPR: Test-Aware Policy Refinement for Feedback-Conditioned Code Generation](https://arxiv.org/abs/2608.00494)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Aofan Liu, Jingxiang Meng, Fangxin Liu, Yongbiao Chen
+
+- 🔎 **[SymboUQ: Symbolic Uncertainty Quantification for Spatial Reasoning in LLMs](https://arxiv.org/abs/2608.00417)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Authors: Dahai Yu, Lin Jiang, Rongchao Xu, Guang Wang
 
 <a id="2025"></a>
 
