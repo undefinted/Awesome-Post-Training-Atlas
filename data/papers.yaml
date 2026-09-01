@@ -1,4 +1,14 @@
 papers:
+  - id: arxiv:2604.28123
+    title: "Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL"
+    date: 2026-04-30
+    direction: multimodal
+    modalities: [vision-language, multimodal-reasoning]
+    tags: [on-policy-distillation, distribution-alignment, rlvr, mixture-of-experts]
+    key_idea: Inserts a black-box response-level distribution-alignment stage between SFT and RLVR using specialized perception and reasoning discriminators.
+    url: https://arxiv.org/abs/2604.28123
+    code: https://github.com/XIAO4579/PRISM
+
   - id: arxiv:1707.06347
     title: Proximal Policy Optimization Algorithms
     date: 2017-07-20
