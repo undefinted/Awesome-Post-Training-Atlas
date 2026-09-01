@@ -1,18 +1,16 @@
-name: Backfill Radar
+name: Direction-Month Coverage Radar
 
 on:
   workflow_dispatch:
     inputs:
-      since:
-        description: Earliest first-publication date to inspect
-        default: "2024-01-01"
-        required: true
-      pages_per_query:
-        description: arXiv result pages advanced per taxonomy query
-        default: "2"
-        required: true
-      max_new:
-        description: Maximum historical candidates to enrich per run
+      year:
+        description: Optional year; blank selects the newest unaudited month
+        required: false
+      month:
+        description: Optional month number when year is supplied
+        required: false
+      max_per_cell:
+        description: Maximum arXiv results inspected per direction-month cell
         default: "300"
         required: true
   schedule:
@@ -32,27 +30,36 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Search academic indexes directly
+      - name: Search direction-month cells directly on arXiv
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
-          SINCE: ${{ inputs.since || '2024-01-01' }}
-          PAGES: ${{ inputs.pages_per_query || '2' }}
-          MAX_NEW: ${{ inputs.max_new || '300' }}
-        run: python -m radar.backfill --since "$SINCE" --pages-per-query "$PAGES" --max-new "$MAX_NEW"
-      - name: Validate discovery inventory
+          YEAR: ${{ inputs.year }}
+          MONTH: ${{ inputs.month }}
+          MAX_PER_CELL: ${{ inputs.max_per_cell || '300' }}
+        run: |
+          if [ -z "$YEAR" ]; then
+            python -m radar.monthly --auto --max-per-cell "$MAX_PER_CELL"
+          elif [ -z "$MONTH" ]; then
+            python -m radar.monthly --year "$YEAR" --max-per-cell "$MAX_PER_CELL"
+          else
+            python -m radar.monthly --year "$YEAR" --month "$MONTH" --max-per-cell "$MAX_PER_CELL"
+          fi
+      - name: Generate and validate all views
         run: |
           python -m radar.render
+          python -m radar.coverage
+          python -m radar.site
           python -m unittest discover -s tests
           python -m radar.render --check
-      - name: Create backfill pull request
+          python -m radar.coverage --check
+          python -m radar.site --check
+      - name: Create coverage pull request
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "radar: cross-check historical paper indexes"
-          branch: radar/weekly-backfill
+          commit-message: "radar: audit direction-month academic coverage"
+          branch: radar/monthly-coverage
           delete-branch: true
-          title: "Radar: weekly historical coverage backfill"
+          title: "Radar: direction-month academic coverage"
           body: |
-            Direct academic-index historical discovery update. Candidates are balanced across taxonomy directions, displayed with a provisional marker in the README, and require curator review before promotion to the curated dataset.
+            Direct arXiv direction × month coverage audit. Review `data/monthly_audit.yaml` for exact cell queries, limits, counts, completion, and errors. All newly visible entries remain explicitly marked as discovery candidates.
           labels: radar,candidates,backfill

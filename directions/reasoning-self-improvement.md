@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**39 papers**: 3 curated and 36 academic discovery candidates.
+**193 papers**: 3 curated and 190 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -119,6 +119,494 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - 🔎 **[Multimodal Language Models Benchmarked Against the NRC Reactor Operator Licensing Examination: Fine-Tuning and Retrieval Strategies](https://arxiv.org/abs/2607.22067)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-24 · `academic-query-vote` · `arxiv-backfill`
+
+## 2025
+
+### December
+
+- 🔎 **[VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents](https://arxiv.org/abs/2512.24851)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion](https://arxiv.org/abs/2602.22226)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning](https://arxiv.org/abs/2512.23412)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-29 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement](https://arxiv.org/abs/2512.21598)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis](https://arxiv.org/abs/2601.00828)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Toward Training Superintelligent Software Agents through Self-Play SWE-RL](https://arxiv.org/abs/2512.18552)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Sophia: A Persistent Agent Framework of Artificial Life](https://arxiv.org/abs/2512.18202)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Reinforcement Learning for Chain of Thought Compression with One-Domain-to-All Generalization](https://arxiv.org/abs/2601.06052)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval](https://arxiv.org/abs/2512.16962)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-18 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning](https://arxiv.org/abs/2512.15662)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-17 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-17 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](https://arxiv.org/abs/2512.15160)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-17 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models](https://arxiv.org/abs/2512.14666)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-16 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Entropy-Reservoir Bregman Projection: An Information-Geometric Unification of Model Collapse](https://arxiv.org/abs/2512.14879)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-16 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Ophiuchus: Incentivizing Tool-augmented "Think with Images" for Joint Medical Segmentation, Understanding and Reasoning](https://arxiv.org/abs/2512.14157)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-16 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](https://arxiv.org/abs/2512.13278)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Differentiable Evolutionary Reinforcement Learning](https://arxiv.org/abs/2512.13399)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Mathematics and Coding are Universal AI Benchmarks](https://arxiv.org/abs/2512.13764)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### November
+
+- 🔎 **[Text-to-SQL as Dual-State Reasoning: Integrating Adaptive Context and Progressive Generation](https://arxiv.org/abs/2511.21402)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[NNGPT: Rethinking AutoML with Large Language Models](https://arxiv.org/abs/2511.20333)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward](https://arxiv.org/abs/2511.20561)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[UniGame: Turning a Unified Multimodal Model Into Its Own Adversary](https://arxiv.org/abs/2511.19413)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Learning to Reason: Training LLMs with GPT-OSS or DeepSeek R1 Reasoning Traces](https://arxiv.org/abs/2511.19333)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Syn-GRPO: Self-Evolving Data Synthesis for MLLM Perception Reasoning](https://arxiv.org/abs/2511.19343)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots](https://arxiv.org/abs/2511.17889)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-22 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Planning with Sketch-Guided Verification for Physics-Aware Video Generation](https://arxiv.org/abs/2511.17450)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[FireScope: Wildfire Risk Raster Prediction with a Chain-of-Thought Oracle](https://arxiv.org/abs/2511.17171)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[OEMA: Ontology-Enhanced Multi-Agent Collaboration Framework for Zero-Shot Clinical Named Entity Recognition](https://arxiv.org/abs/2511.15211)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[$π^{*}_{0.6}$: a VLA That Learns From Experience](https://arxiv.org/abs/2511.14759)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-18 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### October
+
+- 🔎 **[Counteracting Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing](https://arxiv.org/abs/2510.26474)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-30 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-29 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SPICE: Self-Play In Corpus Environments Improves Reasoning](https://arxiv.org/abs/2510.24684)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-28 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Huxley-Gödel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine](https://arxiv.org/abs/2510.21614)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://arxiv.org/abs/2510.21122)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2510.20176)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-23 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[The Mirror Loop: Recursive Non-Convergence in Generative Reasoning Systems](https://arxiv.org/abs/2510.21861)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-23 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-22 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[A Model Can Help Itself: Reward-Free Self-Training for LLM Reasoning](https://arxiv.org/abs/2510.18814)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[BenCao: An Instruction-Tuned Large Language Model for Traditional Chinese Medicine](https://arxiv.org/abs/2510.17415)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SPACeR: Self-Play Anchoring with Centralized Reference Models](https://arxiv.org/abs/2510.18060)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Video Reasoning without Training](https://arxiv.org/abs/2510.17045)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### September
+
+- 🔎 **[Memory-Driven Self-Improvement for Decision Making with Large Language Models](https://arxiv.org/abs/2509.26340)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](https://arxiv.org/abs/2509.24945)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-29 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://arxiv.org/abs/2509.23661)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-28 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[HunyuanImage 3.0 Technical Report](https://arxiv.org/abs/2509.23951)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-28 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs](https://arxiv.org/abs/2509.23196)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-27 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks](https://arxiv.org/abs/2509.23067)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-27 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Self-Improving Neural-Guided Pruning: A Graph Neural Network Framework for Scalable Mixed Bundle Pricing](https://arxiv.org/abs/2509.22557)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[UnderwaterVLA: Dual-brain Vision-Language-Action architecture for Autonomous Underwater Navigation](https://arxiv.org/abs/2509.22441)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning](https://arxiv.org/abs/2509.21113)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Correct Reasoning Paths Visit Shared Decision Pivots](https://arxiv.org/abs/2509.21549)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[PALADIN: Self-Correcting Language Model Agents to Cure Tool-Failure Cases](https://arxiv.org/abs/2509.25238)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[PromptCoT 2.0: Scaling Prompt Synthesis for Large Language Model Reasoning](https://arxiv.org/abs/2509.19894)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving](https://arxiv.org/abs/2509.20109)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[First-Extinction Law for Resampling Processes](https://arxiv.org/abs/2509.20101)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### August
+
+- 🔎 **[LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain](https://arxiv.org/abs/2509.00510)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-30 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Can Structured Templates Facilitate LLMs in Tackling Harder Tasks? : An Exploration of Scaling Laws by Difficulty](https://arxiv.org/abs/2508.19069)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use](https://arxiv.org/abs/2508.18669)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[AgentRAN: An Agentic AI Architecture for Autonomous Control of Open 6G Networks](https://arxiv.org/abs/2508.17778)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SDGO: Self-Discrimination-Guided Optimization for Consistent Safety in Large Language Models](https://arxiv.org/abs/2508.15648)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Trust but Verify! A Survey on Verification Design for Test-time Scaling](https://arxiv.org/abs/2508.16665)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Long Chain-of-Thought Reasoning Across Languages](https://arxiv.org/abs/2508.14828)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Sycophancy under Pressure: Evaluating and Mitigating Sycophantic Bias via Adversarial Dialogues in Scientific QA](https://arxiv.org/abs/2508.13743)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SimGenHOI: Physically Realistic Whole-Body Humanoid-Object Interaction via Generative Modeling and Reinforcement Learning](https://arxiv.org/abs/2508.14120)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-18 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks](https://arxiv.org/abs/2508.10428)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SSRL: Self-Search Reinforcement Learning](https://arxiv.org/abs/2508.10874)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model](https://arxiv.org/abs/2508.10416)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](https://arxiv.org/abs/2508.10433)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### July
+
+- 🔎 **[Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://arxiv.org/abs/2507.16746)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-22 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-22 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry](https://arxiv.org/abs/2507.16280)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-22 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[P3: Prompts Promote Prompting](https://arxiv.org/abs/2507.15675)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification](https://arxiv.org/abs/2507.11662)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Guiding LLM Decision-Making with Fairness Reward Models](https://arxiv.org/abs/2507.11344)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[From Reasoning to Super-Intelligence: A Search-Theoretic Perspective](https://arxiv.org/abs/2507.15865)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Towards Fine-Grained Adaptation of CLIP via a Self-Trained Alignment Score](https://arxiv.org/abs/2507.09615)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[EduFlow: Advancing MLLMs' Problem-Solving Proficiency through Multi-Stage, Multi-Perspective Critique](https://arxiv.org/abs/2507.09374)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-12 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Leanabell-Prover-V2: Verifier-integrated Reasoning for Formal Theorem Proving via Reinforcement Learning](https://arxiv.org/abs/2507.08649)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-11 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Introspection of Thought Helps AI Agents](https://arxiv.org/abs/2507.08664)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-11 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning](https://arxiv.org/abs/2507.08224)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-11 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Self-Improving Model Steering](https://arxiv.org/abs/2507.08967)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-11 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-10 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### June
+
+- 🔎 **[MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](https://arxiv.org/abs/2506.22434)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-27 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](https://arxiv.org/abs/2506.22375)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-27 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[FinCoT: Grounding Chain-of-Thought in Expert Financial Reasoning](https://arxiv.org/abs/2506.16123)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Deep Reinforcement Learning Xiangqi Player with Monte Carlo Tree Search](https://arxiv.org/abs/2506.15880)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-18 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning](https://arxiv.org/abs/2506.15649)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-18 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Socratic RL: A Novel Framework for Efficient Knowledge Acquisition through Iterative Reflection and Viewpoint Distillation](https://arxiv.org/abs/2506.13358)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-16 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Eliciting Reasoning in Language Models with Cognitive Tools](https://arxiv.org/abs/2506.12115)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Feedback Friction: LLMs Struggle to Fully Incorporate External Feedback](https://arxiv.org/abs/2506.11930)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Palpation Alters Auditory Pain Expressions with Gender-Specific Variations in Robopatients](https://arxiv.org/abs/2506.11906)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[AutoGen Driven Multi Agent Framework for Iterative Crime Data Analysis and Prediction](https://arxiv.org/abs/2506.11475)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier](https://arxiv.org/abs/2506.10406)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-12 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-11 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Resa: Transparent Reasoning Models via SAEs](https://arxiv.org/abs/2506.09967)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-11 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### May
+
+- 🔎 **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](https://arxiv.org/abs/2506.00750)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-31 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-29 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[When Models Reason in Your Language: Controlling Thinking Language Comes at the Cost of Accuracy](https://arxiv.org/abs/2505.22888)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-28 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Self-Reflective Reinforcement Learning for Diffusion-based Image Reasoning Generation](https://arxiv.org/abs/2505.22407)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-28 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](https://arxiv.org/abs/2505.21496)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-27 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Continuous Self-Improvement of Large Language Models by Test-time Training with Verifier-Driven Sample Selection](https://arxiv.org/abs/2505.19475)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[HS-STaR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation](https://arxiv.org/abs/2505.19866)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Done Is Better than Perfect: Unlocking Efficient Reasoning by Structured Multi-Turn Decomposition](https://arxiv.org/abs/2505.19788)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions](https://arxiv.org/abs/2505.19949)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### April
+
+- 🔎 **[SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement](https://arxiv.org/abs/2504.20459)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-29 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Learning to Plan Before Answering: Self-Teaching LLMs to Learn Abstract Plans for Problem Solving](https://arxiv.org/abs/2505.00031)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-28 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.01441)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-28 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Contemplative Artificial Intelligence](https://arxiv.org/abs/2504.15125)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation](https://arxiv.org/abs/2504.11669)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](https://arxiv.org/abs/2504.11301)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MiMu: Mitigating Multiple Shortcut Learning Behavior of Transformers](https://arxiv.org/abs/2504.10551)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Iterative Self-Training for Code Generation via Reinforced Re-Ranking](https://arxiv.org/abs/2504.09643)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning](https://arxiv.org/abs/2504.08672)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-11 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program](https://arxiv.org/abs/2504.06606)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-09 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Thinking Out Loud: Do Reasoning Models Know When They're Right?](https://arxiv.org/abs/2504.06564)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-09 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](https://arxiv.org/abs/2504.07079)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-09 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### March
+
+- 🔎 **[Large Language and Reasoning Models are Shallow Disjunctive Reasoners](https://arxiv.org/abs/2503.23487)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-30 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-27 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MARS: Memory-Enhanced Agents with Reflective Self-improvement](https://arxiv.org/abs/2503.19271)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[LiDAR Remote Sensing Meets Weak Supervision: Concepts, Methods, and Perspectives](https://arxiv.org/abs/2503.18384)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Will Pre-Training Ever End? A First Step Toward Next-Generation Foundation MLLMs via Self-Improving Systematic Cognition](https://arxiv.org/abs/2503.12303)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-16 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Applications of Large Language Model Reasoning in Feature Generation](https://arxiv.org/abs/2503.11989)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection](https://arxiv.org/abs/2503.11005)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[VisRL: Intention-Driven Visual Perception via Reinforced Reasoning](https://arxiv.org/abs/2503.07523)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-10 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### February
+
+- 🔎 **[Self-Training Elicits Concise Reasoning in Large Language Models](https://arxiv.org/abs/2502.20122)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-27 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Safe Multi-Agent Navigation guided by Goal-Conditioned Safe Reinforcement Learning](https://arxiv.org/abs/2502.17813)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning](https://arxiv.org/abs/2502.18080)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[A Generative Approach to LLM Harmfulness Mitigation with Red Flag Tokens](https://arxiv.org/abs/2502.16366)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-22 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Can Hallucination Correction Improve Video-Language Alignment?](https://arxiv.org/abs/2502.15079)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics](https://arxiv.org/abs/2502.14333)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[STaR-SQL: Self-Taught Reasoner for Text-to-SQL](https://arxiv.org/abs/2502.13550)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[LLM should think and action as a human](https://arxiv.org/abs/2502.13475)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[The Self-Improvement Paradox: Can Language Models Bootstrap Reasoning Capabilities without External Scaffolding?](https://arxiv.org/abs/2502.13441)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Demystifying Multilingual Chain-of-Thought in Process Reward Modeling](https://arxiv.org/abs/2502.12663)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-18 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Self Iterative Label Refinement via Robust Unlabeled Learning](https://arxiv.org/abs/2502.12565)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-18 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Towards more Contextual Agents: An extractor-Generator Optimization Framework](https://arxiv.org/abs/2502.12926)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-18 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[AURORA:Automated Training Framework of Universal Process Reward Models via Ensemble Prompting and Reverse Verification](https://arxiv.org/abs/2502.11520)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-17 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[InfoQuest: Evaluating Multi-Turn Dialogue Agents for Open-Ended Conversations with Hidden Context](https://arxiv.org/abs/2502.12257)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-17 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Integrating Expert Knowledge into Logical Programs via LLMs](https://arxiv.org/abs/2502.12275)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-17 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[STRIVE: Structured Reasoning for Self-Improvement in Claim Verification](https://arxiv.org/abs/2502.11959)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-17 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### January
+
+- 🔎 **[SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling](https://arxiv.org/abs/2501.19306)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-01-31 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[RealCritic: Towards Effectiveness-Driven Evaluation of Language Model Critiques](https://arxiv.org/abs/2501.14492)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-01-24 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](https://arxiv.org/abs/2501.11425)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-01-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?](https://arxiv.org/abs/2501.11284)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-01-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Are DeepSeek R1 And Other Reasoning Models More Faithful?](https://arxiv.org/abs/2501.08156)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-01-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[DRDT3: Diffusion-Refined Decision Test-Time Training Model](https://arxiv.org/abs/2501.06718)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-01-12 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains](https://arxiv.org/abs/2501.05707)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-01-10 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-01-08 · `direction-month-query` · `arxiv-monthly-backfill`
 
 ## 2024
 

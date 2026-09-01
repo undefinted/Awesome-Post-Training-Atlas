@@ -7,6 +7,8 @@ from pathlib import Path
 
 import yaml
 
+from radar.render import all_records
+
 
 ROOT = Path(__file__).resolve().parents[1]
 START = "<!-- COVERAGE:START -->"
@@ -31,7 +33,7 @@ def month_range(start: str, end: str):
 
 def render_coverage(since: str = "2024-01") -> str:
     directions = load_yaml(ROOT / "config" / "taxonomy.yaml")["directions"]
-    papers = load_yaml(ROOT / "data" / "papers.yaml")["papers"]
+    papers = all_records()
     current = dt.date.today().strftime("%Y-%m")
     counts = Counter((str(paper["date"])[:7], paper["direction"]) for paper in papers)
     short = {item["id"]: item["id"].replace("-", " ") for item in directions}
@@ -48,7 +50,7 @@ def render_coverage(since: str = "2024-01") -> str:
     lines.extend(
         [
             "",
-            "Direction IDs are defined in [TAXONOMY.md](TAXONOMY.md). The Backfill Agent prioritizes recent empty or thin months while preserving the inclusion policy.",
+            "Counts include curated papers and visibly provisional academic discovery candidates. Direction IDs are defined in [TAXONOMY.md](TAXONOMY.md). The monthly Agent audits every direction × month cell directly against arXiv.",
             "",
         ]
     )
@@ -76,4 +78,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

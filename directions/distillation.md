@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**72 papers**: 23 curated and 49 academic discovery candidates.
+**120 papers**: 23 curated and 97 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -237,3 +237,171 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - **[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734)** — Uses one model as both privileged-trace teacher and question-only student, matching their token distributions along student-generated reasoning trajectories.  
   2026-01-26 · `on-policy-self-distillation` · `privileged-information` · `reasoning` · `token-level`
+
+## 2025
+
+### December
+
+- 🔎 **[GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](https://arxiv.org/abs/2512.13043)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[AIR: Post-training Data Selection for Reasoning via Attention Head Influence](https://arxiv.org/abs/2512.13279)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Self-Motivated Growing Neural Network for Adaptive Architecture via Local Structural Plasticity](https://arxiv.org/abs/2512.12713)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input](https://arxiv.org/abs/2512.06571)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-06 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### November
+
+- 🔎 **[FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models](https://arxiv.org/abs/2511.16233)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[LoRaCompass: Robust Reinforcement Learning to Efficiently Search for a LoRa Tag](https://arxiv.org/abs/2511.11190)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Black-Box On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2511.10643)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Practical Policy Distillation for Reinforcement Learning in Radio Access Networks](https://arxiv.org/abs/2511.06563)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-09 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Thinking with DistilQwen: A Tale of Four Distilled Reasoning and Reward Model Series](https://arxiv.org/abs/2511.01354)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[BARD: budget-aware reasoning distillation](https://arxiv.org/abs/2511.01470)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### October
+
+- 🔎 **[LC-Opt: Benchmarking Reinforcement Learning and Agentic AI for End-to-End Liquid Cooling Optimization in Data Centers](https://arxiv.org/abs/2511.00116)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-31 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[MENTOR: Reinforcement Learning via Flexible Teacher-Optimized Rewards for Tool-Use Distillation](https://arxiv.org/abs/2510.18383)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Embodied Navigation with Auxiliary Task of Action Description Prediction](https://arxiv.org/abs/2510.21809)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-21 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Expressive Value Learning for Scalable Offline Reinforcement Learning](https://arxiv.org/abs/2510.08218)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[AdaSwitch: Balancing Exploration and Guidance in Knowledge Distillation via Adaptive Switching](https://arxiv.org/abs/2510.07842)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[More Than One Teacher: Adaptive Multi-Guidance Policy Optimization for Diverse Exploration](https://arxiv.org/abs/2510.02227)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### September
+
+- 🔎 **[SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling](https://arxiv.org/abs/2509.25756)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[ArchGPT: Understanding the World's Architectures with Large Multimodal Models](https://arxiv.org/abs/2509.20858)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-25 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models](https://arxiv.org/abs/2509.15661)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### August
+
+- 🔎 **[One-Step Flow Q-Learning: Addressing the Diffusion Policy Bottleneck in Offline Reinforcement Learning](https://arxiv.org/abs/2508.13904)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-19 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[A robust and compliant robotic assembly control strategy for batch precision assembly task with uncertain fit types and fit amounts](https://arxiv.org/abs/2508.12296)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-17 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[A Curriculum Learning Approach to Reinforcement Learning: Leveraging RAG for Multimodal Question Answering](https://arxiv.org/abs/2508.10337)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning](https://arxiv.org/abs/2508.09883)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-13 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Value Function Initialization for Knowledge Transfer and Jump-start in Deep Reinforcement Learning](https://arxiv.org/abs/2508.09277)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-12 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs](https://arxiv.org/abs/2508.04201)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-06 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### July
+
+- 🔎 **[FairReason: Balancing Reasoning and Social Bias in MLLMs](https://arxiv.org/abs/2507.23067)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-30 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation](https://arxiv.org/abs/2507.22653)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-30 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models](https://arxiv.org/abs/2507.06057)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-08 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess](https://arxiv.org/abs/2507.00726)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-01 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design](https://arxiv.org/abs/2507.00445)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-01 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### June
+
+- 🔎 **[Decentralized Consensus Inference-based Hierarchical Reinforcement Learning for Multi-Constrained UAV Pursuit-Evasion Game](https://arxiv.org/abs/2506.18126)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-22 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Debate, Reflect, and Distill: Multi-Agent Feedback with Tree-Structured Preference Optimization for Efficient Language Model Enhancement](https://arxiv.org/abs/2506.03541)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-04 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning](https://arxiv.org/abs/2506.02208)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-02 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### May
+
+- 🔎 **[How Ensembles of Distilled Policies Improve Generalisation in Reinforcement Learning](https://arxiv.org/abs/2505.16581)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-22 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Distilling Realizable Students from Unrealizable Teachers](https://arxiv.org/abs/2505.09546)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-02 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Towards Cognitive Collaborative Robots: Semantic-Level Integration and Explainable Control for Human-Centric Cooperation](https://arxiv.org/abs/2505.03815)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-02 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### April
+
+- 🔎 **[LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning](https://arxiv.org/abs/2504.21738)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-30 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Densely Cluttered Environments](https://arxiv.org/abs/2504.04516)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-04-06 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### March
+
+- 🔎 **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](https://arxiv.org/abs/2503.20384)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-26 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[From Abstraction to Reality: DARPA's Vision for Robust Sim-to-Real Autonomy](https://arxiv.org/abs/2503.11007)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-14 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Refined Policy Distillation: From VLA Generalists to RL Experts](https://arxiv.org/abs/2503.05833)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-06 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-04 · `direction-month-query` · `arxiv-monthly-backfill`
+
+### February
+
+- 🔎 **[Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids](https://arxiv.org/abs/2502.20396)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-27 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping](https://arxiv.org/abs/2502.08054)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-12 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Exploring the Generalizability of Geomagnetic Navigation: A Deep Reinforcement Learning approach with Policy Distillation](https://arxiv.org/abs/2502.05069)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-07 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[Towards Large-Scale In-Context Reinforcement Learning by Meta-Training in Randomized Worlds](https://arxiv.org/abs/2502.02869)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-05 · `direction-month-query` · `arxiv-monthly-backfill`
+
+- 🔎 **[FedHPD: Heterogeneous Federated Reinforcement Learning via Policy Distillation](https://arxiv.org/abs/2502.00870)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-02 · `direction-month-query` · `arxiv-monthly-backfill`
