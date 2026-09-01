@@ -1,4 +1,4 @@
-generated_at: '2026-09-01T12:01:48.757310+00:00'
+generated_at: '2026-09-01T12:24:21.762642+00:00'
 window:
   since: '2024-01-01'
   until: '2026-09-01'
@@ -8,9 +8,9 @@ queries:
 - key: supervised-adaptation:0
   direction: supervised-adaptation
   query: (all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: supervised-adaptation:1
   direction: supervised-adaptation
@@ -22,199 +22,199 @@ queries:
 - key: supervised-adaptation:2
   direction: supervised-adaptation
   query: (all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: preference-alignment:3
   direction: preference-alignment
   query: (all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: preference-alignment:4
   direction: preference-alignment
   query: (all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: preference-alignment:5
   direction: preference-alignment
   query: (all:"online preference" OR all:"self-reward" OR all:"constitutional AI")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
-  reached_since: false
+  start_offset: 0
+  records_scanned: 95
+  records_in_window: 83
+  reached_since: true
 - key: reward-verifiers:6
   direction: reward-verifiers
   query: (all:"reward model" OR all:"preference model" OR all:"LLM judge")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: reward-verifiers:7
   direction: reward-verifiers
   query: (all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning OR all:model)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: reward-verifiers:8
   direction: reward-verifiers
   query: (all:"process supervision" OR all:"step-level reward" OR all:"generative reward model")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: reinforcement-learning:9
   direction: reinforcement-learning
   query: (all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: reinforcement-learning:10
   direction: reinforcement-learning
   query: (all:GRPO OR all:PPO OR all:"policy optimization") AND (all:"language model" OR all:"foundation model")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: reinforcement-learning:11
   direction: reinforcement-learning
   query: (all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: distillation:12
   direction: distillation
   query: (all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: distillation:13
   direction: distillation
   query: (all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged distillation")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: distillation:14
   direction: distillation
   query: (all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal))
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: reasoning-self-improvement:15
   direction: reasoning-self-improvement
   query: (all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: reasoning-self-improvement:16
   direction: reasoning-self-improvement
   query: (all:"self-correction" OR all:"iterative refinement" OR all:"self-evolving") AND all:training
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: reasoning-self-improvement:17
   direction: reasoning-self-improvement
   query: (all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: agentic:18
   direction: agentic
   query: (all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: agentic:19
   direction: agentic
   query: (all:"tool use" OR all:"web agent" OR all:"computer use") AND (all:training OR all:reinforcement)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: agentic:20
   direction: agentic
   query: (all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: agentic:21
   direction: agentic
   query: (all:"coding agent" OR all:"software agent") AND (all:training OR all:reward)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
-  reached_since: false
+  start_offset: 0
+  records_scanned: 112
+  records_in_window: 109
+  reached_since: true
 - key: multimodal:22
   direction: multimodal
   query: (all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: multimodal:23
   direction: multimodal
   query: (all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement learning" OR all:RLHF OR all:RLVR)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: multimodal:24
   direction: multimodal
   query: (all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
-  reached_since: false
+  start_offset: 0
+  records_scanned: 135
+  records_in_window: 103
+  reached_since: true
 - key: generative-media:25
   direction: generative-media
   query: (all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: generative-media:26
   direction: generative-media
   query: (all:"diffusion language model" OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
-  reached_since: false
+  start_offset: 0
+  records_scanned: 28
+  records_in_window: 27
+  reached_since: true
 - key: generative-media:27
   direction: generative-media
   query: (all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR all:RLHF OR all:"human feedback")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
-  reached_since: false
+  start_offset: 0
+  records_scanned: 67
+  records_in_window: 54
+  reached_since: true
 - key: embodied-vla:28
   direction: embodied-vla
   query: (all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
+  start_offset: 300
+  records_scanned: 200
+  records_in_window: 200
   reached_since: false
 - key: embodied-vla:29
   direction: embodied-vla
   query: (all:robot OR all:robotic OR all:"autonomous driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")
-  start_offset: 100
-  records_scanned: 100
-  records_in_window: 100
-  reached_since: false
+  start_offset: 0
+  records_scanned: 200
+  records_in_window: 196
+  reached_since: true
 - key: embodied-vla:30
   direction: embodied-vla
   query: (all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement OR all:adaptation)
@@ -223,6 +223,6 @@ queries:
   records_in_window: 55
   reached_since: true
 summary:
-  records_scanned: 3002
-  records_in_window: 2999
-  unique_candidates_written: 180
+  records_scanned: 5339
+  records_in_window: 5271
+  unique_candidates_written: 480
