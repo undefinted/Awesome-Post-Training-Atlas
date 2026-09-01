@@ -1,39 +1,25 @@
-# Discovery coverage
+# Academic discovery coverage
 
-Last indexed: **2026-09-01**.
+Last run: **2026-09-01T12:01:48.757310+00:00**.
+Search window: **2024-01-01 through 2026-09-01**.
 
-This report audits discoverability, not final inclusion. An item can be found in multiple curated sources and still require scope and metadata review.
+Discovery is performed directly against academic indexes. Third-party GitHub lists are not ingestion sources and do not affect relevance or priority.
 
-- Unique arXiv IDs found: **614**
-- Already curated: **15**
-- Already queued or rejected: **180**
-- Newly discovered backlog: **419**
+- arXiv records scanned this run: **3002**
+- query matches inside the window: **2999**
+- unresolved deduplicated candidates: **180**
 
-## Source intersection
-
-| Source | Unique IDs referenced |
+| Suggested direction | Candidates |
 |---|---:|
-| `multimodal-post-training` | 161 |
-| `mbzuai-llm-post-training` | 136 |
-| `diffusion-language-post-training` | 135 |
-| `preference-learning` | 98 |
-| `autonomous-driving-post-training` | 81 |
-| `on-policy-post-training` | 17 |
+| `distillation` | 29 |
+| `agentic` | 29 |
+| `preference-alignment` | 21 |
+| `reasoning-self-improvement` | 21 |
+| `multimodal` | 18 |
+| `reward-verifiers` | 18 |
+| `reinforcement-learning` | 16 |
+| `generative-media` | 11 |
+| `supervised-adaptation` | 10 |
+| `embodied-vla` | 7 |
 
-## Direction-hint coverage
-
-| Direction hint | Records |
-|---|---:|
-| `multimodal` | 208 |
-| `reasoning-self-improvement` | 143 |
-| `preference-alignment` | 125 |
-| `supervised-adaptation` | 90 |
-| `reinforcement-learning` | 69 |
-| `generative-media` | 67 |
-| `embodied-vla` | 65 |
-| `distillation` | 49 |
-| `reward-verifiers` | 45 |
-| `unclassified` | 30 |
-| `agentic` | 27 |
-
-The weekly Backfill Radar prioritizes records supported by multiple sources, then balances review slots across direction hints. Exact inclusion remains governed by [TAXONOMY.md](TAXONOMY.md).
+Exact queries, offsets, and per-query result counts are recorded in `data/search_audit.yaml`; pagination state is stored in `data/search_cursors.yaml`.

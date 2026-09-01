@@ -29,8 +29,7 @@ See [TAXONOMY.md](TAXONOMY.md) for inclusion criteria and boundary cases.
 The generated [coverage matrix](COVERAGE.md) makes sparse months and directions
 visible instead of hiding gaps behind a large total paper count.
 The [discovery coverage report](DISCOVERY_COVERAGE.md) separately records the
-cross-source historical backlog, so "not yet curated" is not mistaken for
-"not discovered."
+academic-search window, query counts, and unresolved backlog.
 
 ## Contents
 
@@ -295,12 +294,12 @@ The repository contains two complementary discovery agents:
 
 1. the Daily Radar searches 31 direction-specific arXiv queries with pagination
    and adds Hugging Face Daily Papers popularity and code signals;
-2. the Weekly Backfill Radar cross-checks seven maintained specialist indexes,
-   currently exposing more than 600 unique arXiv records for historical review;
+2. the Weekly Backfill Radar walks paginated arXiv results over a declared
+   historical date range and persists a cursor for every taxonomy query;
 3. candidate slots are balanced per direction so a high-volume topic cannot
    starve multimodal, agentic, generative-media, or embodied work;
 4. both agents deduplicate curated, rejected, and already queued records and
-   preserve source provenance;
+   preserve the academic query and primary-source provenance;
 5. an optional LLM judges scope, classifies direction, and drafts a
    one-sentence key idea;
 6. each run opens a reviewable pull request instead of silently modifying the

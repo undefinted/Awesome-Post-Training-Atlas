@@ -15,20 +15,22 @@ itself.
 | GitHub | Implementation verification | 1–7 days | official repository and activity |
 
 The repository-native Daily Radar fetches arXiv and Hugging Face every day.
-The Weekly Backfill Radar also extracts arXiv identities from the maintained
-specialist indexes declared in `config/curated_sources.yaml`. OpenReview and
-Semantic Scholar remain metadata and venue-resolution sources used during
-curation; they are not yet represented as native bulk-ingestion adapters.
+The Weekly Backfill Radar queries arXiv directly, walks older result pages with
+persistent per-query cursors, and records its exact date window, offsets, and
+result counts. OpenReview and Semantic Scholar are used to resolve conference
+status, versions, and citation relations during curation.
 
 ## Historical cross-checks
 
-Specialist awesome lists are treated as discovery evidence, never copied as
-ground truth. The source ID, direction hints, and intersection count are stored
-for each arXiv record in `data/discovery_inventory.yaml`. The generated
-`DISCOVERY_COVERAGE.md` report distinguishes curated, previously decided, and
-unreviewed records. This makes historical incompleteness measurable and lets
-the Backfill Radar prioritize multi-source records without allowing popularity
-to bypass the inclusion policy.
+Third-party awesome lists are not ingestion sources, do not increase a paper's
+score, and are not cited as research evidence. They may be used manually only
+as a recall audit: if they reveal a possible omission, the Agent must rediscover
+and verify the work through arXiv, OpenReview, a publisher page, or an official
+author project page before it enters any candidate queue.
+
+The generated `DISCOVERY_COVERAGE.md` summarizes the academic search. Exact
+queries and counts live in `data/search_audit.yaml`; resumable pagination
+offsets live in `data/search_cursors.yaml`.
 
 ## Community sources
 

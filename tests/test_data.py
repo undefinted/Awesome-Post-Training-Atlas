@@ -32,12 +32,6 @@ class PaperDataTests(unittest.TestCase):
             self.assertFalse(required - set(signal), signal.get("id"))
             self.assertTrue(str(signal["url"]).startswith("https://"))
 
-    def test_curated_source_hints_are_valid(self):
-        payload = yaml.safe_load((ROOT / "config" / "curated_sources.yaml").read_text(encoding="utf-8"))
-        for source in payload["sources"]:
-            self.assertIn(source["primary_hint"], self.directions | {"unclassified"})
-            self.assertTrue(set(source["direction_hints"]) <= self.directions)
-
     def test_candidate_ids_are_unique(self):
         payload = yaml.safe_load((ROOT / "data" / "candidates.yaml").read_text(encoding="utf-8")) or {"papers": []}
         ids = [paper["id"].lower() for paper in payload.get("papers", [])]
