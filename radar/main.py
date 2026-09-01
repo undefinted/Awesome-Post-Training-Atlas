@@ -9,6 +9,7 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from collections import defaultdict
 from pathlib import Path
 
 import yaml
@@ -44,11 +45,23 @@ def build_search(query: str, categories: list[str]) -> str:
     return f"({query}) AND ({category_clause})"
 
 
-def fetch_query(query: str, categories: list[str], maximum: int) -> list[dict]:
+def urlopen_with_retry(request: urllib.request.Request, timeout: int = 45, attempts: int = 4):
+    error = None
+    for attempt in range(attempts):
+        try:
+            return urllib.request.urlopen(request, timeout=timeout)
+        except Exception as exc:  # network services occasionally throttle or return 5xx
+            error = exc
+            if attempt + 1 < attempts:
+                time.sleep(2 ** attempt)
+    raise error
+
+
+def fetch_query_page(query: str, categories: list[str], start: int, maximum: int) -> list[dict]:
     params = urllib.parse.urlencode(
         {
             "search_query": build_search(query, categories),
-            "start": 0,
+            "start": start,
             "max_results": maximum,
             "sortBy": "submittedDate",
             "sortOrder": "descending",
@@ -58,7 +71,7 @@ def fetch_query(query: str, categories: list[str], maximum: int) -> list[dict]:
         f"{ARXIV_API}?{params}",
         headers={"User-Agent": "Awesome-Post-Training-Atlas/0.1 (GitHub paper radar)"},
     )
-    with urllib.request.urlopen(request, timeout=45) as response:
+    with urlopen_with_retry(request) as response:
         root = ET.fromstring(response.read())
     papers = []
     for entry in root.findall("atom:entry", ATOM):
@@ -83,13 +96,24 @@ def fetch_query(query: str, categories: list[str], maximum: int) -> list[dict]:
     return papers
 
 
+def fetch_query(query: str, categories: list[str], maximum: int, page_size: int = 100) -> list[dict]:
+    papers = []
+    for start in range(0, maximum, page_size):
+        page = fetch_query_page(query, categories, start, min(page_size, maximum - start))
+        papers.extend(page)
+        if len(page) < min(page_size, maximum - start):
+            break
+        time.sleep(3)
+    return papers
+
+
 def fetch_huggingface_daily(days: int, limit: int) -> list[dict]:
     cutoff = (dt.date.today() - dt.timedelta(days=days)).isoformat()
     request = urllib.request.Request(
         f"{HF_DAILY_API}?{urllib.parse.urlencode({'limit': limit})}",
         headers={"User-Agent": "Awesome-Post-Training-Atlas/0.1 (GitHub paper radar)"},
     )
-    with urllib.request.urlopen(request, timeout=45) as response:
+    with urlopen_with_retry(request) as response:
         payload = json.loads(response.read())
     papers = []
     for item in payload:
@@ -126,6 +150,36 @@ def merge_source_record(target: dict, incoming: dict) -> None:
     for key in ("huggingface", "code"):
         if incoming.get(key):
             target[key] = incoming[key]
+    target["direction_hints"] = sorted(
+        set(target.get("direction_hints", [])) | set(incoming.get("direction_hints", []))
+    )
+
+
+def balanced_shortlist(papers: list[dict], config: dict) -> list[dict]:
+    """Keep one broad query or hot topic from starving smaller directions."""
+    ordered = sorted(papers, key=lambda paper: (paper["date"], paper["rule_score"]), reverse=True)
+    per_direction = int(config["max_candidates_per_direction"])
+    total = int(config["max_candidates_per_run"])
+    selected = []
+    selected_ids = set()
+    counts = defaultdict(int)
+    for paper in ordered:
+        hints = paper.get("direction_hints") or ["unclassified"]
+        available = [hint for hint in hints if counts[hint] < per_direction]
+        if not available:
+            continue
+        bucket = min(available, key=lambda hint: counts[hint])
+        counts[bucket] += 1
+        selected.append(paper)
+        selected_ids.add(paper["id"])
+        if len(selected) == total:
+            return selected
+    for paper in ordered:
+        if paper["id"] not in selected_ids:
+            selected.append(paper)
+            if len(selected) == total:
+                break
+    return selected
 
 
 def rule_score(paper: dict, config: dict) -> tuple[int, list[str]]:
@@ -222,12 +276,24 @@ def discover(days: int) -> list[dict]:
     known = existing_ids()
     cutoff = (dt.date.today() - dt.timedelta(days=days)).isoformat()
     found: dict[str, dict] = {}
-    for index, query in enumerate(radar["arxiv"]["queries"]):
+    for index, spec in enumerate(radar["arxiv"]["queries"]):
         if index:
             time.sleep(3)
-        for paper in fetch_query(query, radar["arxiv"]["categories"], radar["arxiv"]["max_results_per_query"]):
+        query = spec["query"] if isinstance(spec, dict) else spec
+        direction = spec.get("direction") if isinstance(spec, dict) else None
+        for paper in fetch_query(
+            query,
+            radar["arxiv"]["categories"],
+            radar["arxiv"]["max_results_per_query"],
+            radar["arxiv"].get("page_size", 100),
+        ):
+            if direction:
+                paper["direction_hints"] = [direction]
             if paper["date"] >= cutoff and paper["id"] not in known:
-                found[paper["id"]] = paper
+                if paper["id"] in found:
+                    merge_source_record(found[paper["id"]], paper)
+                else:
+                    found[paper["id"]] = paper
     if radar.get("huggingface_daily", {}).get("enabled"):
         for paper in fetch_huggingface_daily(days, radar["huggingface_daily"]["limit"]):
             if paper["id"] in known:
@@ -243,8 +309,7 @@ def discover(days: int) -> list[dict]:
             paper["rule_score"] = score
             paper["rule_reasons"] = reasons
             shortlisted.append(paper)
-    shortlisted.sort(key=lambda paper: (paper["date"], paper["rule_score"]), reverse=True)
-    shortlisted = shortlisted[: radar["filter"]["max_candidates_per_run"]]
+    shortlisted = balanced_shortlist(shortlisted, radar["filter"])
     assessments: dict[str, dict] = {}
     size = radar["llm"]["batch_size"]
     for offset in range(0, len(shortlisted), size):
@@ -279,7 +344,7 @@ def render_candidate_digest(papers: list[dict]) -> str:
         direction = paper.get("direction", "needs-review")
         sources = ", ".join(paper.get("source_signals", []))
         hf = paper.get("huggingface", {})
-        signal = f"{paper['rule_score']}"
+        signal = str(paper.get("rule_score", paper.get("review_priority", "-")))
         if hf:
             signal += f" / HF ↑{hf.get('upvotes', 0)}"
         lines.append(f"| {paper['date']} | [{title}]({paper['url']}) | {sources} | {signal} | `{direction}` |")

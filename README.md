@@ -28,6 +28,9 @@ VLMs/MLLMs, agents, diffusion and video models, and embodied/VLA systems.
 See [TAXONOMY.md](TAXONOMY.md) for inclusion criteria and boundary cases.
 The generated [coverage matrix](COVERAGE.md) makes sparse months and directions
 visible instead of hiding gaps behind a large total paper count.
+The [discovery coverage report](DISCOVERY_COVERAGE.md) separately records the
+cross-source historical backlog, so "not yet curated" is not mistaken for
+"not discovered."
 
 ## Contents
 
@@ -288,15 +291,20 @@ visible instead of hiding gaps behind a large total paper count.
 
 ## Paper Radar
 
-The repository contains a lightweight discovery agent that:
+The repository contains two complementary discovery agents:
 
-1. searches the latest 48 hours of arXiv submissions every day;
-2. adds Hugging Face Daily Papers popularity and code signals;
-3. applies transparent keyword filters and deduplicates known decisions;
-4. optionally uses an LLM to judge scope, classify direction, and draft a
+1. the Daily Radar searches 31 direction-specific arXiv queries with pagination
+   and adds Hugging Face Daily Papers popularity and code signals;
+2. the Weekly Backfill Radar cross-checks seven maintained specialist indexes,
+   currently exposing more than 600 unique arXiv records for historical review;
+3. candidate slots are balanced per direction so a high-volume topic cannot
+   starve multimodal, agentic, generative-media, or embodied work;
+4. both agents deduplicate curated, rejected, and already queued records and
+   preserve source provenance;
+5. an optional LLM judges scope, classifies direction, and drafts a
    one-sentence key idea;
-5. writes candidates to `data/candidates.yaml`;
-6. opens a reviewable daily pull request instead of modifying the curated list.
+6. each run opens a reviewable pull request instead of silently modifying the
+   curated list.
 
 It works without an API key. To enable semantic triage, add `OPENAI_API_KEY`
 as a GitHub Actions secret. `OPENAI_MODEL` is optional.
@@ -304,6 +312,7 @@ as a GitHub Actions secret. `OPENAI_MODEL` is optional.
 ```bash
 python -m pip install -r requirements.txt
 python -m radar.main --days 7
+python -m radar.backfill --max-new 180
 python -m radar.render --check
 python -m radar.coverage --check
 python -m unittest discover -s tests

@@ -1,0 +1,46 @@
+name: Backfill Radar
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_new:
+        description: Maximum historical candidates to enrich per run
+        default: "180"
+        required: true
+  schedule:
+    - cron: "47 3 * * 0"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Cross-check curated indexes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          MAX_NEW: ${{ inputs.max_new || '180' }}
+        run: python -m radar.backfill --max-new "$MAX_NEW"
+      - name: Validate discovery inventory
+        run: python -m unittest discover -s tests
+      - name: Create backfill pull request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "radar: cross-check historical paper indexes"
+          branch: radar/weekly-backfill
+          delete-branch: true
+          title: "Radar: weekly historical coverage backfill"
+          body: |
+            Cross-source historical discovery update. Candidates are balanced across taxonomy directions and require curator review before entering the main atlas.
+          labels: radar,candidates,backfill

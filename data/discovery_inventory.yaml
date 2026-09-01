@@ -1,0 +1,4003 @@
+papers:
+- id: arxiv:1603.07396
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:1707.06347
+  sources:
+  - preference-learning
+  direction_hints:
+  - reinforcement-learning
+  status: curated
+- id: arxiv:1902.09506
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:1903.11027
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  status: unreviewed
+- id: arxiv:2003.10286
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2007.00398
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2107.03006
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2203.02155
+  sources:
+  - mbzuai-llm-post-training
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  - unclassified
+  status: curated
+- id: arxiv:2203.14465
+  sources:
+  - on-policy-post-training
+  - preference-learning
+  direction_hints:
+  - distillation
+  - reasoning-self-improvement
+  status: curated
+- id: arxiv:2206.02336
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2207.14000
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2209.09513
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2210.00045
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2210.08933
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2211.14275
+  sources:
+  - mbzuai-llm-post-training
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: decided
+- id: arxiv:2212.08073
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: curated
+- id: arxiv:2212.09142
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2212.10560
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: curated
+- id: arxiv:2301.04150
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2302.02676
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2302.06476
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2302.14520
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2303.11366
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2303.16199
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2303.16634
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2304.03442
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  status: unreviewed
+- id: arxiv:2304.04989
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2304.05302
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2304.06767
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2304.08485
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: curated
+- id: arxiv:2304.10592
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2304.14178
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2304.15010
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2305.00921
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2305.02301
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2305.03726
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2305.06500
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2305.07895
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2305.10355
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2305.10601
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2305.12377
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2305.14671
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2305.14992
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2305.15023
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2305.17926
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2305.18290
+  sources:
+  - on-policy-post-training
+  - preference-learning
+  direction_hints:
+  - distillation
+  - preference-alignment
+  - reward-verifiers
+  status: curated
+- id: arxiv:2305.19555
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2305.20050
+  sources:
+  - mbzuai-llm-post-training
+  - on-policy-post-training
+  - preference-learning
+  direction_hints:
+  - distillation
+  - reward-verifiers
+  status: curated
+- id: arxiv:2306.01200
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2306.01693
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2306.02561
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2306.05087
+  sources:
+  - preference-learning
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2306.05372
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2306.05685
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2306.06070
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - agentic
+  status: unreviewed
+- id: arxiv:2306.07207
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2306.13394
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2306.17492
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2307.02762
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2307.04349
+  sources:
+  - preference-learning
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2307.06281
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2307.14936
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2307.15217
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2307.16125
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2308.01825
+  sources:
+  - preference-learning
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2308.01862
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2308.02490
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2308.08998
+  sources:
+  - on-policy-post-training
+  - preference-learning
+  direction_hints:
+  - distillation
+  - preference-alignment
+  status: decided
+- id: arxiv:2308.11749
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2308.12219
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2308.12714
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2308.12966
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2309.00267
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reinforcement-learning
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2309.02144
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2309.03905
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2309.05519
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2309.06657
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2309.07124
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2309.10444
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2309.14525
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: curated
+- id: arxiv:2309.15028
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2309.16240
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2309.17179
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.02255
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2310.02743
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2310.03708
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.03744
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2310.05126
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2310.05470
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.07641
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.08491
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.09430
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2310.09478
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2310.09520
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2310.10505
+  sources:
+  - preference-learning
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2310.11593
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.12036
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.14566
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.16271
+  sources:
+  - preference-learning
+  direction_hints:
+  - distillation
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.16834
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2310.17022
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2310.17680
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2311.03079
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2311.04155
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2311.05608
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2311.06607
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2311.07397
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2311.07575
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2311.09724
+  sources:
+  - preference-learning
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2311.11829
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2311.12793
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2311.16502
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2311.16839
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2312.00784
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2312.00849
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2312.01552
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2312.04567
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2312.06585
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2312.07533
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2312.08935
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2312.10665
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2312.11805
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2312.14238
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2312.16886
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2401.00243
+  sources:
+  - preference-learning
+  direction_hints:
+  - reinforcement-learning
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2401.04925
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2401.06838
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2401.08417
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2401.10020
+  sources:
+  - on-policy-post-training
+  - preference-learning
+  direction_hints:
+  - distillation
+  - preference-alignment
+  status: curated
+- id: arxiv:2401.10935
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - agentic
+  status: unreviewed
+- id: arxiv:2401.12086
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2401.12187
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2401.15947
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2401.16158
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  status: unreviewed
+- id: arxiv:2401.16160
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2401.16635
+  sources:
+  - preference-learning
+  direction_hints:
+  - reinforcement-learning
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2401.16657
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.00856
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.01105
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: unreviewed
+- id: arxiv:2402.01306
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: curated
+- id: arxiv:2402.01391
+  sources:
+  - preference-learning
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2402.01878
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.02207
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - preference-alignment
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2402.02416
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.02992
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.03300
+  sources:
+  - mbzuai-llm-post-training
+  - on-policy-post-training
+  - preference-learning
+  direction_hints:
+  - distillation
+  - reasoning-self-improvement
+  status: curated
+- id: arxiv:2402.03746
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2402.06147
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.07069
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2402.07754
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2402.09320
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.11176
+  sources:
+  - preference-learning
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2402.12185
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2402.13228
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.14843
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2402.15896
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2402.16030
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2402.19085
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2403.01197
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2403.03003
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2403.04652
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2403.05525
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2403.06764
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2403.07508
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2403.07691
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2403.09583
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2403.09629
+  sources:
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  status: curated
+- id: arxiv:2403.11703
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2403.12895
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2403.13787
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2403.18406
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2403.18814
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2403.19270
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2404.00282
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2404.00978
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2404.01054
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2404.01258
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2404.03683
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2404.09656
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2404.12253
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2404.14219
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2404.15269
+  sources:
+  - preference-learning
+  direction_hints:
+  - agentic
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2404.18416
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2404.18638
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2405.00451
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2405.01483
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2405.02246
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2405.03553
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2405.13516
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2405.14333
+  sources:
+  - preference-learning
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2405.14734
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: curated
+- id: arxiv:2405.14953
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2405.15383
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2405.16265
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2405.17220
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2405.17956
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2405.20215
+  sources:
+  - preference-learning
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2405.20304
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2405.21040
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2406.03816
+  sources:
+  - mbzuai-llm-post-training
+  - preference-learning
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: decided
+- id: arxiv:2406.03877
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: unreviewed
+- id: arxiv:2406.04329
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2406.04481
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2406.06592
+  sources:
+  - preference-learning
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2406.07394
+  sources:
+  - mbzuai-llm-post-training
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - unclassified
+  status: decided
+- id: arxiv:2406.07524
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2406.09240
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2406.11262
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2406.11280
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2406.11839
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2406.12030
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2406.12723
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2406.14024
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2406.15349
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: unreviewed
+- id: arxiv:2406.16852
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2406.16860
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2406.18629
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2407.00215
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2407.00320
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2407.01476
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  status: unreviewed
+- id: arxiv:2407.02392
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2407.03951
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2407.06023
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2407.07726
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2407.07895
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2407.08739
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2407.11511
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2407.19409
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  status: unreviewed
+- id: arxiv:2407.19594
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2407.21783
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2408.01800
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2408.03326
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2408.03511
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2408.06195
+  sources:
+  - preference-learning
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2408.08152
+  sources:
+  - preference-learning
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2408.10188
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2408.10433
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2408.10635
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2408.15240
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2408.15881
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  status: unreviewed
+- id: arxiv:2409.02795
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2409.02908
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2409.09584
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: unreviewed
+- id: arxiv:2409.12191
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2409.15277
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2409.17146
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2409.18169
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2409.18486
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2409.20370
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2410.01707
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2410.01792
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2410.02197
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2410.02712
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2410.02884
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2410.03742
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2410.04417
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2410.06508
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2410.07073
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2410.08146
+  sources:
+  - preference-learning
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2410.10762
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  status: unreviewed
+- id: arxiv:2410.12568
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - distillation
+  - embodied-vla
+  status: unreviewed
+- id: arxiv:2410.13643
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2410.14157
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2410.14872
+  sources:
+  - preference-learning
+  direction_hints:
+  - preference-alignment
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2410.16033
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2410.16236
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  status: unreviewed
+- id: arxiv:2410.17820
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2410.17891
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2410.18451
+  sources:
+  - preference-learning
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2410.23743
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2411.00855
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2411.02712
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2411.04329
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  status: unreviewed
+- id: arxiv:2411.04459
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2411.04872
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2411.10436
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2411.10440
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  status: unreviewed
+- id: arxiv:2411.10557
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2411.11053
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2411.11930
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2411.14405
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2411.15645
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2411.19930
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2412.01981
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2412.03565
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2412.03704
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  status: decided
+- id: arxiv:2412.04467
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2412.05271
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2412.06000
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2412.09078
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2412.10193
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2412.10400
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2412.10673
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2412.11605
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2412.14446
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - distillation
+  - embodied-vla
+  - multimodal
+  status: unreviewed
+- id: arxiv:2412.15118
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  status: unreviewed
+- id: arxiv:2412.16145
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2412.17397
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2412.17451
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2412.18319
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2412.18925
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2412.19792
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2412.20367
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2412.20631
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  status: decided
+- id: arxiv:2412.21187
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2501.00574
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2501.01290
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: decided
+- id: arxiv:2501.01904
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  status: decided
+- id: arxiv:2501.03124
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  status: decided
+- id: arxiv:2501.04519
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2501.04682
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2501.05366
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2501.06186
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2501.07301
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: decided
+- id: arxiv:2501.07861
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: decided
+- id: arxiv:2501.08313
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2501.09686
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2501.09695
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2501.11651
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2501.12599
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2501.12948
+  sources:
+  - mbzuai-llm-post-training
+  - on-policy-post-training
+  direction_hints:
+  - distillation
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: curated
+- id: arxiv:2501.14249
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2501.15089
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2501.17030
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2501.18492
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.01384
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.01456
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2502.02508
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2502.02542
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.02584
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  status: decided
+- id: arxiv:2502.04327
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2502.06453
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.06703
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  status: decided
+- id: arxiv:2502.08922
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  status: decided
+- id: arxiv:2502.09621
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.09992
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2502.10458
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - generative-media
+  - multimodal
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2502.11169
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.11250
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  status: decided
+- id: arxiv:2502.11881
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.11886
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2502.12025
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.12202
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.12466
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.12893
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.13144
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2502.13389
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.13458
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.13917
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2502.13923
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2502.13943
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: decided
+- id: arxiv:2502.13957
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2502.14191
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - multimodal
+  - reward-verifiers
+  status: decided
+- id: arxiv:2502.14739
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2502.15652
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.17387
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2502.17419
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.17848
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2502.17925
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2502.19187
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2502.19230
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2502.19328
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - agentic
+  - preference-alignment
+  - reward-verifiers
+  status: decided
+- id: arxiv:2502.21321
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - unclassified
+  status: decided
+- id: arxiv:2503.00555
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - preference-alignment
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2503.01785
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2503.05132
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2503.05379
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2503.06072
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - unclassified
+  status: decided
+- id: arxiv:2503.06749
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2503.07365
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2503.07536
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2503.07608
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2503.08295
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2503.09499
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2503.09573
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2503.10291
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  - reasoning-self-improvement
+  - reward-verifiers
+  status: decided
+- id: arxiv:2503.10434
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - preference-alignment
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2503.10615
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2503.10905
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2503.12937
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2503.20853
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2503.21776
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2503.22215
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2504.06958
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2504.07615
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2504.07957
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2504.10458
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  status: decided
+- id: arxiv:2504.10885
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2504.12216
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2504.13125
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2504.21850
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2505.07062
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2505.08617
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2505.10446
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2505.11409
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2505.12081
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2505.13946
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2505.14362
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - agentic
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2505.15809
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2505.15879
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2505.15929
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2505.16839
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2505.16933
+  sources:
+  - diffusion-language-post-training
+  - multimodal-post-training
+  direction_hints:
+  - generative-media
+  - multimodal
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2505.16990
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2505.17659
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: unreviewed
+- id: arxiv:2505.19223
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2505.19255
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - agentic
+  - multimodal
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2505.19702
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2505.20199
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2505.20325
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reward-verifiers
+  status: decided
+- id: arxiv:2505.21061
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2505.21327
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2505.22453
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2505.22618
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2506.00819
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2506.01713
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2506.03569
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2506.04218
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: unreviewed
+- id: arxiv:2506.05191
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2506.11234
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2506.13757
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2506.13759
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2506.14429
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2506.18234
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reasoning-self-improvement
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2506.20639
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2506.24044
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  status: unreviewed
+- id: arxiv:2507.06892
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2507.08838
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2507.12911
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2507.20879
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - agentic
+  - embodied-vla
+  - multimodal
+  status: decided
+- id: arxiv:2508.06202
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2508.06571
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  status: unreviewed
+- id: arxiv:2508.09158
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2508.10875
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2508.11110
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2508.12398
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2508.13148
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2508.15487
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2508.20181
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2509.00676
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2509.00723
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2509.01142
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2509.01944
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2509.06949
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2509.10396
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2509.13769
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reinforcement-learning
+  status: unreviewed
+- id: arxiv:2509.15968
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2509.17765
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2509.17940
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2509.18085
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2509.19244
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2509.20109
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - generative-media
+  - multimodal
+  status: unreviewed
+- id: arxiv:2509.20863
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2509.20938
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - preference-alignment
+  status: unreviewed
+- id: arxiv:2509.23286
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - preference-alignment
+  status: decided
+- id: arxiv:2509.23924
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2509.24389
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2509.24975
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2509.25035
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2509.25188
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2509.25541
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2509.26328
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2509.26488
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: unreviewed
+- id: arxiv:2510.01544
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.02212
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.02561
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  - reinforcement-learning
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2510.02745
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.02880
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.03270
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2510.03680
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: unreviewed
+- id: arxiv:2510.04019
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.04147
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2510.06303
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2510.06308
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: unreviewed
+- id: arxiv:2510.08233
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.08554
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.09541
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.10481
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: unreviewed
+- id: arxiv:2510.11683
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: unreviewed
+- id: arxiv:2510.13108
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  status: unreviewed
+- id: arxiv:2510.15446
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - generative-media
+  status: unreviewed
+- id: arxiv:2510.19871
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2510.21473
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2510.23658
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - preference-alignment
+  status: decided
+- id: arxiv:2510.26125
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: decided
+- id: arxiv:2511.00088
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2511.09611
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2511.19269
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2511.19912
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reasoning-self-improvement
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2511.21631
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2512.03667
+  sources:
+  - mbzuai-llm-post-training
+  direction_hints:
+  - multimodal
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2512.03759
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2512.06776
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2512.07745
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - generative-media
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2512.09106
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2512.09675
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2512.11872
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - generative-media
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2512.13262
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - agentic
+  - embodied-vla
+  status: decided
+- id: arxiv:2512.14008
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2512.14044
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2512.14067
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2512.14068
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2512.15596
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2512.15713
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2512.15745
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2512.16760
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  status: decided
+- id: arxiv:2512.17370
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - preference-alignment
+  status: decided
+- id: arxiv:2512.18211
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2512.21446
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2512.22234
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2512.22737
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2512.24426
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2601.00623
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: decided
+- id: arxiv:2601.02236
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2601.03198
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2601.04714
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reinforcement-learning
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2601.05611
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  status: decided
+- id: arxiv:2601.07568
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2601.11214
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2601.12901
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - generative-media
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2601.14758
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2601.15165
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2601.15892
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2602.01326
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2602.02994
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  status: decided
+- id: arxiv:2602.06462
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2602.10458
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - distillation
+  - embodied-vla
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2602.14147
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2602.17688
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2602.21172
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2602.21472
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2602.21952
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2602.21992
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2602.22661
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reinforcement-learning
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2602.22801
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - generative-media
+  status: decided
+- id: arxiv:2603.01063
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: decided
+- id: arxiv:2603.01563
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2603.01928
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2603.03192
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: decided
+- id: arxiv:2603.06577
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2603.12478
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2603.12554
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2603.13842
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - distillation
+  - embodied-vla
+  - reinforcement-learning
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2603.14972
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: decided
+- id: arxiv:2603.18178
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2603.24587
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2603.24596
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  - preference-alignment
+  status: decided
+- id: arxiv:2603.25629
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2603.25740
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - preference-alignment
+  status: decided
+- id: arxiv:2603.25968
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reward-verifiers
+  status: decided
+- id: arxiv:2603.28116
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reinforcement-learning
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2604.01723
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - preference-alignment
+  status: decided
+- id: arxiv:2604.02714
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: decided
+- id: arxiv:2604.04215
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - preference-alignment
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2604.04857
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2604.05497
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2604.09059
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2604.11734
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - agentic
+  - generative-media
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2604.12656
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - generative-media
+  status: decided
+- id: arxiv:2604.15308
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2604.15705
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - preference-alignment
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2604.19710
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  status: decided
+- id: arxiv:2604.20796
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2604.26951
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2605.00161
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2605.03677
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  status: decided
+- id: arxiv:2605.04470
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - distillation
+  - reinforcement-learning
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2605.04874
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - multimodal
+  - preference-alignment
+  status: decided
+- id: arxiv:2605.06885
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2605.07701
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2605.09536
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2605.10218
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2605.10518
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2605.10744
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  status: decided
+- id: arxiv:2605.11854
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2605.12625
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2605.13935
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2605.14201
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - agentic
+  - embodied-vla
+  status: decided
+- id: arxiv:2605.14696
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2605.16342
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2605.16829
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2605.17174
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2605.18165
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2605.18740
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  status: decided
+- id: arxiv:2605.19524
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - preference-alignment
+  status: decided
+- id: arxiv:2605.20082
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - multimodal
+  - preference-alignment
+  status: decided
+- id: arxiv:2605.20199
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2605.21139
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - distillation
+  - embodied-vla
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2605.21924
+  sources:
+  - multimodal-post-training
+  direction_hints:
+  - distillation
+  - multimodal
+  status: decided
+- id: arxiv:2605.22939
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - supervised-adaptation
+  status: decided
+- id: arxiv:2605.23163
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - generative-media
+  - multimodal
+  status: decided
+- id: arxiv:2605.23605
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2605.28583
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reinforcement-learning
+  status: decided
+- id: arxiv:2605.29716
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2605.31256
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: decided
+- id: arxiv:2605.31572
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2606.00519
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: decided
+- id: arxiv:2606.00722
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2606.01026
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2606.03159
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: decided
+- id: arxiv:2606.06712
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2606.14792
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2606.18195
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2606.19534
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2606.23623
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2606.25331
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2606.29275
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2607.00208
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2607.04428
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - distillation
+  status: decided
+- id: arxiv:2607.08056
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - multimodal
+  status: decided
+- id: arxiv:2607.08072
+  sources:
+  - autonomous-driving-post-training
+  direction_hints:
+  - embodied-vla
+  status: decided
+- id: arxiv:2607.12829
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - generative-media
+  status: decided
+- id: arxiv:2607.14522
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided
+- id: arxiv:2607.15200
+  sources:
+  - diffusion-language-post-training
+  direction_hints:
+  - reasoning-self-improvement
+  status: decided

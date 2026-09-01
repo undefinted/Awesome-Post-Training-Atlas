@@ -1,50 +1,83 @@
 arxiv:
   categories: [cs.CL, cs.LG, cs.AI, cs.CV, cs.RO]
-  max_results_per_query: 100
+  page_size: 100
+  max_results_per_query: 300
   queries:
-    - 'all:"post-training"'
-    - '(all:"preference optimization" OR all:RLHF OR all:RLAIF OR all:RLVR)'
-    - '(all:"reward model" OR all:verifier OR all:"process reward")'
-    - '(all:"instruction tuning" OR all:"self improvement" OR all:"self-training")'
-    - '(all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:"policy distillation" OR all:"privileged distillation")'
-    - '(all:"agent training" OR all:"agentic reinforcement learning" OR all:"tool use")'
-    - 'all:multimodal AND (all:alignment OR all:"reinforcement learning")'
-    - '(all:diffusion OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)'
-    - '(all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)'
+    - {direction: supervised-adaptation, query: '(all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")'}
+    - {direction: supervised-adaptation, query: '(all:"rejection sampling fine-tuning" OR all:"on-policy SFT" OR all:"response refinement")'}
+    - {direction: supervised-adaptation, query: '(all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language)'}
+    - {direction: preference-alignment, query: '(all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)'}
+    - {direction: preference-alignment, query: '(all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback")'}
+    - {direction: preference-alignment, query: '(all:"online preference" OR all:"self-reward" OR all:"constitutional AI")'}
+    - {direction: reward-verifiers, query: '(all:"reward model" OR all:"preference model" OR all:"LLM judge")'}
+    - {direction: reward-verifiers, query: '(all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning OR all:model)'}
+    - {direction: reward-verifiers, query: '(all:"process supervision" OR all:"step-level reward" OR all:"generative reward model")'}
+    - {direction: reinforcement-learning, query: '(all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")'}
+    - {direction: reinforcement-learning, query: '(all:GRPO OR all:PPO OR all:"policy optimization") AND (all:"language model" OR all:"foundation model")'}
+    - {direction: reinforcement-learning, query: '(all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)'}
+    - {direction: distillation, query: '(all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)'}
+    - {direction: distillation, query: '(all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged distillation")'}
+    - {direction: distillation, query: '(all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal))'}
+    - {direction: reasoning-self-improvement, query: '(all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")'}
+    - {direction: reasoning-self-improvement, query: '(all:"self-correction" OR all:"iterative refinement" OR all:"self-evolving") AND all:training'}
+    - {direction: reasoning-self-improvement, query: '(all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation)'}
+    - {direction: agentic, query: '(all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")'}
+    - {direction: agentic, query: '(all:"tool use" OR all:"web agent" OR all:"computer use") AND (all:training OR all:reinforcement)'}
+    - {direction: agentic, query: '(all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")'}
+    - {direction: agentic, query: '(all:"coding agent" OR all:"software agent") AND (all:training OR all:reward)'}
+    - {direction: multimodal, query: '(all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")'}
+    - {direction: multimodal, query: '(all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement learning" OR all:RLHF OR all:RLVR)'}
+    - {direction: multimodal, query: '(all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model")'}
+    - {direction: generative-media, query: '(all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)'}
+    - {direction: generative-media, query: '(all:"diffusion language model" OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)'}
+    - {direction: generative-media, query: '(all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR all:RLHF OR all:"human feedback")'}
+    - {direction: embodied-vla, query: '(all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)'}
+    - {direction: embodied-vla, query: '(all:robot OR all:robotic OR all:"autonomous driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")'}
+    - {direction: embodied-vla, query: '(all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement OR all:adaptation)'}
 
 huggingface_daily:
   enabled: true
-  limit: 100
+  limit: 200
 
 filter:
   minimum_score: 3
-  max_candidates_per_run: 50
-  stored_abstract_characters: 1200
+  max_candidates_per_run: 180
+  max_candidates_per_direction: 20
+  stored_abstract_characters: 1800
   positive_terms:
     post-training: 4
     post training: 4
-    preference optimization: 3
+    instruction tuning: 3
+    supervised fine-tuning: 2
+    rejection sampling: 2
+    preference optimization: 4
+    human feedback: 3
+    ai feedback: 3
     reinforcement learning: 2
-    instruction tuning: 2
-    reward model: 2
-    verifier: 2
-    self-improvement: 2
-    self-training: 1
+    verifiable reward: 4
+    reward model: 3
+    verifier: 3
+    process reward: 3
+    self-improvement: 3
+    self-training: 2
     on-policy distillation: 5
     on-policy self-distillation: 5
     policy distillation: 3
-    self-distillation: 2
-    agentic: 1
+    agent training: 3
+    agentic reinforcement learning: 4
+    multi-turn: 1
     multimodal: 1
     vision-language: 1
     diffusion: 1
     embodied: 1
   negative_terms:
-    post-training quantization: -6
-    quantization: -2
-    inference-only: -3
+    post-training quantization: -8
+    quantization: -3
+    inference-only: -4
+    prompt-only: -3
 
 llm:
   default_model: gpt-5.4-mini
   batch_size: 10
   minimum_relevance: 0.65
+
