@@ -30,6 +30,11 @@ Borderline papers should record an explicit inclusion rationale. Rejected
 papers are retained in `data/rejected.yaml` so the radar does not repeatedly
 propose them.
 
+Community posts, newsletters, and social-media discussions are discovery and
+impact signals. They are never sufficient evidence for adding a paper: every
+paper entry must resolve to an original paper, official project page, or
+author-maintained repository.
+
 ## Primary directions
 
 Each paper has exactly one primary direction for navigation and may have
@@ -46,4 +51,3 @@ multiple tags for cross-cutting concepts and modalities.
 | `multimodal` | Multimodal, VLM & MLLM Post-Training | How are perception and language jointly adapted or aligned? |
 | `generative-media` | Generative Media Post-Training | How are image, video, audio, or diffusion generators aligned? |
 | `embodied-vla` | Embodied & VLA Post-Training | How does feedback improve grounded action and control? |
-
