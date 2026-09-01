@@ -6,6 +6,7 @@ arxiv:
     - '(all:"preference optimization" OR all:RLHF OR all:RLAIF OR all:RLVR)'
     - '(all:"reward model" OR all:verifier OR all:"process reward")'
     - '(all:"instruction tuning" OR all:"self improvement" OR all:"self-training")'
+    - '(all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:"policy distillation" OR all:"privileged distillation")'
     - '(all:"agent training" OR all:"agentic reinforcement learning" OR all:"tool use")'
     - 'all:multimodal AND (all:alignment OR all:"reinforcement learning")'
     - '(all:diffusion OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)'
@@ -17,7 +18,7 @@ huggingface_daily:
 
 filter:
   minimum_score: 3
-  max_candidates_per_run: 25
+  max_candidates_per_run: 50
   stored_abstract_characters: 1200
   positive_terms:
     post-training: 4
@@ -29,6 +30,10 @@ filter:
     verifier: 2
     self-improvement: 2
     self-training: 1
+    on-policy distillation: 5
+    on-policy self-distillation: 5
+    policy distillation: 3
+    self-distillation: 2
     agentic: 1
     multimodal: 1
     vision-language: 1

@@ -7,6 +7,8 @@ directions:
     title: Reward Models & Verifiers
   - id: reinforcement-learning
     title: Reinforcement Learning & RL with Verifiable Rewards
+  - id: distillation
+    title: Distillation & Policy Transfer
   - id: reasoning-self-improvement
     title: Reasoning & Self-Improvement
   - id: agentic
@@ -17,4 +19,3 @@ directions:
     title: Generative Media Post-Training
   - id: embodied-vla
     title: Embodied & VLA Post-Training
-

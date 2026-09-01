@@ -1,4 +1,18 @@
 signals:
+  - id: community:ai-paper-analysis-agentopsd-2026-08-08
+    date: 2026-08-08
+    source: chinese-paper-analysis
+    url: https://github.com/shibing624/ai-paper-analysis/tree/main/202608
+    summary: A Chinese paper-analysis entry surfaced AgentOPSD and explains its recursive Bayesian aggregation of token-level teacher-student disagreement into long-horizon agent credit.
+    related_ids: [arxiv:2608.05987]
+
+  - id: community:ai-paper-analysis-opd-evolver-2026-06-18
+    date: 2026-06-18
+    source: chinese-paper-analysis
+    url: https://github.com/shibing624/ai-paper-analysis/tree/main/202606
+    summary: A Chinese paper-analysis entry highlights OPD-Evolver's slow-fast co-evolution of policy and hierarchical experience memory.
+    related_ids: [arxiv:2606.17628]
+
   - id: community:baai-prism-2026-04-30
     date: 2026-04-30
     source: baai-community

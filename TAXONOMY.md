@@ -46,6 +46,7 @@ multiple tags for cross-cutting concepts and modalities.
 | `preference-alignment` | Preference Optimization & Alignment | How should comparative or scalar preferences change behavior? |
 | `reward-verifiers` | Reward Models & Verifiers | How is a useful learning signal learned or checked? |
 | `reinforcement-learning` | Reinforcement Learning & RLVR | How does the model learn from sampled actions and rewards? |
+| `distillation` | Distillation & Policy Transfer | How are teacher distributions, privileged traces, skills, or policies transferred on student-generated states? |
 | `reasoning-self-improvement` | Reasoning & Self-Improvement | How are reasoning traces, critique, or iteration converted into learning? |
 | `agentic` | Agentic & Interactive Post-Training | How does training incorporate tools, environments, and multi-turn trajectories? |
 | `multimodal` | Multimodal, VLM & MLLM Post-Training | How are perception and language jointly adapted or aligned? |

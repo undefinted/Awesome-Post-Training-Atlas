@@ -1,8 +1,211 @@
 papers:
+  - id: arxiv:2608.16333
+    title: "Step-Level On-Policy Distillation: Interpolating Between On-Policy Distillation and Supervised Fine-Tuning"
+    date: 2026-08-17
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-distillation, step-level-guidance, sft, long-horizon]
+    key_idea: Corrects student trajectories at the step level, yielding a continuum between supervised fine-tuning and fully on-policy distillation for interactive agents.
+    url: https://arxiv.org/abs/2608.16333
+
+  - id: arxiv:2608.14277
+    title: "SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning"
+    date: 2026-08-14
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, tokenizer-alignment, long-context, reasoning]
+    key_idea: Aligns shared text spans across mismatched teacher and student tokenizers while stabilizing long-context distillation with reference regularization and termination masking.
+    url: https://arxiv.org/abs/2608.14277
+
+  - id: arxiv:2608.05987
+    title: "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning"
+    date: 2026-08-06
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-self-distillation, agentic-rl, temporal-credit, multi-turn]
+    key_idea: Recursively aggregates teacher-student token evidence into turn-level Bayesian credit signals for long-horizon agent training without a separate critic or extra rollouts.
+    url: https://arxiv.org/abs/2608.05987
+    code: https://github.com/ZethWang/AgentOPSD
+
+  - id: arxiv:2607.29494
+    title: "Adaptive FastOPD: Progress-Aware Rollout Horizon Expansion for Efficient On-Policy Distillation"
+    date: 2026-07-31
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-distillation, adaptive-horizon, efficiency, multi-turn]
+    key_idea: Expands the student rollout horizon only when learning at the current boundary plateaus, reducing wasted long-horizon sampling.
+    url: https://arxiv.org/abs/2607.29494
+
+  - id: arxiv:2607.14777
+    title: "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning"
+    date: 2026-07-16
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-distillation, skill-evolution, hindsight, agentic-rl]
+    key_idea: Converts completed on-policy trajectories into evolving hindsight skills and jointly distills their token-level guidance with outcome reinforcement learning.
+    url: https://arxiv.org/abs/2607.14777
+    code: https://github.com/jinyangwu/SEED
+
+  - id: arxiv:2607.13399
+    title: "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations"
+    date: 2026-07-15
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, failure-analysis, regularization, exploration]
+    key_idea: Frames on-policy distillation as an exploration catalyst, diagnoses teacher-student mismatch and length exploitation, and studies clipping and log-compression controls.
+    url: https://arxiv.org/abs/2607.13399
+
+  - id: arxiv:2607.05804
+    title: "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training"
+    date: 2026-07-07
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-distillation, turn-aware, rollout-budgeting, long-horizon]
+    key_idea: Combines adaptive rollout-depth budgeting with a progressive turn-normalized loss to focus learning on useful parts of long agent trajectories.
+    url: https://arxiv.org/abs/2607.05804
+
+  - id: arxiv:2606.26790
+    title: "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning"
+    date: 2026-06-25
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-distillation, skill-distillation, hindsight, agentic-rl]
+    key_idea: Extracts hierarchical hindsight skills from completed student trajectories and combines skill-conditioned token guidance with outcome-based reinforcement learning.
+    url: https://arxiv.org/abs/2606.26790
+
+  - id: arxiv:2606.17628
+    title: "OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation"
+    date: 2026-06-16
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-distillation, memory, experience-evolution, agent]
+    key_idea: Couples fast hierarchical memory evolution with a slow privileged-hindsight distillation loop so an agent internalizes how to select, use, write, and maintain experience.
+    url: https://arxiv.org/abs/2606.17628
+    code: https://github.com/bingreeky/opd-evolver
+
+  - id: arxiv:2606.15912
+    title: "On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents"
+    date: 2026-06-14
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-distillation, curriculum, turn-level-guidance, multi-turn]
+    key_idea: Mixes teacher- and student-generated turns, then gradually removes teacher intervention as the agent becomes capable of completing longer trajectories independently.
+    url: https://arxiv.org/abs/2606.15912
+
+  - id: arxiv:2606.01249
+    title: Trust Region On-Policy Distillation
+    date: 2026-05-31
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, trust-region, clipping, stability]
+    key_idea: Restricts distillation to reliable teacher regions using clipping, masking, and forward-KL controls, with optional off-policy guidance outside the trust region.
+    url: https://arxiv.org/abs/2606.01249
+
+  - id: arxiv:2605.21606
+    title: "When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning"
+    date: 2026-05-20
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-self-distillation, token-reliability, position-weighting, reasoning]
+    key_idea: Models teacher-token reliability as position-dependent and increases supervision weight across a generated reasoning trajectory.
+    url: https://arxiv.org/abs/2605.21606
+    code: https://github.com/SaFo-Lab/PW-OPSD
+
+  - id: arxiv:2605.11739
+    title: "Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation"
+    date: 2026-05-12
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, efficiency, update-extrapolation, analysis]
+    key_idea: Studies why distillation updates anticipate later optimization directions and exploits that structure to extrapolate updates and accelerate training.
+    url: https://arxiv.org/abs/2605.11739
+
+  - id: arxiv:2605.09725
+    title: On-Policy Distillation with Best-of-N Teacher Rollout Selection
+    date: 2026-05-10
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, best-of-n, rollout-selection, teacher-quality]
+    key_idea: Selects among multiple teacher rollouts before supervising the student to reduce the effect of incorrect or high-variance teacher trajectories.
+    url: https://arxiv.org/abs/2605.09725
+
+  - id: arxiv:2605.01347
+    title: "MAD-OPD: Breaking the Ceiling in On-Policy Distillation via Multi-Agent Debate"
+    date: 2026-05-02
+    direction: distillation
+    modalities: [language, agent, reasoning]
+    tags: [on-policy-distillation, multi-agent-debate, teacher-ensemble, agent]
+    key_idea: Replaces a single teacher with a multi-agent debate collective and uses step-level sampling to provide stronger supervision for agentic trajectories.
+    url: https://arxiv.org/abs/2605.01347
+
+  - id: arxiv:2604.24005
+    title: "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents"
+    date: 2026-04-27
+    direction: distillation
+    modalities: [language, agent]
+    tags: [on-policy-distillation, temporal-curriculum, multi-turn, agent]
+    key_idea: Progressively expands trajectory depth to control compounding turn errors and stabilize trajectory-level divergence optimization in autonomous agents.
+    url: https://arxiv.org/abs/2604.24005
+    code: https://github.com/kokolerk/TCOD
+
+  - id: arxiv:2604.13016
+    title: "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe"
+    date: 2026-04-14
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, teacher-student-compatibility, cold-start, analysis]
+    key_idea: Identifies compatible reasoning styles and genuinely novel teacher capability as key success conditions, then derives prompt-selection and off-policy cold-start recipes.
+    url: https://arxiv.org/abs/2604.13016
+
+  - id: arxiv:2604.00626
+    title: A Survey of On-Policy Distillation for Large Language Models
+    date: 2026-04-01
+    direction: distillation
+    modalities: [language]
+    tags: [on-policy-distillation, survey, taxonomy, knowledge-distillation]
+    key_idea: Organizes on-policy distillation by feedback signal, teacher access, and loss granularity under a unified divergence-based view.
+    url: https://arxiv.org/abs/2604.00626
+
+  - id: arxiv:2603.25562
+    title: "Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes"
+    date: 2026-03-26
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, failure-analysis, support-matching, stability]
+    key_idea: Diagnoses sampled-token distillation failures and evaluates top-K local support matching, top-p rollouts, and special-token masking as simple remedies.
+    url: https://arxiv.org/abs/2603.25562
+
+  - id: arxiv:2603.11137
+    title: Scaling Reasoning Efficiently via Relaxed On-Policy Distillation
+    date: 2026-03-11
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, reward-clipping, entropy-sampling, efficiency]
+    key_idea: Interprets distillation as policy optimization and relaxes it through mixture-based reward clipping, entropy-aware token sampling, and staged exploration and refinement.
+    url: https://arxiv.org/abs/2603.11137
+
+  - id: arxiv:2603.07079
+    title: Entropy-Aware On-Policy Distillation of Language Models
+    date: 2026-03-07
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-distillation, entropy, forward-kl, reverse-kl]
+    key_idea: Uses reverse KL on confident teacher tokens and adds forward-KL supervision under high teacher uncertainty to preserve useful output diversity.
+    url: https://arxiv.org/abs/2603.07079
+
+  - id: arxiv:2601.18734
+    title: "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models"
+    date: 2026-01-26
+    direction: distillation
+    modalities: [language, reasoning]
+    tags: [on-policy-self-distillation, privileged-information, reasoning, token-level]
+    key_idea: Uses one model as both privileged-trace teacher and question-only student, matching their token distributions along student-generated reasoning trajectories.
+    url: https://arxiv.org/abs/2601.18734
+
   - id: arxiv:2604.28123
     title: "Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL"
     date: 2026-04-30
-    direction: multimodal
+    direction: distillation
     modalities: [vision-language, multimodal-reasoning]
     tags: [on-policy-distillation, distribution-alignment, rlvr, mixture-of-experts]
     key_idea: Inserts a black-box response-level distribution-alignment stage between SFT and RLVR using specialized perception and reasoning discriminators.
