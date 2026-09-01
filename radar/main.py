@@ -188,6 +188,7 @@ def discover(days: int) -> list[dict]:
             paper["rule_reasons"] = reasons
             shortlisted.append(paper)
     shortlisted.sort(key=lambda paper: (paper["date"], paper["rule_score"]), reverse=True)
+    shortlisted = shortlisted[: radar["filter"]["max_candidates_per_run"]]
     assessments: dict[str, dict] = {}
     size = radar["llm"]["batch_size"]
     for offset in range(0, len(shortlisted), size):
@@ -202,9 +203,38 @@ def discover(days: int) -> list[dict]:
             paper["direction"] = assessment["direction"]
             paper["key_idea"] = assessment["key_idea"]
             paper["tags"] = assessment["tags"]
+        paper["abstract"] = paper["abstract"][: radar["filter"]["stored_abstract_characters"]].rstrip()
         paper["status"] = "candidate"
         output.append(paper)
     return output
+
+
+def render_candidate_digest(papers: list[dict]) -> str:
+    lines = [
+        "# Radar candidates",
+        "",
+        "Automated proposals only; inclusion requires human review.",
+        "",
+        "| Date | Paper | Rule score | Suggested direction |",
+        "|---|---|---:|---|",
+    ]
+    for paper in papers:
+        title = paper["title"].replace("|", "\\|")
+        direction = paper.get("direction", "needs-review")
+        lines.append(f"| {paper['date']} | [{title}]({paper['url']}) | {paper['rule_score']} | `{direction}` |")
+    lines.extend(
+        [
+            "",
+            "Review checklist:",
+            "",
+            "- Is there an actual learning or feedback loop after pretraining?",
+            "- Is the primary direction correct?",
+            "- Is the key idea factual and specific?",
+            "- Is this already represented by another version or publication?",
+            "",
+        ]
+    )
+    return "\n".join(lines)
 
 
 def main() -> None:
@@ -216,9 +246,11 @@ def main() -> None:
     merged = {paper["id"].lower(): paper for paper in existing}
     for paper in discover(args.days):
         merged[paper["id"].lower()] = paper
+    papers = list(merged.values())
     with path.open("w", encoding="utf-8", newline="\n") as handle:
-        yaml.safe_dump({"papers": list(merged.values())}, handle, sort_keys=False, allow_unicode=True, width=120)
-    print(f"Candidates: {len(merged)}")
+        yaml.safe_dump({"papers": papers}, handle, sort_keys=False, allow_unicode=True, width=120)
+    (ROOT / "data" / "CANDIDATES.md").write_text(render_candidate_digest(papers), encoding="utf-8", newline="\n")
+    print(f"Candidates: {len(papers)}")
 
 
 if __name__ == "__main__":
