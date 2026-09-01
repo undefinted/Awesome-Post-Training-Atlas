@@ -18,8 +18,8 @@ jobs:
   discover:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
@@ -31,7 +31,7 @@ jobs:
           RADAR_DAYS: ${{ inputs.days || '8' }}
         run: python -m radar.main --days "$RADAR_DAYS"
       - name: Create candidate pull request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "radar: update paper candidates"
@@ -44,4 +44,3 @@ jobs:
             Please review scope, primary direction, key idea, and duplicates before
             promoting any entry to `data/papers.yaml`.
           labels: radar,candidates
-
