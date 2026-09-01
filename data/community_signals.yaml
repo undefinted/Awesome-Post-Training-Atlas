@@ -1,2 +1,14 @@
-signals: []
+signals:
+  - id: community:baai-prism-2026-04-30
+    date: 2026-04-30
+    source: baai-community
+    url: https://hub.baai.ac.cn/paper/21bc0663-37f1-42f7-ab49-1113c52ebf7d
+    summary: A Chinese structured explanation of PRISM covering its SFT distribution-drift motivation, black-box on-policy distillation stage, multimodal expert discriminator, and reported downstream RLVR gains.
+    related_ids: [arxiv:2604.28123]
 
+  - id: community:k2sim-post-training-pipeline-2026-06-11
+    date: 2026-06-11
+    source: chinese-technical-blog
+    url: https://www.k2sim.cn/logs/ai-post-training-pipeline
+    summary: A Chinese engineering-oriented map connecting instruction tuning, preference alignment, RLVR, tool-use training, Agentic RL, and multimodal post-training, with explicit links to primary papers and evaluation resources.
+    related_ids: [arxiv:2203.02155, arxiv:2305.18290, arxiv:2501.12948]
