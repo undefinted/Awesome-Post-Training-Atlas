@@ -110,7 +110,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Demystifying Reinforcement Learning Post-Training of Language Models](https://arxiv.org/abs/2608.24949)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `RLVR` · `Reasoning` · `Code`  
-  Authors: Donovan Clay, Saket Gollapudi, Sankar Harilal, Min Jang, Jacob Morrison, Sewoong Oh, Natasha Jaques
+  Authors: Donovan Clay, Saket Gollapudi, Sankar Harilal, Min Jang, Jacob Morrison, Sewoong Oh, Natasha Jaques  
+  Institutions*: Allen Institute for Artificial Intelligence
 
 - 🔎 **[GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis](https://arxiv.org/abs/2608.22847)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
@@ -125,7 +126,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Enhancing Localized Reasoning for Long Video Understanding via Efficient Segment-to-Video Supervision](https://arxiv.org/abs/2608.20814)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-21 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
-  Authors: Beibei Zhang, Chao Xu, Jun Lan, Zongyi Li, Lai Wei, Huijia Zhu, Tongwei Ren
+  Authors: Beibei Zhang, Chao Xu, Jun Lan, Zongyi Li, Lai Wei, Huijia Zhu, Tongwei Ren  
+  Institutions*: Shanghai Jiao Tong University
 
 - 🔎 **[Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs](https://arxiv.org/abs/2608.20492)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -140,7 +142,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.19842)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `PPO` · `On-policy` · `Agent` · `Long-horizon`  
-  Authors: Dayang Liang, Lang Feng, Bo An, Yunlong Liu
+  Authors: Dayang Liang, Lang Feng, Bo An, Yunlong Liu  
+  Institutions*: Zhejiang University
 
 - 🔎 **[Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress](https://arxiv.org/abs/2608.19408)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -160,7 +163,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL](https://arxiv.org/abs/2608.16837)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLA`  
-  Authors: Langzhe Gu, Chengkai Hou, Meng Li, Xinhua Wang, Jiaming Liu, Xinyuan Lv, Bowei Zhang, Shuanghao Bai, et al.
+  Authors: Langzhe Gu, Chengkai Hou, Meng Li, Xinhua Wang, Jiaming Liu, Xinyuan Lv, Bowei Zhang, Shuanghao Bai, et al.  
+  Institutions*: Xi'an Jiaotong University
 
 - 🔎 **[Mint-Agent: Introducing Finance-Native Agentic Foundation Models](https://arxiv.org/abs/2608.16386)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -170,7 +174,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization](https://arxiv.org/abs/2608.16072)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reasoning` · `Math` · `Code`  
-  Authors: Yixuan Wang, Yifei Chen, Haichao Zhang, Haozheng Luo, Xander Wu, Jie Ni, Yun Fu, Nuno Vasconcelos, et al.
+  Authors: Yixuan Wang, Yifei Chen, Haichao Zhang, Haozheng Luo, Xander Wu, Jie Ni, Yun Fu, Nuno Vasconcelos, et al.  
+  Institutions*: Northeastern University; Northwestern University
 
 - 🔎 **[StructRL: Structured Action-Space Exploration for Flow-Based VLAs](https://arxiv.org/abs/2608.15139)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -190,7 +195,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Evaluation-Conditioned Training: Teaching Models to Generalize to Stronger Oversight Regimes](https://arxiv.org/abs/2608.10209)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `PPO`  
-  Authors: Alec Harris, Kasey Corra, Archie Chaudhury, Yixiong Hao
+  Authors: Alec Harris, Kasey Corra, Archie Chaudhury, Yixiong Hao  
+  Institutions*: Georgia Tech
 
 - 🔎 **[Control-Diverse Reinforcement Fine-Tuning: Decoupling the Shared Control Bottleneck of RL Post-Training](https://arxiv.org/abs/2608.08224)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2553,7 +2559,8 @@ _No visible paper records in this cell yet._
   2025-01-22 · `rlvr` · `grpo` · `reasoning` · `distillation`  
   Labels: `Distillation` · `RLVR` · `GRPO` · `Reasoning`  
   Authors:  DeepSeek-AI, Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Peiyi Wang, Qihao Zhu, Runxin Xu, et al.  
-  Institutions*: Stanford University; Tsinghua University
+  Institutions*: Stanford University; Tsinghua University  
+  Venue: [Nature](https://www.nature.com/)
 
 - 🔎 **[Unlocking Multimodal Mathematical Reasoning via Process Reward Model](https://arxiv.org/abs/2501.04686)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-08 · `direction-month-query` · `arxiv-monthly-backfill`  

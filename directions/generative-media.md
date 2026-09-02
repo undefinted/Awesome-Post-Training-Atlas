@@ -60,7 +60,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Scaling Reinforcement Learning for Diffusion Models via Velocity Matching](https://arxiv.org/abs/2608.23664)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Diffusion` · `Video Generation`  
-  Authors: Jaemoo Choi, Wei Guo, Yuchen Zhu, Arash Vahdat, Molei Tao, Julius Berner, Yongxin Chen
+  Authors: Jaemoo Choi, Wei Guo, Yuchen Zhu, Arash Vahdat, Molei Tao, Julius Berner, Yongxin Chen  
+  Institutions*: Georgia Institute of Technology
 
 - 🔎 **[FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
@@ -75,7 +76,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Aligning Human Sense: Calibrated Distributional Reward Learning for Video Generation](https://arxiv.org/abs/2608.21425)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-16 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `GRPO` · `Reward Model` · `Video Generation`  
-  Authors: Nai-Xin Zhai, Weihua Cheng, Dexu Yu, Yikai Gu, Hanwen Du, Junchen Fu, Chenxi Huang, Yingwei Song, et al.
+  Authors: Nai-Xin Zhai, Weihua Cheng, Dexu Yu, Yikai Gu, Hanwen Du, Junchen Fu, Chenxi Huang, Yingwei Song, et al.  
+  Institutions*: University of Glasgow
 
 - 🔎 **[Spatially-Grounded Flow Matching: Structured Source Distributions for Image Generation](https://arxiv.org/abs/2608.15452)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-16 · `academic-query-vote` · `arxiv-backfill`  
@@ -85,7 +87,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[FMReward: Aligning and Evaluating Audio-Driven 3D Facial Animation with Human Preferences](https://arxiv.org/abs/2608.15296)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-15 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Reward Model`  
-  Authors: Sijing Wu, Yunhao Li, Zhilin Gao, Huiyu Duan, Yucheng Zhu, Guangtao Zhai, Patrick Le Callet
+  Authors: Sijing Wu, Yunhao Li, Zhilin Gao, Huiyu Duan, Yucheng Zhu, Guangtao Zhai, Patrick Le Callet  
+  Venue: [IEEE Transactions on Visualization and Computer Graphics](http://ieeexplore.ieee.org/servlet/opac?punumber=2945)
 
 - 🔎 **[Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View](https://arxiv.org/abs/2608.14430)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-14 · `academic-query-vote` · `arxiv-backfill`  
@@ -110,7 +113,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion](https://arxiv.org/abs/2608.11913)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `DPO` · `Preference Optimization` · `RLHF`  
-  Authors: Wenshuo Peng, Kaipeng Zhang
+  Authors: Wenshuo Peng, Kaipeng Zhang  
+  Venue: [International Journal of Computer Vision](https://www.springer.com/computer/image+processing/journal/11263)
 
 - 🔎 **[AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss](https://arxiv.org/abs/2608.11205)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `academic-query-vote` · `arxiv-backfill`  
@@ -1513,7 +1517,8 @@ _No visible paper records in this cell yet._
 - **[Diffusion Model Alignment Using Direct Preference Optimization](https://arxiv.org/abs/2311.12908)** — Adapts direct preference optimization to diffusion likelihoods to align image generation without a learned reward model.  
   2023-11-22 · `diffusion` · `preference-optimization` · `dpo`  
   Labels: `DPO` · `Preference Optimization` · `Reward Model` · `Diffusion` · `Image Generation`  
-  Authors: Bram Wallace, Meihua Dang, Rafael Rafailov, Linqi Zhou, Aaron Lou, Senthil Purushwalkam, Stefano Ermon, Caiming Xiong, et al.
+  Authors: Bram Wallace, Meihua Dang, Rafael Rafailov, Linqi Zhou, Aaron Lou, Senthil Purushwalkam, Stefano Ermon, Caiming Xiong, et al.  
+  Venue: [Computer Vision and Pattern Recognition](https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147)
 
 <a id="2023-05"></a>
 
@@ -1525,4 +1530,5 @@ _No visible paper records in this cell yet._
   2023-05-22 · `diffusion` · `reinforcement-learning` · `ddpo`  
   Labels: `Diffusion`  
   Authors: Kevin Black, Michael Janner, Yilun Du, Ilya Kostrikov, Sergey Levine  
-  Institutions*: MIT; University of California, Berkeley
+  Institutions*: MIT; University of California, Berkeley  
+  Venue: [International Conference on Learning Representations](https://iclr.cc/)

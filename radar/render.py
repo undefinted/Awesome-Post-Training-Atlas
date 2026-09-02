@@ -92,11 +92,17 @@ def render_papers(
                     authors = ", ".join(paper.get("authors", [])[:8])
                     if len(paper.get("authors", [])) > 8:
                         authors += ", et al."
+                    institutions = "; ".join(paper.get("institutions", [])[:5])
+                    venue = paper.get("venue")
+                    venue_link = f"[{venue}]({paper['venue_url']})" if venue and paper.get("venue_url") else venue
                     sections.append(
                         f"- 🔎 **[{paper['title']}]({paper['url']})** — `discovery candidate`; awaiting primary-paper curation.  \n"
                         f"  {str(paper['date'])} · `{paper.get('classification_method', 'query-hint')}` · `{sources}`  \n"
                         f"  Labels: {labels or 'pending'}  \n"
-                        f"  Authors: {authors or 'metadata pending'}\n"
+                        f"  Authors: {authors or 'metadata pending'}"
+                        + (f"  \n  Institutions*: {institutions}" if institutions else "")
+                        + (f"  \n  Venue: {venue_link}" if venue_link else "")
+                        + "\n"
                     )
                 else:
                     tags = " · ".join(f"`{tag}`" for tag in paper.get("tags", []))
@@ -105,12 +111,15 @@ def render_papers(
                     if len(paper.get("authors", [])) > 8:
                         authors += ", et al."
                     institutions = "; ".join(paper.get("institutions", [])[:5])
+                    venue = paper.get("venue")
+                    venue_link = f"[{venue}]({paper['venue_url']})" if venue and paper.get("venue_url") else venue
                     sections.append(
                         f"- **[{paper['title']}]({paper['url']})** — {paper['key_idea']}  \n"
                         f"  {str(paper['date'])} · {tags}{code}  \n"
                         f"  Labels: {labels or 'pending'}  \n"
                         f"  Authors: {authors or 'metadata pending'}"
                         + (f"  \n  Institutions*: {institutions}" if institutions else "")
+                        + (f"  \n  Venue: {venue_link}" if venue_link else "")
                         + "\n"
                     )
     return "\n".join(sections).rstrip() + "\n"

@@ -30,7 +30,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://arxiv.org/abs/2608.31106)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Multimodal` · `Video Generation`  
-  Authors: Jiashu Zhu, Yanhao Zheng, Ruitian Tian, Rujing Dang, Shen Zhang, Bingze Song, Jiachen Lei, Ruimin Lin, et al.
+  Authors: Jiashu Zhu, Yanhao Zheng, Ruitian Tian, Rujing Dang, Shen Zhang, Bingze Song, Jiachen Lei, Ruimin Lin, et al.  
+  Institutions*: Alibaba
 
 - 🔎 **[LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation](https://arxiv.org/abs/2608.30935)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -60,7 +61,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[CoRe-MoE: Compact Reusable MoE for Continual Multimodal Instruction Tuning](https://arxiv.org/abs/2608.27867)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Multimodal`  
-  Authors: Runze Liu, Naibin Gu, Mingxu Ai, Yuqing Li, Peng Fu, Zheng Lin, Weiping Wang
+  Authors: Runze Liu, Naibin Gu, Mingxu Ai, Yuqing Li, Peng Fu, Zheng Lin, Weiping Wang  
+  Institutions*: Institute of Information Engineering, Chinese Academy of Sciences
 
 - 🔎 **[A Survey on Rubric-Guided Reinforcement Learning for Language Models](https://arxiv.org/abs/2608.27505)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
@@ -80,12 +82,14 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Beyond Atomic Layouts: Compositional Design Understanding with Vision-Language Models](https://arxiv.org/abs/2608.26716)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Yiyang Huang, Zhaowen Wang, Simon Jenni, Jing Shi, Yitian Zhang, Yizhou Wang, Yun Fu
+  Authors: Yiyang Huang, Zhaowen Wang, Simon Jenni, Jing Shi, Yitian Zhang, Yizhou Wang, Yun Fu  
+  Institutions*: Northeastern University
 
 - 🔎 **[Reason in the Words You Speak: Idiolectal Paraphrasing Off-Policy Traces for Reasoning Distillation in VideoLLMs](https://arxiv.org/abs/2608.26684)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `SFT` · `GRPO` · `On-policy` · `Off-policy` · `Multimodal` · `Reasoning`  
-  Authors: Ji Soo Lee, Jinyoung Park, Seohyun Lee, Jongha Kim, Joonmyung Choi, Jinsung Yoon, Hyunwoo J. Kim
+  Authors: Ji Soo Lee, Jinyoung Park, Seohyun Lee, Jongha Kim, Joonmyung Choi, Jinsung Yoon, Hyunwoo J. Kim  
+  Institutions*: Korea University
 
 - 🔎 **[Simple Actors and Deep Critics for Scalable Reinforcement Learning](https://arxiv.org/abs/2608.26659)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
@@ -105,7 +109,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](https://arxiv.org/abs/2608.26105)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `RLVR` · `Multimodal` · `VLM` · `Video Generation` · `Reasoning`  
-  Authors: Junxiang Xu, Ruisi Wang, Fanyi Pu, Maijunxian Wang, Ran Ji, Tongxi Zhou, Chenyang Gu, Jing Zuo, et al.
+  Authors: Junxiang Xu, Ruisi Wang, Fanyi Pu, Maijunxian Wang, Ran Ji, Tongxi Zhou, Chenyang Gu, Jing Zuo, et al.  
+  Institutions*: MMLab@NTU, Nanyang Technological University; Nanyang Technological University
 
 - 🔎 **[VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following](https://arxiv.org/abs/2608.26013)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
@@ -125,7 +130,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes](https://arxiv.org/abs/2608.26193)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `GRPO` · `Verifier` · `Multimodal` · `Reasoning`  
-  Authors: Yibo Wang, Rui Yang, Jisheng Dang, Bimei Wang, Yitao Wu, Pengfei Cao, Wencan Zhang, Hong Peng, et al.
+  Authors: Yibo Wang, Rui Yang, Jisheng Dang, Bimei Wang, Yitao Wu, Pengfei Cao, Wencan Zhang, Hong Peng, et al.  
+  Venue: [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/7160715/)
 
 - 🔎 **[Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation](https://arxiv.org/abs/2608.23138)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
@@ -140,7 +146,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Decoupled Physical Modeling and Execution for Physics Reasoning](https://arxiv.org/abs/2608.22126)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-22 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `GRPO` · `Multimodal` · `VLM` · `Reasoning` · `Code`  
-  Authors: Ye Zhang, Xuehang Guo, Rui Pan, Pengfei Yu, Denghui Zhang, Manling Li, Qingyun Wang
+  Authors: Ye Zhang, Xuehang Guo, Rui Pan, Pengfei Yu, Denghui Zhang, Manling Li, Qingyun Wang  
+  Institutions*: William & Mary
 
 - 🔎 **[SAFE-G: Structure-aware Faithful Evidence-guided Generation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2608.21796)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -195,7 +202,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation](https://arxiv.org/abs/2608.17512)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-18 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `GRPO` · `VLM` · `Reasoning`  
-  Authors: Hongyan Feng, Sunlai Chen, Xuanyu Liu, Miao Pan, Yangfan Xie, Yuxiang Cui, Zhongxiang Zhou, Rong Xiong, et al.
+  Authors: Hongyan Feng, Sunlai Chen, Xuanyu Liu, Miao Pan, Yangfan Xie, Yuxiang Cui, Zhongxiang Zhou, Rong Xiong, et al.  
+  Institutions*: Zhejiang University
 
 - 🔎 **[Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups](https://arxiv.org/abs/2608.17423)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-18 · `academic-query-vote` · `arxiv-backfill`  
@@ -250,7 +258,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs](https://arxiv.org/abs/2608.12781)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Reward Model` · `Multimodal` · `Reasoning`  
-  Authors: Xinming Wang, Weinong Wang, Hongming Yang, Yansong Lin, Zheng Ruan, Shangpin Peng, Qiming Peng, Nan Qiao, et al.
+  Authors: Xinming Wang, Weinong Wang, Hongming Yang, Yansong Lin, Zheng Ruan, Shangpin Peng, Qiming Peng, Nan Qiao, et al.  
+  Institutions*: Harbin Institute of Technology, Shenzhen
 
 - 🔎 **[Dual-Stream Cross-Anchor Correction Grounding Long-Form Captions and the Domain Limits of Object-Level Anchors](https://arxiv.org/abs/2608.12746)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `academic-query-vote` · `arxiv-backfill`  
@@ -260,7 +269,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization](https://arxiv.org/abs/2608.12158)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `DPO` · `Preference Optimization` · `Multimodal` · `Reasoning` · `Hallucination`  
-  Authors: Byungoh Ko, Jinyoung Park, Jongha Kim, Jeehye Na, Jaewon Cho, Hyunwoo J. Kim
+  Authors: Byungoh Ko, Jinyoung Park, Jongha Kim, Jeehye Na, Jaewon Cho, Hyunwoo J. Kim  
+  Institutions*: Korea University
 
 - 🔎 **[Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs](https://arxiv.org/abs/2608.10959)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `academic-query-vote` · `arxiv-backfill`  
@@ -275,7 +285,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models](https://arxiv.org/abs/2608.10864)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `SFT` · `VLM` · `Robotics` · `Autonomous Driving` · `Reasoning`  
-  Authors: Kiet T. Nguyen, Hanbo Shim, Jinwoo Kim, Seunghoon Hong
+  Authors: Kiet T. Nguyen, Hanbo Shim, Jinwoo Kim, Seunghoon Hong  
+  Institutions*: KAIST
 
 - 🔎 **[UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Multi-Structural Internal Representations](https://arxiv.org/abs/2608.10835)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `academic-query-vote` · `arxiv-backfill`  
@@ -285,7 +296,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[SafeCap: Improving LVLM Safety with Image Captioning Reinforcement Learning](https://arxiv.org/abs/2608.10513)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `DPO` · `Multimodal` · `VLM` · `Safety`  
-  Authors: Caoyuan Ma, Wenpu Liu, Weichu Xie, Tian Gu, Shilei Zhao, Lingxi Min, Shuai Dong, Yuqi Xu, et al.
+  Authors: Caoyuan Ma, Wenpu Liu, Weichu Xie, Tian Gu, Shilei Zhao, Lingxi Min, Shuai Dong, Yuqi Xu, et al.  
+  Institutions*: The University of Hong Kong
 
 - 🔎 **[Curriculum Generation under Structured Parametric Environments for Robust Navigation Policies](https://arxiv.org/abs/2608.08545)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2617,7 +2629,8 @@ _No visible paper records in this cell yet._
   2023-09-25 · `rlhf` · `hallucination` · `multimodal-alignment`  
   Labels: `RLHF` · `Multimodal` · `Hallucination`  
   Authors: Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, et al.  
-  Institutions*: Carnegie Mellon University; University of California, Berkeley
+  Institutions*: Carnegie Mellon University; University of California, Berkeley  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 <a id="2023-04"></a>
 
@@ -2629,4 +2642,5 @@ _No visible paper records in this cell yet._
   2023-04-17 · `instruction-tuning` · `synthetic-data` · `vlm`  
   Labels: `SFT` · `VLM`  
   Authors: Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee  
-  Institutions*: Columbia University
+  Institutions*: Columbia University  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)

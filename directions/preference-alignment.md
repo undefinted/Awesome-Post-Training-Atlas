@@ -36,7 +36,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Thesis Proposal: Toward a Human-Centered and Perspective-Aware Framework for Reproducible ML Evaluation and AI Alignment](https://arxiv.org/abs/2608.30842)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: pending  
-  Authors: Deepak Pandita, Christopher M. Homan
+  Authors: Deepak Pandita, Christopher M. Homan  
+  Institutions*: Rochester Institute of Technology  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization](https://arxiv.org/abs/2608.30597)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -96,7 +98,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](https://arxiv.org/abs/2608.24794)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Preference Optimization` · `Self-improvement` · `Agent` · `Hallucination`  
-  Authors: Boyang Liu, Senjie Jin, Peixin Wang, Zhangyue Yin, Yibo Wang, Yuhao Zhou, Xinbing Liang, Shizheng Zhu, et al.
+  Authors: Boyang Liu, Senjie Jin, Peixin Wang, Zhangyue Yin, Yibo Wang, Yuhao Zhou, Xinbing Liang, Shizheng Zhu, et al.  
+  Institutions*: Fudan University
 
 - 🔎 **[Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models](https://arxiv.org/abs/2608.24534)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
@@ -106,7 +109,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Preference Data Selection for Mitigating the Alignment Tax in Large Language Models](https://arxiv.org/abs/2608.24192)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Preference Optimization`  
-  Authors: Minsu Kim, Jianxun Lian, Xing Xie, Steven Euijong Whang
+  Authors: Minsu Kim, Jianxun Lian, Xing Xie, Steven Euijong Whang  
+  Institutions*: Korea Advanced Institute of Science and Technology
 
 - 🔎 **[Preference Optimization for Non-Verbal Vocalization Synthesis](https://arxiv.org/abs/2608.24163)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
@@ -196,7 +200,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL](https://arxiv.org/abs/2608.17253)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLVR` · `Agent` · `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Yunhao Yang, Yuexin Bian, Yunjie Tian, Di Fu, Tianjin Huang, Yuanyuan Shi, Ziang Xiao, Nuno Vasconcelos, et al.
+  Authors: Yunhao Yang, Yuexin Bian, Yunjie Tian, Di Fu, Tianjin Huang, Yuanyuan Shi, Ziang Xiao, Nuno Vasconcelos, et al.  
+  Institutions*: University of Texas at Austin
 
 - 🔎 **[Polaris: Learning to Generate Table Descriptions from Retrieval Feedback](https://arxiv.org/abs/2608.17171)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -256,7 +261,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Reinforcing Step-level Reasoning for Effective Self-Correction in LLMs](https://arxiv.org/abs/2608.11573)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `DPO` · `Preference Optimization` · `Reasoning`  
-  Authors: Vu Duc Anh, Nhat M. Hoang, Do Xuan Long, Cong-Duy Nguyen, Ponhvoan Srey, Luu Anh Tuan
+  Authors: Vu Duc Anh, Nhat M. Hoang, Do Xuan Long, Cong-Duy Nguyen, Ponhvoan Srey, Luu Anh Tuan  
+  Institutions*: MIT
 
 - 🔎 **[Scheduling Mixed RL Rollouts Beyond Prefix Locality](https://arxiv.org/abs/2608.11152)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -9659,7 +9665,8 @@ _No visible paper records in this cell yet._
   2024-05-23 · `reference-free` · `preference-optimization` · `simpo`  
   Labels: `Preference Optimization`  
   Authors: Yu Meng, Mengzhou Xia, Danqi Chen  
-  Institutions*: Princeton University; University of Virginia
+  Institutions*: Princeton University; University of Virginia  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[Direct Preference Optimization With Unobserved Preference Heterogeneity: The Necessity of Ternary Preferences](https://arxiv.org/abs/2405.15065)** — `discovery candidate`; awaiting primary-paper curation.  
   2024-05-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -10929,7 +10936,8 @@ _No visible paper records in this cell yet._
   2023-05-29 · `offline` · `pairwise-preference` · `dpo`  
   Labels: `DPO` · `Preference Optimization` · `RLHF` · `Reward Model`  
   Authors: Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn  
-  Institutions*: Google; Stanford; Stanford University
+  Institutions*: Google; Stanford; Stanford University  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 <a id="2022"></a>
 
@@ -10956,4 +10964,5 @@ _No visible paper records in this cell yet._
 - **[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)** — Establishes the SFT-to-reward-model-to-RLHF pipeline for aligning language models with human intent.  
   2022-03-04 · `sft` · `reward-modeling` · `rlhf` · `ppo`  
   Labels: `SFT` · `RLHF` · `PPO`  
-  Authors: Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, et al.
+  Authors: Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, et al.  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
