@@ -42,15 +42,15 @@ Each direction has its own chronological page. Counts include curated papers and
 
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
-| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 853 | **855** | 2026-08-31 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 987 | **992** | 2026-08-31 |
-| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 534 | **535** | 2026-08-31 |
-| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 415 | **418** | 2026-08-31 |
+| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 1566 | **1568** | 2026-08-31 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 1329 | **1334** | 2026-08-31 |
+| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 1296 | **1297** | 2026-08-31 |
+| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 479 | **482** | 2026-08-31 |
 | [Distillation & Policy Transfer](directions/distillation.md) | 23 | 133 | **156** | 2026-08-31 |
-| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 216 | **219** | 2026-08-31 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 251 | **253** | 2026-08-31 |
-| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 180 | **182** | 2026-08-31 |
-| [Generative Media Post-Training](directions/generative-media.md) | 2 | 119 | **121** | 2026-08-31 |
+| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 332 | **335** | 2026-08-31 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 269 | **271** | 2026-08-31 |
+| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 398 | **400** | 2026-08-31 |
+| [Generative Media Post-Training](directions/generative-media.md) | 2 | 200 | **202** | 2026-08-31 |
 | [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 189 | **190** | 2026-08-30 |
 <!-- PAPERS:END -->
 
