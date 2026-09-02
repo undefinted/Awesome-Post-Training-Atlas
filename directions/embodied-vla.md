@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**190 papers**: 1 curated and 189 academic discovery candidates.
+**212 papers**: 1 curated and 211 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -14,7 +14,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - [2026](#2026) — [Aug](#2026-08) ✓20 · [Jul](#2026-07) ◐19 · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · Aug ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · Mar ✓0 · [Feb](#2024-02) ✓2 · Jan ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
 
 <a id="2026"></a>
@@ -1025,6 +1025,156 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2025-01-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
   Authors: Kevin Fu, Shalin Anand Jain, Pierce Howell, Harish Ravichandar
+
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+- 🔎 **[Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution](https://arxiv.org/abs/2412.13492)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Changxin Huang, Yanbin Chang, Junfan Lin, Junyang Liang, Runhao Zeng, Jianqiang Li
+
+- 🔎 **[RWKV-edge: Deeply Compressed RWKV for Resource-Constrained Devices](https://arxiv.org/abs/2412.10856)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Wonkyo Choe, Yangfeng Ji, Felix Xiaozhu Lin
+
+- 🔎 **[SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World](https://arxiv.org/abs/2412.07472)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics` · `Reasoning`  
+  Authors: Jiaqi Zhang, Chen Gao, Liyuan Zhang, Yong Li, Hongzhi Yin
+
+- 🔎 **[Policy Agnostic RL: Offline RL and Online RL Fine-Tuning of Any Class and Backbone](https://arxiv.org/abs/2412.06685)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Max Sobol Mark, Tian Gao, Georgia Gabriela Sampaio, Mohan Kumar Srirama, Archit Sharma, Chelsea Finn, Aviral Kumar
+
+- 🔎 **[Streaming Detection of Queried Event Start](https://arxiv.org/abs/2412.03567)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics` · `Autonomous Driving`  
+  Authors: Cristobal Eyzaguirre, Eric Tang, Shyamal Buch, Adrien Gaidon, Jiajun Wu, Juan Carlos Niebles
+
+<a id="2024-11"></a>
+
+### November
+
+- 🔎 **[LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble](https://arxiv.org/abs/2411.17135)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Yujeong Lee, Sangwoo Shin, Wei-Jin Park, Honguk Woo
+
+- 🔎 **[Neuromorphic Attitude Estimation and Control](https://arxiv.org/abs/2411.13945)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Stein Stroobants, Christophe de Wagter, Guido C. H. E. De Croon
+
+<a id="2024-10"></a>
+
+### October
+
+- 🔎 **[Neural Attention Field: Emerging Point Relevance in 3D Scenes for One-Shot Dexterous Grasping](https://arxiv.org/abs/2410.23039)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Qianxu Wang, Congyue Deng, Tyler Ga Wei Lum, Yuanpei Chen, Yaodong Yang, Jeannette Bohg, Yixin Zhu, Leonidas Guibas
+
+- 🔎 **[The Duality of Generative AI and Reinforcement Learning in Robotics: A Review](https://arxiv.org/abs/2410.16411)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Agent` · `Multimodal` · `VLA` · `Robotics`  
+  Authors: Angelo Moroncelli, Vishal Soni, Marco Forgione, Dario Piga, Blerina Spahiu, Loris Roveda
+
+<a id="2024-09"></a>
+
+### September
+
+- 🔎 **[The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards](https://arxiv.org/abs/2409.15922)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics`  
+  Authors: Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn
+
+- 🔎 **[TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLA` · `Robotics`  
+  Authors: Junjie Wen, Yichen Zhu, Jinming Li, Minjie Zhu, Kun Wu, Zhiyuan Xu, Ning Liu, Ran Cheng, et al.
+
+- 🔎 **[Reward Guidance for Reinforcement Learning Tasks Based on Large Language Models: The LMGT Framework](https://arxiv.org/abs/2409.04744)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Yongxin Deng, Xihe Qiu, Jue Chen, Xiaoyu Tan
+
+<a id="2024-07"></a>
+
+### July
+
+- 🔎 **[Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://arxiv.org/abs/2407.08065)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Isaac Sheidlower, Reuben Aronson, Elaine Schaertl Short
+
+- 🔎 **[DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection](https://arxiv.org/abs/2407.02098)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics` · `Autonomous Driving`  
+  Authors: Kaixin Xu, Qingtian Feng, Hao Chen, Zhe Wang, Xue Geng, Xulei Yang, Min Wu, Xiaoli Li, et al.
+
+<a id="2024-06"></a>
+
+### June
+
+- 🔎 **[Reinforcement Learning via Auxiliary Task Distillation](https://arxiv.org/abs/2406.17168)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Curriculum` · `Long-horizon`  
+  Authors: Abhinav Narayan Harish, Larry Heck, Josiah P. Hanna, Zsolt Kira, Andrew Szot
+
+- 🔎 **[MEReQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention](https://arxiv.org/abs/2406.16258)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent`  
+  Authors: Yuxin Chen, Chen Tang, Jianglan Wei, Chenran Li, Ran Tian, Xiang Zhang, Wei Zhan, Peter Stone, et al.
+
+- 🔎 **[Memory Sequence Length of Data Sampling Impacts the Adaptation of Meta-Reinforcement Learning Agents](https://arxiv.org/abs/2406.12359)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `On-policy` · `Off-policy` · `Robotics`  
+  Authors: Menglong Zhang, Fuyuan Qian, Quanying Liu
+
+- 🔎 **[Optimal Gait Control for a Tendon-driven Soft Quadruped Robot by Model-based Reinforcement Learning](https://arxiv.org/abs/2406.07069)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Xuezhi Niu, Kaige Tan, Lei Feng
+
+<a id="2024-05"></a>
+
+### May
+
+- 🔎 **[LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence](https://arxiv.org/abs/2405.17424)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Robotics`  
+  Authors: Zhuoling Li, Xiaogang Xu, Zhenhua Xu, SerNam Lim, Hengshuang Zhao
+
+<a id="2024-04"></a>
+
+### April
+
+- 🔎 **[Vision-Language Model-based Physical Reasoning for Robot Liquid Perception](https://arxiv.org/abs/2404.06904)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics` · `Reasoning`  
+  Authors: Wenqiang Lai, Yuan Gao, Tin Lun Lam
+
+<a id="2024-02"></a>
+
+### February
+
+- 🔎 **[Learning an Actionable Discrete Diffusion Policy via Large-Scale Actionless Video Pre-Training](https://arxiv.org/abs/2402.14407)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Robotics`  
+  Authors: Haoran He, Chenjia Bai, Ling Pan, Weinan Zhang, Bin Zhao, Xuelong Li
+
+- 🔎 **[A survey on robustness in trajectory prediction for autonomous vehicles](https://arxiv.org/abs/2402.01397)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Autonomous Driving`  
+  Authors: Jeroen Hagenus, Frederik Baymler Mathiesen, Julian F. Schumann, Arkady Zgonnikov
 
 <a id="2023"></a>
 

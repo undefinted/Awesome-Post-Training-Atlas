@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**219 papers**: 3 curated and 216 academic discovery candidates.
+**323 papers**: 3 curated and 320 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -14,7 +14,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - [2026](#2026) — [Aug](#2026-08) ✓48 · [Jul](#2026-07) ◐14 · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐18 · [Nov](#2025-11) ◐12 · [Oct](#2025-10) ◐12 · [Sep](#2025-09) ◐14 · [Aug](#2025-08) ◐13 · [Jul](#2025-07) ◐14 · [Jun](#2025-06) ◐14 · [May](#2025-05) ◐12 · [Apr](#2025-04) ◐13 · [Mar](#2025-03) ◐8 · [Feb](#2025-02) ◐16 · [Jan](#2025-01) ✓8
-- [2024](#2024) — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · [Mar](#2024-03) ◐1 · Feb ⏳ · [Jan](#2024-01) ◐1
+- [2024](#2024) — [Dec](#2024-12) ✓16 · [Nov](#2024-11) ✓8 · [Oct](#2024-10) ✓15 · [Sep](#2024-09) ✓8 · [Aug](#2024-08) ✓6 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓5 · [May](#2024-05) ✓11 · [Apr](#2024-04) ✓7 · [Mar](#2024-03) ✓13 · [Feb](#2024-02) ✓9 · [Jan](#2024-01) ✓1
 - [2022](#2022) — [Mar](#2022-03) ◐1
 
 <a id="2026"></a>
@@ -1165,15 +1165,575 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2024
 
+<a id="2024-12"></a>
+
+### December
+
+- 🔎 **[Probing Visual Language Priors in VLMs](https://arxiv.org/abs/2501.00569)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Self-improvement` · `VLM` · `Image Generation` · `Reasoning`  
+  Authors: Tiange Luo, Ang Cao, Gunhee Lee, Justin Johnson, Honglak Lee
+
+- 🔎 **[B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners](https://arxiv.org/abs/2412.17256)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning` · `Math` · `Code`  
+  Authors: Weihao Zeng, Yuzhen Huang, Lulu Zhao, Yijun Wang, Zifei Shan, Junxian He
+
+- 🔎 **[Enhancing Item Tokenization for Generative Recommendation through Self-Improvement](https://arxiv.org/abs/2412.17171)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Runjin Chen, Mingxuan Ju, Ngoc Bui, Dimosthenis Antypas, Stanley Cai, Xiaopeng Wu, Leonardo Neves, Zhangyang Wang, et al.
+
+- 🔎 **[Language Models as Continuous Self-Evolving Data Engineers](https://arxiv.org/abs/2412.15151)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Peidong Wang, Ming Wang, Zhiming Ma, Xiaocui Yang, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song
+
+- 🔎 **[Helping LLMs Improve Code Generation Using Feedback from Testing and Static Analysis](https://arxiv.org/abs/2412.14841)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Code`  
+  Authors: Greta Dolcetti, Vincenzo Arceri, Eleonora Iotti, Sergio Maffeis, Agostino Cortesi, Enea Zaffanella
+
+- 🔎 **[A Survey on LLM Inference-Time Self-Improvement](https://arxiv.org/abs/2412.14352)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Xiangjue Dong, Maria Teleki, James Caverlee
+
+- 🔎 **[Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models](https://arxiv.org/abs/2412.13791)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Xinyu Pang, Ruixin Hong, Zhanke Zhou, Fangrui Lv, Xinwei Yang, Zhilong Liang, Bo Han, Changshui Zhang
+
+- 🔎 **[Evaluating Zero-Shot Multilingual Aspect-Based Sentiment Analysis with Large Language Models](https://arxiv.org/abs/2412.12564)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Chengyan Wu, Bolei Ma, Zheyu Zhang, Ningyuan Deng, Yanqing He, Yun Xue
+
+- 🔎 **[BlenderLLM: Training Large Language Models for Computer-Aided Design with Self-improvement](https://arxiv.org/abs/2412.14203)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Yuhao Du, Shunian Chen, Wenbo Zan, Peizhao Li, Mingxuan Wang, Dingjie Song, Bo Li, Yan Hu, et al.
+
+- 🔎 **[Endangered Alert: A Field-Validated Self-Training Scheme for Detecting and Protecting Threatened Wildlife on Roads and Roadsides](https://arxiv.org/abs/2412.12222)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `VLM`  
+  Authors: Kunming Li, Mao Shan, Stephany Berrio Perez, Katie Luo, Stewart Worrall
+
+- 🔎 **[Semi-IIN: Semi-supervised Intra-inter modal Interaction Learning Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/2412.09784)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Multimodal`  
+  Authors: Jinhao Lin, Yifei Wang, Yanwu Xu, Qi Liu
+
+- 🔎 **[Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models](https://arxiv.org/abs/2412.02980)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Synthetic Data`  
+  Authors: Alex Havrilla, Andrew Dai, Laura O'Mahony, Koen Oostermeijer, Vera Zisler, Alon Albalak, Fabrizio Milo, Sharath Chandra Raparthy, et al.
+
+- 🔎 **[Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/abs/2412.03704)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Self-improvement` · `Multimodal` · `VLM` · `Hallucination`  
+  Authors: Xiyao Wang, Zhengyuan Yang, Linjie Li, Hongjin Lu, Yuancheng Xu, Chung-Ching Lin, Kevin Lin, Furong Huang, et al.
+
+- 🔎 **[Exploring the Role of AI-Powered Chatbots for Teens and Young Adults with ASD or Social Anxiety](https://arxiv.org/abs/2412.03740)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Dilan Mian
+
+- 🔎 **[MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Off-policy` · `Reasoning`  
+  Authors: Sumeet Ramesh Motwani, Chandler Smith, Rocktim Jyoti Das, Rafael Rafailov, Ivan Laptev, Philip H. S. Torr, Fabio Pizzati, Ronald Clark, et al.
+
+- 🔎 **[Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation](https://arxiv.org/abs/2412.01243)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation` · `Reasoning`  
+  Authors: Zilyu Ye, Zhiyang Chen, Tiancheng Li, Zemin Huang, Weijian Luo, Guo-Jun Qi
+
+<a id="2024-11"></a>
+
+### November
+
+- 🔎 **[Efficient Self-Improvement in Multimodal Large Language Models: A Model-Level Judge-Free Approach](https://arxiv.org/abs/2411.17760)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Preference Optimization` · `Self-improvement` · `Multimodal` · `Hallucination`  
+  Authors: Shijian Deng, Wentian Zhao, Yu-Jhe Li, Kun Wan, Daniel Miranda, Ajinkya Kale, Yapeng Tian
+
+- 🔎 **[Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision](https://arxiv.org/abs/2411.16579)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Self-improvement` · `Reasoning` · `Math` · `Code`  
+  Authors: Zhiheng Xi, Dingwen Yang, Jixuan Huang, Jiafu Tang, Guanyu Li, Yiwen Ding, Wei He, Boyang Hong, et al.
+
+- 🔎 **[Boundless Socratic Learning with Language Games](https://arxiv.org/abs/2411.16905)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Tom Schaul
+
+- 🔎 **[SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation](https://arxiv.org/abs/2411.11053)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning` · `Code`  
+  Authors: Bin Xu, Yiguan Lin, Yinghao Li, Yang Gao
+
+- 🔎 **[GraphXForm: Graph transformer for computer-aided molecular design](https://arxiv.org/abs/2411.01667)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Jonathan Pirnay, Jan G. Rittig, Alexander B. Wolf, Martin Grohe, Jakob Burger, Alexander Mitsos, Dominik G. Grimm
+
+- 🔎 **[Building the Self-Improvement Loop: Error Detection and Correction in Goal-Oriented Semantic Communications](https://arxiv.org/abs/2411.01544)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Peizheng Li, Xinyi Lin, Adnan Aijaz
+
+- 🔎 **[Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems](https://arxiv.org/abs/2411.00548)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Synthetic Data` · `Diffusion` · `Image Generation`  
+  Authors: Sourav Modak, Anthony Stein
+
+- 🔎 **[Mitigating Tail Narrowing in LLM Self-Improvement via Socratic-Guided Sampling](https://arxiv.org/abs/2411.00750)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Yiwen Ding, Zhiheng Xi, Wei He, Zhuoyuan Li, Yitao Zhai, Xiaowei Shi, Xunliang Cai, Tao Gui, et al.
+
+<a id="2024-10"></a>
+
+### October
+
+- 🔎 **[Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/abs/2411.00855)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-training` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Kanzhi Cheng, Yantao Li, Fangzhi Xu, Jianbing Zhang, Hao Zhou, Yang Liu
+
+- 🔎 **[AI-Driven Feedback Loops in Digital Technologies: Psychological Impacts on User Behaviour and Well-Being](https://arxiv.org/abs/2411.09706)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Anthonette Adanyin
+
+- 🔎 **[Matryoshka Pilot: Learning to Drive Black-Box LLMs with LLMs](https://arxiv.org/abs/2410.20749)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Multi-turn` · `Long-horizon` · `Reasoning`  
+  Authors: Changhao Li, Yuchen Zhuang, Rushi Qiang, Haotian Sun, Hanjun Dai, Chao Zhang, Bo Dai
+
+- 🔎 **[SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement](https://arxiv.org/abs/2410.20285)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Coding Agent`  
+  Authors: Antonis Antoniades, Albert Örwall, Kexun Zhang, Yuxi Xie, Anirudh Goyal, William Wang
+
+- 🔎 **[Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration](https://arxiv.org/abs/2410.18076)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Off-policy` · `Self-improvement` · `Long-horizon`  
+  Authors: Max Wilcoxson, Qiyang Li, Kevin Frans, Sergey Levine
+
+- 🔎 **[CorrectionLM: Self-Corrections with SLM for Dialogue State Tracking](https://arxiv.org/abs/2410.18209)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-improvement`  
+  Authors: Chia-Hsuan Lee, Hao Cheng, Mari Ostendorf
+
+- 🔎 **[SMART: Self-learning Meta-strategy Agent for Reasoning Tasks](https://arxiv.org/abs/2410.16128)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Rongxing Liu, Kumar Shridhar, Manish Prajapat, Patrick Xia, Mrinmaya Sachan
+
+- 🔎 **[GRS: Generating Robotic Simulation Tasks from Real-World Images](https://arxiv.org/abs/2410.15536)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `VLM` · `Robotics`  
+  Authors: Alex Zook, Fan-Yun Sun, Josef Spjut, Valts Blukis, Stan Birchfield, Jonathan Tremblay
+
+- 🔎 **[Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `Self-improvement` · `Agent` · `Code`  
+  Authors: Mingchen Zhuge, Changsheng Zhao, Dylan Ashley, Wenyi Wang, Dmitrii Khizbullin, Yunyang Xiong, Zechun Liu, Ernie Chang, et al.
+
+- 🔎 **[SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search](https://arxiv.org/abs/2410.09580)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Multi-turn`  
+  Authors: Hanwen Du, Bo Peng, Xia Ning
+
+- 🔎 **[GRAPPA: Generalizing and Adapting Robot Policies via Online Agentic Guidance](https://arxiv.org/abs/2410.06473)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Agent` · `VLM` · `Robotics`  
+  Authors: Arthur Bucker, Pablo Ortega-Kral, Jonathan Francis, Jean Oh
+
+- 🔎 **[Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Agent` · `Reasoning` · `Math`  
+  Authors: Xunjian Yin, Xinyi Wang, Liangming Pan, Li Lin, Xiaojun Wan, William Yang Wang
+
+- 🔎 **[STREAMS: An Assistive Multimodal AI Framework for Empowering Biosignal Based Robotic Controls](https://arxiv.org/abs/2410.03486)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Multimodal` · `Robotics`  
+  Authors: Ali Rabiee, Sima Ghafoori, Xiangyu Bai, Sarah Ostadabbas, Reza Abiri
+
+- 🔎 **[TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation](https://arxiv.org/abs/2410.03608)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-improvement` · `Reasoning`  
+  Authors: Jonathan Cook, Tim Rocktäschel, Jakob Foerster, Dennis Aumiller, Alex Wang
+
+- 🔎 **[ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement](https://arxiv.org/abs/2410.02108)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Xiangyu Peng, Congying Xia, Xinyi Yang, Caiming Xiong, Chien-Sheng Wu, Chen Xing
+
+<a id="2024-09"></a>
+
+### September
+
+- 🔎 **[Behavior evolution-inspired approach to walking gait reinforcement training for quadruped robots](https://arxiv.org/abs/2409.16862)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Yu Wang, Wenchuan Jia, Yi Sun, Dong He
+
+- 🔎 **[Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing](https://arxiv.org/abs/2409.15610)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Haoru Xue, Chaoyi Pan, Zeji Yi, Guannan Qu, Guanya Shi
+
+- 🔎 **[Improving Cone-Beam CT Image Quality with Knowledge Distillation-Enhanced Diffusion Model in Imbalanced Data Settings](https://arxiv.org/abs/2409.12539)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-training` · `Synthetic Data` · `Diffusion` · `Image Generation`  
+  Authors: Joonil Hwang, Sangjoon Park, NaHyeon Park, Seungryong Cho, Jin Sung Kim
+
+- 🔎 **[Multimodal Emotion Recognition with Vision-language Prompting and Modality Dropout](https://arxiv.org/abs/2409.07078)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Multimodal`  
+  Authors: Anbin QI, Zhongliang Liu, Xinyong Zhou, Jinba Xiao, Fengrun Zhang, Qi Gan, Ming Tao, Gaozheng Zhang, et al.
+
+- 🔎 **[Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs](https://arxiv.org/abs/2409.07456)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Sadra Safadoust, Fabio Tosi, Fatma Güney, Matteo Poggi
+
+- 🔎 **[Multimodal Large Language Model Driven Scenario Testing for Autonomous Vehicles](https://arxiv.org/abs/2409.06450)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Multimodal` · `Reasoning`  
+  Authors: Qiujing Lu, Xuanhan Wang, Yiwei Jiang, Guangming Zhao, Mingyue Ma, Shuo Feng
+
+- 🔎 **[E2CL: Exploration-based Error Correction Learning for Embodied Agents](https://arxiv.org/abs/2409.03256)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics` · `Reasoning`  
+  Authors: Hanlin Wang, Chak Tou Leong, Jian Wang, Wenjie Li
+
+- 🔎 **[Prompt Baking](https://arxiv.org/abs/2409.13697)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning` · `Math` · `Code`  
+  Authors: Aman Bhargava, Cameron Witkowski, Alexander Detkov, Matt Thomson
+
+<a id="2024-08"></a>
+
+### August
+
+- 🔎 **[Self-Improving Diffusion Models with Synthetic Data](https://arxiv.org/abs/2408.16333)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Synthetic Data` · `Diffusion`  
+  Authors: Sina Alemohammad, Ahmed Imtiaz Humayun, Shruti Agarwal, John Collomosse, Richard Baraniuk
+
+- 🔎 **[Leveraging Contrastive Learning and Self-Training for Multimodal Emotion Recognition with Limited Labeled Samples](https://arxiv.org/abs/2409.04447)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Multimodal`  
+  Authors: Qi Fan, Yutong Li, Yi Xin, Xinyu Cheng, Guanglai Gao, Miao Ma
+
+- 🔎 **[uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization](https://arxiv.org/abs/2408.12095)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Aishik Nagar, Yutong Liu, Andy T. Liu, Viktor Schlegel, Vijay Prakash Dwivedi, Arun-Kumar Kaliya-Perumal, Guna Pratheep Kalanchiam, Yili Tang, et al.
+
+- 🔎 **[Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search](https://arxiv.org/abs/2408.10635)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Self-play` · `Multi-turn`  
+  Authors: Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, Xiusi Chen, Wei Cheng, Yisong Yue, Ziniu Hu
+
+- 🔎 **[DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models](https://arxiv.org/abs/2408.08855)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `VLM`  
+  Authors: Eman Ali, Sathira Silva, Muhammad Haris Khan
+
+- 🔎 **[From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Code`  
+  Authors: Haolin Jin, Linghan Huang, Haipeng Cai, Jun Yan, Bo Li, Huaming Chen
+
+<a id="2024-07"></a>
+
+### July
+
+- 🔎 **[Recursive Introspection: Teaching Language Model Agents How to Self-Improve](https://arxiv.org/abs/2407.18219)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multi-turn` · `Reasoning` · `Math`  
+  Authors: Yuxiao Qu, Tianjun Zhang, Naman Garg, Aviral Kumar
+
+- 🔎 **[Rethinking Domain Adaptation and Generalization in the Era of CLIP](https://arxiv.org/abs/2407.15173)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training`  
+  Authors: Ruoyu Feng, Tao Yu, Xin Jin, Xiaoyuan Yu, Lei Xiao, Zhibo Chen
+
+- 🔎 **[Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://arxiv.org/abs/2407.13032)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-improvement` · `Agent` · `Web Agent` · `Multimodal`  
+  Authors: Tamer Abuelsaad, Deepak Akkil, Prasenjit Dey, Ashish Jagmohan, Aditya Vempaty, Ravi Kokku
+
+- 🔎 **[Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization](https://arxiv.org/abs/2407.07024)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Multimodal` · `VLM`  
+  Authors: Jeongseok Hyun, Su Ho Han, Hyolim Kang, Joon-Young Lee, Seon Joo Kim
+
+- 🔎 **[Progress or Regress? Self-Improvement Reversal in Post-training](https://arxiv.org/abs/2407.05013)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Preference Optimization` · `Self-improvement` · `Reasoning` · `Math`  
+  Authors: Ting Wu, Xuefeng Li, Pengfei Liu
+
+- 🔎 **[Fine-Tuning on Diverse Reasoning Chains Drives Within-Inference CoT Refinement in LLMs](https://arxiv.org/abs/2407.03181)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Haritz Puerto, Tilek Chubakov, Xiaodan Zhu, Harish Tayyar Madabushi, Iryna Gurevych
+
+- 🔎 **[CLIP the Divergence: Language-guided Unsupervised Domain Adaptation](https://arxiv.org/abs/2407.01842)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `VLM`  
+  Authors: Jinjing Zhu, Yucheng Chen, Lin Wang
+
+<a id="2024-06"></a>
+
+### June
+
+- 🔎 **[Multi-Agent Training for Pommerman: Curriculum Learning and Population-based Self-Play Approach](https://arxiv.org/abs/2407.00662)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-play` · `Curriculum` · `Agent`  
+  Authors: Nhat-Minh Huynh, Hoang-Giang Cao, I-Chen Wu
+
+- 🔎 **[DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection](https://arxiv.org/abs/2406.14924)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `VLM`  
+  Authors: Jia Syuen Lim, Zhuoxiao Chen, Mahsa Baktashmotlagh, Zhi Chen, Xin Yu, Zi Huang, Yadan Luo
+
+- 🔎 **[Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts](https://arxiv.org/abs/2406.12034)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Synthetic Data` · `Reasoning` · `Code`  
+  Authors: Junmo Kang, Leonid Karlinsky, Hongyin Luo, Zhen Wang, Jacob Hansen, James Glass, David Cox, Rameswar Panda, et al.
+
+- 🔎 **[CERET: Cost-Effective Extrinsic Refinement for Text Generation](https://arxiv.org/abs/2406.05588)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Jason Cai, Hang Su, Monica Sunkara, Igor Shalyminov, Saab Mansour
+
+- 🔎 **[Logic Synthesis with Generative Deep Neural Networks](https://arxiv.org/abs/2406.04699)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Xihan Li, Xing Li, Lei Chen, Xing Zhang, Mingxuan Yuan, Jun Wang
+
+<a id="2024-05"></a>
+
+### May
+
+- 🔎 **[Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling](https://arxiv.org/abs/2406.00079)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Sili Huang, Jifeng Hu, Zhejian Yang, Liwei Yang, Tao Luo, Hechang Chen, Lichao Sun, Bo Yang
+
+- 🔎 **[In-Context Decision Transformer: Reinforcement Learning via Hierarchical Chain-of-Thought](https://arxiv.org/abs/2405.20692)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Long-horizon` · `Reasoning`  
+  Authors: Sili Huang, Jifeng Hu, Hechang Chen, Lichao Sun, Bo Yang
+
+- 🔎 **[Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Synthetic Data` · `Web Agent` · `Long-horizon`  
+  Authors: Ajay Patel, Markus Hofmarcher, Claudiu Leoveanu-Condrei, Marius-Constantin Dinu, Chris Callison-Burch, Sepp Hochreiter
+
+- 🔎 **[Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation](https://arxiv.org/abs/2405.20092)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Code`  
+  Authors: Jingchang Chen, Hongxuan Tang, Zheng Chu, Qianglong Chen, Zekun Wang, Ming Liu, Bing Qin
+
+- 🔎 **[Model-Based Diffusion for Trajectory Optimization](https://arxiv.org/abs/2407.01573)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Chaoyi Pan, Zeji Yi, Guanya Shi, Guannan Qu
+
+- 🔎 **[Competing for pixels: a self-play algorithm for weakly-supervised segmentation](https://arxiv.org/abs/2405.16628)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-play` · `Agent`  
+  Authors: Shaheer U. Saeed, Shiqi Huang, João Ramalhinho, Iani J. M. B. Gayo, Nina Montaña-Brown, Ester Bonmati, Stephen P. Pereira, Brian Davidson, et al.
+
+- 🔎 **[Pre-Trained Vision-Language Models as Partial Annotators](https://arxiv.org/abs/2406.18550)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-training` · `VLM`  
+  Authors: Qian-Wei Wang, Yuqiu Xie, Letian Zhang, Zimo Liu, Shu-Tao Xia
+
+- 🔎 **[Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation](https://arxiv.org/abs/2405.11937)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Kamil Guttmann, Mikołaj Pokrywka, Adrian Charkiewicz, Artur Nowakowski
+
+- 🔎 **[Observational Scaling Laws and the Predictability of Language Model Performance](https://arxiv.org/abs/2405.10938)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Reasoning`  
+  Authors: Yangjun Ruan, Chris J. Maddison, Tatsunori Hashimoto
+
+- 🔎 **[LLM4ED: Large Language Models for Automatic Equation Discovery](https://arxiv.org/abs/2405.07761)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Mengge Du, Yuntian Chen, Zhongzheng Wang, Longfeng Nie, Dongxiao Zhang
+
+- 🔎 **[Automating the Enterprise with Foundation Models](https://arxiv.org/abs/2405.03710)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Multimodal` · `Robotics` · `Reasoning`  
+  Authors: Michael Wornow, Avanika Narayan, Krista Opsahl-Ong, Quinn McIntyre, Nigam H. Shah, Christopher Re
+
+<a id="2024-04"></a>
+
+### April
+
+- 🔎 **[Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://arxiv.org/abs/2404.19758)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-training` · `Diffusion`  
+  Authors: Paul Engstler, Andrea Vedaldi, Iro Laina, Christian Rupprecht
+
+- 🔎 **[Self-training superconducting neuromorphic circuits using reinforcement learning rules](https://arxiv.org/abs/2404.18774)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Robotics`  
+  Authors: M. L. Schneider, E. M. Jué, M. R. Pufall, K. Segall, C. W. Anderson
+
+- 🔎 **[Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning` · `Math`  
+  Authors: Ye Tian, Baolin Peng, Linfeng Song, Lifeng Jin, Dian Yu, Haitao Mi, Dong Yu
+
+- 🔎 **[Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model](https://arxiv.org/abs/2404.11046)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `VLM`  
+  Authors: Hao Yan, Yuhong Guo
+
+- 🔎 **[Smart Help: Strategic Opponent Modeling for Proactive and Adaptive Robot Assistance in Households](https://arxiv.org/abs/2404.09001)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Zhihao Cao, Zidong Wang, Siwen Xie, Anji Liu, Lifeng Fan
+
+- 🔎 **[Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement](https://arxiv.org/abs/2404.04627)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Reasoning`  
+  Authors: Zaid Khan, Vijay Kumar BG, Samuel Schulter, Yun Fu, Manmohan Chandraker
+
+- 🔎 **[Self-Improvement Programming for Temporal Knowledge Graph Question Answering](https://arxiv.org/abs/2404.01720)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Zhuo Chen, Zhao Zhang, Zixuan Li, Fei Wang, Yutao Zeng, Xiaolong Jin, Yongjun Xu
+
 <a id="2024-03"></a>
 
 ### March
+
+- 🔎 **[STaR-GATE: Teaching Language Models to Ask Clarifying Questions](https://arxiv.org/abs/2403.19154)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Chinmaya Andukuri, Jan-Philipp Fränken, Tobias Gerstenberg, Noah D. Goodman
+
+- 🔎 **[Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery](https://arxiv.org/abs/2403.16194)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Diffusion`  
+  Authors: Siddharth Tourani, Ahmed Alwheibi, Arif Mahmood, Muhammad Haris Khan
+
+- 🔎 **[Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement](https://arxiv.org/abs/2403.15180)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Jonathan Pirnay, Dominik G. Grimm
+
+- 🔎 **[ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy](https://arxiv.org/abs/2403.14589)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Self-improvement` · `Agent` · `Reasoning`  
+  Authors: Zonghan Yang, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu
+
+- 🔎 **[Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors](https://arxiv.org/abs/2403.15482)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Safety`  
+  Authors: Alicja Chaszczewicz, Raj Sanjay Shah, Ryan Louie, Bruce A Arnow, Robert Kraut, Diyi Yang
+
+- 🔎 **[Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments](https://arxiv.org/abs/2403.13556)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `VLM`  
+  Authors: Djamahl Etchegaray, Zi Huang, Tatsuya Harada, Yadan Luo
+
+- 🔎 **[DreamDA: Generative Data Augmentation with Diffusion Models](https://arxiv.org/abs/2403.12803)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Synthetic Data` · `Diffusion`  
+  Authors: Yunxiang Fu, Chaoqi Chen, Yu Qiao, Yizhou Yu
+
+- 🔎 **[RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reasoning`  
+  Authors: Tianjun Zhang, Shishir G. Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion Stoica, Joseph E. Gonzalez
 
 - **[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)** — Trains models to generate useful internal rationales at arbitrary positions in ordinary text.  
   2024-03-14 · `rationale` · `self-training` · `reasoning`  
   Labels: `Self-training` · `Reasoning`  
   Authors: Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman  
   Institutions*: Stanford University
+
+- 🔎 **[Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation](https://arxiv.org/abs/2403.05056)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training`  
+  Authors: Yifan Mao, Jian Liu, Xianming Liu
+
+- 🔎 **[In-Memory Learning: A Declarative Learning Framework for Large Language Models](https://arxiv.org/abs/2403.02757)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-improvement`  
+  Authors: Bo Wang, Tianxiang Sun, Hang Yan, Siyin Wang, Qingyuan Cheng, Xipeng Qiu
+
+- 🔎 **[SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code](https://arxiv.org/abs/2403.01248)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Ziniu Hu, Ahmet Iscen, Aashi Jain, Thomas Kipf, Yisong Yue, David A. Ross, Cordelia Schmid, Alireza Fathi
+
+- 🔎 **[SELFI: Autonomous Self-Improvement with Reinforcement Learning for Social Navigation](https://arxiv.org/abs/2403.00991)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Robotics`  
+  Authors: Noriaki Hirose, Dhruv Shah, Kyle Stachowicz, Ajay Sridhar, Sergey Levine
+
+<a id="2024-02"></a>
+
+### February
+
+- 🔎 **[Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts](https://arxiv.org/abs/2402.16822)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Synthetic Data`  
+  Authors: Mikayel Samvelyan, Sharath Chandra Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, Manish Bhatt, Yuning Mao, Minqi Jiang, et al.
+
+- 🔎 **[How Can LLM Guide RL? A Value-Based Approach](https://arxiv.org/abs/2402.16181)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Shenao Zhang, Sirui Zheng, Shuqi Ke, Zhihan Liu, Wanxin Jin, Jianbo Yuan, Yingxiang Yang, Hongxia Yang, et al.
+
+- 🔎 **[CriticBench: Benchmarking LLMs for Critique-Correct Reasoning](https://arxiv.org/abs/2402.14809)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning` · `Code`  
+  Authors: Zicheng Lin, Zhibin Gou, Tian Liang, Ruilin Luo, Haowei Liu, Yujiu Yang
+
+- 🔎 **[CriticEval: Evaluating Large Language Model as Critic](https://arxiv.org/abs/2402.13764)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement`  
+  Authors: Tian Lan, Wenwei Zhang, Chen Xu, Heyan Huang, Dahua Lin, Kai Chen, Xian-ling Mao
+
+- 🔎 **[A Survey on Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2402.13116)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-improvement`  
+  Authors: Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, et al.
+
+- 🔎 **[OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Robotics`  
+  Authors: Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong
+
+- 🔎 **[InstaGen: Enhancing Object Detection by Training on Synthetic Dataset](https://arxiv.org/abs/2402.05937)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-training` · `Diffusion`  
+  Authors: Chengjian Feng, Yujie Zhong, Zequn Jie, Weidi Xie, Lin Ma
+
+- 🔎 **[CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay](https://arxiv.org/abs/2402.04858)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Natasha Butt, Blazej Manczak, Auke Wiggers, Corrado Rainone, David W. Zhang, Michaël Defferrard, Taco Cohen
+
+- 🔎 **[Vision-Language Models Provide Promptable Representations for Reinforcement Learning](https://arxiv.org/abs/2402.02651)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `VLM` · `Reasoning`  
+  Authors: William Chen, Oier Mees, Aviral Kumar, Sergey Levine
 
 <a id="2024-01"></a>
 

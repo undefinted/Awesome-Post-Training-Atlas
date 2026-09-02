@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**156 papers**: 23 curated and 133 academic discovery candidates.
+**174 papers**: 23 curated and 151 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -14,7 +14,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - [2026](#2026) — [Aug](#2026-08) ✓85 · [Jul](#2026-07) ◐7 · [Jun](#2026-06) ◐3 · [May](#2026-05) ◐5 · [Apr](#2026-04) ◐4 · [Mar](#2026-03) ◐3 · Feb ⏳ · [Jan](#2026-01) ◐1
 - [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · Jan ✓0
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ✓3 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓3 · Sep ✓0 · [Aug](#2024-08) ✓1 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓1 · May ✓0 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓3 · [Feb](#2024-02) ✓1 · [Jan](#2024-01) ✓1
 
 <a id="2026"></a>
 
@@ -880,3 +880,137 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2025-02-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation`  
   Authors: Wenzheng Jiang, Ji Wang, Xiongtao Zhang, Weidong Bao, Cheston Tan, Flint Xiaofeng Fan
+
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+- 🔎 **[RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/abs/2412.09858)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Robotics`  
+  Authors: Charles Xu, Qiyang Li, Jianlan Luo, Sergey Levine
+
+- 🔎 **[Progressive-Resolution Policy Distillation: Leveraging Coarse-Resolution Simulations for Time-Efficient Fine-Resolution Policy Learning](https://arxiv.org/abs/2412.07477)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Yuki Kadokawa, Hirotaka Tahara, Takamitsu Matsubara
+
+- 🔎 **[UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping](https://arxiv.org/abs/2412.02699)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Robotics`  
+  Authors: Wenbo Wang, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, et al.
+
+<a id="2024-11"></a>
+
+### November
+
+- 🔎 **[Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation](https://arxiv.org/abs/2411.16532)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Muhammad Burhan Hafez, Kerim Erekmen
+
+<a id="2024-10"></a>
+
+### October
+
+- 🔎 **[Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2410.24152)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Reasoning`  
+  Authors: Jiaqi Liu, Chengkai Xu, Peng Hang, Jian Sun, Wei Zhan, Masayoshi Tomizuka, Mingyu Ding
+
+- 🔎 **[HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots](https://arxiv.org/abs/2410.21229)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Tairan He, Wenli Xiao, Toru Lin, Zhengyi Luo, Zhenjia Xu, Zhenyu Jiang, Jan Kautz, Changliu Liu, et al.
+
+- 🔎 **[Interpretable end-to-end Neurosymbolic Reinforcement Learning agents](https://arxiv.org/abs/2410.14371)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Nils Grandien, Quentin Delfosse, Kristian Kersting
+
+<a id="2024-08"></a>
+
+### August
+
+- 🔎 **[Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/abs/2408.16737)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-improvement` · `Synthetic Data` · `Reasoning`  
+  Authors: Hritik Bansal, Arian Hosseini, Rishabh Agarwal, Vinh Q. Tran, Mehran Kazemi
+
+<a id="2024-07"></a>
+
+### July
+
+- 🔎 **[PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations](https://arxiv.org/abs/2407.18178)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Cheng Qian, Julen Urain, Kevin Zakka, Jan Peters
+
+- 🔎 **[Proximal Policy Distillation](https://arxiv.org/abs/2407.15134)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `PPO` · `Self-training`  
+  Authors: Giacomo Spigler
+
+<a id="2024-06"></a>
+
+### June
+
+- 🔎 **[Online Policy Distillation with Decision-Attention](https://arxiv.org/abs/2406.05488)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `Distillation` · `PPO`  
+  Authors: Xinqiang Yu, Chuanguang Yang, Chengqing Yu, Libo Huang, Zhulin An, Yongjun Xu
+
+<a id="2024-04"></a>
+
+### April
+
+- 🔎 **[An Explainable Deep Reinforcement Learning Model for Warfarin Maintenance Dosing Using Policy Distillation and Action Forging](https://arxiv.org/abs/2404.17187)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `PPO`  
+  Authors: Sadjad Anzabi Zadeh, W. Nick Street, Barrett W. Thomas
+
+- 🔎 **[Continual Policy Distillation of Reinforcement Learning-based Controllers for Soft Robotic In-Hand Manipulation](https://arxiv.org/abs/2404.04219)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Robotics`  
+  Authors: Lanpei Li, Enrico Donato, Vincenzo Lomonaco, Egidio Falotico
+
+<a id="2024-03"></a>
+
+### March
+
+- 🔎 **[Distill2Explain: Differentiable decision trees for explainable reinforcement learning in energy application controllers](https://arxiv.org/abs/2403.11907)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Gargya Gokhale, Seyed Soroush Karimi Madahi, Bert Claessens, Chris Develder
+
+- 🔎 **[Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects](https://arxiv.org/abs/2403.10187)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Malte Mosbach, Sven Behnke
+
+- 🔎 **[MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting](https://arxiv.org/abs/2403.03174)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Tool Use` · `VLM` · `Robotics` · `Reasoning`  
+  Authors: Fangchen Liu, Kuan Fang, Pieter Abbeel, Sergey Levine
+
+<a id="2024-02"></a>
+
+### February
+
+- 🔎 **[Distilling Morphology-Conditioned Hypernetworks for Efficient Universal Morphology Control](https://arxiv.org/abs/2402.06570)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Zheng Xiong, Risto Vuorio, Jacob Beck, Matthieu Zimmer, Kun Shao, Shimon Whiteson
+
+<a id="2024-01"></a>
+
+### January
+
+- 🔎 **[Knowledge Distillation from Language-Oriented to Emergent Communication for Multi-Agent Remote Control](https://arxiv.org/abs/2401.12624)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-01-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Multimodal`  
+  Authors: Yongjun Kim, Sejin Seo, Jihong Park, Mehdi Bennis, Seong-Lyun Kim, Junil Choi

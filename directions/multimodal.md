@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**182 papers**: 2 curated and 180 academic discovery candidates.
+**258 papers**: 2 curated and 256 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -14,7 +14,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - [2026](#2026) — [Aug](#2026-08) ✓68 · [Jul](#2026-07) ◐4 · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐7 · [Nov](#2025-11) ◐11 · [Oct](#2025-10) ◐8 · [Sep](#2025-09) ◐12 · [Aug](#2025-08) ◐8 · [Jul](#2025-07) ◐9 · [Jun](#2025-06) ◐13 · [May](#2025-05) ◐9 · [Apr](#2025-04) ◐5 · [Mar](#2025-03) ◐5 · [Feb](#2025-02) ◐15 · [Jan](#2025-01) ◐6
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
 
 <a id="2026"></a>
@@ -980,6 +980,438 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2025-01-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reward Model` · `Multimodal` · `Image Generation` · `Reasoning` · `Hallucination`  
   Authors: Ruixiang Jiang, Changwen Chen
+
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+- 🔎 **[VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving](https://arxiv.org/abs/2412.15544)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Autonomous Driving`  
+  Authors: Zilin Huang, Zihao Sheng, Yansong Qu, Junwei You, Sikai Chen
+
+- 🔎 **[Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning](https://arxiv.org/abs/2412.11974)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Multimodal` · `VLM` · `Robotics` · `Reasoning` · `Hallucination`  
+  Authors: Qi Sun, Pengfei Hong, Tej Deep Pala, Vernon Toh, U-Xuan Tan, Deepanway Ghosal, Soujanya Poria
+
+- 🔎 **[Preference Adaptive and Sequential Text-to-Image Generation](https://arxiv.org/abs/2412.10419)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Multimodal` · `Image Generation`  
+  Authors: Ofir Nabati, Guy Tennenholtz, ChihWei Hsu, Moonkyung Ryu, Deepak Ramachandran, Yinlam Chow, Xiang Li, Craig Boutilier
+
+- 🔎 **[Revisiting Generative Policies: A Simpler Reinforcement Learning Algorithmic Perspective](https://arxiv.org/abs/2412.01245)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion`  
+  Authors: Jinouwen Zhang, Rongkun Xue, Yazhe Niu, Yun Chen, Jing Yang, Hongsheng Li, Yu Liu
+
+<a id="2024-11"></a>
+
+### November
+
+- 🔎 **[Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing Robots](https://arxiv.org/abs/2411.15130)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Jiaze Cai, Vishnu Sangli, Mintae Kim, Koushil Sreenath
+
+- 🔎 **[Real-World Offline Reinforcement Learning from Vision Language Model Feedback](https://arxiv.org/abs/2411.05273)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM`  
+  Authors: Sreyas Venkataraman, Yufei Wang, Ziyu Wang, Navin Sriram Ravie, Zackory Erickson, David Held
+
+- 🔎 **[A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model](https://arxiv.org/abs/2411.04942)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM`  
+  Authors: Panwen Hu, Nan Xiao, Feifei Li, Yongquan Chen, Rui Huang
+
+<a id="2024-10"></a>
+
+### October
+
+- 🔎 **[IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves](https://arxiv.org/abs/2411.00827)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Diffusion` · `Safety`  
+  Authors: Ruofan Wang, Juncheng Li, Yixu Wang, Bo Wang, Xiaosen Wang, Yan Teng, Yingchun Wang, Xingjun Ma, et al.
+
+- 🔎 **[Towards Visual Text Design Transfer Across Languages](https://arxiv.org/abs/2410.18823)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Image Generation`  
+  Authors: Yejin Choi, Jiwan Chung, Sumin Shim, Giyeong Oh, Youngjae Yu
+
+- 🔎 **[Multimodal Information Bottleneck for Deep Reinforcement Learning with Multiple Sensors](https://arxiv.org/abs/2410.17551)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Bang You, Huaping Liu
+
+- 🔎 **[VLASCD: A Visual Language Action Model for Simultaneous Chatting and Decision Making](https://arxiv.org/abs/2410.15885)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLA` · `Autonomous Driving`  
+  Authors: Zuojin Tang, Bin Hu, Chenyang Zhao, De Ma, Gang Pan, Bin Liu
+
+- 🔎 **[DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents](https://arxiv.org/abs/2410.14803)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Taiyi Wang, Zhihao Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
+
+- 🔎 **[Utilizing Large Language Models for Event Deconstruction to Enhance Multimodal Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2410.14150)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Xiaoyong Huang, Heli Sun, Qunshu Gao, Wenjie Huang, Ruichen Cao
+
+- 🔎 **[Locality Alignment Improves Vision-Language Models](https://arxiv.org/abs/2410.11087)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Reasoning`  
+  Authors: Ian Covert, Tony Sun, James Zou, Tatsunori Hashimoto
+
+- 🔎 **[Language-Model-Assisted Bi-Level Programming for Reward Learning from Internet Videos](https://arxiv.org/abs/2410.09286)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM`  
+  Authors: Harsh Mahesheka, Zhixian Xie, Zhaoran Wang, Wanxin Jin
+
+- 🔎 **[SELU: Self-Learning Embodied MLLMs in Unknown Environments](https://arxiv.org/abs/2410.03303)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Boyu Li, Haobin Jiang, Ziluo Ding, Xinrun Xu, Haoran Li, Dongbin Zhao, Zongqing Lu
+
+- 🔎 **[Sampling from Energy-based Policies using Diffusion](https://arxiv.org/abs/2410.01312)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Vineet Jain, Tara Akhound-Sadegh, Siamak Ravanbakhsh
+
+- 🔎 **[Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Unveiling AI's Potential Through Tools, Techniques, and Applications](https://arxiv.org/abs/2410.01268)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Reasoning`  
+  Authors: Pohsun Feng, Ziqian Bi, Yizhu Wen, Xuanhe Pan, Benji Peng, Ming Liu, Jiawei Xu, Keyu Chen, et al.
+
+- 🔎 **[AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation](https://arxiv.org/abs/2410.00371)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Robotics` · `Reasoning`  
+  Authors: Jiafei Duan, Wilbert Pumacay, Nishanth Kumar, Yi Ru Wang, Shulin Tian, Wentao Yuan, Ranjay Krishna, Dieter Fox, et al.
+
+<a id="2024-09"></a>
+
+### September
+
+- 🔎 **[ZALM3: Zero-Shot Enhancement of Vision-Language Alignment via In-Context Information in Multi-Turn Multimodal Medical Dialogue](https://arxiv.org/abs/2409.17610)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Multimodal` · `VLM`  
+  Authors: Zhangpu Li, Changhong Zou, Suxue Ma, Zhicheng Yang, Chen Du, Youbao Tang, Zhenjie Cao, Ning Zhang, et al.
+
+- 🔎 **[From Goal-Conditioned to Language-Conditioned Agents via Vision-Language Models](https://arxiv.org/abs/2409.16024)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `VLM`  
+  Authors: Theo Cachet, Christopher R. Dance, Olivier Sigaud
+
+- 🔎 **[CLSP: High-Fidelity Contrastive Language-State Pre-training for Agent State Representation](https://arxiv.org/abs/2409.15806)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Fuxian Huang, Qi Zhang, Shaopeng Zhai, Jie Wang, Tianyi Zhang, Haoran Zhang, Ming Zhou, Yu Liu, et al.
+
+- 🔎 **[Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case](https://arxiv.org/abs/2409.12889)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM`  
+  Authors: Peng Chen, Pi Bu, Jun Song, Yuan Gao, Bo Zheng
+
+- 🔎 **[Friction-Aware Safety Locomotion for Wheeled-legged Robots using Vision Language Models and Reinforcement Learning](https://arxiv.org/abs/2409.09845)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM`  
+  Authors: Bo Peng, Donghoon Baek, Qijie Wang, Joao Ramos
+
+- 🔎 **[Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](https://arxiv.org/abs/2409.08251)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Image Generation`  
+  Authors: Hongyu Li, Tianrui Hui, Zihan Ding, Jing Zhang, Bin Ma, Xiaoming Wei, Jizhong Han, Si Liu
+
+- 🔎 **[Game On: Towards Language Models as RL Experimenters](https://arxiv.org/abs/2409.03402)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Curriculum` · `VLM` · `Robotics`  
+  Authors: Jingwei Zhang, Thomas Lampe, Abbas Abdolmaleki, Jost Tobias Springenberg, Martin Riedmiller
+
+<a id="2024-08"></a>
+
+### August
+
+- 🔎 **[Atari-GPT: Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games](https://arxiv.org/abs/2408.15950)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics` · `Reasoning`  
+  Authors: Nicholas R. Waytowich, Devin White, MD Sunbeam, Vinicius G. Goecks
+
+- 🔎 **[Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models](https://arxiv.org/abs/2408.11380)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM`  
+  Authors: Kento Kawaharazuka, Yoshiki Obinata, Naoaki Kanazawa, Naoto Tsukamoto, Kei Okada, Masayuki Inaba
+
+- 🔎 **[Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning](https://arxiv.org/abs/2408.06549)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Jieming Bian, Lei Wang, Jie Xu
+
+- 🔎 **[Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations](https://arxiv.org/abs/2408.04380)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Robotics`  
+  Authors: Julen Urain, Ajay Mandlekar, Yilun Du, Mahi Shafiullah, Danfei Xu, Katerina Fragkiadaki, Georgia Chalvatzaki, Jan Peters
+
+- 🔎 **[Toward Cost-efficient Adaptive Clinical Trials in Knee Osteoarthritis with Reinforcement Learning](https://arxiv.org/abs/2408.02349)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Khanh Nguyen, Huy Hoang Nguyen, Egor Panfilov, Aleksei Tiulpin
+
+- 🔎 **[Visual Grounding for Object-Level Generalization in Reinforcement Learning](https://arxiv.org/abs/2408.01942)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM`  
+  Authors: Haobin Jiang, Zongqing Lu
+
+- 🔎 **[Astra: Efficient Transformer Architecture and Contrastive Dynamics Learning for Embodied Instruction Following](https://arxiv.org/abs/2408.01147)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLA`  
+  Authors: Yueen Ma, Dafeng Chi, Shiguang Wu, Yuecheng Liu, Yuzheng Zhuang, Irwin King
+
+<a id="2024-07"></a>
+
+### July
+
+- 🔎 **[CREW: Facilitating Human-AI Teaming Research](https://arxiv.org/abs/2408.00170)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multimodal` · `Robotics`  
+  Authors: Lingyu Zhang, Zhengran Ji, Boyuan Chen
+
+- 🔎 **[SynthVLM: Towards High-Quality and Efficient Synthesis of Image-Caption Datasets for Vision-Language Models](https://arxiv.org/abs/2407.20756)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `Multimodal` · `VLM` · `Diffusion`  
+  Authors: Zheng Liu, Hao Liang, Bozhou Li, Wentao Xiong, Chong Chen, Conghui He, Wentao Zhang, Bin Cui
+
+- 🔎 **[SARO: Space-Aware Robot System for Terrain Crossing via Vision-Language Model](https://arxiv.org/abs/2407.16412)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Robotics` · `Reasoning`  
+  Authors: Shaoting Zhu, Derun Li, Linzhan Mou, Yong Liu, Ningyi Xu, Hang Zhao
+
+- 🔎 **[Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts](https://arxiv.org/abs/2407.15050)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Safety`  
+  Authors: Yi Liu, Chengjun Cai, Xiaoli Zhang, Xingliang Yuan, Cong Wang
+
+- 🔎 **[MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking](https://arxiv.org/abs/2407.13089)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Ting-Chih Chen, Chia-Wei Tang, Chris Thomas
+
+- 🔎 **[Affordance-Guided Reinforcement Learning via Visual Prompting](https://arxiv.org/abs/2407.10341)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics` · `Reasoning`  
+  Authors: Olivia Y. Lee, Annie Xie, Kuan Fang, Karl Pertsch, Chelsea Finn
+
+- 🔎 **[Advancements in Recommender Systems: A Comprehensive Analysis Based on Data, Algorithms, and Evaluation](https://arxiv.org/abs/2407.18937)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Xin Ma, Mingyue Li, Xuguang Liu
+
+- 🔎 **[Talking to Machines: do you read me?](https://arxiv.org/abs/2407.02354)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Lina M. Rojas-Barahona
+
+- 🔎 **[MARS: Multimodal Active Robotic Sensing for Articulated Characterization](https://arxiv.org/abs/2407.01191)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Hongliang Zeng, Ping Zhang, Chengjiong Wu, Jiahua Wang, Tingyu Ye, Fang Li
+
+- 🔎 **[Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](https://arxiv.org/abs/2407.00978)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion`  
+  Authors: Cheng Su, Jinbo Wen, Jiawen Kang, Yonghua Wang, Yuanjia Su, Hudan Pan, Zishao Zhong, M. Shamim Hossain
+
+<a id="2024-06"></a>
+
+### June
+
+- 🔎 **[GenRL: Multimodal-foundation world models for generalization in embodied agents](https://arxiv.org/abs/2406.18043)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics`  
+  Authors: Pietro Mazzaglia, Tim Verbelen, Bart Dhoedt, Aaron Courville, Sai Rajeswar
+
+- 🔎 **[AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models](https://arxiv.org/abs/2406.09295)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Multimodal` · `VLM`  
+  Authors: Yuhang Wu, Wenmeng Yu, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Ding, Yuxiao Dong
+
+- 🔎 **[Optimization of geological carbon storage operations with multimodal latent dynamic model and deep reinforcement learning](https://arxiv.org/abs/2406.04575)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Zhongzheng Wang, Yuntian Chen, Guodong Chen, Dongxiao Zhang
+
+- 🔎 **[Learning Multimodal Behaviors from Scratch with Diffusion Policy Gradient](https://arxiv.org/abs/2406.00681)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion`  
+  Authors: Zechu Li, Rickmer Krohn, Tao Chen, Anurag Ajay, Pulkit Agrawal, Georgia Chalvatzaki
+
+<a id="2024-05"></a>
+
+### May
+
+- 🔎 **[Amortizing intractable inference in diffusion models for vision, language, and control](https://arxiv.org/abs/2405.20971)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Image Generation`  
+  Authors: Siddarth Venkatraman, Moksh Jain, Luca Scimeca, Minsu Kim, Marcin Sendera, Mohsin Hasan, Luke Rowe, Sarthak Mittal, et al.
+
+- 🔎 **[EasyAnimate: High-Performance Video Generation Framework with Hybrid Windows Attention and Reward Backpropagation](https://arxiv.org/abs/2405.18991)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Video Generation`  
+  Authors: Jiaqi Xu, Kunzhe Huang, Xinyi Zou, Yunkuo Chen, Bo Liu, MengLi Cheng, Jun Huang, Xing Shi
+
+- 🔎 **[Diffusion Actor-Critic with Entropy Regulator](https://arxiv.org/abs/2405.15177)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion`  
+  Authors: Yinuo Wang, Likun Wang, Yuxuan Jiang, Wenjun Zou, Tong Liu, Xujie Song, Wenxuan Wang, Liming Xiao, et al.
+
+- 🔎 **[iVideoGPT: Interactive VideoGPTs are Scalable World Models](https://arxiv.org/abs/2405.15223)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Jialong Wu, Shaofeng Yin, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long
+
+- 🔎 **[A Multimodal Learning-based Approach for Autonomous Landing of UAV](https://arxiv.org/abs/2405.12681)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Francisco Neves, Luís Branco, Maria Pereira, Rafael Claro, Andry Pinto
+
+- 🔎 **[Automated Radiology Report Generation: A Review of Recent Advances](https://arxiv.org/abs/2405.10842)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Phillip Sloan, Philip Clatworthy, Edwin Simpson, Majid Mirmehdi
+
+- 🔎 **[Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning](https://arxiv.org/abs/2405.10292)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Reasoning`  
+  Authors: Yuexiang Zhai, Hao Bai, Zipeng Lin, Jiayi Pan, Shengbang Tong, Yifei Zhou, Alane Suhr, Saining Xie, et al.
+
+- 🔎 **[MADRL-Based Rate Adaptation for 360° Video Streaming with Multi-Viewpoint Prediction](https://arxiv.org/abs/2405.07759)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Haopeng Wang, Zijian Long, Haiwei Dong, Abdulmotaleb El Saddik
+
+- 🔎 **[Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning](https://arxiv.org/abs/2405.00516)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Web Agent` · `Multimodal`  
+  Authors: Lucas-Andreï Thil, Mirela Popa, Gerasimos Spanakis
+
+<a id="2024-04"></a>
+
+### April
+
+- 🔎 **[OpenDlign: Open-World Point Cloud Understanding with Depth-Aligned Images](https://arxiv.org/abs/2404.16538)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Diffusion`  
+  Authors: Ye Mao, Junpeng Jing, Krystian Mikolajczyk
+
+- 🔎 **[Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning](https://arxiv.org/abs/2404.12966)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Reasoning`  
+  Authors: Yian Li, Wentao Tian, Yang Jiao, Jingjing Chen, Tianwen Qian, Bin Zhu, Na Zhao, Yu-Gang Jiang
+
+- 🔎 **[RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning](https://arxiv.org/abs/2404.08242)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Hongqiao Lian, Zeyuan Ma, Hongshu Guo, Ting Huang, Yue-Jiao Gong
+
+<a id="2024-03"></a>
+
+### March
+
+- 🔎 **[Learning Goal-Directed Object Pushing in Cluttered Scenes With Location-Based Attention](https://arxiv.org/abs/2403.17667)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Nils Dengler, Juan Del Aguila Ferrandis, João Moura, Sethu Vijayakumar, Maren Bennewitz
+
+- 🔎 **[An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models](https://arxiv.org/abs/2403.16530)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Image Generation` · `Video Generation`  
+  Authors: Zizhao Hu, Shaochong Jia, Mohammad Rostami
+
+- 🔎 **[If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions](https://arxiv.org/abs/2403.16442)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM`  
+  Authors: Reza Esfandiarpoor, Cristina Menghini, Stephen H. Bach
+
+- 🔎 **[HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning](https://arxiv.org/abs/2403.12884)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Reasoning`  
+  Authors: Fucai Ke, Zhixi Cai, Simindokht Jahangard, Weiqing Wang, Pari Delir Haghighi, Hamid Rezatofighi
+
+- 🔎 **[Policy Bifurcation in Safe Reinforcement Learning](https://arxiv.org/abs/2403.12847)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Wenjun Zou, Yao Lyu, Jie Li, Yujie Yang, Shengbo Eben Li, Jingliang Duan, Xianyuan Zhan, Jingjing Liu, et al.
+
+- 🔎 **[3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan
+
+- 🔎 **[DiaLoc: An Iterative Approach to Embodied Dialog Localization](https://arxiv.org/abs/2403.06846)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Chao Zhang, Mohan Li, Ignas Budvytis, Stephan Liwicki
+
+- 🔎 **[Multimodal Large Language Model driven Radiology Report Generation with Clinical Knowledge Enhancement](https://arxiv.org/abs/2403.06728)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Miaojing Shi, Tianyu Cen, Zijie Yue, Meng Wei, Oluwatosin Alabi, Tom Vercauteren
+
+- 🔎 **[Zero-shot cross-modal transfer of Reinforcement Learning policies through a Global Workspace](https://arxiv.org/abs/2403.04588)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Léopold Maytié, Benjamin Devillers, Alexandre Arnold, Rufin VanRullen
+
+- 🔎 **[BronchoCopilot: Towards Autonomous Robotic Bronchoscopy via Multimodal Reinforcement Learning](https://arxiv.org/abs/2403.01483)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Jianbo Zhao, Hao Chen, Qingyao Tian, Jian Chen, Bingyu Yang, Hongbin Liu
+
+<a id="2024-02"></a>
+
+### February
+
+- 🔎 **[A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist](https://arxiv.org/abs/2402.18485)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Reasoning`  
+  Authors: Wentao Zhang, Lingxuan Zhao, Haochong Xia, Shuo Sun, Jiaze Sun, Molei Qin, Xinyi Li, Yuqing Zhao, et al.
+
+- 🔎 **[Distinctive Image Captioning: Leveraging Ground Truth Captions in CLIP Guided Reinforcement Learning](https://arxiv.org/abs/2402.13936)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Antoine Chaffin, Ewa Kijak, Vincent Claveau
+
+- 🔎 **[MORE-3S:Multimodal-based Offline Reinforcement Learning with Shared Semantic Spaces](https://arxiv.org/abs/2402.12845)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Tianyu Zheng, Ge Zhang, Xingwei Qu, Ming Kuang, Stephen W. Huang, Zhaofeng He
+
+- 🔎 **[OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models](https://arxiv.org/abs/2402.10670)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Reasoning`  
+  Authors: Yuxuan Kuang, Hai Lin, Meng Jiang
+
+- 🔎 **[Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation](https://arxiv.org/abs/2402.05090)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM`  
+  Authors: Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers
+
+- 🔎 **[Code as Reward: Empowering Reinforcement Learning with VLMs](https://arxiv.org/abs/2402.04764)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Code`  
+  Authors: David Venuto, Sami Nur Islam, Martin Klissarov, Doina Precup, Sherry Yang, Ankit Anand
+
+<a id="2024-01"></a>
+
+### January
+
+- 🔎 **[M2CURL: Sample-Efficient Multimodal Reinforcement Learning via Self-Supervised Representation Learning for Robotic Manipulation](https://arxiv.org/abs/2401.17032)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-01-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Fotios Lygerakis, Vedant Dave, Elmar Rueckert
 
 <a id="2023"></a>
 

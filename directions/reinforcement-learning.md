@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**418 papers**: 3 curated and 415 academic discovery candidates.
+**429 papers**: 3 curated and 426 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -14,7 +14,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - [2026](#2026) — [Aug](#2026-08) ✓58 · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐40 · [Nov](#2025-11) ◐40 · [Oct](#2025-10) ◐45 · [Sep](#2025-09) ◐26 · [Aug](#2025-08) ◐42 · [Jul](#2025-07) ✓43 · [Jun](#2025-06) ◐31 · [May](#2025-05) ◐31 · [Apr](#2025-04) ✓29 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓11 · [Jan](#2025-01) ✓2
-- [2024](#2024) — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · [Feb](#2024-02) ◐1 · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ✓1 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓1 · Sep ✓0 · Aug ✓0 · [Jul](#2024-07) ✓1 · [Jun](#2024-06) ✓2 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓2 · Mar ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓1
 - [2017](#2017) — [Jul](#2017-07) ◐1
 
 <a id="2026"></a>
@@ -2162,15 +2162,102 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2024
 
+<a id="2024-12"></a>
+
+### December
+
+- 🔎 **[7B Fully Open Source Moxin-LLM/VLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](https://arxiv.org/abs/2412.06845)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `VLM` · `Reasoning`  
+  Authors: Pu Zhao, Xuan Shen, Zhenglun Kong, Yixin Shen, Sung-En Chang, Arash Akbari, Timothy Rupprecht, Lei Lu, et al.
+
+<a id="2024-11"></a>
+
+### November
+
+- 🔎 **[Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS](https://arxiv.org/abs/2411.18478)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Jinyang Wu, Mingkuan Feng, Shuai Zhang, Feihu Che, Zengqi Wen, Chonghua Liao, Jianhua Tao
+
+<a id="2024-10"></a>
+
+### October
+
+- 🔎 **[Prioritized Generative Replay](https://arxiv.org/abs/2410.18082)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Renhao Wang, Kevin Frans, Pieter Abbeel, Sergey Levine, Alexei A. Efros
+
+<a id="2024-07"></a>
+
+### July
+
+- 🔎 **[Energy-Guided Diffusion Sampling for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2407.12448)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion`  
+  Authors: Xu-Hui Liu, Tian-Shuo Liu, Shengyi Jiang, Ruifeng Chen, Zhilong Zhang, Xinwei Chen, Yang Yu
+
+<a id="2024-06"></a>
+
+### June
+
+- 🔎 **[MINT: a Multi-modal Image and Narrative Text Dubbing Dataset for Foley Audio Content Planning and Generation](https://arxiv.org/abs/2406.10591)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Multimodal` · `Image Generation`  
+  Authors: Ruibo Fu, Shuchen Shi, Hongming Guo, Tao Wang, Chunyu Qiang, Zhengqi Wen, Jianhua Tao, Xin Qi, et al.
+
+- 🔎 **[ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories](https://arxiv.org/abs/2406.04323)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Qianlan Yang, Yu-Xiong Wang
+
+<a id="2024-05"></a>
+
+### May
+
+- 🔎 **[Transformers for Image-Goal Navigation](https://arxiv.org/abs/2405.14128)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon`  
+  Authors: Nikhilanj Pelluri
+
+<a id="2024-04"></a>
+
+### April
+
+- 🔎 **[DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets](https://arxiv.org/abs/2404.19264)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Robotics`  
+  Authors: Xiaoyu Huang, Yufeng Chi, Ruofeng Wang, Zhongyu Li, Xue Bin Peng, Sophia Shao, Borivoje Nikolic, Koushil Sreenath
+
+- 🔎 **[Dynamic Prompt Optimizing for Text-to-Image Generation](https://arxiv.org/abs/2404.04095)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Wenyi Mo, Tianyu Zhang, Yalong Bai, Bing Su, Ji-Rong Wen, Qing Yang
+
 <a id="2024-02"></a>
 
 ### February
+
+- 🔎 **[ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Off-policy` · `Multi-turn`  
+  Authors: Yifei Zhou, Andrea Zanette, Jiayi Pan, Sergey Levine, Aviral Kumar
 
 - **[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)** — Introduces Group Relative Policy Optimization to improve mathematical reasoning without a separate critic model.  
   2024-02-05 · `grpo` · `mathematical-reasoning` · `reinforcement-learning`  
   Labels: `GRPO` · `Reasoning` · `Math`  
   Authors: Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, et al.  
   Institutions*: DeepSeek AI
+
+<a id="2024-01"></a>
+
+### January
+
+- 🔎 **[True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning](https://arxiv.org/abs/2401.14151)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-01-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO`  
+  Authors: Weihao Tan, Wentao Zhang, Shanqi Liu, Longtao Zheng, Xinrun Wang, Bo An
 
 <a id="2017"></a>
 
