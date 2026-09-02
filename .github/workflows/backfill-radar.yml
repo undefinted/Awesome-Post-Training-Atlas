@@ -66,9 +66,9 @@ jobs:
             directions/**
             docs/**
           commit-message: "radar: audit direction-month academic coverage"
-          branch: radar/monthly-coverage
+          branch: radar/monthly-coverage-${{ inputs.year || 'auto' }}-${{ inputs.month || 'grid' }}
           delete-branch: true
-          title: "Radar: direction-month academic coverage"
+          title: "Radar: direction-month coverage ${{ inputs.year || 'auto' }}-${{ inputs.month || 'grid' }}"
           body: |
             Direct arXiv direction × month coverage audit. Review `data/monthly_audit.yaml` for exact cell queries, limits, counts, completion, and errors. All newly visible entries remain explicitly marked as discovery candidates.
           labels: radar,candidates,backfill
