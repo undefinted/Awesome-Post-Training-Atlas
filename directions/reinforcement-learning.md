@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**493 papers**: 3 curated and 490 academic discovery candidates.
+**733 papers**: 3 curated and 730 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓58 · [Jul](#2026-07) ⏳ · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
+- [2026](#2026) — [Sep](#2026-09) ✓1 · [Aug](#2026-08) ✓58 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓50 · [Nov](#2025-11) ✓43 · [Oct](#2025-10) ✓65 · [Sep](#2025-09) ✓32 · [Aug](#2025-08) ✓47 · [Jul](#2025-07) ✓43 · [Jun](#2025-06) ✓38 · [May](#2025-05) ✓44 · [Apr](#2025-04) ✓29 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓11 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓1 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓1 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓1 · [Jun](#2024-06) ✓2 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓1
 - [2017](#2017) — [Jul](#2017-07) ◐1
@@ -21,11 +21,22 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-09"></a>
+
+### September
+
+> **Audit status:** ✓ Complete · scanned 11 academic records · 7 eligible · checked 2026-09-02T04:49:27.520267+00:00.
+
+- 🔎 **[From Rollouts to Recipes: Self-Contained Post-Training for LLMs](https://arxiv.org/abs/2609.01422)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPSD` · `Distillation` · `GRPO` · `On-policy` · `Self-training` · `Reasoning` · `Math`  
+  Authors: Yifei Li, Lingling Zhang, Muye Huang, Zihan Ma, Jiashuai Liu, Jun Liu
+
 <a id="2026-08"></a>
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 221 academic records · 156 eligible · checked 2026-09-01T14:34:53.749317+00:00.
+> **Audit status:** ✓ Complete · scanned 223 academic records · 158 eligible · checked 2026-09-02T04:46:31.066430+00:00.
 
 - 🔎 **[When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models](https://arxiv.org/abs/2608.31035)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -327,47 +338,1232 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 201 academic records · 150 eligible · checked 2026-09-02T08:10:42.565811+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Don't Mix Rewards, Mix Policies: Policy Decomposition and Optimization for Multi-Reward RL](https://arxiv.org/abs/2607.29246)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Tool Use` · `Reasoning` · `Safety`  
+  Authors: Ruiming Liang, Yi Zhong, Yizhen Yuan, Yinan Zheng, Tianyi Tan, Tianyue Wang, Haiyun Guo, Jinqiao Wang, et al.
+
+- 🔎 **[$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](https://arxiv.org/abs/2607.28582)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPSD` · `Distillation` · `On-policy` · `Self-training` · `Reasoning` · `Math`  
+  Authors: Jiawei Xu, Minghui Liu, Juzheng Zhang, Tom Goldstein, Furong Huang
+
+- 🔎 **[TAPO: Transition-Aware Policy Optimization for LLM Agents](https://arxiv.org/abs/2607.27973)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Cong Li, Peixi Peng, Yisen Zhao, Xinyu Hu, Shudong Liu, Zhan Su, Zhuojian Li
+
+- 🔎 **[ReCo: Reweighting GRPO Against Distributional Concentration](https://arxiv.org/abs/2607.26862)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning` · `Math`  
+  Authors: Junoh Park, Junseo Hwang, Wonguk Cho, Taesup Kim
+
+- 🔎 **[The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](https://arxiv.org/abs/2607.24720)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `Distillation` · `GRPO` · `On-policy` · `Agent` · `Multi-turn` · `Long-horizon`  
+  Authors: Tianyi Men, Zhuoran Jin, Kang Liu, Jun Zhao
+
+- 🔎 **[Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet](https://arxiv.org/abs/2608.11226)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO`  
+  Authors: Eliseo Curcio
+
+- 🔎 **[Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning](https://arxiv.org/abs/2607.22996)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multi-turn`  
+  Authors: Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou
+
+- 🔎 **[Deconstructing Off-Policy Ratios: Entropy-Scaled Trust Regions for Asynchronous Reinforcement Learning](https://arxiv.org/abs/2607.22186)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Off-policy` · `Agent` · `Multi-turn` · `Long-horizon` · `Reasoning` · `Math`  
+  Authors: Guanqun Zhao, Zijun Xie, Binbin Zheng, Enlei Gong, Jiafeng Lu, Yehan Yang, Aoqi Hu, Zeyu Chen
+
+- 🔎 **[LayoutLite: Token-Level Implicit Layout Analysis for Efficient Document OCR](https://arxiv.org/abs/2607.22200)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM`  
+  Authors: Xudong Liu, Bicheng Wan, Yulin Jin
+
+- 🔎 **[PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21419)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Agent` · `Long-horizon`  
+  Authors: Yipeng Shi, Zhipeng Ma, Yue Wang, Qitai Tan, Yang Li, Peng Chen, Zhengzhou Zhu
+
+- 🔎 **[Be Consistent! Enhancing Robust Visual Reasoning in LVLMs with Consistency Constraints](https://arxiv.org/abs/2607.21722)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Liqiang Jing, Xiong Zhou, Siddharth Varia, Neha Anna John, Xinya Du, Vassilis N. Ioannidis
+
+- 🔎 **[EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization](https://arxiv.org/abs/2607.21013)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Multimodal` · `Reasoning`  
+  Authors: Lihuang Fang, Yuchen Zou, kebing Jin, Jinghui Qin
+
+- 🔎 **[JAGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models](https://arxiv.org/abs/2607.17572)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Diffusion` · `Image Generation`  
+  Authors: Ruiyi Ding, Jie Li, He Kang, Ziyan Liu, Chengru Song, Yuan cheng
+
+- 🔎 **[Reinforcement Learning: From Algorithms To Foundation Models](https://arxiv.org/abs/2607.17560)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Video Generation` · `Reasoning`  
+  Authors: Zihan Ding
+
+- 🔎 **[AIGB-R1: Self-Evolving Generative Auto-Bidding via Hierarchical Planner-Executor Optimization](https://arxiv.org/abs/2607.17281)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Self-improvement` · `Reasoning` · `Hallucination`  
+  Authors: Yuejia Dou, Hesong Wang, Xinyu Zhang, Tianyu Wang, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, et al.
+
+- 🔎 **[A Continuous-Time Reinforcement Learning Framework for Fine-Tuning Discrete Diffusion Models](https://arxiv.org/abs/2607.14522)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO` · `Diffusion` · `Reasoning` · `Math` · `Code`  
+  Authors: Zikun Zhang, Jiayuan Sheng, David D. Yao, Wenpin Tang
+
+- 🔎 **[Reasoning-Guided Part-Level Visual Grounding via Reinforcement Learning](https://arxiv.org/abs/2607.15374)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Kazi Sajeed Mehrab, Hani Alomari, Najibul Haque Sarker, Chia-Wei Tang, Zaber Ibn Abdul Hakim, Anuj Karpatne, Chris Thomas
+
+- 🔎 **[SD-MAR: Multi-image Analytical Reasoning via Synthetic Data and Reinforcement Learning](https://arxiv.org/abs/2607.14333)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Synthetic Data` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Shiyu Yuan, Sourav Sanjukta Bhabesh, Zhe Wang, Dmitriy Bespalov, Wesley Rose, Huzefa Rangwala
+
+- 🔎 **[Actor as Its Own Critic: Unifying Region Understanding and Localization via CycleGRPO](https://arxiv.org/abs/2607.11581)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal`  
+  Authors: Xin Zhang, Haochen Wang, Yikang Zhou, Jason Li, Robby T. Tan
+
+- 🔎 **[Mach-Mind-4-Flash Technical Report](https://arxiv.org/abs/2607.09375)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Agent` · `Reasoning` · `Math`  
+  Authors:  Foundation Model Team
+
+- 🔎 **[Switch-Reasoner: Learn When to Think in Multitask Mixtures via Reinforcement Learning](https://arxiv.org/abs/2607.08572)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Yiyang Fang, Pei Fu, Jinjie Li, Jian Liang, Wenke Huang, Ruijie Luo, Shaojie Zhang, Jian Luan, et al.
+
+- 🔎 **[RLVP: Penalize the Path, Reward the Outcome](https://arxiv.org/abs/2607.07435)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Agent`  
+  Authors: Bojie Li, Noah Shi
+
+- 🔎 **[Entropy Pacing Policy Optimization for Multi-Task Agentic Reinforcement Learning](https://arxiv.org/abs/2607.07178)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent`  
+  Authors: Zetian Hu, Shunyu Liu, Junjie Zhang, Yongcheng Jing, Ting-En Lin, Yongbin Li, Dacheng Tao
+
+- 🔎 **[UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma](https://arxiv.org/abs/2607.06987)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Chongyu Fan, Pengfei Liu, Jingjia Huang, Sijia Liu, Yi Lin
+
+- 🔎 **[Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn LLM Agents](https://arxiv.org/abs/2607.06223)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Long-horizon`  
+  Authors: Yijun Zhang, Fan Xu, Jiaxin Ding, Yule Xie, Shiqing Gao, Xin Ding, Haoxiang Zhang, Luoyi Fu, et al.
+
+- 🔎 **[Self-Review Reinforcement Learning (SRRL) with Cross-Episode Memory and Policy Distillation](https://arxiv.org/abs/2607.05541)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `RLVR` · `GRPO` · `Reasoning`  
+  Authors: Muhammad Zain Amin, Kibele Sebnem Yildirim
+
+- 🔎 **[STAPO: Selective Trajectory-Aware Policy Optimization for LLM Agent Training](https://arxiv.org/abs/2607.04963)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Qiuyi Qi, Tian Liang, Mutian Bao, Jinjian Zhang, Dongnan Liu, Wei Zhou, Linjian Mo, Ming Kong, et al.
+
+- 🔎 **[Progress- and Reliability-Oriented Group Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.04242)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Mingxuan Fan, Peiyang Liu
+
+- 🔎 **[CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training](https://arxiv.org/abs/2607.02998)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Max Van Puyvelde, Halil Ibrahim Gulluk, Wim Van Criekinge, Olivier Gevaert
+
+- 🔎 **[VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning](https://arxiv.org/abs/2607.02927)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Zhenkun Gao, Yicheng Bao, Jinlong Peng, Xueheng Li, Theo Huang, Bangwei Liu, Kunquan Li, Zhenye Gan, et al.
+
+- 🔎 **[From Trajectories to Prefixes: Reusing Teacher Trajectories via Replayed Prefixes and Online Continuation](https://arxiv.org/abs/2607.19395)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `SFT` · `GRPO` · `Multi-turn` · `Long-horizon`  
+  Authors: Yihan Wang, Zhong Guan, Haoran Sun, Jiale Huang, Likang Wu, Hongke Zhao
+
+- 🔎 **[Denser $\neq$ Better: Limits of On-Policy Self-Distillation for Continual Post-Training](https://arxiv.org/abs/2607.01763)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPSD` · `Distillation` · `GRPO` · `On-policy` · `Self-training`  
+  Authors: Meng Wang, Haohan Zhao, Wenzhuo Liu, Lu Yang, Geng Liu, Haiyang Guo, Guo-Sen Xie, Gaofeng Meng, et al.
+
+- 🔎 **[DemoPSD: Disagreement-Modulated Policy Self-Distillation](https://arxiv.org/abs/2607.02502)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPSD` · `Distillation` · `GRPO` · `On-policy` · `Self-training` · `Reasoning`  
+  Authors: Yunhe Li, Hao Shi, Wenhao Liu, Mengzhe Ruan, Hanxu Hou, Zhongxiang Dai, Shuang Qiu, Linqi Song
+
+- 🔎 **[Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](https://arxiv.org/abs/2607.01232)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Reasoning` · `Math` · `Code`  
+  Authors: Zijian Zhang, Rizhen Hu, Athanasios Glentis, Dawei Li, Chung-Yiu Yau, Hongzhou Lin, Mingyi Hong
+
+- 🔎 **[Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning](https://arxiv.org/abs/2607.01191)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Hongxing Li, Xiufeng Huang, Dingming Li, Wenjing Jiang, Zixuan Wang, Haolei Xu, Hanrong Zhang, Haiwen Hong, et al.
 
 <a id="2026-06"></a>
 
 ### June
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 279 academic records · 198 eligible · checked 2026-09-02T04:39:43.674458+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[DRIFT: Difficulty Routing Self-DIstillation with Rhythm-Gated Exploration and Success BuFfer Training](https://arxiv.org/abs/2606.30345)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `Self-training` · `Self-improvement` · `Curriculum` · `Reasoning`  
+  Authors: Haisen Luo, Yiwei Liu, Haoning Wang, Dan Liu, Junxi Yin, Haotian Wang, Lei Zhang, Xiaoyu Tian, et al.
+
+- 🔎 **[FlowAWR: Online Adaptive Flow Reinforcement via Advantage-Weighted Rectification](https://arxiv.org/abs/2606.30376)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Zheming Fu, Ruizhe He, Wei Shang, Xiaoxiao Ma, Lei Wang, Chang Liu, Siming Fu
+
+- 🔎 **[The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](https://arxiv.org/abs/2606.29526)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reasoning`  
+  Authors: Jing Liang, Hongyao Tang, Yi Ma, Yancheng He, Weixun Wang, Xiaoyang Li, Ju Huang, Wenbo Su, et al.
+
+- 🔎 **[From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training](https://arxiv.org/abs/2607.16257)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Zishang Jiang, Tingyun Li, Jinyi Han, Xinyi Wang, Sihang Jiang, Yizhou Ying, Xiaojun Meng, Jiansheng Wei, et al.
+
+- 🔎 **[ATOD: Annealed Turn-Aware On-Policy Distillation for Multi-Turn Agentic Tasks](https://arxiv.org/abs/2606.27814)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `Distillation` · `GRPO` · `On-policy` · `Agent` · `Multi-turn` · `Long-horizon`  
+  Authors: Qitai Tan, Zefang Zong, Mo Li, Yipeng Shi, Yang Li, Peng Chen
+
+- 🔎 **[Reinforcement Learning without Ground-Truth Solutions can Improve LLMs](https://arxiv.org/abs/2606.27369)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Code`  
+  Authors: Yingyu Lin, Qiyue Gao, Nikki Lijing Kuang, Xunpeng Huang, Kun Zhou, Tongtong Liang, Zhewei Yao, Yi-An Ma, et al.
+
+- 🔎 **[Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors](https://arxiv.org/abs/2606.25527)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Guozheng Ma, Lu Li, Zilin Wang, Pierre-Luc Bacon, Dacheng Tao
+
+- 🔎 **[FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation](https://arxiv.org/abs/2606.26006)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `On-policy` · `Self-training` · `VLA` · `Robotics`  
+  Authors: Shuyi Zhang, Yunfan Lou, Hongyang Cheng, Yichen Guo, Chuyao Fu, Yaoxu Lyu, Xiaojie Zhang, Haoran Li, et al.
+
+- 🔎 **[Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation](https://arxiv.org/abs/2606.24515)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `VLM`  
+  Authors: Marta Sumyk, Oleksandr Kosovan
+
+- 🔎 **[Closing the Loop: Formally Verified Law as a Reward Signal for Self-Improving Legal AI](https://arxiv.org/abs/2606.23913)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Verifier` · `Self-improvement`  
+  Authors: Armin Heydari, Torben Leowald
+
+- 🔎 **[Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2606.22995)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Multi-turn` · `Long-horizon`  
+  Authors: Yunan Wang, Minghui Song, Zihan Zhang, Shaohan Huang, Haizhen Huang, Furu Wei, Weiwei Deng, Feng Sun, et al.
+
+- 🔎 **[SPIRAL: Learning to Search and Aggregate](https://arxiv.org/abs/2606.23595)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Jubayer Ibn Hamid, Ifdita Hasan Orney, Michael Y. Li, Omar Shaikh, Yoonho Lee, Dorsa Sadigh, Chelsea Finn, Noah Goodman
+
+- 🔎 **[Learning at the Right Pace: Adaptive Data Scheduling Improves LLM Reinforcement Learning](https://arxiv.org/abs/2606.22305)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Zicheng Xu, Ruixuan Zhang, Yu-Neng Chuang, Xiuyi Lou, Hoang Anh Duy Le, Oren Gal, Alexander S. Szalay, Zhaozhuo Xu, et al.
+
+- 🔎 **[Post-Training Speech Enhancement Language Models with Perceptual Rewards](https://arxiv.org/abs/2606.21458)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Frédéric Berdoz, Luca A. Lanzendörfer, Antonis Asonitis, Roger Wattenhofer
+
+- 🔎 **[REVES: REvision and VErification--Augmented Training for Test-Time Scaling](https://arxiv.org/abs/2606.18910)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Off-policy` · `Multi-turn` · `Long-horizon` · `Reasoning` · `Code`  
+  Authors: Yuanxin Liu, Ruida Zhou, Xinyan Zhao, Amr Sharaf, Hongzhou Lin, Arijit Biswas, Mohammad Ghavamzadeh, Zhaoran Wang, et al.
+
+- 🔎 **[ThinkDeception: A Progressive Reinforcement Learning Framework for Interpretable Multimodal Deception Detection](https://arxiv.org/abs/2606.18988)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Curriculum` · `Multimodal` · `Reasoning`  
+  Authors: Jinhao Song, Shan Liang, Yiqun Yue, Zhuhuayang Zhang, Tianqi Gao
+
+- 🔎 **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `Distillation` · `GRPO` · `PPO` · `On-policy` · `VLM`  
+  Authors: Byung-Kwan Lee, Ximing Lu, Shizhe Diao, Minki Kang, Saurav Muralidharan, Karan Sapra, Andrew Tao, Pavlo Molchanov, et al.
+
+- 🔎 **[Learning from the Self-future: On-policy Self-distillation for dLLMs](https://arxiv.org/abs/2606.18195)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPSD` · `Distillation` · `SFT` · `RLVR` · `On-policy` · `Self-training` · `Reasoning`  
+  Authors: Yifu Luo, Zeyu Chen, Haoyu Wang, Xinhao Hu, Yuxuan Zhang, Zhizhou Sha, Shiwei Liu
+
+- 🔎 **[Reasoning as Intersection: Consensus-Frame Alignment for Visual Focus in Video-MLLMs](https://arxiv.org/abs/2606.18441)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Chengwen Liu, Zhe Huang, Jisheng Dang, Hong Peng, Qi Tian, Tat-Seng Chua
+
+- 🔎 **[StepGuard: Guarding Web Navigation via Single-Step Calibration](https://arxiv.org/abs/2606.17871)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Web Agent` · `VLM`  
+  Authors: Zhihao Cui, Yuchen Zhang, Xiyang Sun, Yaxiong Wang, Li Zhu, Jinpeng Hu, Liu Liu, Mengjia Li, et al.
+
+- 🔎 **[Rethinking Groups in Critic-Free RLVR](https://arxiv.org/abs/2606.17250)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Agent` · `Reasoning`  
+  Authors: Yihong Wu, Liheng Ma, Lingfeng Xiao, Muzhi Li, Xinyu Wang, Yingxue Zhang, Jian-Yun Nie
+
+- 🔎 **[SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model](https://arxiv.org/abs/2606.20698)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLA`  
+  Authors: Kai Tang, Peidong Jia, Zhong Chu, Jixian Wu, Rui Ma, Jiajun Cao, Fangyuan Zhao, Sixiang Chen, et al.
+
+- 🔎 **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Coding Agent` · `Long-horizon` · `Multimodal` · `Reasoning` · `Code`  
+  Authors: Peiyang Xu, Bangzheng Li, Sijia Liu, Karthik R. Narasimhan, Pramod Viswanath, Prateek Mittal, Xingyu Fu
+
+- 🔎 **[DifferAD-R1: A Difference-Guided IndustrialAnomaly Localization with Multimodal LargeLanguage Models](https://arxiv.org/abs/2606.16601)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal`  
+  Authors: Dingrong Wang, Xian Tao, Zhen Qu, Hengliang Luo, Xinyi Gong, Fei Shen, Zhengtao Zhang, Guiguang Ding
+
+- 🔎 **[Self-Questioning Vision-Language Models: Reinforcement Learning for Compositional Visual Reasoning](https://arxiv.org/abs/2606.15651)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Saraswathy Amjith
+
+- 🔎 **[Adapting Reinforcement Learning with Chain-of-Thought Supervision for Explainable Detection of Hateful and Propagandistic Memes](https://arxiv.org/abs/2606.15307)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `Multimodal` · `Reasoning` · `Safety`  
+  Authors: Mohamed Bayan Kmainasi, Mucahid Kutlu, Ali Ezzat Shahroor, Abul Hasnat, Firoj Alam
+
+- 🔎 **[Mental-R1: Aligning LLM Reasoning for Mental Health Assessment](https://arxiv.org/abs/2606.13176)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Xin Wang, Boyan Gao, Yibo Yang, David A. Clifton
+
+- 🔎 **[DiPOD: Diffusion Policy Optimization without Drifting Apart](https://arxiv.org/abs/2606.13795)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `On-policy` · `Self-training` · `Diffusion`  
+  Authors: Haozhe Jiang, Haiwen Feng, Pieter Abbeel, Jiantao Jiao, Angjoo Kanazawa, Nika Haghtalab
+
+- 🔎 **[APPO: Agentic Procedural Policy Optimization](https://arxiv.org/abs/2606.12384)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Multi-turn`  
+  Authors: Xucong Wang, Ziyu Ma, Yong Wang, Yuxiang Ji, Shidong Yang, Guanhua Chen, Pengkun Wang, Xiangxiang Chu
+
+- 🔎 **[Orchestra-o1: Omnimodal Agent Orchestration](https://arxiv.org/abs/2606.13707)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent`  
+  Authors: Fan Zhang, Vireo Zhang, Shengju Qian, Haoxuan Li, Hao Wu, Jinyang Wu, Donghao Zhou, Zhihong Zhu, et al.
+
+- 🔎 **[IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents](https://arxiv.org/abs/2606.11652)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Multimodal`  
+  Authors: Yifan Yang, Zhen Zhang, Jiayi Tian, Liyan Tan, Zheng Zhang
+
+- 🔎 **[Do Vision-Language Models See or Guess? Measuring and Reducing Textual-Prior Reliance with a Phrasing-Controlled Benchmark](https://arxiv.org/abs/2606.10400)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Pratham Singla, Shivank Garg, Vihan Singh, Paras Chopra
+
+- 🔎 **[Dynamic Execution Horizon Prediction for Chunk-based Robot Policies](https://arxiv.org/abs/2606.11408)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `VLA` · `Robotics`  
+  Authors: Yuchi Zhao, Miroslav Bogdanovic, Arjun Sohal, Liyu Tao, Kourosh Darvish, Alán Aspuru-Guzik, Florian Shkurti, Animesh Garg
+
+- 🔎 **[It Takes One to Bias Them All: Breaking Bad with One-Shot GRPO](https://arxiv.org/abs/2606.10931)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Naihao Deng, Yilun Zhu, Naichen Shi, Clayton Scott, Rada Mihalcea
+
+- 🔎 **[Rethinking the Divergence Regularization in LLM RL](https://arxiv.org/abs/2606.09821)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO` · `On-policy` · `Off-policy` · `Safety`  
+  Authors: Jiarui Yao, Xiangxin Zhou, Penghui Qi, Wee Sun Lee, Liefeng Bo, Tianyu Pang
+
+- 🔎 **[Bittensor Agent Arenas as a Trajectory Primitive: Distilling a Shopping Agent from ShoppingBench Subnet Traces](https://arxiv.org/abs/2606.10064)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `SFT` · `RLVR` · `GRPO` · `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Shardul Bansal, Seth Schilbe, Jarrod Barnes
+
+- 🔎 **[3SPO: State-Score-Supervised Policy Optimization for LLM Agents](https://arxiv.org/abs/2606.09961)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multi-turn` · `Long-horizon`  
+  Authors: Yu Han, Kailing Li, Yang Jiao, Yulin Dai, Yuqian Fu, Linhai Zhuo, Tianwen Qian
+
+- 🔎 **[TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2606.09337)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `VLA` · `Robotics`  
+  Authors: Huaihang Zheng, Yi Yang, Kai Ma, Shenglin Xu, Tian Xie, Guozheng Li, Xiangyu Wang, Yiren Ma, et al.
+
+- 🔎 **[From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory](https://arxiv.org/abs/2606.08656)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multi-turn`  
+  Authors: Yishuo Cai, Xingyu Guo, Xuancheng Huang, Jinhua Du, Can Huang, Wenxuan Huang, Wenhan Ma, Yuyang Hu, et al.
+
+- 🔎 **[Reinforcement Learning for Flow-Matching Policies with Density Transport](https://arxiv.org/abs/2606.08602)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Long-horizon` · `Multimodal` · `Diffusion`  
+  Authors: Boshu Lei, Kostas Daniilidis, Antonio Loquercio
+
+- 🔎 **[MDP-GRPO: Stabilized Group Relative Policy Optimization for Multi-Constraint Instruction Following](https://arxiv.org/abs/2606.06058)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `GRPO`  
+  Authors: Mohammad Mahdi Salmani-Zarchi, Zahra Rahimi, Heshaam Faili, Mohammad Javad Dousti
+
+- 🔎 **[Taiji: Pareto Optimal Policy Optimization with Semantics-IDs Trade-off for Industrial LLM-Enhanced Recommendation](https://arxiv.org/abs/2606.03866)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Rejection Sampling` · `Reasoning`  
+  Authors: Yuecheng Li, Zeyu Song, Jing Yao, Chi Lu, Peng Jiang, Kun Gai
+
+- 🔎 **[Tool-Aware Optimization with Entropy Guidance for Efficient Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03762)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Reasoning`  
+  Authors: Hongye Cao, Nuo Yan, Haoyuan Deng, Ziwei Wang, Tianpei Yang, Jing Huo, Yuyao Zhang, Yang Gao
+
+- 🔎 **[Local Guidance, Global Impact: Gaussian-Reshaped Trust Region Unlocks Behavior Transitions](https://arxiv.org/abs/2606.03382)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Robotics`  
+  Authors: Bingxu Liu, Jiashun Liu, Johan Obando-Ceron, Hao Wang, Runze Liu, Pablo Samuel Castro, Aaron Courville, Ling Pan
+
+- 🔎 **[ASymPO: Asymmetric-Scale Policy Optimization for Asynchronous LLM Post-Training Without Behavior Information](https://arxiv.org/abs/2606.03070)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reasoning` · `Math`  
+  Authors: Zehua Liu, Yuxuan Yao, Xiaojin Fu, Tao Zhong, Mingxuan Yuan
 
 <a id="2026-05"></a>
 
 ### May
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 389 academic records · 293 eligible · checked 2026-09-02T04:35:00.716828+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Where to Look: Can Foundation Models Reach a Target Viewpoint Through Active Exploration?](https://arxiv.org/abs/2606.01247)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `GRPO` · `On-policy` · `Multi-turn`  
+  Authors: Liyang Li, Muzhi Zhu, Zhiyue Zhao, Hengyu Zhao, Ke Liu, Linhao Zhong, Hao Chen, Chunhua Shen
+
+- 🔎 **[Annealed Softmax Greedy in Many-Armed Bayesian Bandits](https://arxiv.org/abs/2605.31034)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR`  
+  Authors: William Overman, Mohsen Bayati
+
+- 🔎 **[Consolidating Rewarded Perturbations for LLM Post-Training](https://arxiv.org/abs/2605.31494)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO`  
+  Authors: Zheyu Zhang, Shuo Yang, Gjergji Kasneci
+
+- 🔎 **[LEAF: Growing Trees Without Branching for Speech-Aware Large Language Model Post-Training](https://arxiv.org/abs/2606.07610)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO`  
+  Authors: Argyrios Gerogiannis, Yekaterina Yegorova, Mark Hasegawa-Johnson, Venugopal V. Veeravalli
+
+- 🔎 **[FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](https://arxiv.org/abs/2605.31145)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM`  
+  Authors: Mohammed Asad Karim, Vinay Kumar Verma
+
+- 🔎 **[Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2605.30776)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion`  
+  Authors: Ha Manh Bui, Metod Jazbec, Eric Nalisnick, Anqi Liu
+
+- 🔎 **[Hista and Numca: Estimate State Value Effectively for LLM Reinforcement Learning](https://arxiv.org/abs/2605.29782)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO`  
+  Authors: Zizhe Chen, Jiqian Dong, Yizhou Tian, Garry Yang, Yongqiang Chen, Zhitang Chen, James Cheng
+
+- 🔎 **[Stable-Layers: Fine-Tuning Image Layer Decomposition Models with VLM-Scored Reinforcement Learning](https://arxiv.org/abs/2605.30257)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM`  
+  Authors: Ciara Rowles, Reshinth Adithyan, Nikhil Pinnaparaju, Vikram Voleti, Mark Boss
+
+- 🔎 **[OISD: On-Policy Internal Self-Distillation of Language Models](https://arxiv.org/abs/2605.29089)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `On-policy` · `Self-training` · `Reasoning` · `Math`  
+  Authors: Xinyu Liu, Darryl Cherian Jacob, Yang Zhou, Jindong Wang, Pan He
+
+- 🔎 **[Efficient Post-training of LLMs for Code Generation With Offline Reinforcement Learning](https://arxiv.org/abs/2605.28409)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Code`  
+  Authors: Mingze Wu, Abhinav Anand, Shweta Verma, Mira Mezini
+
+- 🔎 **[Escape the Language Prior: Mitigating Late-Stage Modality Collapse in Audio Reasoning via Modality-Aware Policy Optimization](https://arxiv.org/abs/2605.27741)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Long-horizon` · `Multimodal` · `Reasoning` · `Hallucination`  
+  Authors: Cihan Xiao, Yiwen Shao, Chenxing Li, Xiang He, Zhenwen Liang, Steve Yves, Sanjeev Khudanpur, Liefeng Bo
+
+- 🔎 **[Explicit Critic Guidance for Aligning Diffusion Models](https://arxiv.org/abs/2605.27736)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Diffusion`  
+  Authors: Zhengyang Liang, Qihang Zhang, Ceyuan Yang
+
+- 🔎 **[Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders](https://arxiv.org/abs/2605.27354)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Curriculum`  
+  Authors: Yi Jing, Zao Dai, Jinwu Hu, Zijun Yao, Lei Hou, Juanzi Li, Xiaozhi Wang
+
+- 🔎 **[Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2605.26684)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent`  
+  Authors: Xin Cheng, Shuo He, Lang Feng, HaiYang Xu, Ming Yan, Lei Feng, Bo An
+
+- 🔎 **[Spend Your Rollouts Where It Counts: Rollout Allocation for Group-Based RL Post-Training](https://arxiv.org/abs/2605.26606)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `On-policy` · `Reasoning` · `Math`  
+  Authors: Woojeong Kim, Ziyi Yang, Jing Nathan Yan, Jialu Liu
+
+- 🔎 **[Touch-R1: Reinforcing Touch Reasoning in MLLMs](https://arxiv.org/abs/2605.27154)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual` · `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Yingxin Lai, Yafei Zhou, Fucai Zhu, Siyu Zhu, Weihao Yuan
+
+- 🔎 **[WINDQuant: Weight-Informed Neural Decision-Making for Global Mixed-Precision LLM Quantization](https://arxiv.org/abs/2605.26660)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO`  
+  Authors: Phong Nam Huu Nguyen, Khoi M. Le, Cong-Duy T Nguyen, Anh Tuan Luu, Thong Thanh Nguyen, Tho Quan
+
+- 🔎 **[Extreme Region Policy Distillation](https://arxiv.org/abs/2605.25582)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `On-policy` · `Off-policy` · `Reasoning` · `Math` · `Safety`  
+  Authors: Changyu Chen, Xiting Wang, Rui Yan
+
+- 🔎 **[B-GRTO: Bootstrapped Group Relative Tool Optimization for Referring Segmentation](https://arxiv.org/abs/2605.23500)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Tool Use` · `VLM` · `Reasoning`  
+  Authors: Mario Markov, Stefan Maria Ailuro, Mohammad Mahdi, Luc Van Gool, Danda Pani Paudel
+
+- 🔎 **[Tailoring Teaching to Aptitude: Direction-Adaptive Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2605.22263)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPSD` · `Distillation` · `RLVR` · `On-policy` · `Self-training` · `Reasoning` · `Math`  
+  Authors: Hongbin Zhang, Chaozheng Wang, Kehai Chen, Youcheng Pan, Yang Xiang, Jinpeng Wang, Min Zhang
+
+- 🔎 **[Learning Spatiotemporal Sensitivity in Video LLMs via Counterfactual Reinforcement Learning](https://arxiv.org/abs/2605.21988)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual`  
+  Authors: Dazhao Du, Jian Liu, Jialong Qin, Tao Han, Bohai Gu, Fangqi Zhu, Yujia Zhang, Eric Liu, et al.
+
+- 🔎 **[From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding](https://arxiv.org/abs/2605.22413)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Yandi Wang, Libin Zhan, Ziwei Huang, Tiancheng Luo, Yuxuan Jiang, Wang Dong, Leilei Gan, Jun Chen
+
+- 🔎 **[Value-Gradient Hypothesis of RL for LLMs](https://arxiv.org/abs/2605.21654)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO`  
+  Authors: Arip Asadulaev, Daniil Ognev, Karim Salta, Martin Takac
+
+- 🔎 **[Why Semantic Entropy Fails: Geometry-Aware and Calibrated Uncertainty for Policy Optimization](https://arxiv.org/abs/2605.21801)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Zheyuan Zhang, Kaiwen Shi, Han Bao, Zehong Wang, Tianyi Ma, Yanfang Ye
+
+- 🔎 **[Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR](https://arxiv.org/abs/2605.19282)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `VLA`  
+  Authors: Chongyu Fan, Gaowen Liu, Mingyi Hong, Ramana Rao Kompella, Sijia Liu
+
+- 🔎 **[Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency](https://arxiv.org/abs/2605.18162)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Self-improvement` · `VLM` · `Reasoning`  
+  Authors: Junming Liu, Yuqi Li, Yifei Sun, Maonan Wang, Piotr Koniusz, Yirong Chen, Ding Wang
+
+- 🔎 **[IVR-R1: Refining Trajectories through Iterative Visual-Grounded Reasoning in Reinforcement Learning](https://arxiv.org/abs/2605.23997)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Multimodal` · `Reasoning` · `Hallucination`  
+  Authors: Chenghao Li, Fusheng Hao, Xikai Zhang, Likang Xiao, Yanwei Ren, Fuxiang Wu, Quan Chen, Liu Liu
+
+- 🔎 **[Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2605.16842)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Image Generation`  
+  Authors: Siqi Luo, Jianghan Shen, Yi Xin, Huayu Zheng, Haoxing Chen, Yan Tai, Yue Li, Junjun He, et al.
+
+- 🔎 **[From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding](https://arxiv.org/abs/2605.15951)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Yuyuan Liu, Yiping Ji, Anjie Le, Jiayuan Zhu, Jiazhen Pan, Can Peng, Jiajun Deng, Fengbei Liu, et al.
+
+- 🔎 **[REC-RL: Referring expression counting via Gaussian and range-based reward optimization](https://arxiv.org/abs/2605.16460)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Hui Liu, Yunlai Teng, Kunlong Bai, Pengfei Qi, Haotian Yan, Liang Li, Junlan Feng
+
+- 🔎 **[Controllable Molecular Generative Foundation Models](https://arxiv.org/abs/2605.15354)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Yihan Zhu, Yuhan Liu, Weijiang Li, Tengfei Luo, Meng Jiang
+
+- 🔎 **[Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy](https://arxiv.org/abs/2605.14558)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO` · `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Langzhou He, Junyou Zhu, Yue Zhou, Zhengyao Gu, Junhua Liu, Wei-Chieh Huang, Henry Peng Zou, David Wipf, et al.
+
+- 🔎 **[EARL: Towards a Unified Analysis-Guided Reinforcement Learning Framework for Egocentric Interaction Reasoning and Pixel Grounding](https://arxiv.org/abs/2605.14742)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Robotics` · `Reasoning`  
+  Authors: Yuejiao Su, Xinshen Zhang, Zhen Ye, Lei Yao, Lap-Pui Chau, Yi Wang
+
+- 🔎 **[RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO](https://arxiv.org/abs/2605.15190)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `Diffusion`  
+  Authors: Yanzuo Lu, Ronglai Zuo, Jiankang Deng
+
+- 🔎 **[GAGPO: Generalized Advantage Grouped Policy Optimization](https://arxiv.org/abs/2605.13217)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multi-turn` · `Long-horizon`  
+  Authors: Siyuan Zhu, Chao Yu, Rongxin Yang, Zongkai Liu, Jinjun Hu, Qiwen Chen, Yibo Zhang
+
+- 🔎 **[ICRL: Learning to Internalize Self-Critique with Reinforcement Learning](https://arxiv.org/abs/2605.15224)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Self-improvement` · `Agent` · `Reasoning` · `Math`  
+  Authors: Jianbo Lin, Xiaomin Yu, Yi Xin, Yifu Guo, Zhuosong Jiang, Zhongqi Yue, Weishi Wang, Heqing Zou, et al.
+
+- 🔎 **[GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2605.13375)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `VLM`  
+  Authors: Mingzhe Huang, Weijun Wang, Xin Ding, Liang Mi, Hao Wen, Yuanchun Li, Lichen Pang, Shansong Yang, et al.
+
+- 🔎 **[AIS: Adaptive Importance Sampling for Quantized RL](https://arxiv.org/abs/2605.13907)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning` · `Math`  
+  Authors: Jiajun Zhou, Wei Shao, Lingchao Zheng, Yuwei Fan, Ngai Wong
+
+- 🔎 **[Learning with Rare Success but Rich Feedback via Reflection-Enhanced Self-Distillation](https://arxiv.org/abs/2605.12741)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPSD` · `Distillation` · `GRPO` · `On-policy` · `Self-training`  
+  Authors: Yuwei Zhang, Sha Li, Changlong Yu, Qin Lu, Shuowei Jin, Chengyu Dong, Haoran Liu, Ilgee Hong, et al.
+
+- 🔎 **[Block-R1: Rethinking the Role of Block Size in Multi-domain Reinforcement Learning for Diffusion Large Language Models](https://arxiv.org/abs/2605.11726)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Yan Jiang, Ruihong Qiu, Zi Huang
+
+- 🔎 **[Aligning Flow Map Policies with Optimal Q-Guidance](https://arxiv.org/abs/2605.12416)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Robotics`  
+  Authors: Christos Ziakas, Alessandra Russo, Avishek Joey Bose
+
+- 🔎 **[Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation](https://arxiv.org/abs/2605.12034)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `SFT` · `RLVR` · `Self-training`  
+  Authors: Che Liu, Lichao Ma, Xiangyu Tony Zhang, Yuxin Zhang, Haoyang Zhang, Xuerui Yang, Fei Tian
+
+- 🔎 **[Discrete Flow Matching for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2605.12379)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Fairoz Nower Khan, Nabuat Zaman Nahim, Peizhong Ju
+
+- 🔎 **[The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes](https://arxiv.org/abs/2605.11182)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `OPSD` · `Distillation` · `SFT` · `RLVR` · `On-policy` · `Self-training` · `Reasoning` · `Math`  
+  Authors: Siqi Zhu, Xuyan Ye, Hongyu Lu, Weiye Shi, Ge Liu
+
+- 🔎 **[Omni-Persona: Systematic Benchmarking and Improving Omnimodal Personalization](https://arxiv.org/abs/2605.09996)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `RLVR` · `Multimodal` · `Hallucination`  
+  Authors: Yeongtak Oh, Dongwook Lee, Sangkwon Park, Heeseung Kim, Sungroh Yoon
+
+- 🔎 **[RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking](https://arxiv.org/abs/2605.11151)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA` · `Safety`  
+  Authors: Andrew Choi, Wei Xu
+
+- 🔎 **[Crosslingual On-Policy Self-Distillation for Multilingual Reasoning](https://arxiv.org/abs/2605.09548)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPSD` · `Distillation` · `GRPO` · `On-policy` · `Self-training` · `Reasoning` · `Math`  
+  Authors: Yihong Liu, Raoyuan Zhao, Michael A. Hedderich, Hinrich Schütze
+
+- 🔎 **[dFlowGRPO: Rate-Aware Policy Optimization for Discrete Flow Models](https://arxiv.org/abs/2605.09291)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Image Generation`  
+  Authors: Zhengyan Wan, Yidong Ouyang, Panwen Hu, Qiang Sun
+
+- 🔎 **[Reinforcing Multimodal Reasoning Against Visual Degradation](https://arxiv.org/abs/2605.09262)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Rui Liu, Dian Yu, Haolin Liu, Yucheng Shi, Tong Zheng, Runpeng Dai, Haitao Mi, Pratap Tokekar, et al.
+
+- 🔎 **[Breaking the Impasse: Dual-Scale Evolutionary Policy Training for Social Language Agents](https://arxiv.org/abs/2605.08721)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Self-play` · `Agent`  
+  Authors: Minzheng Wang, Run Luo, Yanbo Wang, Zichen Liu, Yuqiao Tan, Tao Tan, Xu Nan, Yinhe Zheng, et al.
+
+- 🔎 **[Generative Actor-Critic with Soft Bridge Policies](https://arxiv.org/abs/2605.08733)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Ke He, Le He, Shunpu Tang, Yafei Wang, Lisheng Fan
+
+- 🔎 **[Flow-OPD: On-Policy Distillation for Flow Matching Models](https://arxiv.org/abs/2605.08063)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `Distillation` · `GRPO` · `On-policy` · `Diffusion` · `Image Generation`  
+  Authors: Zhen Fang, Wenxuan Huang, Yu Zeng, Yiming Zhao, Shuang Chen, Kaituo Feng, Yunlong Lin, Lin Chen, et al.
+
+- 🔎 **[SOD: Step-wise On-policy Distillation for Small Language Model Agents](https://arxiv.org/abs/2605.07725)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `Distillation` · `GRPO` · `On-policy` · `Agent` · `Long-horizon` · `Reasoning` · `Math`  
+  Authors: Qiyong Zhong, Mao Zheng, Mingyang Song, Xin Lin, Jie Sun, Houcheng Jiang, Xiang Wang, Junfeng Fang
+
+- 🔎 **[Gradient Starvation in Binary-Reward GRPO: Why Group-Mean Centering Fails and Why the Simplest Fix Works](https://arxiv.org/abs/2605.07689)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `GRPO`  
+  Authors: Wenhua Nie, Jianan Wu, Junlin Liu, Ziwei Li, Zheng Lin, Zhang Zijian, Yilong Fan, Haoran Zheng, et al.
+
+- 🔎 **[Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models](https://arxiv.org/abs/2605.07701)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Diffusion`  
+  Authors: Fan Zhou, Tim Van de Cruys
+
+- 🔎 **[BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning](https://arxiv.org/abs/2605.07394)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal`  
+  Authors: Shaokai Ye, Vasileios Saveris, Yihao Qian, Jiaming Hu, Elmira Amirloo, Peter Grasch
+
+- 🔎 **[DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models](https://arxiv.org/abs/2605.16342)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Long-horizon` · `Diffusion` · `Reasoning` · `Math` · `Code`  
+  Authors: Amin Karimi Monsefi, Dominic Culver, Nikhil Bhendawade, Lokesh Boominathan, Manuel R. Ciosici, Yizhe Zhang, Irina Belousova
+
+- 🔎 **[SPARK: Self-Play with Asymmetric Reward from Knowledge Graphs](https://arxiv.org/abs/2605.05546)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Self-play` · `Multimodal` · `VLM` · `Reasoning` · `Code`  
+  Authors: Hyobin Park, Taeseop Kim, Dong-Geol Choi
+
+- 🔎 **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Long-horizon`  
+  Authors: Xiangyuan Xue, Yifan Zhou, Zidong Wang, Shengji Tang, Philip Torr, Wanli Ouyang, Lei Bai, Zhenfei Yin
+
+- 🔎 **[AGPO: Asymmetric Group Policy Optimization for Verifiable Reasoning and Search Ads Relevance at JD](https://arxiv.org/abs/2605.05826)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Yang Xu, Kun Yao, Yiming Deng, Zheng Fang, Kai Ming Ting, Ming Pang
+
+- 🔎 **[Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration](https://arxiv.org/abs/2605.05566)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `GRPO` · `Reasoning`  
+  Authors: Langlin Huang, Chengsong Huang, Jinyuan Li, Donghong Cai, Yuyi Yang, Jiaxin Huang
+
+- 🔎 **[Agentick: A Unified Benchmark for General Sequential Decision-Making Agents](https://arxiv.org/abs/2605.06869)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `PPO` · `Agent` · `Multimodal` · `VLM` · `Reasoning` · `Code`  
+  Authors: Roger Creus Castanyer, Pablo Samuel Castro, Glen Berseth
+
+- 🔎 **[Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL](https://arxiv.org/abs/2607.16204)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Diffusion`  
+  Authors: Darshan Deshpande
+
+- 🔎 **[EP-GRPO: Entropy-Progress Aligned Group Relative Policy Optimization with Implicit Process Guidance](https://arxiv.org/abs/2605.04960)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `GRPO` · `Reward Model` · `Reasoning` · `Math`  
+  Authors: Song Yu, Li Li, Wenwen Zhao, Zhisheng Yang
+
+- 🔎 **[Towards Robust LLM Post-Training: Automatic Failure Management for Reinforcement Fine-Tuning](https://arxiv.org/abs/2605.04431)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Liancheng Fang, Kening Zheng, Hongyi Liu, Xiaosong Huang, Philip S. Yu, et al.
+
+- 🔎 **[Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing](https://arxiv.org/abs/2605.04733)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Miao Wang, Yuling Shi, Yijiang Li, Yeheng Chen, Xiaodong Gu, Bin Li, Bo Gao, Jun Wang, et al.
+
+- 🔎 **[EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics](https://arxiv.org/abs/2605.03871)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Reward Model` · `Self-improvement`  
+  Authors: Shuyue Stella Li, Rui Xin, Teng Xiao, Yike Wang, Rulin Shao, Zoey Hao, Melanie Sclar, Sewoong Oh, et al.
+
+- 🔎 **[Correct Is Not Enough: Training Reasoning Planners with Executor-Grounded Rewards](https://arxiv.org/abs/2605.03862)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Reward Model` · `Verifier` · `Reasoning`  
+  Authors: Tianyang Han, Hengyu Shi, Junjie Hu, Xu Yang, Zhiling Wang, Junhao Su
+
+- 🔎 **[Efficiently Aligning Language Models with Online Natural Language Feedback](https://arxiv.org/abs/2605.04356)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Reward Model`  
+  Authors: Christine Ye, Joe Benton
+
+- 🔎 **[GRPO-TTA: Test-Time Visual Tuning for Vision-Language Models via GRPO-Driven Reinforcement Learning](https://arxiv.org/abs/2605.03403)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM`  
+  Authors: Yujun Li, Hongyuan Zhang, Yuan Yuan
+
+- 🔎 **[Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models](https://arxiv.org/abs/2605.03426)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reward Model` · `VLM`  
+  Authors: Shule Lu, Yujing Wang, Hainan Zhang, Xiaoshan Yang, Hongwei Zheng, Yongxin Tong, Changsheng Xu, Zhiming Zheng
+
+- 🔎 **[Binary Rewards and Reinforcement Learning: Fundamental Challenges](https://arxiv.org/abs/2605.02375)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Marc Dymetman
+
+- 🔎 **[Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning](https://arxiv.org/abs/2605.02073)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning` · `Math`  
+  Authors: Arash Ahmadi, Sarah Sharif,  Yaser,  Banad
+
+- 🔎 **[Selector-Guided Autonomous Curriculum for One-Shot Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2605.01823)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `GRPO` · `Curriculum` · `Reasoning` · `Math`  
+  Authors: Rudray Dave, Vedang Dubey, Smit Deoghare, Sudhakar Mishra
+
+- 🔎 **[Chart-FR1: Visual Focus-Driven Fine-Grained Reasoning on Dense Charts](https://arxiv.org/abs/2605.01882)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Hongkun Pan, Yuwei Wu, Wanyi Hong, Shenghui Hu, Qitong Yan, Yi Yang, Rufei Han, Changju Zhou, et al.
+
+- 🔎 **[MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models](https://arxiv.org/abs/2605.01520)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `VLM` · `Reasoning` · `Hallucination`  
+  Authors: Yin Zhang, Jiaxuan Zhao, Zonghan Wu, Zengxiang Li, Junfeng Fang, Kun Wang, Qingsong Wen, Yilei Shao
+
+- 🔎 **[Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory](https://arxiv.org/abs/2605.00702)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Long-horizon`  
+  Authors: Derong Xu, Shuochen Liu, Pengfei Luo, Pengyue Jia, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, et al.
+
+- 🔎 **[Exploring Pass-Rate Reward in Reinforcement Learning for Code Generation](https://arxiv.org/abs/2605.02944)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Code`  
+  Authors: Xin-Ye Li, Ren-Biao Liu, Yun-Ji Zhang, Hui Sun, Zheng Xie, Ming Li
+
+- 🔎 **[ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning](https://arxiv.org/abs/2605.00380)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Reasoning` · `Math`  
+  Authors: Zihan Lin, Xiaohan Wang, Jie Cao, Jiajun Chai, Li Wang, Xiaodong Lu, Wei Lin, Ran He, et al.
+
+- 🔎 **[Uniform-Correct Policy Optimization: Breaking RLVR's Indifference to Diversity](https://arxiv.org/abs/2605.00365)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `GRPO` · `Reasoning` · `Math`  
+  Authors: Anamika Lochab, Bolian Li, Ruqi Zhang
+
+- 🔎 **[Decouple before Integration: Test-time Synthesis of SFT and RLVR Task Vectors](https://arxiv.org/abs/2605.00610)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `RLVR` · `Reasoning` · `Math`  
+  Authors: Chaohao Yuan, Chenghao Xiao, Yu Rong, Hong Cheng, Long-Kai Huang
 
 <a id="2026-04"></a>
 
 ### April
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 229 academic records · 156 eligible · checked 2026-09-02T04:30:05.270926+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Co-Evolving Policy Distillation](https://arxiv.org/abs/2604.27083)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `OPD` · `Distillation` · `RLVR` · `Reasoning`  
+  Authors: Naibin Gu, Chenxu Yang, Qingyi Si, Chuanyu Qin, Dingyu Yao, Peng Fu, Zheng Lin, Weiping Wang, et al.
+
+- 🔎 **[Distributional Alignment Games for Answer-Level Fine-Tuning](https://arxiv.org/abs/2604.27166)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Self-improvement` · `Reasoning` · `Math`  
+  Authors: Mehryar Mohri, Jon Schneider, Yifan Wu
+
+- 🔎 **[How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum](https://arxiv.org/abs/2604.25907)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `RLVR` · `GRPO` · `Reasoning`  
+  Authors: Chu-Cheng Lin, Eugene Ie
+
+- 🔎 **[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/abs/2604.24764)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Video Generation`  
+  Authors: Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Ding, Xirui Hu, et al.
+
+- 🔎 **[AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation](https://arxiv.org/abs/2604.24086)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `VLA`  
+  Authors: Kai Yang, Zedong Chu, Yingnan Guo, Zhengbo Wang, Shichao Xie, Yanfen Shen, Xiaolong Wu, Xing Li, et al.
+
+- 🔎 **[Near-Future Policy Optimization](https://arxiv.org/abs/2604.20733)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `GRPO` · `On-policy` · `Off-policy`  
+  Authors: Chuanyu Qin, Chenxu Yang, Qingyi Si, Naibin Gu, Dingyu Yao, Zheng Lin, Peng Fu, Nan Duan, et al.
+
+- 🔎 **[X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference](https://arxiv.org/abs/2604.20289)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Video Generation` · `Autonomous Driving`  
+  Authors: Yixiao Zeng, Jianlei Zheng, Chaoda Zheng, Shijia Chen, Mingdian Liu, Tongping Liu, Tengwei Luo, Yu Zhang, et al.
+
+- 🔎 **[Infection-Reasoner: A Compact Vision-Language Model for Wound Infection Classification with Evidence-Grounded Clinical Reasoning](https://arxiv.org/abs/2604.19937)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Palawat Busaranuvong, Reza Saadati Fard, Emmanuel Agu, Deepak Kumar, Shefalika Gautam, Bengisu Tulu, Diane Strong
+
+- 🔎 **[SELF-EMO: Emotional Self-Evolution from Recognition to Consistent Expression](https://arxiv.org/abs/2604.18003)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Self-improvement` · `Self-play`  
+  Authors: Shaowei Zhang, Faqiang Qian, Yan Chen, Ziliang Wang, Kang An, Yong Dai, Mengya Gao, Yichao Wu
+
+- 🔎 **[CAPO: Critic-Guided Action-Aligned Policy Optimization for Advancing LLM Agent Capabilities](https://arxiv.org/abs/2604.18401)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO` · `Agent` · `Multi-turn` · `Long-horizon`  
+  Authors: Daoyu Wang, Qingchuan Li, Mingyue Cheng, Jie Ouyang, Shuo Yu, Chunli Liu, Shijin Wang, Qi Liu, et al.
+
+- 🔎 **[Poly-EPO: Training Exploratory Reasoning Models](https://arxiv.org/abs/2604.17654)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reasoning`  
+  Authors: Ifdita Hasan Orney, Jubayer Ibn Hamid, Shreya S Ramanujam, Shirley Wu, Hengyuan Hu, Noah Goodman, Dorsa Sadigh, Chelsea Finn
+
+- 🔎 **[Think before Go: Hierarchical Reasoning for Image-goal Navigation](https://arxiv.org/abs/2604.17407)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `VLM` · `Reasoning`  
+  Authors: Pengna Li, Kangyi Wu, Shaoqing Xu, Fang Li, Lin Zhao, Long Chen, Zhi-Xin Yang, Nanning Zheng
+
+- 🔎 **[Freshness-Aware Prioritized Experience Replay for LLM/VLM Reinforcement Learning](https://arxiv.org/abs/2604.16918)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO` · `On-policy` · `Agent` · `Multi-turn` · `VLM` · `Reasoning`  
+  Authors: Weiyu Ma, Yongcheng Zeng, Yan Song, Xinyu Cui, Jian Zhao, Xuhui Liu, Mohamed Elhoseiny
+
+- 🔎 **[Debate as Reward: A Multi-Agent Reward System for Scientific Ideation via RL Post-Training](https://arxiv.org/abs/2604.16723)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Hallucination`  
+  Authors: Moein Salimi, Babak Hosseini Mohtasham, Amin Aghakasiri, Mahdi Naieni, Amir Hossein Qeysarbeigi, Mohammad Masih Shalchian Nazer, Zahra Azar, Mahdi Jafari Siavoshani, et al.
+
+- 🔎 **[UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards](https://arxiv.org/abs/2604.14967)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Jun Wang, Shuo Tan, Zelong Sun, Tiancheng Gu, Yongle Zhao, Ziyong Feng, Kaicheng Yang, Zhiwu Lu
+
+- 🔎 **[Mean Flow Policy Optimization](https://arxiv.org/abs/2604.14698)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Xiaoyi Dong, Xi Sheryl Zhang, Jian Cheng
+
+- 🔎 **[Targeted Exploration via Unified Entropy Control for Reinforcement Learning](https://arxiv.org/abs/2604.14646)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Chen Wang, Lai Wei, Yanzhi Zhang, Chenyang Shao, Zedong Dan, Weiran Huang, Ge Lan, Yue Wang
+
+- 🔎 **[FiRe: Fine-grained Multimodal Reasoning for Enhanced Image Generation](https://arxiv.org/abs/2604.13491)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Image Generation` · `Reasoning`  
+  Authors: Yongjin Kim, Yoonjin Oh, Yerin Kim, Hyomin Kim, Jeeyoung Yun, Yujung Heo, Minjun Kim, Sungwoong Kim
+
+- 🔎 **[CSPO: Alleviating Reward Ambiguity for Structured Table-to-LaTeX Generation](https://arxiv.org/abs/2604.10918)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Yunfan Yang, Cuiling Lan, Jitao Sang, Yan Lu
+
+- 🔎 **[Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games](https://arxiv.org/abs/2604.11741)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Keyang Zhong, Junlin Xie, Hefeng Wu, Haofeng Li, Guanbin Li
+
+- 🔎 **[SignReasoner: Compositional Reasoning for Complex Traffic Sign Understanding via Functional Structure Units](https://arxiv.org/abs/2604.10436)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `VLM` · `Autonomous Driving` · `Reasoning`  
+  Authors: Ruibin Wang, Zhenyu Lin, Xinhai Zhao
+
+- 🔎 **[Free Energy-Driven Reinforcement Learning with Adaptive Advantage Shaping for Unsupervised Reasoning in LLMs](https://arxiv.org/abs/2605.04065)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-improvement` · `Reasoning` · `Math`  
+  Authors: Yiming Huang, Zhenbo Shi, Xin-Cheng Wen, Jichuan Zeng, Cuiyun Gao, Peiyi Han, Chuanyi Liu
+
+- 🔎 **[FAITH: Factuality Alignment through Integrating Trustworthiness and Honestness](https://arxiv.org/abs/2604.10189)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Hallucination`  
+  Authors: Xiaoning Dong, Chengyan Wu, Yajie Wen, Yu Chen, Yun Xue, Jing Zhang, Wei Xu, Bolei Ma
+
+- 🔎 **[VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](https://arxiv.org/abs/2604.09508)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Long-horizon` · `VLM` · `Reasoning`  
+  Authors: Yucheng Shen, Jiulong Wu, Jizhou Huang, Dawei Yin, Lingyong Yan, Min Cao
+
+- 🔎 **[E3-TIR: Enhanced Experience Exploitation for Tool-Integrated Reasoning](https://arxiv.org/abs/2604.09455)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Synthetic Data` · `Agent` · `Tool Use` · `Reasoning`  
+  Authors: Weiyang Guo, Zesheng Shi, Liye Zhao, Jiayuan Ma, Zeen Zhu, Junxian He, Min Zhang, Jing Li
+
+- 🔎 **[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](https://arxiv.org/abs/2604.08539)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Wenbo Hu, Xin Chen, Yan Gao-Tian, Yihe Deng, Nanyun Peng, Kai-Wei Chang
+
+- 🔎 **[Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization](https://arxiv.org/abs/2604.07165)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multi-turn` · `Reasoning`  
+  Authors: Yu Li, Sizhe Tang, Tian Lan
+
+- 🔎 **[Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization](https://arxiv.org/abs/2604.06777)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multi-turn` · `Multimodal` · `Reasoning`  
+  Authors: Wenhao Yang, Yu Xia, Jinlong Huang, Shiyin Lu, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, et al.
+
+- 🔎 **[ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration](https://arxiv.org/abs/2604.04664)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Multimodal` · `VLM` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Rongfeng Zhao, Xuanhao Zhang, Zhaochen Guo, Xiang Shao, Zhongpan Zhu, Bin He, Jie Chen
+
+- 🔎 **[Drift-Based Policy Optimization: Native One-Step Policy Learning for Online Robot Control](https://arxiv.org/abs/2604.03540)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `On-policy` · `Multimodal` · `Robotics`  
+  Authors: Yuxuan Gao, Yedong Shen, Shiqi Zhang, Wenhao Yu, Yifan Duan, Jia pan, Jiajia Wu, Jiajun Deng, et al.
+
+- 🔎 **[All Roads Lead to Rome: Incentivizing Divergent Thinking in Vision-Language Models](https://arxiv.org/abs/2604.00479)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-04-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Xinyu Tian, Shu Zou, Zhaoyuan Yang, Mengqi He, Peter Tu, Jing Zhang
 
 <a id="2026-03"></a>
 
 ### March
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 255 academic records · 183 eligible · checked 2026-09-02T04:26:09.864932+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[ShapE-GRPO: Shapley-Enhanced Reward Allocation for Multi-Candidate LLM Training](https://arxiv.org/abs/2603.29871)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO`  
+  Authors: Rui Ai, Yu Pan, David Simchi-Levi, Chonghuan Wang
+
+- 🔎 **[Calibrated Confidence Expression for Radiology Report Generation](https://arxiv.org/abs/2603.29492)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `VLM`  
+  Authors: David Bani-Harouni, Chantal Pellegrini, Julian Lüers, Su Hwan Kim, Markus Baalmann, Benedikt Wiestler, Rickmer Braren, Nassir Navab, et al.
+
+- 🔎 **[$AutoDrive\text{-}P^3$: Unified Chain of Perception-Prediction-Planning Thought via Reinforcement Fine-Tuning](https://arxiv.org/abs/2603.28116)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Autonomous Driving` · `Reasoning`  
+  Authors: Yuqi Ye, Zijian Zhang, Junhong Lin, Shangkun Sun, Changhao Peng, Wei Gao
+
+- 🔎 **[VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward](https://arxiv.org/abs/2603.26599)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Diffusion` · `Video Generation`  
+  Authors: Zhaochong An, Orest Kupyn, Théo Uscidda, Andrea Colaco, Karan Ahuja, Serge Belongie, Mar Gonzalez-Franco, Marta Tintore Gazulla
+
+- 🔎 **[VideoTIR: Accurate Understanding for Long Videos with Efficient Tool-Integrated Reasoning](https://arxiv.org/abs/2603.25021)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Multimodal` · `Reasoning` · `Hallucination`  
+  Authors: Zhe Gao, Shiyu Shen, Taifeng Chai, Weinong Wang, Haotian Xu, Xing W, Wenbin Li, Qi Fan, et al.
+
+- 🔎 **[MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models](https://arxiv.org/abs/2603.24984)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `VLM`  
+  Authors: Dohwan Ko, Jinyoung Park, Seoung Choi, Sanghyeok Lee, Seohyun Lee, Hyunwoo J. Kim
+
+- 🔎 **[VersualRL: Closed-Loop Verbal Reinforcement Learning with Visual Execution Feedback for Task-Level Robot Planning](https://arxiv.org/abs/2603.22169)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Robotics` · `Reasoning`  
+  Authors: Dmitrii Plotnikov, Iaroslav Kolomiets, Dmitrii Maliukov, Dmitrij Kosenkov, Daniia Zinniatullina, Artem Trandofilov, Georgii Gazaryan, Kirill Bogatikov, et al.
+
+- 🔎 **[Adaptive Robust Estimator for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2603.21574)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reasoning` · `Math`  
+  Authors: Zhongyi Li, Wan Tian, Jingyu Chen, Kangyao Huang, Huiming Zhang, Hui Yang, Tao Ren, Jinyang Jiang, et al.
+
+- 🔎 **[One Model, Two Minds: Task-Conditioned Reasoning for Unified Image Quality and Aesthetic Assessment](https://arxiv.org/abs/2603.19779)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Wen Yin, Cencen Liu, Dingrui Liu, Bing Su, Yuan-Fang Li, Tao He
+
+- 🔎 **[How Uncertainty Estimation Scales with Sampling in Reasoning Models](https://arxiv.org/abs/2603.19118)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Maksym Del, Markus Kängsepp, Marharyta Domnich, Ardi Tampuu, Lisa Yankovskaya, Meelis Kull, Mark Fishel
+
+- 🔎 **[Are complicated loss functions necessary for teaching LLMs to reason?](https://arxiv.org/abs/2603.18756)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO` · `Reasoning` · `Math`  
+  Authors: Gabriele Carrino, Andrea Sassella, Nicolo Brunello, Federico Toschi, Mark James Carman
+
+- 🔎 **[PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching](https://arxiv.org/abs/2603.18363)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Ruishuo Chen, Yu Chen, Zhuoran Li, Longbo Huang
+
+- 🔎 **[Thinking with Constructions: A Benchmark and Policy Optimization for Visual-Text Interleaved Geometric Reasoning](https://arxiv.org/abs/2603.18662)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual` · `Multimodal` · `Reasoning`  
+  Authors: Haokun Zhao, Wanshi Xu, Haidong Yuan, Songjun Cao, Long Ma, Yanghua Xiao
+
+- 🔎 **[EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection](https://arxiv.org/abs/2603.17343)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Multimodal` · `Reasoning`  
+  Authors: Chenyang Zhu, Maorong Wang, Jun Liu, Ching-Chun Chang, Isao Echizen
+
+- 🔎 **[SLEA-RL: Step-Level Experience Augmented Reinforcement Learning for Multi-Turn Agentic Training](https://arxiv.org/abs/2603.18079)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Agent` · `Tool Use` · `Multi-turn` · `Long-horizon`  
+  Authors: Prince Zizhuang Wang, Shuli Jiang
+
+- 🔎 **[Execution-Grounded Credit Assignment for GRPO in Code Generation](https://arxiv.org/abs/2603.16158)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `GRPO` · `Verifier` · `Code`  
+  Authors: Abhijit Kumar, Natalya Kumar, Shikhar Gupta
+
+- 🔎 **[DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Video Generation` · `Robotics` · `Reasoning`  
+  Authors: Emily Yue-Ting Jia, Weiduo Yuan, Tianheng Shi, Vitor Guizilini, Jiageng Mao, Yue Wang
+
+- 🔎 **[Anticipatory Planning for Multimodal AI Agents](https://arxiv.org/abs/2603.16777)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Multimodal` · `Reasoning`  
+  Authors: Yongyuan Liang, Shijie Zhou, Yu Gu, Hao Tan, Gang Wu, Franck Dernoncourt, Jihyung Kil, Ryan A. Rossi, et al.
+
+- 🔎 **[Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2603.16189)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Haomin Wang, Qi Wei, Qianli Ma, Shengyuan Ding, Jinhui Yin, Kai Chen, Hongjie Zhang
+
+- 🔎 **[MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings](https://arxiv.org/abs/2603.15418)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Shahil Shaik, Aditya Parameshwaran, Anshul Nayak, Jonathon M. Smereka, Yue Wang
+
+- 🔎 **[Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2603.13765)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `Reasoning` · `Code`  
+  Authors: Alejandro Paredes La Torre, Barbara Flores, Diego Rodriguez
+
+- 🔎 **[LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning](https://arxiv.org/abs/2603.12166)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Curriculum` · `Multimodal` · `Reasoning`  
+  Authors: Haiying Xu, Zihan Wang, Song Dai, Zhengxuan Zhang, Kairan Dou, Xuming Hu
+
+- 🔎 **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Multimodal` · `VLM` · `Robotics`  
+  Authors: Mohammad Saeid Anwar, Anuradha Ravi, Indrajeet Ghosh, Gaurav Shinde, Carl Busart, Nirmalya Roy
+
+- 🔎 **[TIPS: Turn-Level Information-Potential Reward Shaping for Search-Augmented LLMs](https://arxiv.org/abs/2603.22293)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `PPO` · `Multi-turn` · `Reasoning`  
+  Authors: Yutao Xie, Nathaniel Thomas, Nicklas Hansen, Yang Fu, Li Erran Li, Xiaolong Wang
+
+- 🔎 **[Language-Guided Token Compression with Reinforcement Learning in Large Vision-Language Models](https://arxiv.org/abs/2603.13394)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `VLM` · `Reasoning`  
+  Authors: Sihan Cao, Jianwei Zhang, Pengcheng Zheng, Jiaxin Yan, Caiyan Qin, Yalan Ye, Wei Dong, Peng Wang, et al.
+
+- 🔎 **[From Imitation to Intuition: Intrinsic Reasoning for Open-Instance Video Classification](https://arxiv.org/abs/2603.10300)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Ke Zhang, Xiangchen Zhao, Yunjie Tian, Jiayu Zheng, Vishal M. Patel, Di Fu
+
+- 🔎 **[Towards Unified Multimodal Interleaved Generation via Group Relative Policy Optimization](https://arxiv.org/abs/2603.09538)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `VLM` · `Image Generation` · `Reasoning`  
+  Authors: Ming Nie, Chunwei Wang, Jianhua Han, Hang Xu, Li Zhang
+
+- 🔎 **[Calibration-Reasoning Framework for Descriptive Speech Quality Assessment](https://arxiv.org/abs/2603.10175)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reasoning`  
+  Authors: Elizaveta Kostenok, Mathieu Salzmann, Milos Cernak
+
+- 🔎 **[MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data](https://arxiv.org/abs/2603.09206)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Self-improvement` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Zongxia Li, Hongyang Du, Chengsong Huang, Xiyang Wu, Lantao Yu, Yicheng He, Jing Xie, Xiaomin Wu, et al.
+
+- 🔎 **[NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models](https://arxiv.org/abs/2603.09542)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA` · `Robotics`  
+  Authors: Ziyue Zhu, Shangyang Wu, Shuai Zhao, Zhiqiu Zhao, Shengjie Li, Yi Wang, Fang Li, Haoran Luo
+
+- 🔎 **[OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2603.09326)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Curriculum` · `Multimodal`  
+  Authors: Tengjin Weng, Wenhao Jiang, Jingyi Wang, Ming Li, Lin Ma, Zhong Ming
+
+- 🔎 **[RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://arxiv.org/abs/2603.08561)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Self-improvement` · `Agent`  
+  Authors: Xiaoying Zhang, Zichen Liu, Yipeng Zhang, Xia Hu, Wenqi Shao
+
+- 🔎 **[DocCogito: Aligning Layout Cognition and Step-Level Grounded Reasoning for Document Understanding](https://arxiv.org/abs/2603.07494)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Rejection Sampling` · `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Yuchuan Wu, Minghan Zhuo, Teng Fu, Mengyang Zhao, Bin Li, Xiangyang Xue
+
+- 🔎 **[Stabilizing Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2603.06743)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Diffusion`  
+  Authors: Jianyuan Zhong, Kaibo Wang, Ding Ding, Zijin Feng, Haoli Bai, Yang Xiang, Jiacheng Sun, Qiang Xu
+
+- 🔎 **[MICA: Multi-granularity Intertemporal Credit Assignment for Long-Horizon Emotional Support Dialogue](https://arxiv.org/abs/2603.06194)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multi-turn` · `Long-horizon`  
+  Authors: Naifan Zhang, Ruihan Sun, Jinwei Su, Hengjie Yang, Zhengyuan Pan, Zhaohan Chen, Xiaofan Zhang
+
+- 🔎 **[ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning](https://arxiv.org/abs/2603.06024)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `VLM` · `Reasoning`  
+  Authors: Xingjian Tao, Yiwei Wang, Yujun Cai, Yifan Song, Jing Tang
+
+- 🔎 **[CORE-Seg: Reasoning-Driven Segmentation for Complex Lesions via Reinforcement Learning](https://arxiv.org/abs/2603.05911)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Yuxin Xie, Yuming Chen, Yishan Yang, Yi Zhou, Tao Zhou, Zhen Zhao, Jiacheng Liu, Huazhu Fu
+
+- 🔎 **[When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On](https://arxiv.org/abs/2603.05659)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR`  
+  Authors: Wisdom Ikezogwo, Mehmet Saygin Seyfioglu, Ranjay Krishna, Karim Bouyarmane
+
+- 🔎 **[LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting](https://arxiv.org/abs/2603.05134)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Reasoning` · `Hallucination`  
+  Authors: Yewen Li, Zhiyi Lyu, Peng Jiang, Qingpeng Cai, Fei Pan, Bo An, Peng Jiang
+
+- 🔎 **[LightningRL: Breaking the Accuracy-Parallelism Trade-off of Block-wise dLLMs via Reinforcement Learning](https://arxiv.org/abs/2603.13319)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Code`  
+  Authors: Yanzhe Hu, Yijie Jin, Pengfei Liu, Kai Yu, Zhijie Deng
+
+- 🔎 **[RAPO: Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization](https://arxiv.org/abs/2603.03078)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `On-policy` · `Off-policy` · `Agent` · `Reasoning`  
+  Authors: Siwei Zhang, Yun Xiong, Xi Chen, Zi'an Jia, Renhong Huang, Jiarong Xu, Jiawei Zhang
+
+- 🔎 **[$π$-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs](https://arxiv.org/abs/2603.02083)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLA`  
+  Authors: Siting Wang, Xiaofeng Wang, Zheng Zhu, Minnan Pei, Xinyu Cui, Cheng Deng, Jian Zhao, Guan Huang, et al.
+
+- 🔎 **[LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](https://arxiv.org/abs/2603.01928)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `SFT` · `GRPO` · `VLA` · `Autonomous Driving` · `Reasoning`  
+  Authors: Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, et al.
+
+- 🔎 **[FireRed-OCR Technical Report](https://arxiv.org/abs/2603.01840)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `GRPO` · `Curriculum` · `VLM` · `Hallucination`  
+  Authors: Hao Wu, Haoran Lou, Xinyue Li, Zuodong Zhong, Zhaojun Sun, Phellon Chen, Xuanhe Zhou, Kai Zuo, et al.
+
+- 🔎 **[Harmonizing Dense and Sparse Signals in Multi-turn RL: Dual-Horizon Credit Assignment for Industrial Sales Agents](https://arxiv.org/abs/2603.01481)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multi-turn`  
+  Authors: Haojin Yang, Ai Jian, Xinyue Huang, Yiwei Wang, Weipeng Zhang, Ke Zeng, Xunliang Cai, Jingqing Ruan
+
+- 🔎 **[Can Thinking Models Think to Detect Hateful Memes?](https://arxiv.org/abs/2603.01225)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `Multimodal` · `Reasoning` · `Safety`  
+  Authors: Mohamed Bayan Kmainasi, Mucahid Kutlu, Ali Ezzat Shahroor, Abul Hasnat, Firoj Alam
+
+- 🔎 **[DIVA-GRPO: Enhancing Multimodal Reasoning through Difficulty-Adaptive Variant Advantage](https://arxiv.org/abs/2603.01106)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-03-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Haowen Gao, Zhenyu Zhang, Liang Pang, Fangda Guo, Hongjian Dou, Guannan Lv, Shaoguo Liu, Tingting Gao, et al.
 
 <a id="2026-02"></a>
 
 ### February
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ⚠ Failed — `TimeoutError: The read operation timed out` · checked 2026-09-02T04:22:42.038390+00:00.
 
 _No visible paper records in this cell yet._
 
@@ -375,7 +1571,7 @@ _No visible paper records in this cell yet._
 
 ### January
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ⚠ Failed — `TimeoutError: The read operation timed out` · checked 2026-09-02T04:08:36.083462+00:00.
 
 _No visible paper records in this cell yet._
 

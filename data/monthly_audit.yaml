@@ -263,17 +263,100 @@ cells:
   complete: true
   newly_queued: 0
   checked_at: '2026-09-02T03:53:35.428695+00:00'
+- cell: agentic:2026-01
+  direction: agentic
+  month: 2026-01
+  complete: false
+  error: 'TimeoutError: The read operation timed out'
+  checked_at: '2026-09-02T04:11:26.742553+00:00'
+- cell: agentic:2026-02
+  direction: agentic
+  month: 2026-02
+  query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
+    AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
+    agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202602010000 TO 202602282359]
+  records_scanned: 201
+  eligible: 71
+  complete: true
+  newly_queued: 65
+  checked_at: '2026-09-02T04:23:33.633804+00:00'
+- cell: agentic:2026-03
+  direction: agentic
+  month: 2026-03
+  query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
+    AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
+    agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202603010000 TO 202603312359]
+  records_scanned: 163
+  eligible: 65
+  complete: true
+  newly_queued: 20
+  checked_at: '2026-09-02T04:26:54.141316+00:00'
+- cell: agentic:2026-04
+  direction: agentic
+  month: 2026-04
+  query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
+    AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
+    agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202604010000 TO 202604302359]
+  records_scanned: 158
+  eligible: 67
+  complete: true
+  newly_queued: 32
+  checked_at: '2026-09-02T04:30:59.738688+00:00'
+- cell: agentic:2026-05
+  direction: agentic
+  month: 2026-05
+  query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
+    AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
+    agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202605010000 TO 202605312359]
+  records_scanned: 309
+  eligible: 101
+  complete: true
+  newly_queued: 34
+  checked_at: '2026-09-02T04:35:53.128003+00:00'
+- cell: agentic:2026-06
+  direction: agentic
+  month: 2026-06
+  query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
+    AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
+    agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202606010000 TO 202606302359]
+  records_scanned: 262
+  eligible: 104
+  complete: true
+  newly_queued: 30
+  checked_at: '2026-09-02T04:40:21.331994+00:00'
+- cell: agentic:2026-07
+  direction: agentic
+  month: 2026-07
+  query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
+    AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
+    agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202607010000 TO 202607312359]
+  records_scanned: 198
+  eligible: 88
+  complete: true
+  newly_queued: 18
+  checked_at: '2026-09-02T08:11:12.897868+00:00'
 - cell: agentic:2026-08
   direction: agentic
   month: 2026-08
   query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
     AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
     agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 242
-  eligible: 109
+  records_scanned: 245
+  eligible: 110
   complete: true
-  newly_queued: 28
-  checked_at: '2026-09-01T14:35:59.084088+00:00'
+  newly_queued: 1
+  checked_at: '2026-09-02T04:47:38.023177+00:00'
+- cell: agentic:2026-09
+  direction: agentic
+  month: 2026-09
+  query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
+    AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
+    agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202609010000 TO 202609302359]
+  records_scanned: 4
+  eligible: 0
+  complete: true
+  newly_queued: 0
+  checked_at: '2026-09-02T04:49:33.693612+00:00'
 - cell: distillation:2024-01
   direction: distillation
   month: 2024-01
@@ -514,16 +597,96 @@ cells:
   complete: true
   newly_queued: 0
   checked_at: '2026-09-02T03:53:12.303002+00:00'
+- cell: distillation:2026-01
+  direction: distillation
+  month: 2026-01
+  query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
+    distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202601010000 TO 202601312359]
+  records_scanned: 41
+  eligible: 16
+  complete: true
+  newly_queued: 13
+  checked_at: '2026-09-02T04:08:38.134920+00:00'
+- cell: distillation:2026-02
+  direction: distillation
+  month: 2026-02
+  query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
+    distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202602010000 TO 202602282359]
+  records_scanned: 35
+  eligible: 14
+  complete: true
+  newly_queued: 14
+  checked_at: '2026-09-02T04:22:44.085422+00:00'
+- cell: distillation:2026-03
+  direction: distillation
+  month: 2026-03
+  query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
+    distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202603010000 TO 202603312359]
+  records_scanned: 41
+  eligible: 20
+  complete: true
+  newly_queued: 10
+  checked_at: '2026-09-02T04:26:10.912480+00:00'
+- cell: distillation:2026-04
+  direction: distillation
+  month: 2026-04
+  query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
+    distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202604010000 TO 202604302359]
+  records_scanned: 47
+  eligible: 30
+  complete: true
+  newly_queued: 14
+  checked_at: '2026-09-02T04:30:06.324898+00:00'
+- cell: distillation:2026-05
+  direction: distillation
+  month: 2026-05
+  query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
+    distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202605010000 TO 202605312359]
+  records_scanned: 144
+  eligible: 106
+  complete: true
+  newly_queued: 53
+  checked_at: '2026-09-02T04:35:08.312497+00:00'
+- cell: distillation:2026-06
+  direction: distillation
+  month: 2026-06
+  query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
+    distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202606010000 TO 202606302359]
+  records_scanned: 97
+  eligible: 74
+  complete: true
+  newly_queued: 36
+  checked_at: '2026-09-02T04:39:46.584011+00:00'
+- cell: distillation:2026-07
+  direction: distillation
+  month: 2026-07
+  query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
+    distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202607010000 TO 202607312359]
+  records_scanned: 116
+  eligible: 93
+  complete: true
+  newly_queued: 43
+  checked_at: '2026-09-02T08:10:49.604462+00:00'
 - cell: distillation:2026-08
   direction: distillation
   month: 2026-08
   query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
     distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 133
+  records_scanned: 134
   eligible: 121
   complete: true
-  newly_queued: 36
-  checked_at: '2026-09-01T14:35:23.251185+00:00'
+  newly_queued: 0
+  checked_at: '2026-09-02T04:46:38.870479+00:00'
+- cell: distillation:2026-09
+  direction: distillation
+  month: 2026-09
+  query: (((all:"on-policy distillation" OR all:"on-policy self-distillation" OR all:OPSD)) OR ((all:"policy distillation" OR all:"reasoning distillation" OR all:"privileged
+    distillation")) OR ((all:"knowledge distillation" AND (all:agent OR all:reasoning OR all:multimodal)))) AND submittedDate:[202609010000 TO 202609302359]
+  records_scanned: 3
+  eligible: 3
+  complete: true
+  newly_queued: 1
+  checked_at: '2026-09-02T04:49:28.867031+00:00'
 - cell: embodied-vla:2024-01
   direction: embodied-vla
   month: 2024-01
@@ -788,6 +951,83 @@ cells:
   complete: true
   newly_queued: 0
   checked_at: '2026-09-02T03:54:35.596596+00:00'
+- cell: embodied-vla:2026-01
+  direction: embodied-vla
+  month: 2026-01
+  query: (((all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)) OR ((all:robot OR all:robotic OR all:"autonomous
+    driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")) OR ((all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement
+    OR all:adaptation))) AND submittedDate:[202601010000 TO 202601312359]
+  records_scanned: 45
+  eligible: 21
+  complete: true
+  newly_queued: 19
+  checked_at: '2026-09-02T04:12:34.206529+00:00'
+- cell: embodied-vla:2026-02
+  direction: embodied-vla
+  month: 2026-02
+  query: (((all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)) OR ((all:robot OR all:robotic OR all:"autonomous
+    driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")) OR ((all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement
+    OR all:adaptation))) AND submittedDate:[202602010000 TO 202602282359]
+  records_scanned: 76
+  eligible: 43
+  complete: true
+  newly_queued: 26
+  checked_at: '2026-09-02T04:24:23.386792+00:00'
+- cell: embodied-vla:2026-03
+  direction: embodied-vla
+  month: 2026-03
+  query: (((all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)) OR ((all:robot OR all:robotic OR all:"autonomous
+    driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")) OR ((all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement
+    OR all:adaptation))) AND submittedDate:[202603010000 TO 202603312359]
+  records_scanned: 106
+  eligible: 57
+  complete: true
+  newly_queued: 19
+  checked_at: '2026-09-02T04:27:55.583613+00:00'
+- cell: embodied-vla:2026-04
+  direction: embodied-vla
+  month: 2026-04
+  query: (((all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)) OR ((all:robot OR all:robotic OR all:"autonomous
+    driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")) OR ((all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement
+    OR all:adaptation))) AND submittedDate:[202604010000 TO 202604302359]
+  records_scanned: 67
+  eligible: 35
+  complete: true
+  newly_queued: 9
+  checked_at: '2026-09-02T04:31:44.841715+00:00'
+- cell: embodied-vla:2026-05
+  direction: embodied-vla
+  month: 2026-05
+  query: (((all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)) OR ((all:robot OR all:robotic OR all:"autonomous
+    driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")) OR ((all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement
+    OR all:adaptation))) AND submittedDate:[202605010000 TO 202605312359]
+  records_scanned: 108
+  eligible: 60
+  complete: true
+  newly_queued: 28
+  checked_at: '2026-09-02T04:37:34.135713+00:00'
+- cell: embodied-vla:2026-06
+  direction: embodied-vla
+  month: 2026-06
+  query: (((all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)) OR ((all:robot OR all:robotic OR all:"autonomous
+    driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")) OR ((all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement
+    OR all:adaptation))) AND submittedDate:[202606010000 TO 202606302359]
+  records_scanned: 136
+  eligible: 55
+  complete: true
+  newly_queued: 23
+  checked_at: '2026-09-02T04:41:14.726786+00:00'
+- cell: embodied-vla:2026-07
+  direction: embodied-vla
+  month: 2026-07
+  query: (((all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)) OR ((all:robot OR all:robotic OR all:"autonomous
+    driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")) OR ((all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement
+    OR all:adaptation))) AND submittedDate:[202607010000 TO 202607312359]
+  records_scanned: 105
+  eligible: 53
+  complete: true
+  newly_queued: 15
+  checked_at: '2026-09-02T08:11:53.193506+00:00'
 - cell: embodied-vla:2026-08
   direction: embodied-vla
   month: 2026-08
@@ -797,8 +1037,19 @@ cells:
   records_scanned: 97
   eligible: 49
   complete: true
-  newly_queued: 14
-  checked_at: '2026-09-01T14:37:12.030728+00:00'
+  newly_queued: 0
+  checked_at: '2026-09-02T04:48:37.579231+00:00'
+- cell: embodied-vla:2026-09
+  direction: embodied-vla
+  month: 2026-09
+  query: (((all:embodied OR all:VLA OR all:"vision-language-action") AND (all:"fine-tuning" OR all:reward OR all:preference)) OR ((all:robot OR all:robotic OR all:"autonomous
+    driving") AND (all:"policy distillation" OR all:RLHF OR all:"post-training")) OR ((all:"robot foundation model" OR all:"generalist robot policy") AND (all:reinforcement
+    OR all:adaptation))) AND submittedDate:[202609010000 TO 202609302359]
+  records_scanned: 2
+  eligible: 2
+  complete: true
+  newly_queued: 1
+  checked_at: '2026-09-02T04:49:38.494374+00:00'
 - cell: generative-media:2024-01
   direction: generative-media
   month: 2024-01
@@ -1063,17 +1314,100 @@ cells:
   complete: true
   newly_queued: 8
   checked_at: '2026-09-02T03:54:23.575409+00:00'
+- cell: generative-media:2026-01
+  direction: generative-media
+  month: 2026-01
+  complete: false
+  error: 'HTTPError: HTTP Error 429: Too Many Requests'
+  checked_at: '2026-09-02T04:12:31.943558+00:00'
+- cell: generative-media:2026-02
+  direction: generative-media
+  month: 2026-02
+  query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
+    OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
+    all:RLHF OR all:"human feedback"))) AND submittedDate:[202602010000 TO 202602282359]
+  records_scanned: 278
+  eligible: 72
+  complete: true
+  newly_queued: 45
+  checked_at: '2026-09-02T04:24:20.296917+00:00'
+- cell: generative-media:2026-03
+  direction: generative-media
+  month: 2026-03
+  query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
+    OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
+    all:RLHF OR all:"human feedback"))) AND submittedDate:[202603010000 TO 202603312359]
+  records_scanned: 362
+  eligible: 78
+  complete: true
+  newly_queued: 19
+  checked_at: '2026-09-02T04:27:48.612565+00:00'
+- cell: generative-media:2026-04
+  direction: generative-media
+  month: 2026-04
+  query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
+    OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
+    all:RLHF OR all:"human feedback"))) AND submittedDate:[202604010000 TO 202604302359]
+  records_scanned: 263
+  eligible: 56
+  complete: true
+  newly_queued: 19
+  checked_at: '2026-09-02T04:31:40.749076+00:00'
+- cell: generative-media:2026-05
+  direction: generative-media
+  month: 2026-05
+  query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
+    OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
+    all:RLHF OR all:"human feedback"))) AND submittedDate:[202605010000 TO 202605312359]
+  records_scanned: 479
+  eligible: 106
+  complete: true
+  newly_queued: 36
+  checked_at: '2026-09-02T04:37:26.806458+00:00'
+- cell: generative-media:2026-06
+  direction: generative-media
+  month: 2026-06
+  query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
+    OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
+    all:RLHF OR all:"human feedback"))) AND submittedDate:[202606010000 TO 202606302359]
+  records_scanned: 320
+  eligible: 62
+  complete: true
+  newly_queued: 13
+  checked_at: '2026-09-02T04:41:07.563445+00:00'
+- cell: generative-media:2026-07
+  direction: generative-media
+  month: 2026-07
+  query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
+    OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
+    all:RLHF OR all:"human feedback"))) AND submittedDate:[202607010000 TO 202607312359]
+  records_scanned: 242
+  eligible: 40
+  complete: true
+  newly_queued: 9
+  checked_at: '2026-09-02T08:11:46.032655+00:00'
 - cell: generative-media:2026-08
   direction: generative-media
   month: 2026-08
   query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
     OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
     all:RLHF OR all:"human feedback"))) AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 244
-  eligible: 51
+  records_scanned: 251
+  eligible: 53
   complete: true
-  newly_queued: 3
-  checked_at: '2026-09-01T14:37:07.710657+00:00'
+  newly_queued: 1
+  checked_at: '2026-09-02T04:48:33.872832+00:00'
+- cell: generative-media:2026-09
+  direction: generative-media
+  month: 2026-09
+  query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
+    OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
+    all:RLHF OR all:"human feedback"))) AND submittedDate:[202609010000 TO 202609302359]
+  records_scanned: 10
+  eligible: 0
+  complete: true
+  newly_queued: 0
+  checked_at: '2026-09-02T04:49:37.032946+00:00'
 - cell: multimodal:2024-01
   direction: multimodal
   month: 2024-01
@@ -1338,17 +1672,100 @@ cells:
   complete: true
   newly_queued: 25
   checked_at: '2026-09-02T03:53:59.905428+00:00'
+- cell: multimodal:2026-01
+  direction: multimodal
+  month: 2026-01
+  complete: false
+  error: 'HTTPError: HTTP Error 429: Unknown Error'
+  checked_at: '2026-09-02T04:11:36.433448+00:00'
+- cell: multimodal:2026-02
+  direction: multimodal
+  month: 2026-02
+  query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
+    learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202602010000
+    TO 202602282359]
+  records_scanned: 423
+  eligible: 157
+  complete: true
+  newly_queued: 110
+  checked_at: '2026-09-02T04:24:02.374483+00:00'
+- cell: multimodal:2026-03
+  direction: multimodal
+  month: 2026-03
+  query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
+    learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202603010000
+    TO 202603312359]
+  records_scanned: 541
+  eligible: 174
+  complete: true
+  newly_queued: 54
+  checked_at: '2026-09-02T04:27:27.789707+00:00'
+- cell: multimodal:2026-04
+  direction: multimodal
+  month: 2026-04
+  query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
+    learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202604010000
+    TO 202604302359]
+  records_scanned: 448
+  eligible: 147
+  complete: true
+  newly_queued: 55
+  checked_at: '2026-09-02T04:31:23.598093+00:00'
+- cell: multimodal:2026-05
+  direction: multimodal
+  month: 2026-05
+  query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
+    learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202605010000
+    TO 202605312359]
+  records_scanned: 551
+  eligible: 166
+  complete: true
+  newly_queued: 48
+  checked_at: '2026-09-02T04:36:25.347005+00:00'
+- cell: multimodal:2026-06
+  direction: multimodal
+  month: 2026-06
+  query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
+    learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202606010000
+    TO 202606302359]
+  records_scanned: 478
+  eligible: 162
+  complete: true
+  newly_queued: 46
+  checked_at: '2026-09-02T04:40:49.443825+00:00'
+- cell: multimodal:2026-07
+  direction: multimodal
+  month: 2026-07
+  query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
+    learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202607010000
+    TO 202607312359]
+  records_scanned: 380
+  eligible: 121
+  complete: true
+  newly_queued: 30
+  checked_at: '2026-09-02T08:11:32.315069+00:00'
 - cell: multimodal:2026-08
   direction: multimodal
   month: 2026-08
   query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
     learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202608010000
     TO 202608312359]
-  records_scanned: 392
+  records_scanned: 394
   eligible: 127
   complete: true
-  newly_queued: 13
-  checked_at: '2026-09-01T14:36:52.837845+00:00'
+  newly_queued: 0
+  checked_at: '2026-09-02T04:48:15.967061+00:00'
+- cell: multimodal:2026-09
+  direction: multimodal
+  month: 2026-09
+  query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
+    learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202609010000
+    TO 202609302359]
+  records_scanned: 13
+  eligible: 5
+  complete: true
+  newly_queued: 2
+  checked_at: '2026-09-02T04:49:35.361284+00:00'
 - cell: preference-alignment:2024-01
   direction: preference-alignment
   month: 2024-01
@@ -1589,16 +2006,92 @@ cells:
   complete: true
   newly_queued: 8
   checked_at: '2026-09-02T03:52:31.776025+00:00'
+- cell: preference-alignment:2026-01
+  direction: preference-alignment
+  month: 2026-01
+  query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
+    OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202601010000 TO 202601312359]
+  records_scanned: 120
+  eligible: 96
+  complete: true
+  newly_queued: 96
+  checked_at: '2026-09-02T04:05:15.172881+00:00'
+- cell: preference-alignment:2026-02
+  direction: preference-alignment
+  month: 2026-02
+  complete: false
+  error: 'HTTPError: HTTP Error 429: Unknown Error'
+  checked_at: '2026-09-02T04:16:46.318757+00:00'
+- cell: preference-alignment:2026-03
+  direction: preference-alignment
+  month: 2026-03
+  query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
+    OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202603010000 TO 202603312359]
+  records_scanned: 158
+  eligible: 130
+  complete: true
+  newly_queued: 104
+  checked_at: '2026-09-02T04:25:12.570514+00:00'
+- cell: preference-alignment:2026-04
+  direction: preference-alignment
+  month: 2026-04
+  query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
+    OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202604010000 TO 202604302359]
+  records_scanned: 180
+  eligible: 139
+  complete: true
+  newly_queued: 101
+  checked_at: '2026-09-02T04:29:03.013310+00:00'
+- cell: preference-alignment:2026-05
+  direction: preference-alignment
+  month: 2026-05
+  query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
+    OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202605010000 TO 202605312359]
+  records_scanned: 188
+  eligible: 159
+  complete: true
+  newly_queued: 132
+  checked_at: '2026-09-02T04:32:51.290887+00:00'
+- cell: preference-alignment:2026-06
+  direction: preference-alignment
+  month: 2026-06
+  query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
+    OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202606010000 TO 202606302359]
+  records_scanned: 166
+  eligible: 130
+  complete: true
+  newly_queued: 101
+  checked_at: '2026-09-02T04:38:35.174755+00:00'
+- cell: preference-alignment:2026-07
+  direction: preference-alignment
+  month: 2026-07
+  query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
+    OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202607010000 TO 202607312359]
+  records_scanned: 99
+  eligible: 87
+  complete: true
+  newly_queued: 53
+  checked_at: '2026-09-02T08:09:34.892874+00:00'
 - cell: preference-alignment:2026-08
   direction: preference-alignment
   month: 2026-08
   query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
     OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 111
-  eligible: 90
+  records_scanned: 112
+  eligible: 91
   complete: true
-  newly_queued: 37
-  checked_at: '2026-09-01T14:33:31.811222+00:00'
+  newly_queued: 1
+  checked_at: '2026-09-02T04:45:20.406374+00:00'
+- cell: preference-alignment:2026-09
+  direction: preference-alignment
+  month: 2026-09
+  query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
+    OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202609010000 TO 202609302359]
+  records_scanned: 7
+  eligible: 7
+  complete: true
+  newly_queued: 4
+  checked_at: '2026-09-02T04:49:23.243243+00:00'
 - cell: reasoning-self-improvement:2024-01
   direction: reasoning-self-improvement
   month: 2024-01
@@ -1863,17 +2356,100 @@ cells:
   complete: true
   newly_queued: 13
   checked_at: '2026-09-02T03:53:25.109028+00:00'
+- cell: reasoning-self-improvement:2026-01
+  direction: reasoning-self-improvement
+  month: 2026-01
+  complete: false
+  error: 'HTTPError: HTTP Error 429: Unknown Error'
+  checked_at: '2026-09-02T04:09:31.541887+00:00'
+- cell: reasoning-self-improvement:2026-02
+  direction: reasoning-self-improvement
+  month: 2026-02
+  query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
+    OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202602010000
+    TO 202602282359]
+  records_scanned: 278
+  eligible: 109
+  complete: true
+  newly_queued: 105
+  checked_at: '2026-09-02T04:23:12.934472+00:00'
+- cell: reasoning-self-improvement:2026-03
+  direction: reasoning-self-improvement
+  month: 2026-03
+  query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
+    OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202603010000
+    TO 202603312359]
+  records_scanned: 302
+  eligible: 116
+  complete: true
+  newly_queued: 39
+  checked_at: '2026-09-02T04:26:29.662156+00:00'
+- cell: reasoning-self-improvement:2026-04
+  direction: reasoning-self-improvement
+  month: 2026-04
+  query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
+    OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202604010000
+    TO 202604302359]
+  records_scanned: 301
+  eligible: 108
+  complete: true
+  newly_queued: 26
+  checked_at: '2026-09-02T04:30:40.896268+00:00'
+- cell: reasoning-self-improvement:2026-05
+  direction: reasoning-self-improvement
+  month: 2026-05
+  query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
+    OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202605010000
+    TO 202605312359]
+  records_scanned: 374
+  eligible: 135
+  complete: true
+  newly_queued: 40
+  checked_at: '2026-09-02T04:35:31.784996+00:00'
+- cell: reasoning-self-improvement:2026-06
+  direction: reasoning-self-improvement
+  month: 2026-06
+  query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
+    OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202606010000
+    TO 202606302359]
+  records_scanned: 341
+  eligible: 145
+  complete: true
+  newly_queued: 45
+  checked_at: '2026-09-02T04:40:04.824384+00:00'
+- cell: reasoning-self-improvement:2026-07
+  direction: reasoning-self-improvement
+  month: 2026-07
+  query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
+    OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202607010000
+    TO 202607312359]
+  records_scanned: 242
+  eligible: 104
+  complete: true
+  newly_queued: 21
+  checked_at: '2026-09-02T08:11:02.643176+00:00'
 - cell: reasoning-self-improvement:2026-08
   direction: reasoning-self-improvement
   month: 2026-08
   query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
     OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202608010000
     TO 202608312359]
-  records_scanned: 261
-  eligible: 117
+  records_scanned: 268
+  eligible: 120
   complete: true
-  newly_queued: 26
-  checked_at: '2026-09-01T14:35:40.332569+00:00'
+  newly_queued: 2
+  checked_at: '2026-09-02T04:47:08.030470+00:00'
+- cell: reasoning-self-improvement:2026-09
+  direction: reasoning-self-improvement
+  month: 2026-09
+  query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
+    OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202609010000
+    TO 202609302359]
+  records_scanned: 10
+  eligible: 4
+  complete: true
+  newly_queued: 2
+  checked_at: '2026-09-02T04:49:32.141699+00:00'
 - cell: reinforcement-learning:2024-01
   direction: reinforcement-learning
   month: 2024-01
@@ -2138,17 +2714,95 @@ cells:
   complete: true
   newly_queued: 10
   checked_at: '2026-09-02T03:53:08.925837+00:00'
+- cell: reinforcement-learning:2026-01
+  direction: reinforcement-learning
+  month: 2026-01
+  complete: false
+  error: 'TimeoutError: The read operation timed out'
+  checked_at: '2026-09-02T04:08:36.083462+00:00'
+- cell: reinforcement-learning:2026-02
+  direction: reinforcement-learning
+  month: 2026-02
+  complete: false
+  error: 'TimeoutError: The read operation timed out'
+  checked_at: '2026-09-02T04:22:42.038390+00:00'
+- cell: reinforcement-learning:2026-03
+  direction: reinforcement-learning
+  month: 2026-03
+  query: (((all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")) OR ((all:GRPO OR all:PPO OR all:"policy optimization") AND
+    (all:"language model" OR all:"foundation model")) OR ((all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)))
+    AND submittedDate:[202603010000 TO 202603312359]
+  records_scanned: 255
+  eligible: 183
+  complete: true
+  newly_queued: 47
+  checked_at: '2026-09-02T04:26:09.864932+00:00'
+- cell: reinforcement-learning:2026-04
+  direction: reinforcement-learning
+  month: 2026-04
+  query: (((all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")) OR ((all:GRPO OR all:PPO OR all:"policy optimization") AND
+    (all:"language model" OR all:"foundation model")) OR ((all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)))
+    AND submittedDate:[202604010000 TO 202604302359]
+  records_scanned: 229
+  eligible: 156
+  complete: true
+  newly_queued: 31
+  checked_at: '2026-09-02T04:30:05.270926+00:00'
+- cell: reinforcement-learning:2026-05
+  direction: reinforcement-learning
+  month: 2026-05
+  query: (((all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")) OR ((all:GRPO OR all:PPO OR all:"policy optimization") AND
+    (all:"language model" OR all:"foundation model")) OR ((all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)))
+    AND submittedDate:[202605010000 TO 202605312359]
+  records_scanned: 389
+  eligible: 293
+  complete: true
+  newly_queued: 81
+  checked_at: '2026-09-02T04:35:00.716828+00:00'
+- cell: reinforcement-learning:2026-06
+  direction: reinforcement-learning
+  month: 2026-06
+  query: (((all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")) OR ((all:GRPO OR all:PPO OR all:"policy optimization") AND
+    (all:"language model" OR all:"foundation model")) OR ((all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)))
+    AND submittedDate:[202606010000 TO 202606302359]
+  records_scanned: 279
+  eligible: 198
+  complete: true
+  newly_queued: 45
+  checked_at: '2026-09-02T04:39:43.674458+00:00'
+- cell: reinforcement-learning:2026-07
+  direction: reinforcement-learning
+  month: 2026-07
+  query: (((all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")) OR ((all:GRPO OR all:PPO OR all:"policy optimization") AND
+    (all:"language model" OR all:"foundation model")) OR ((all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)))
+    AND submittedDate:[202607010000 TO 202607312359]
+  records_scanned: 201
+  eligible: 150
+  complete: true
+  newly_queued: 35
+  checked_at: '2026-09-02T08:10:42.565811+00:00'
 - cell: reinforcement-learning:2026-08
   direction: reinforcement-learning
   month: 2026-08
   query: (((all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")) OR ((all:GRPO OR all:PPO OR all:"policy optimization") AND
     (all:"language model" OR all:"foundation model")) OR ((all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)))
     AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 221
-  eligible: 156
+  records_scanned: 223
+  eligible: 158
   complete: true
-  newly_queued: 19
-  checked_at: '2026-09-01T14:34:53.749317+00:00'
+  newly_queued: 0
+  checked_at: '2026-09-02T04:46:31.066430+00:00'
+- cell: reinforcement-learning:2026-09
+  direction: reinforcement-learning
+  month: 2026-09
+  query: (((all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")) OR ((all:GRPO OR all:PPO OR all:"policy optimization") AND
+    (all:"language model" OR all:"foundation model")) OR ((all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)))
+    AND submittedDate:[202609010000 TO 202609302359]
+  records_scanned: 11
+  eligible: 7
+  complete: true
+  newly_queued: 1
+  checked_at: '2026-09-02T04:49:27.520267+00:00'
 - cell: reward-verifiers:2024-01
   direction: reward-verifiers
   month: 2024-01
@@ -2389,16 +3043,88 @@ cells:
   complete: true
   newly_queued: 66
   checked_at: '2026-09-02T03:52:58.736026+00:00'
+- cell: reward-verifiers:2026-01
+  direction: reward-verifiers
+  month: 2026-01
+  complete: false
+  error: 'HTTPError: HTTP Error 429: Too Many Requests'
+  checked_at: '2026-09-02T04:06:40.296340+00:00'
+- cell: reward-verifiers:2026-02
+  direction: reward-verifiers
+  month: 2026-02
+  complete: false
+  error: 'TimeoutError: The read operation timed out'
+  checked_at: '2026-09-02T04:18:41.085443+00:00'
+- cell: reward-verifiers:2026-03
+  direction: reward-verifiers
+  month: 2026-03
+  query: (((all:"reward model" OR all:"preference model" OR all:"LLM judge")) OR ((all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning
+    OR all:model)) OR ((all:"process supervision" OR all:"step-level reward" OR all:"generative reward model"))) AND submittedDate:[202603010000 TO 202603312359]
+  records_scanned: 716
+  eligible: 307
+  complete: true
+  newly_queued: 237
+  checked_at: '2026-09-02T04:25:55.166778+00:00'
+- cell: reward-verifiers:2026-04
+  direction: reward-verifiers
+  month: 2026-04
+  query: (((all:"reward model" OR all:"preference model" OR all:"LLM judge")) OR ((all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning
+    OR all:model)) OR ((all:"process supervision" OR all:"step-level reward" OR all:"generative reward model"))) AND submittedDate:[202604010000 TO 202604302359]
+  records_scanned: 747
+  eligible: 294
+  complete: true
+  newly_queued: 218
+  checked_at: '2026-09-02T04:29:52.024409+00:00'
+- cell: reward-verifiers:2026-05
+  direction: reward-verifiers
+  month: 2026-05
+  query: (((all:"reward model" OR all:"preference model" OR all:"LLM judge")) OR ((all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning
+    OR all:model)) OR ((all:"process supervision" OR all:"step-level reward" OR all:"generative reward model"))) AND submittedDate:[202605010000 TO 202605312359]
+  records_scanned: 1000
+  eligible: 456
+  complete: false
+  newly_queued: 368
+  checked_at: '2026-09-02T04:34:39.676712+00:00'
+- cell: reward-verifiers:2026-06
+  direction: reward-verifiers
+  month: 2026-06
+  query: (((all:"reward model" OR all:"preference model" OR all:"LLM judge")) OR ((all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning
+    OR all:model)) OR ((all:"process supervision" OR all:"step-level reward" OR all:"generative reward model"))) AND submittedDate:[202606010000 TO 202606302359]
+  records_scanned: 998
+  eligible: 409
+  complete: true
+  newly_queued: 322
+  checked_at: '2026-09-02T04:39:28.591600+00:00'
+- cell: reward-verifiers:2026-07
+  direction: reward-verifiers
+  month: 2026-07
+  query: (((all:"reward model" OR all:"preference model" OR all:"LLM judge")) OR ((all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning
+    OR all:model)) OR ((all:"process supervision" OR all:"step-level reward" OR all:"generative reward model"))) AND submittedDate:[202607010000 TO 202607312359]
+  records_scanned: 796
+  eligible: 306
+  complete: true
+  newly_queued: 229
+  checked_at: '2026-09-02T08:10:29.984269+00:00'
 - cell: reward-verifiers:2026-08
   direction: reward-verifiers
   month: 2026-08
   query: (((all:"reward model" OR all:"preference model" OR all:"LLM judge")) OR ((all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning
     OR all:model)) OR ((all:"process supervision" OR all:"step-level reward" OR all:"generative reward model"))) AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 996
-  eligible: 341
+  records_scanned: 1000
+  eligible: 339
+  complete: false
+  newly_queued: 3
+  checked_at: '2026-09-02T04:46:16.762026+00:00'
+- cell: reward-verifiers:2026-09
+  direction: reward-verifiers
+  month: 2026-09
+  query: (((all:"reward model" OR all:"preference model" OR all:"LLM judge")) OR ((all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning
+    OR all:model)) OR ((all:"process supervision" OR all:"step-level reward" OR all:"generative reward model"))) AND submittedDate:[202609010000 TO 202609302359]
+  records_scanned: 41
+  eligible: 15
   complete: true
-  newly_queued: 143
-  checked_at: '2026-09-01T14:34:38.988299+00:00'
+  newly_queued: 15
+  checked_at: '2026-09-02T04:49:25.741567+00:00'
 - cell: supervised-adaptation:2024-01
   direction: supervised-adaptation
   month: 2024-01
@@ -2663,14 +3389,92 @@ cells:
   complete: true
   newly_queued: 40
   checked_at: '2026-09-02T03:52:24.699707+00:00'
+- cell: supervised-adaptation:2026-01
+  direction: supervised-adaptation
+  month: 2026-01
+  complete: false
+  error: 'TimeoutError: The read operation timed out'
+  checked_at: '2026-09-02T04:03:54.725967+00:00'
+- cell: supervised-adaptation:2026-02
+  direction: supervised-adaptation
+  month: 2026-02
+  complete: false
+  error: 'HTTPError: HTTP Error 429: Too Many Requests'
+  checked_at: '2026-09-02T04:15:04.822304+00:00'
+- cell: supervised-adaptation:2026-03
+  direction: supervised-adaptation
+  month: 2026-03
+  query: (((all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")) OR ((all:"rejection sampling fine-tuning" OR all:"on-policy
+    SFT" OR all:"response refinement")) OR ((all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language))) AND submittedDate:[202603010000
+    TO 202603312359]
+  records_scanned: 292
+  eligible: 183
+  complete: true
+  newly_queued: 183
+  checked_at: '2026-09-02T04:25:03.391924+00:00'
+- cell: supervised-adaptation:2026-04
+  direction: supervised-adaptation
+  month: 2026-04
+  query: (((all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")) OR ((all:"rejection sampling fine-tuning" OR all:"on-policy
+    SFT" OR all:"response refinement")) OR ((all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language))) AND submittedDate:[202604010000
+    TO 202604302359]
+  records_scanned: 309
+  eligible: 181
+  complete: true
+  newly_queued: 180
+  checked_at: '2026-09-02T04:28:40.147004+00:00'
+- cell: supervised-adaptation:2026-05
+  direction: supervised-adaptation
+  month: 2026-05
+  query: (((all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")) OR ((all:"rejection sampling fine-tuning" OR all:"on-policy
+    SFT" OR all:"response refinement")) OR ((all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language))) AND submittedDate:[202605010000
+    TO 202605312359]
+  records_scanned: 429
+  eligible: 230
+  complete: true
+  newly_queued: 229
+  checked_at: '2026-09-02T04:32:42.891950+00:00'
+- cell: supervised-adaptation:2026-06
+  direction: supervised-adaptation
+  month: 2026-06
+  query: (((all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")) OR ((all:"rejection sampling fine-tuning" OR all:"on-policy
+    SFT" OR all:"response refinement")) OR ((all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language))) AND submittedDate:[202606010000
+    TO 202606302359]
+  records_scanned: 333
+  eligible: 196
+  complete: true
+  newly_queued: 196
+  checked_at: '2026-09-02T04:38:26.169359+00:00'
+- cell: supervised-adaptation:2026-07
+  direction: supervised-adaptation
+  month: 2026-07
+  query: (((all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")) OR ((all:"rejection sampling fine-tuning" OR all:"on-policy
+    SFT" OR all:"response refinement")) OR ((all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language))) AND submittedDate:[202607010000
+    TO 202607312359]
+  records_scanned: 260
+  eligible: 161
+  complete: true
+  newly_queued: 135
+  checked_at: '2026-09-02T08:09:31.378840+00:00'
 - cell: supervised-adaptation:2026-08
   direction: supervised-adaptation
   month: 2026-08
   query: (((all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")) OR ((all:"rejection sampling fine-tuning" OR all:"on-policy
     SFT" OR all:"response refinement")) OR ((all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language))) AND submittedDate:[202608010000
     TO 202608312359]
-  records_scanned: 277
-  eligible: 175
+  records_scanned: 284
+  eligible: 178
   complete: true
-  newly_queued: 38
-  checked_at: '2026-09-01T14:33:25.233493+00:00'
+  newly_queued: 3
+  checked_at: '2026-09-02T04:45:13.381576+00:00'
+- cell: supervised-adaptation:2026-09
+  direction: supervised-adaptation
+  month: 2026-09
+  query: (((all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")) OR ((all:"rejection sampling fine-tuning" OR all:"on-policy
+    SFT" OR all:"response refinement")) OR ((all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language))) AND submittedDate:[202609010000
+    TO 202609302359]
+  records_scanned: 14
+  eligible: 6
+  complete: true
+  newly_queued: 6
+  checked_at: '2026-09-02T04:49:21.372598+00:00'
