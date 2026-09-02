@@ -1,0 +1,29 @@
+{
+  "name": "post-training-atlas",
+  "version": "0.1.0",
+  "description": "Track post-training method evolution, compare iterations, and turn research signals into evidence-grounded ideas.",
+  "author": {
+    "name": "undefinted",
+    "url": "https://github.com/undefinted"
+  },
+  "homepage": "https://undefinted.github.io/Awesome-Post-Training-Atlas/",
+  "repository": "https://github.com/undefinted/Awesome-Post-Training-Atlas",
+  "license": "MIT",
+  "keywords": ["post-training", "research", "method-evolution", "agents", "vibe-coding"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Post-Training Atlas",
+    "shortDescription": "Track method evolution and research ideas.",
+    "longDescription": "A research skill for following post-training method families across language, reasoning, agents, multimodal, generative, and embodied models; comparing what changed; and turning evidence into testable ideas or coding plans.",
+    "developerName": "undefinted",
+    "category": "Research",
+    "capabilities": ["Research", "Idea generation", "Vibe coding"],
+    "websiteURL": "https://undefinted.github.io/Awesome-Post-Training-Atlas/",
+    "brandColor": "#3157D5",
+    "defaultPrompt": [
+      "Track the evolution of a post-training method and cite primary papers.",
+      "Use the atlas to find transferable ideas for my research problem.",
+      "Turn this post-training research brief into a careful coding plan."
+    ]
+  }
+}
