@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**190 papers**: 1 curated and 189 academic discovery candidates.
+**212 papers**: 1 curated and 211 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -14,7 +14,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - [2026](#2026) — [Aug](#2026-08) ✓20 · [Jul](#2026-07) ◐19 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
-- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ⏳
+- [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
 
 <a id="2026"></a>
@@ -37,11 +37,6 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Multimodal` · `VLM` · `Diffusion` · `VLA` · `Robotics` · `Reasoning`  
   Authors: Sunghwan Han, Youngtae Han, Youngmin Yi
 
-- 🔎 **[Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning](https://arxiv.org/abs/2608.25350)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `RLHF` · `Reward Model` · `VLM` · `Robotics`  
-  Authors: Srivalli Katkuri, Maxwell Kawada, Juan Wachs
-
 - 🔎 **[$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](https://arxiv.org/abs/2608.26053)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Long-horizon` · `VLM` · `Robotics` · `Reasoning`  
@@ -51,6 +46,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Synthetic Data`  
   Authors: Xiang Liu, Sen Cui, Changshui Zhang
+
+- 🔎 **[Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning](https://arxiv.org/abs/2608.25350)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `RLHF` · `Reward Model` · `VLM` · `Robotics`  
+  Authors: Srivalli Katkuri, Maxwell Kawada, Juan Wachs
 
 - 🔎 **[TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks](https://arxiv.org/abs/2608.24101)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
@@ -67,15 +67,15 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Distillation` · `On-policy` · `Long-horizon`  
   Authors: Jayjun Lee, Jessica Yin, Asif Rana, Nicholas Blauch, Sam Mady, Mohak Bhardwaj, Nima Fazeli, Nathan Ratliff, et al.
 
-- 🔎 **[US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina](https://arxiv.org/abs/2608.16074)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `VLA`  
-  Authors: Cheng Zhang, Xingzheng Wu, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai
-
 - 🔎 **[Q-Learning With World Models](https://arxiv.org/abs/2608.17163)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Off-policy` · `VLA` · `Robotics`  
   Authors: Perry Dong, Yueru Jia, Chelsea Finn, Dorsa Sadigh
+
+- 🔎 **[US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina](https://arxiv.org/abs/2608.16074)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA`  
+  Authors: Cheng Zhang, Xingzheng Wu, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai
 
 - 🔎 **[GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](https://arxiv.org/abs/2608.15875)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-16 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -153,60 +153,60 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: pending  
   Authors: Han Wang, Zijun Wang, Shuoshuo Xue, Rui Cao, Fengjiao Cheng, Xiaodan Liang, Roy Ka-Wei Lee
 
-- 🔎 **[JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models](https://arxiv.org/abs/2607.16074)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-07-17 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `SFT` · `VLA`  
-  Authors: Haoran Sun, Wentao Zhang, Junyang Hua, Hedan Yang, Yongjian Guo, Yifei Zhang, Xiaolong Xiang, Mingxi Luo, et al.
-
 - 🔎 **[Foresight Residual RL for Long-Horizon Robot Manipulation with Vision-Language-Action Models](https://arxiv.org/abs/2607.16506)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-17 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Long-horizon` · `VLA`  
   Authors: Yuhan Liu, Xinyu Zhang, Litao Liu, Abdeslam Boularias
 
-- 🔎 **[HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://arxiv.org/abs/2607.14548)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-07-16 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `SFT` · `Rejection Sampling` · `Long-horizon` · `Multimodal`  
-  Authors:  Hy Vision Team, Huawen Shen, Zhengyang Tang, Shangpin Peng, Liang Wu, Anran Zhang, Weinong Wang, Yiduo Guo, et al.
-
-- 🔎 **[CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking](https://arxiv.org/abs/2607.15004)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-07-16 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `SFT` · `Curriculum` · `VLA` · `Reasoning`  
-  Authors: Ruilong Ren, Songsheng Cheng, Yunpeng Zhou, Hanxuan Chen, Xiangyue Wang, Tianle Zeng, Shuai Yuan, Binbo Li, et al.
+- 🔎 **[JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models](https://arxiv.org/abs/2607.16074)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-17 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `SFT` · `VLA`  
+  Authors: Haoran Sun, Wentao Zhang, Junyang Hua, Hedan Yang, Yongjian Guo, Yifei Zhang, Xiaolong Xiang, Mingxi Luo, et al.
 
 - 🔎 **[Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://arxiv.org/abs/2607.15330)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-16 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `VLA` · `Robotics`  
   Authors:  Xiaomi Robotics Team, Jun Guo, Piaopiao Jin, Jason Li, Peiyan Li, Yingyan Li, Futeng Liu, Wanli Peng, et al.
 
+- 🔎 **[CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking](https://arxiv.org/abs/2607.15004)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-16 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `SFT` · `Curriculum` · `VLA` · `Reasoning`  
+  Authors: Ruilong Ren, Songsheng Cheng, Yunpeng Zhou, Hanxuan Chen, Xiangyue Wang, Tianle Zeng, Shuai Yuan, Binbo Li, et al.
+
 - 🔎 **[NavCMPO: Critic-Guided MeanFlow Policy Optimization for Adaptive Navigation](https://arxiv.org/abs/2607.14643)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-16 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `PPO`  
   Authors: Junjie An, Yi Wu, Xiao Liu, Yiqun Zhou, Yuechen Wu, Xiaoqing Guan, You Wang, Guang Li
 
-- 🔎 **[Joint On-and-Off Policy Learning for Vision-and-Language Navigation](https://arxiv.org/abs/2607.13461)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-07-15 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `RLVR` · `On-policy` · `Off-policy` · `VLM` · `Robotics` · `Reasoning`  
-  Authors: Qingrong He, Lin Zhao, Kevin Zheng, Liang Lin
+- 🔎 **[HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://arxiv.org/abs/2607.14548)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-16 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `SFT` · `Rejection Sampling` · `Long-horizon` · `Multimodal`  
+  Authors:  Hy Vision Team, Huawen Shen, Zhengyang Tang, Shangpin Peng, Liang Wu, Anran Zhang, Weinong Wang, Yiduo Guo, et al.
 
 - 🔎 **[S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2607.13926)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-15 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `VLM` · `VLA` · `Autonomous Driving` · `Reasoning`  
   Authors: Jianguo Yu, Rukang Wang, Duanfeng Chu, Chen Wang, Renju Feng, Liping Lu
 
+- 🔎 **[Joint On-and-Off Policy Learning for Vision-and-Language Navigation](https://arxiv.org/abs/2607.13461)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-15 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `RLVR` · `On-policy` · `Off-policy` · `VLM` · `Robotics` · `Reasoning`  
+  Authors: Qingrong He, Lin Zhao, Kevin Zheng, Liang Lin
+
 - 🔎 **[ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning](https://arxiv.org/abs/2607.12931)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-14 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `VLA` · `Robotics`  
   Authors: Yilun Kong, Yunpeng Qing, Guozheng Ma, Haoyu Wang, Li Shen, Zhi Hou, Dacheng Tao
 
-- 🔎 **[Learning More from Less: Reinforcement Learning from Hindsight](https://arxiv.org/abs/2607.09042)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-07-10 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `VLM` · `VLA`  
-  Authors: Iris Xu, Sunshine Jiang, John Marangola, Nitish Dashora, Richard Li, Thomas Liu, Zexue He, Yuheng Zhi, et al.
-
 - 🔎 **[PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers](https://arxiv.org/abs/2607.09590)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-10 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `VLA` · `Robotics`  
   Authors: Yujie Pang, Zudong Li
+
+- 🔎 **[Learning More from Less: Reinforcement Learning from Hindsight](https://arxiv.org/abs/2607.09042)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-10 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `VLM` · `VLA`  
+  Authors: Iris Xu, Sunshine Jiang, John Marangola, Nitish Dashora, Richard Li, Thomas Liu, Zexue He, Yuheng Zhi, et al.
 
 - 🔎 **[CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-09 · `academic-query-vote` · `arxiv-backfill`  
@@ -284,7 +284,7 @@ _No visible paper records in this cell yet._
 
 ### December
 
-> **Audit status:** ✓ Complete · scanned 61 academic records · 31 eligible · checked 2026-09-01T13:33:17.625421+00:00.
+> **Audit status:** ✓ Complete · scanned 61 academic records · 31 eligible · checked 2026-09-02T03:54:35.596596+00:00.
 
 - 🔎 **[Semi-Supervised Diversity-Aware Domain Adaptation for 3D Object detection](https://arxiv.org/abs/2512.24922)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -326,20 +326,20 @@ _No visible paper records in this cell yet._
   Labels: `VLA` · `Autonomous Driving` · `Reasoning`  
   Authors: Shuhan Tan, Kashyap Chitta, Yuxiao Chen, Ran Tian, Yurong You, Yan Wang, Wenjie Luo, Yulong Cao, et al.
 
-- 🔎 **[Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](https://arxiv.org/abs/2512.09706)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[Safe Learning for Contact-Rich Robot Tasks: A Survey from Classical Learning-Based Methods to Safe Foundation Models](https://arxiv.org/abs/2512.11908)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT` · `GRPO` · `Agent` · `Multi-turn` · `Long-horizon` · `Robotics` · `Reasoning`  
-  Authors: Kaichen He, Zihao Wang, Muyao Li, Anji Liu, Yitao Liang
+  Labels: `Multimodal` · `VLM` · `VLA` · `Robotics`  
+  Authors: Heng Zhang, Rui Dai, Gokhan Solak, Pokuang Zhou, Yu She, Arash Ajoudani
 
 - 🔎 **[Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge](https://arxiv.org/abs/2512.10071)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon`  
   Authors: Junjie Bai, Yu-Wei Chao, Qizhi Chen, Jinwei Gu, Moo Jin Kim, Zhaoshuo Li, Xuan Li, Tsung-Yi Lin, et al.
 
-- 🔎 **[Safe Learning for Contact-Rich Robot Tasks: A Survey from Classical Learning-Based Methods to Safe Foundation Models](https://arxiv.org/abs/2512.11908)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](https://arxiv.org/abs/2512.09706)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Multimodal` · `VLM` · `VLA` · `Robotics`  
-  Authors: Heng Zhang, Rui Dai, Gokhan Solak, Pokuang Zhou, Yu She, Arash Ajoudani
+  Labels: `SFT` · `GRPO` · `Agent` · `Multi-turn` · `Long-horizon` · `Robotics` · `Reasoning`  
+  Authors: Kaichen He, Zihao Wang, Muyao Li, Anji Liu, Yitao Liang
 
 - 🔎 **[An Introduction to Deep Reinforcement and Imitation Learning](https://arxiv.org/abs/2512.08052)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -356,25 +356,20 @@ _No visible paper records in this cell yet._
   Labels: `Multimodal` · `VLA` · `Autonomous Driving`  
   Authors: Mingwang Xu, Jiahao Cui, Feipeng Cai, Hanlin Shang, Zhihao Zhu, Shan Luan, Yifang Xu, Neng Zhang, et al.
 
-- 🔎 **[Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling](https://arxiv.org/abs/2512.05809)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-12-05 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Verifier` · `VLM` · `Reasoning`  
-  Authors: Saurav Jha, M. Jehanzeb Mirza, Wei Lin, Shiqi Yang, Sarath Chandar
-
 - 🔎 **[WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving](https://arxiv.org/abs/2512.06112)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-05 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Multimodal` · `Diffusion` · `VLA` · `Autonomous Driving`  
   Authors: Yifang Xu, Jiahao Cui, Feipeng Cai, Zhihao Zhu, Hanlin Shang, Shan Luan, Mingwang Xu, Neng Zhang, et al.
 
+- 🔎 **[Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling](https://arxiv.org/abs/2512.05809)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `VLM` · `Reasoning`  
+  Authors: Saurav Jha, M. Jehanzeb Mirza, Wei Lin, Shiqi Yang, Sarath Chandar
+
 - 🔎 **[SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Robotics` · `Reasoning`  
   Authors:  SIMA team, Adrian Bolton, Alexander Lerchner, Alexandra Cordell, Alexandre Moufarek, Andrew Bolt, Andrew Lampinen, Anna Mitenkova, et al.
-
-- 🔎 **[Multimodal Reinforcement Learning with Adaptive Verifier for AI Agents](https://arxiv.org/abs/2512.03438)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT` · `Verifier` · `Agent` · `Multimodal` · `Robotics` · `Reasoning` · `Hallucination`  
-  Authors: Reuben Tan, Baolin Peng, Zhengyuan Yang, Hao Cheng, Oier Mees, Theodore Zhao, Andrea Tupini, Isar Meijer, et al.
 
 - 🔎 **[RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL](https://arxiv.org/abs/2512.03556)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -386,26 +381,31 @@ _No visible paper records in this cell yet._
   Labels: `Counterfactual` · `SFT` · `Multimodal` · `Reasoning`  
   Authors: Wenliang Guo, Yu Kong
 
+- 🔎 **[Multimodal Reinforcement Learning with Adaptive Verifier for AI Agents](https://arxiv.org/abs/2512.03438)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Verifier` · `Agent` · `Multimodal` · `Robotics` · `Reasoning` · `Hallucination`  
+  Authors: Reuben Tan, Baolin Peng, Zhengyuan Yang, Hao Cheng, Oier Mees, Theodore Zhao, Andrea Tupini, Isar Meijer, et al.
+
 - 🔎 **[GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment](https://arxiv.org/abs/2512.01952)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `RLVR` · `GRPO`  
   Authors: Haoyang He, Jay Patrikar, Dong-Ki Kim, Max Smith, Daniel McGann, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei, Sebastian Scherer
-
-- 🔎 **[ViRectify: A Challenging Benchmark for Video Reasoning Correction with Multimodal Large Language Models](https://arxiv.org/abs/2512.01424)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Multimodal` · `Reasoning`  
-  Authors: Xusen Hei, Jiali Chen, Jinyu Yang, Mengchen Zhao, Yi Cai
 
 - 🔎 **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon` · `VLA` · `Robotics` · `Reasoning`  
   Authors: Yunfei Li, Xiao Ma, Jiafeng Xu, Yu Cui, Zhongren Cui, Zhigang Han, Liqun Huang, Tao Kong, et al.
 
+- 🔎 **[ViRectify: A Challenging Benchmark for Video Reasoning Correction with Multimodal Large Language Models](https://arxiv.org/abs/2512.01424)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Reasoning`  
+  Authors: Xusen Hei, Jiali Chen, Jinyu Yang, Mengchen Zhao, Yi Cai
+
 <a id="2025-11"></a>
 
 ### November
 
-> **Audit status:** ✓ Complete · scanned 64 academic records · 29 eligible · checked 2026-09-01T13:31:36.804538+00:00.
+> **Audit status:** ✓ Complete · scanned 64 academic records · 29 eligible · checked 2026-09-02T03:51:41.844269+00:00.
 
 - 🔎 **[MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents](https://arxiv.org/abs/2511.23055)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -482,21 +482,21 @@ _No visible paper records in this cell yet._
   Labels: `Multimodal` · `VLM` · `VLA` · `Robotics`  
   Authors: Shichao Fan, Kun Wu, Zhengping Che, Xinhua Wang, Di Wu, Fei Liao, Ning Liu, Yixue Zhang, et al.
 
-- 🔎 **[RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models](https://arxiv.org/abs/2511.01331)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Multimodal` · `VLA` · `Robotics`  
-  Authors: Hongyin Zhang, Shuo Zhang, Junxi Jin, Qixin Zeng, Runze Li, Donglin Wang
-
 - 🔎 **[EVLP:Learning Unified Embodied Vision-Language Planner with Reinforced Supervised Fine-Tuning](https://arxiv.org/abs/2511.05553)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Long-horizon` · `Multimodal` · `Reasoning`  
   Authors: Xinyan Cai, Shiguang Wu, Dafeng Chi, Yuzheng Zhuang, Xingyue Quan, Jianye Hao, Qiang Guan
 
+- 🔎 **[RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models](https://arxiv.org/abs/2511.01331)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLA` · `Robotics`  
+  Authors: Hongyin Zhang, Shuo Zhang, Junxi Jin, Qixin Zeng, Runze Li, Donglin Wang
+
 <a id="2025-10"></a>
 
 ### October
 
-> **Audit status:** ✓ Complete · scanned 56 academic records · 29 eligible · checked 2026-09-01T13:29:28.270829+00:00.
+> **Audit status:** ✓ Complete · scanned 56 academic records · 29 eligible · checked 2026-09-02T03:49:08.222820+00:00.
 
 - 🔎 **[Human-in-the-loop Online Rejection Sampling for Robotic Manipulation](https://arxiv.org/abs/2510.26406)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -528,11 +528,6 @@ _No visible paper records in this cell yet._
   Labels: `Long-horizon` · `VLA` · `Reasoning`  
   Authors: Xinyi Chen, Yilun Chen, Yanwei Fu, Ning Gao, Jiaya Jia, Weiyang Jin, Hao Li, Yao Mu, et al.
 
-- 🔎 **[IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation](https://arxiv.org/abs/2510.12095)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT` · `Multimodal` · `Robotics`  
-  Authors: Wenxu Zhou, Kaixuan Nie, Hang Du, Dong Yin, Wei Huang, Siqiang Guo, Xiaobo Zhang, Pengbo Hu
-
 - 🔎 **[Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Self-improvement` · `Curriculum` · `VLM` · `VLA` · `Reasoning`  
@@ -543,15 +538,20 @@ _No visible paper records in this cell yet._
   Labels: `VLM` · `Robotics` · `Reasoning`  
   Authors: Hanyang Chen, Mark Zhao, Rui Yang, Qinwei Ma, Ke Yang, Jiarui Yao, Kangrui Wang, Hao Bai, et al.
 
-- 🔎 **[RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model](https://arxiv.org/abs/2510.10975)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-10-13 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Reward Model` · `PRM` · `Verifier` · `VLA` · `Robotics`  
-  Authors: Mingtong Dai, Lingbo Liu, Yongjie Bai, Yang Liu, Zhouxia Wang, Rui SU, Chunjie Chen, Liang Lin, et al.
+- 🔎 **[IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation](https://arxiv.org/abs/2510.12095)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Multimodal` · `Robotics`  
+  Authors: Wenxu Zhou, Kaixuan Nie, Hang Du, Dong Yin, Wei Huang, Siqiang Guo, Xiaobo Zhang, Pengbo Hu
 
 - 🔎 **[Video-STR: Reinforcing MLLMs in Video Spatio-Temporal Reasoning with Relation Graph](https://arxiv.org/abs/2510.10976)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-13 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLVR` · `GRPO` · `Multimodal` · `Reasoning`  
   Authors: Wentao Wang, Heqing Zou, Tianze Luo, Rui Huang, Yutian Zhao, Zhuochen Wang, Hansheng Zhang, Chengwei Qin, et al.
+
+- 🔎 **[RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model](https://arxiv.org/abs/2510.10975)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reward Model` · `PRM` · `Verifier` · `VLA` · `Robotics`  
+  Authors: Mingtong Dai, Lingbo Liu, Yongjie Bai, Yang Liu, Zhouxia Wang, Rui SU, Chunjie Chen, Liang Lin, et al.
 
 - 🔎 **[Dejavu: Towards Experience Feedback Learning for Embodied Intelligence](https://arxiv.org/abs/2510.10181)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-11 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -573,15 +573,15 @@ _No visible paper records in this cell yet._
   Labels: `SFT` · `Long-horizon` · `VLA` · `Robotics` · `Reasoning`  
   Authors: Chen Li, Zhantao Yang, Han Zhang, Fangyi Chen, Chenchen Zhu, Anudeepsekhar Bolimera, Marios Savvides
 
-- 🔎 **[VLA-R1: Enhancing Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2510.01623)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT` · `RLVR` · `GRPO` · `VLA` · `Reasoning`  
-  Authors: Angen Ye, Zeyu Zhang, Boyuan Wang, Xiaofeng Wang, Dapeng Zhang, Zheng Zhu
-
 - 🔎 **[ARMADA: Autonomous Online Failure Detection and Human Shared Control Empower Scalable Real-world Deployment and Adaptation](https://arxiv.org/abs/2510.02298)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
   Authors: Wenye Yu, Jun Lv, Zixi Ying, Yang Jin, Chuan Wen, Cewu Lu
+
+- 🔎 **[VLA-R1: Enhancing Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2510.01623)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `RLVR` · `GRPO` · `VLA` · `Reasoning`  
+  Authors: Angen Ye, Zeyu Zhang, Boyuan Wang, Xiaofeng Wang, Dapeng Zhang, Zheng Zhu
 
 - 🔎 **[A Practitioner's Guide to Multi-turn Agentic Reinforcement Learning](https://arxiv.org/abs/2510.01132)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -597,7 +597,7 @@ _No visible paper records in this cell yet._
 
 ### September
 
-> **Audit status:** ✓ Complete · scanned 67 academic records · 37 eligible · checked 2026-09-01T13:03:57.588160+00:00.
+> **Audit status:** ✓ Complete · scanned 67 academic records · 37 eligible · checked 2026-09-02T03:44:27.744295+00:00.
 
 - 🔎 **[Can AI Perceive Physical Danger and Intervene?](https://arxiv.org/abs/2509.21651)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-25 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -614,11 +614,6 @@ _No visible paper records in this cell yet._
   Labels: `Long-horizon` · `Diffusion` · `VLA`  
   Authors: Rushuai Yang, Hangxing Wei, Ran Zhang, Zhiyuan Feng, Xiaoyu Chen, Tong Li, Chuheng Zhang, Li Zhao, et al.
 
-- 🔎 **[A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning](https://arxiv.org/abs/2509.15937)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-09-19 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Reward Model` · `PRM` · `VLA` · `Robotics` · `Reasoning`  
-  Authors: Shaopeng Zhai, Qi Zhang, Tianyi Zhang, Fuxian Huang, Haoran Zhang, Ming Zhou, Shengzhe Zhang, Litao Liu, et al.
-
 - 🔎 **[I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models](https://arxiv.org/abs/2509.16072)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-19 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLM` · `Robotics` · `Reasoning`  
@@ -629,35 +624,40 @@ _No visible paper records in this cell yet._
   Labels: `DPO` · `Preference Optimization` · `VLA` · `Autonomous Driving` · `Reasoning`  
   Authors: Shiyu Fang, Yiming Cui, Haoyang Liang, Chen Lv, Peng Hang, Jian Sun
 
-- 🔎 **[Self-Improving Embodied Foundation Models](https://arxiv.org/abs/2509.15155)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-09-18 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT` · `Self-improvement` · `Robotics`  
-  Authors: Seyed Kamyar Seyed Ghasemipour, Ayzaan Wahid, Jonathan Tompson, Pannag Sanketi, Igor Mordatch
-
-- 🔎 **[ExT: Towards Scalable Autonomous Excavation via Large-Scale Multi-Task Pretraining and Fine-Tuning](https://arxiv.org/abs/2509.14992)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-09-18 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT`  
-  Authors: Yifan Zhai, Lorenzo Terenzi, Patrick Frey, Diego Garcia Soto, Pascal Egli, Marco Hutter
+- 🔎 **[A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning](https://arxiv.org/abs/2509.15937)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reward Model` · `PRM` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Shaopeng Zhai, Qi Zhang, Tianyi Zhang, Fuxian Huang, Haoran Zhang, Ming Zhou, Shengzhe Zhang, Litao Liu, et al.
 
 - 🔎 **[Emulating Human-like Adaptive Vision for Efficient and Flexible Machine Visual Perception](https://arxiv.org/abs/2509.15333)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
-  Authors: Yulin Wang, Yang Yue, Yang Yue, Huanqian Wang, Haojun Jiang, Yizeng Han, Zanlin Ni, Yifan Pu, et al.
+  Authors: Yulin Wang, Yang Yue, Huanqian Wang, Haojun Jiang, Yizeng Han, Zanlin Ni, Yifan Pu, Minglei Shi, et al.
+
+- 🔎 **[Self-Improving Embodied Foundation Models](https://arxiv.org/abs/2509.15155)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Self-improvement` · `Robotics`  
+  Authors: Seyed Kamyar Seyed Ghasemipour, Ayzaan Wahid, Jonathan Tompson, Pannag Sanketi, Igor Mordatch
 
 - 🔎 **[Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn Dialogue](https://arxiv.org/abs/2509.15061)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multi-turn` · `VLM` · `Robotics`  
   Authors: Xingyao Lin, Xinghao Zhu, Tianyi Lu, Guojin Zhong, Sicheng Xie, Hui Zhang, Xipeng Qiu, Zuxuan Wu, et al.
 
-- 🔎 **[Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach](https://arxiv.org/abs/2509.13774)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-09-17 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT` · `Long-horizon` · `VLA` · `Robotics`  
-  Authors: Piaopiao Jin, Qi Wang, Guokang Sun, Ziwen Cai, Pinjia He, Yangwei You
+- 🔎 **[ExT: Towards Scalable Autonomous Excavation via Large-Scale Multi-Task Pretraining and Fine-Tuning](https://arxiv.org/abs/2509.14992)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT`  
+  Authors: Yifan Zhai, Lorenzo Terenzi, Patrick Frey, Diego Garcia Soto, Pascal Egli, Marco Hutter
 
 - 🔎 **[RLBind: Adversarial-Invariant Cross-Modal Alignment for Unified Robust Embeddings](https://arxiv.org/abs/2509.14383)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal`  
   Authors: Yuhong Lu
+
+- 🔎 **[Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach](https://arxiv.org/abs/2509.13774)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Long-horizon` · `VLA` · `Robotics`  
+  Authors: Piaopiao Jin, Qi Wang, Guokang Sun, Ziwen Cai, Pinjia He, Yangwei You
 
 - 🔎 **[Embodied Navigation Foundation Model](https://arxiv.org/abs/2509.12129)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -684,51 +684,51 @@ _No visible paper records in this cell yet._
   Labels: `SFT` · `Preference Optimization` · `VLM` · `Robotics` · `Reasoning` · `Hallucination`  
   Authors: Kechen Jiao, Zhirui Fang, Jiahao Liu, Bei Li, Qifan Wang, Xinyu Liu, Junhao Ruan, Zhongjian Qiao, et al.
 
-- 🔎 **[Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes](https://arxiv.org/abs/2509.06266)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-09-08 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Agent` · `VLM` · `Autonomous Driving` · `Reasoning`  
-  Authors: Mohsen Gholami, Ahmad Rezaei, Zhou Weimin, Sitong Mao, Shunbo Zhou, Yong Zhang, Mohammad Akbari
-
 - 🔎 **[Agentic DDQN-Based Scheduling for Licensed and Unlicensed Band Allocation in Sidelink Networks](https://arxiv.org/abs/2509.06775)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-08 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent` · `Robotics`  
   Authors: Po-Heng Chou, Pin-Qi Fu, Walid Saad, Li-Chun Wang
+
+- 🔎 **[Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes](https://arxiv.org/abs/2509.06266)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `VLM` · `Autonomous Driving` · `Reasoning`  
+  Authors: Mohsen Gholami, Ahmad Rezaei, Zhou Weimin, Sitong Mao, Shunbo Zhou, Yong Zhang, Mohammad Akbari
 
 - 🔎 **[Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents](https://arxiv.org/abs/2509.04731)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-05 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Curriculum` · `Long-horizon` · `Robotics`  
   Authors: Brennen Hill
 
-- 🔎 **[Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models](https://arxiv.org/abs/2509.04063)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum](https://arxiv.org/abs/2509.04633)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-04 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Diffusion` · `VLA` · `Robotics`  
-  Authors: Hongyin Zhang, Shiyuan Zhang, Junxi Jin, Qixin Zeng, Yifan Qiao, Hongchao Lu, Donglin Wang
+  Labels: `Curriculum` · `Multimodal` · `Robotics`  
+  Authors: Brennen Hill
 
 - 🔎 **[RL's Razor: Why Online Reinforcement Learning Forgets Less](https://arxiv.org/abs/2509.04259)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `On-policy` · `Robotics`  
   Authors: Idan Shenfeld, Jyothish Pari, Pulkit Agrawal
 
-- 🔎 **[The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum](https://arxiv.org/abs/2509.04633)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models](https://arxiv.org/abs/2509.04063)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-04 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Curriculum` · `Multimodal` · `Robotics`  
-  Authors: Brennen Hill
-
-- 🔎 **[AutoDrive-R$^2$: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-09-02 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT` · `GRPO` · `Multimodal` · `VLA` · `Autonomous Driving` · `Reasoning`  
-  Authors: Zhenlong Yuan, Chengxuan Qian, Jing Tang, Rui Chen, Zijian Song, Lei Sun, Xiangxiang Chu, Yujun Cai, et al.
+  Labels: `Diffusion` · `VLA` · `Robotics`  
+  Authors: Hongyin Zhang, Shiyuan Zhang, Junxi Jin, Qixin Zeng, Yifan Qiao, Hongchao Lu, Donglin Wang
 
 - 🔎 **[Do LLM Modules Generalize? A Study on Motion Generation for Autonomous Driving](https://arxiv.org/abs/2509.02754)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Autonomous Driving`  
   Authors: Mingyi Wang, Jingke Wang, Tengju Ye, Junbo Chen, Kaicheng Yu
 
+- 🔎 **[AutoDrive-R$^2$: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `GRPO` · `Multimodal` · `VLA` · `Autonomous Driving` · `Reasoning`  
+  Authors: Zhenlong Yuan, Chengxuan Qian, Jing Tang, Rui Chen, Zijian Song, Lei Sun, Xiangxiang Chu, Yujun Cai, et al.
+
 <a id="2025-08"></a>
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 23 academic records · 14 eligible · checked 2026-09-01T13:02:20.739208+00:00.
+> **Audit status:** ✓ Complete · scanned 23 academic records · 14 eligible · checked 2026-09-02T03:41:23.272442+00:00.
 
 - 🔎 **[Galaxea Open-World Dataset and G0 Dual-System VLA Model](https://arxiv.org/abs/2509.00576)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -769,7 +769,7 @@ _No visible paper records in this cell yet._
 
 ### July
 
-> **Audit status:** ✓ Complete · scanned 31 academic records · 16 eligible · checked 2026-09-01T13:00:33.731877+00:00.
+> **Audit status:** ✓ Complete · scanned 31 academic records · 16 eligible · checked 2026-09-02T03:39:10.454597+00:00.
 
 - 🔎 **[Assistax: A Multi-Agent Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics](https://arxiv.org/abs/2507.21638)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-29 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -805,7 +805,7 @@ _No visible paper records in this cell yet._
 
 ### June
 
-> **Audit status:** ✓ Complete · scanned 49 academic records · 26 eligible · checked 2026-09-01T12:58:49.947816+00:00.
+> **Audit status:** ✓ Complete · scanned 49 academic records · 26 eligible · checked 2026-09-02T03:35:51.039677+00:00.
 
 - 🔎 **[Unified Vision-Language-Action Model](https://arxiv.org/abs/2506.19850)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -827,11 +827,6 @@ _No visible paper records in this cell yet._
   Labels: `GRPO` · `Reward Model` · `Multimodal` · `Reasoning`  
   Authors: Yuhang Chen, Zhen Tan, Tianlong Chen
 
-- 🔎 **[V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-06-11 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Robotics`  
-  Authors: Mido Assran, Adrien Bardes, David Fan, Quentin Garrido, Russell Howes,  Mojtaba,  Komeili, Matthew Muckley, et al.
-
 - 🔎 **[A Navigation Framework Utilizing Vision-Language Models](https://arxiv.org/abs/2506.10172)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-11 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `VLM`  
@@ -842,30 +837,35 @@ _No visible paper records in this cell yet._
   Labels: `VLM` · `Robotics` · `Reasoning`  
   Authors: Christos Ziakas, Alessandra Russo
 
-- 🔎 **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](https://arxiv.org/abs/2506.09049)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-06-10 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `VLM` · `Robotics` · `Reasoning`  
-  Authors: Li Kang, Xiufeng Song, Heng Zhou, Yiran Qin, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai, et al.
+- 🔎 **[V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Mido Assran, Adrien Bardes, David Fan, Quentin Garrido, Russell Howes,  Mojtaba,  Komeili, Matthew Muckley, et al.
 
 - 🔎 **[VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks](https://arxiv.org/abs/2506.09079)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
   Authors: Xinlong Chen, Yuanxing Zhang, Yushuo Guan, Weihong Lin, Zekun Wang, Bohan Zeng, Yang Shi, Sihan Yang, et al.
 
+- 🔎 **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](https://arxiv.org/abs/2506.09049)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Robotics` · `Reasoning`  
+  Authors: Li Kang, Xiufeng Song, Heng Zhou, Yiran Qin, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai, et al.
+
 - 🔎 **[OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization](https://arxiv.org/abs/2506.07570)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization` · `Synthetic Data` · `Multi-turn`  
   Authors: Yixuan Yang, Zhen Luo, Tongsheng Ding, Junru Lu, Mingqi Gao, Jinyu Yang, Victor Sanchez, Feng Zheng
 
-- 🔎 **[Human-assisted Robotic Policy Refinement via Action Preference Optimization](https://arxiv.org/abs/2506.07127)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Preference Optimization` · `VLA` · `Robotics`  
-  Authors: Wenke Xia, Yichu Yang, Hongtao Wu, Xiao Ma, Tao Kong, Di Hu
-
 - 🔎 **[Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks](https://arxiv.org/abs/2506.07188)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Autonomous Driving`  
   Authors: Ni Ding, Shuchang Wang, Lei He, Shengbo Eben Li, Keqiang Li
+
+- 🔎 **[Human-assisted Robotic Policy Refinement via Action Preference Optimization](https://arxiv.org/abs/2506.07127)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Preference Optimization` · `VLA` · `Robotics`  
+  Authors: Wenke Xia, Yichu Yang, Hongtao Wu, Xiao Ma, Tao Kong, Di Hu
 
 - 🔎 **[RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-04 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -877,21 +877,21 @@ _No visible paper records in this cell yet._
   Labels: `SFT` · `GRPO` · `VLM` · `Reasoning`  
   Authors: Ashwin Vinod, Shrey Pandit, Aditya Vavre, Linshen Liu
 
-- 🔎 **[ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding](https://arxiv.org/abs/2506.01300)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `SFT` · `DPO` · `Preference Optimization` · `GRPO` · `Reward Model` · `Agent` · `VLM` · `VLA` · `Robotics` · `Reasoning`  
-  Authors: Yiyang Zhou, Yangfan He, Yaofeng Su, Siwei Han, Joel Jang, Gedas Bertasius, Mohit Bansal, Huaxiu Yao
-
 - 🔎 **[EvolveNav: Empowering LLM-Based Vision-Language Navigation via Self-Improving Embodied Reasoning](https://arxiv.org/abs/2506.01551)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Self-improvement` · `Reasoning`  
   Authors: Bingqian Lin, Yunshuang Nie, Khun Loun Zai, Ziming Wei, Mingfei Han, Rongtao Xu, Minzhe Niu, Jianhua Han, et al.
 
+- 🔎 **[ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding](https://arxiv.org/abs/2506.01300)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `GRPO` · `Reward Model` · `Agent` · `VLM` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Yiyang Zhou, Yangfan He, Yaofeng Su, Siwei Han, Joel Jang, Gedas Bertasius, Mohit Bansal, Huaxiu Yao
+
 <a id="2025-05"></a>
 
 ### May
 
-> **Audit status:** ✓ Complete · scanned 46 academic records · 28 eligible · checked 2026-09-01T12:56:38.684503+00:00.
+> **Audit status:** ✓ Complete · scanned 46 academic records · 28 eligible · checked 2026-09-02T03:33:18.848105+00:00.
 
 - 🔎 **[Intrinsic Goals for Autonomous Agents: Model-Based Exploration in Virtual Zebrafish Predicts Ethological Behavior and Whole-Brain Dynamics](https://arxiv.org/abs/2506.00138)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -908,11 +908,6 @@ _No visible paper records in this cell yet._
   Labels: pending  
   Authors: Sabrina Patania, Luca Annese, Cansu Koyuturk, Azzurra Ruggeri, Dimitri Ognibene
 
-- 🔎 **[ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models](https://arxiv.org/abs/2505.16517)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-05-22 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `RLVR` · `VLM` · `Robotics` · `Reasoning`  
-  Authors: Zirui Song, Guangxian Ouyang, Mingzhe Li, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, et al.
-
 - 🔎 **[Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/abs/2505.17016)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-22 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `VLA`  
@@ -923,20 +918,25 @@ _No visible paper records in this cell yet._
   Labels: `Multimodal` · `VLA` · `Robotics`  
   Authors: Xueyang Zhou, Guiyao Tie, Guowen Zhang, Hechang Wang, Pan Zhou, Lichao Sun
 
+- 🔎 **[ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models](https://arxiv.org/abs/2505.16517)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `VLM` · `Robotics` · `Reasoning`  
+  Authors: Zirui Song, Guangxian Ouyang, Mingzhe Li, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, et al.
+
 - 🔎 **[EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy](https://arxiv.org/abs/2505.15206)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-21 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `VLA` · `Robotics`  
   Authors: Chi Kit Ng, Long Bai, Guankun Wang, Yupeng Wang, Huxin Gao, Kun Yuan, Chenhan Jin, Tieyong Zeng, et al.
 
-- 🔎 **[RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `RLVR` · `Web Agent` · `Reasoning`  
-  Authors: Jialong Wu, Shaofeng Yin, Ningya Feng, Mingsheng Long
-
 - 🔎 **[Towards Omnidirectional Reasoning with 360-R1: A Dataset, Benchmark, and GRPO-based Method](https://arxiv.org/abs/2505.14197)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Multimodal` · `Reasoning` · `Hallucination`  
   Authors: Xinshen Zhang, Zhen Ye, Xu Zheng
+
+- 🔎 **[RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `RLVR` · `Web Agent` · `Reasoning`  
+  Authors: Jialong Wu, Shaofeng Yin, Ningya Feng, Mingsheng Long
 
 - 🔎 **[Reachability Barrier Networks: Learning Hamilton-Jacobi Solutions for Smooth and Flexible Control Barrier Functions](https://arxiv.org/abs/2505.11755)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-16 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -978,15 +978,15 @@ _No visible paper records in this cell yet._
   Labels: `Self-play` · `Long-horizon`  
   Authors: Ruize Zhang, Sirui Xiang, Zelai Xu, Feng Gao, Shilong Ji, Wenhao Tang, Wenbo Ding, Chao Yu, et al.
 
-- 🔎 **[GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](https://arxiv.org/abs/2505.03233)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-05-06 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Synthetic Data` · `VLA` · `Robotics` · `Reasoning`  
-  Authors: Shengliang Deng, Mi Yan, Songlin Wei, Haixin Ma, Yuxin Yang, Jiayi Chen, Zhiqi Zhang, Taoyu Yang, et al.
-
 - 🔎 **[RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning](https://arxiv.org/abs/2505.03238)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-06 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `SFT` · `Robotics` · `Autonomous Driving` · `Reasoning` · `Math`  
   Authors: Liam Boyle, Nicolas Baumann, Paviththiren Sivasothilingam, Michele Magno, Luca Benini
+
+- 🔎 **[GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](https://arxiv.org/abs/2505.03233)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Shengliang Deng, Mi Yan, Songlin Wei, Haixin Ma, Yuxin Yang, Jiayi Chen, Zhiqi Zhang, Taoyu Yang, et al.
 
 - 🔎 **[Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning](https://arxiv.org/abs/2505.02228)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-04 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1002,7 +1002,7 @@ _No visible paper records in this cell yet._
 
 ### April
 
-> **Audit status:** ✓ Complete · scanned 20 academic records · 9 eligible · checked 2026-09-01T12:54:26.418104+00:00.
+> **Audit status:** ✓ Complete · scanned 20 academic records · 9 eligible · checked 2026-09-02T03:30:05.130551+00:00.
 
 - 🔎 **[Preference-Driven Active 3D Scene Representation for Robotic Inspection in Nuclear Decommissioning](https://arxiv.org/abs/2504.02161)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-02 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1013,7 +1013,7 @@ _No visible paper records in this cell yet._
 
 ### March
 
-> **Audit status:** ✓ Complete · scanned 33 academic records · 19 eligible · checked 2026-09-01T12:53:12.649269+00:00.
+> **Audit status:** ✓ Complete · scanned 33 academic records · 19 eligible · checked 2026-09-02T03:28:13.934909+00:00.
 
 - 🔎 **[Can Test-Time Scaling Improve World Foundation Model?](https://arxiv.org/abs/2503.24320)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1074,7 +1074,7 @@ _No visible paper records in this cell yet._
 
 ### February
 
-> **Audit status:** ✓ Complete · scanned 24 academic records · 12 eligible · checked 2026-09-01T12:51:43.224030+00:00.
+> **Audit status:** ✓ Complete · scanned 24 academic records · 12 eligible · checked 2026-09-02T03:26:19.941802+00:00.
 
 - 🔎 **[Generative Models in Decision Making: A Survey](https://arxiv.org/abs/2502.17100)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1095,7 +1095,7 @@ _No visible paper records in this cell yet._
 
 ### January
 
-> **Audit status:** ✓ Complete · scanned 13 academic records · 4 eligible · checked 2026-09-01T12:50:58.209819+00:00.
+> **Audit status:** ✓ Complete · scanned 13 academic records · 4 eligible · checked 2026-09-02T03:24:17.603354+00:00.
 
 - 🔎 **[Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination](https://arxiv.org/abs/2501.06058)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-10 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1110,39 +1110,91 @@ _No visible paper records in this cell yet._
 
 ### December
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 21 academic records · 11 eligible · checked 2026-09-02T03:43:31.698702+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution](https://arxiv.org/abs/2412.13492)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Changxin Huang, Yanbin Chang, Junfan Lin, Junyang Liang, Runhao Zeng, Jianqiang Li
+
+- 🔎 **[RWKV-edge: Deeply Compressed RWKV for Resource-Constrained Devices](https://arxiv.org/abs/2412.10856)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Wonkyo Choe, Yangfeng Ji, Felix Xiaozhu Lin
+
+- 🔎 **[SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World](https://arxiv.org/abs/2412.07472)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics` · `Reasoning`  
+  Authors: Jiaqi Zhang, Chen Gao, Liyuan Zhang, Yong Li, Hongzhi Yin
+
+- 🔎 **[Policy Agnostic RL: Offline RL and Online RL Fine-Tuning of Any Class and Backbone](https://arxiv.org/abs/2412.06685)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Max Sobol Mark, Tian Gao, Georgia Gabriela Sampaio, Mohan Kumar Srirama, Archit Sharma, Chelsea Finn, Aviral Kumar
+
+- 🔎 **[Streaming Detection of Queried Event Start](https://arxiv.org/abs/2412.03567)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics` · `Autonomous Driving`  
+  Authors: Cristobal Eyzaguirre, Eric Tang, Shyamal Buch, Adrien Gaidon, Jiajun Wu, Juan Carlos Niebles
 
 <a id="2024-11"></a>
 
 ### November
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 11 academic records · 3 eligible · checked 2026-09-02T03:41:41.070546+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble](https://arxiv.org/abs/2411.17135)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Yujeong Lee, Sangwoo Shin, Wei-Jin Park, Honguk Woo
+
+- 🔎 **[Neuromorphic Attitude Estimation and Control](https://arxiv.org/abs/2411.13945)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Stein Stroobants, Christophe de Wagter, Guido C. H. E. De Croon
 
 <a id="2024-10"></a>
 
 ### October
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 26 academic records · 7 eligible · checked 2026-09-02T03:40:26.682660+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Neural Attention Field: Emerging Point Relevance in 3D Scenes for One-Shot Dexterous Grasping](https://arxiv.org/abs/2410.23039)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation`  
+  Authors: Qianxu Wang, Congyue Deng, Tyler Ga Wei Lum, Yuanpei Chen, Yaodong Yang, Jeannette Bohg, Yixin Zhu, Leonidas Guibas
+
+- 🔎 **[The Duality of Generative AI and Reinforcement Learning in Robotics: A Review](https://arxiv.org/abs/2410.16411)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Agent` · `Multimodal` · `VLA` · `Robotics`  
+  Authors: Angelo Moroncelli, Vishal Soni, Marco Forgione, Dario Piga, Blerina Spahiu, Loris Roveda
 
 <a id="2024-09"></a>
 
 ### September
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 18 academic records · 5 eligible · checked 2026-09-02T03:37:47.329240+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards](https://arxiv.org/abs/2409.15922)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics`  
+  Authors: Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn
+
+- 🔎 **[TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLA` · `Robotics`  
+  Authors: Junjie Wen, Yichen Zhu, Jinming Li, Minjie Zhu, Kun Wu, Zhiyuan Xu, Ning Liu, Ran Cheng, et al.
+
+- 🔎 **[Reward Guidance for Reinforcement Learning Tasks Based on Large Language Models: The LMGT Framework](https://arxiv.org/abs/2409.04744)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Yongxin Deng, Xihe Qiu, Jue Chen, Xiaoyu Tan
 
 <a id="2024-08"></a>
 
 ### August
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 8 academic records · 2 eligible · checked 2026-09-02T03:35:54.917992+00:00.
 
 _No visible paper records in this cell yet._
 
@@ -1150,39 +1202,71 @@ _No visible paper records in this cell yet._
 
 ### July
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 11 academic records · 5 eligible · checked 2026-09-02T03:34:50.861760+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://arxiv.org/abs/2407.08065)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Isaac Sheidlower, Reuben Aronson, Elaine Schaertl Short
+
+- 🔎 **[DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection](https://arxiv.org/abs/2407.02098)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics` · `Autonomous Driving`  
+  Authors: Kaixin Xu, Qingtian Feng, Hao Chen, Zhe Wang, Xue Geng, Xulei Yang, Min Wu, Xiaoli Li, et al.
 
 <a id="2024-06"></a>
 
 ### June
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 18 academic records · 12 eligible · checked 2026-09-02T03:33:09.466914+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Reinforcement Learning via Auxiliary Task Distillation](https://arxiv.org/abs/2406.17168)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Curriculum` · `Long-horizon`  
+  Authors: Abhinav Narayan Harish, Larry Heck, Josiah P. Hanna, Zsolt Kira, Andrew Szot
+
+- 🔎 **[MEReQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention](https://arxiv.org/abs/2406.16258)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent`  
+  Authors: Yuxin Chen, Chen Tang, Jianglan Wei, Chenran Li, Ran Tian, Xiang Zhang, Wei Zhan, Peter Stone, et al.
+
+- 🔎 **[Memory Sequence Length of Data Sampling Impacts the Adaptation of Meta-Reinforcement Learning Agents](https://arxiv.org/abs/2406.12359)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `On-policy` · `Off-policy` · `Robotics`  
+  Authors: Menglong Zhang, Fuyuan Qian, Quanying Liu
+
+- 🔎 **[Optimal Gait Control for a Tendon-driven Soft Quadruped Robot by Model-based Reinforcement Learning](https://arxiv.org/abs/2406.07069)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Xuezhi Niu, Kaige Tan, Lei Feng
 
 <a id="2024-05"></a>
 
 ### May
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 10 academic records · 2 eligible · checked 2026-09-02T03:31:18.921226+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence](https://arxiv.org/abs/2405.17424)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Robotics`  
+  Authors: Zhuoling Li, Xiaogang Xu, Zhenhua Xu, SerNam Lim, Hengshuang Zhao
 
 <a id="2024-04"></a>
 
 ### April
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 8 academic records · 4 eligible · checked 2026-09-02T03:29:13.829989+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Vision-Language Model-based Physical Reasoning for Robot Liquid Perception](https://arxiv.org/abs/2404.06904)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics` · `Reasoning`  
+  Authors: Wenqiang Lai, Yuan Gao, Tin Lun Lam
 
 <a id="2024-03"></a>
 
 ### March
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 7 academic records · 3 eligible · checked 2026-09-02T03:27:39.261440+00:00.
 
 _No visible paper records in this cell yet._
 
@@ -1190,15 +1274,23 @@ _No visible paper records in this cell yet._
 
 ### February
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 10 academic records · 6 eligible · checked 2026-09-02T03:25:46.450318+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Learning an Actionable Discrete Diffusion Policy via Large-Scale Actionless Video Pre-Training](https://arxiv.org/abs/2402.14407)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Robotics`  
+  Authors: Haoran He, Chenjia Bai, Ling Pan, Weinan Zhang, Bin Zhao, Xuelong Li
+
+- 🔎 **[A survey on robustness in trajectory prediction for autonomous vehicles](https://arxiv.org/abs/2402.01397)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Autonomous Driving`  
+  Authors: Jeroen Hagenus, Frederik Baymler Mathiesen, Julian F. Schumann, Arkady Zgonnikov
 
 <a id="2024-01"></a>
 
 ### January
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 4 academic records · 0 eligible · checked 2026-09-02T03:23:41.339541+00:00.
 
 _No visible paper records in this cell yet._
 
