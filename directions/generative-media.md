@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**121 papers**: 2 curated and 119 academic discovery candidates.
+**255 papers**: 2 curated and 253 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -13,8 +13,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
 - [2026](#2026) — [Aug](#2026-08) ✓33 · [Jul](#2026-07) ⏳ · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
-- [2025](#2025) — [Dec](#2025-12) ◐9 · [Nov](#2025-11) ◐11 · [Oct](#2025-10) ◐11 · [Sep](#2025-09) ◐5 · [Aug](#2025-08) ◐7 · [Jul](#2025-07) ◐5 · [Jun](#2025-06) ◐6 · [May](#2025-05) ◐8 · [Apr](#2025-04) ◐1 · [Mar](#2025-03) ◐3 · [Feb](#2025-02) ◐18 · [Jan](#2025-01) ✓2
-- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ⏳
+- [2025](#2025) — [Dec](#2025-12) ✓17 · [Nov](#2025-11) ✓19 · [Oct](#2025-10) ✓26 · [Sep](#2025-09) ✓17 · [Aug](#2025-08) ✓12 · [Jul](#2025-07) ✓9 · [Jun](#2025-06) ✓15 · [May](#2025-05) ✓18 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓2
+- [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓9 · [Sep](#2024-09) ✓4 · [Aug](#2024-08) ✓3 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓3 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓4 · [Feb](#2024-02) ✓8 · [Jan](#2024-01) ✓2
 - [2023](#2023) — [Nov](#2023-11) ◐1 · [May](#2023-05) ◐1
 
 <a id="2026"></a>
@@ -57,30 +57,30 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Reward Model` · `VLM` · `Video Generation`  
   Authors: Longteng Jiang, DanDan Zheng, Qianqian Qiao, Heng Huang, Huaye Wang, Yihang Bo, Bao Peng, Jingdong Chen, et al.
 
-- 🔎 **[FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `DPO` · `Preference Optimization`  
-  Authors: Khiem Vuong, Deva Ramanan, Srinivasa Narasimhan
-
 - 🔎 **[Scaling Reinforcement Learning for Diffusion Models via Velocity Matching](https://arxiv.org/abs/2608.23664)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Diffusion` · `Video Generation`  
   Authors: Jaemoo Choi, Wei Guo, Yuchen Zhu, Arash Vahdat, Molei Tao, Julius Berner, Yongxin Chen
+
+- 🔎 **[FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `DPO` · `Preference Optimization`  
+  Authors: Khiem Vuong, Deva Ramanan, Srinivasa Narasimhan
 
 - 🔎 **[ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control](https://arxiv.org/abs/2608.19804)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
   Authors: Xu Yang, Kailai Sun, Dianyu Zhong, Qianchuan Zhao
 
-- 🔎 **[Spatially-Grounded Flow Matching: Structured Source Distributions for Image Generation](https://arxiv.org/abs/2608.15452)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-16 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `Diffusion` · `Image Generation`  
-  Authors: Arman Zarei, Mahdi M. Kalayeh
-
 - 🔎 **[Aligning Human Sense: Calibrated Distributional Reward Learning for Video Generation](https://arxiv.org/abs/2608.21425)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-16 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `GRPO` · `Reward Model` · `Video Generation`  
   Authors: Nai-Xin Zhai, Weihua Cheng, Dexu Yu, Yikai Gu, Hanwen Du, Junchen Fu, Chenxi Huang, Yingwei Song, et al.
+
+- 🔎 **[Spatially-Grounded Flow Matching: Structured Source Distributions for Image Generation](https://arxiv.org/abs/2608.15452)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-16 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Arman Zarei, Mahdi M. Kalayeh
 
 - 🔎 **[FMReward: Aligning and Evaluating Audio-Driven 3D Facial Animation with Human Preferences](https://arxiv.org/abs/2608.15296)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-15 · `academic-query-vote` · `arxiv-backfill`  
@@ -97,20 +97,20 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Multimodal` · `Reasoning`  
   Authors: Yicheng Bao, Xiahui Guo, Xuhong Wang, Xin Tan
 
-- 🔎 **[HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion](https://arxiv.org/abs/2608.11913)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2608.12308)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `DPO` · `Preference Optimization` · `RLHF`  
-  Authors: Wenshuo Peng, Kaipeng Zhang
+  Labels: `VLA` · `Robotics` · `Reasoning`  
+  Authors: Yan Deng, Fei Xu
 
 - 🔎 **[Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence](https://arxiv.org/abs/2608.12290)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement` · `Agent` · `Multimodal` · `Video Generation`  
   Authors: Aman Tyagi, Hemanth Boinpally, Jonathan Chen, Douglas Gebert, Steven Hickson
 
-- 🔎 **[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2608.12308)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion](https://arxiv.org/abs/2608.11913)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `VLA` · `Robotics` · `Reasoning`  
-  Authors: Yan Deng, Fei Xu
+  Labels: `DPO` · `Preference Optimization` · `RLHF`  
+  Authors: Wenshuo Peng, Kaipeng Zhang
 
 - 🔎 **[AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss](https://arxiv.org/abs/2608.11205)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `academic-query-vote` · `arxiv-backfill`  
@@ -127,15 +127,15 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Long-horizon` · `Multimodal` · `VLA` · `Reasoning`  
   Authors: Huosen Ou, Dongni Song, Yuncong Wang, Tao Zhou, Yiding Ji
 
-- 🔎 **[DreOPD: Degraded-Reference Extrapolative On-Policy Distillation for Flow-matching Models](https://arxiv.org/abs/2608.09233)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-10 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `OPD` · `Distillation` · `On-policy` · `Image Generation`  
-  Authors: Mingfeng Lin, Chengfei Cai, Lin Xu, Yuxiang Wei, Liang Han
-
 - 🔎 **[Reducing Pretraining-Generation Mismatch in Diffusion Language Models](https://arxiv.org/abs/2608.09424)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-10 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Verifier` · `Diffusion`  
   Authors: Xiaocheng Lu, Huabin Liu, Song Guo, Jianguo Li
+
+- 🔎 **[DreOPD: Degraded-Reference Extrapolative On-Policy Distillation for Flow-matching Models](https://arxiv.org/abs/2608.09233)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Image Generation`  
+  Authors: Mingfeng Lin, Chengfei Cai, Lin Xu, Yuxiang Wei, Liang Han
 
 - 🔎 **[CodecArena: Codec Quality Assessment via Visual Reinforcement Learning](https://arxiv.org/abs/2608.09139)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-10 · `academic-query-vote` · `arxiv-backfill`  
@@ -157,35 +157,35 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Preference Optimization` · `Diffusion`  
   Authors: Renye Yan, Jikang Cheng, You Wu, Wei Peng, Zongwei Wang, Ling Liang, Yimao Cai
 
+- 🔎 **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Jinha Kim, Younghun Roh, Jaeyeon Kim
+
 - 🔎 **[Sample-Adaptive Latent Rewards for Uncertainty-Guided Diffusion Post-Training](https://arxiv.org/abs/2608.06125)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Reward Model` · `Diffusion`  
   Authors: Rui Li, Yuanzhi Liang, Ke Hao, Ziqiao Weng, Haibin Huang, Chi Zhang, XueLong Li
-
-- 🔎 **[Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming](https://arxiv.org/abs/2608.05663)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `Distillation` · `Long-horizon` · `Video Generation`  
-  Authors: Menglin Han, Yang Ding, Yulei Lu, Haoran Yu, Xin Ma, Junyi Chen, Zhangkai Ni, Lin Ma, et al.
 
 - 🔎 **[Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models](https://arxiv.org/abs/2608.05903)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Video Generation`  
   Authors: Haodong Yan, Junfeng Li, Junjie He, Zhide Zhong, MingMing Yu, Wenxuan Song, Jiaguan Zhu, Yangyang Zheng, et al.
 
-- 🔎 **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Diffusion`  
-  Authors: Jinha Kim, Younghun Roh, Jaeyeon Kim
-
-- 🔎 **[ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://arxiv.org/abs/2608.04436)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
-  Labels: `SFT` · `GRPO` · `Agent` · `Tool Use` · `Multimodal` · `Image Generation` · `Reasoning`  
-  Authors: Jiahao Zhao, Xiaomin Yu, Zhongxiang Sun, Fengwei Teng, Chengwei Qin, Xiaobin Hu, Jun Xu, Shuicheng Yan
+- 🔎 **[Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming](https://arxiv.org/abs/2608.05663)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `Distillation` · `Long-horizon` · `Video Generation`  
+  Authors: Menglin Han, Yang Ding, Yulei Lu, Haoran Yu, Xin Ma, Junyi Chen, Zhangkai Ni, Lin Ma, et al.
 
 - 🔎 **[STEP-OPD: Rethinking Output Targets and Internal Dynamics in On-Policy Distillation for Diffusion Models](https://arxiv.org/abs/2608.04887)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Diffusion` · `Image Generation`  
   Authors: Qingyan Wei, Guangzhao Li, Xiaobing Tu, Yinggui Wang, Xiantao Zhang, Jinkui Ren, Xiaohong Liu, Linfeng Zhang
+
+- 🔎 **[ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://arxiv.org/abs/2608.04436)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
+  Labels: `SFT` · `GRPO` · `Agent` · `Tool Use` · `Multimodal` · `Image Generation` · `Reasoning`  
+  Authors: Jiahao Zhao, Xiaomin Yu, Zhongxiang Sun, Fengwei Teng, Chengwei Qin, Xiaobin Hu, Jun Xu, Shuicheng Yan
 
 - 🔎 **[GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model](https://arxiv.org/abs/2608.03215)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -256,7 +256,7 @@ _No visible paper records in this cell yet._
 
 ### December
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 24 eligible · checked 2026-09-01T13:33:13.370252+00:00.
+> **Audit status:** ✓ Complete · scanned 270 academic records · 59 eligible · checked 2026-09-02T03:54:23.575409+00:00.
 
 - 🔎 **[Dichotomous Diffusion Policy Optimization](https://arxiv.org/abs/2601.00898)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -303,11 +303,51 @@ _No visible paper records in this cell yet._
   Labels: `Distillation` · `VLM` · `Diffusion` · `Reasoning`  
   Authors: Kyle Sargent, Ruiqi Gao, Philipp Henzler, Charles Herrmann, Aleksander Holynski, Li Fei-Fei, Jiajun Wu, Jason Zhang
 
+- 🔎 **[Adaptive Partitioning and Learning for Stochastic Control of Diffusion Processes](https://arxiv.org/abs/2512.14991)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Hanqing Jin, Renyuan Xu, Yanzhao Yang
+
+- 🔎 **[Push Smarter, Not Harder: Hierarchical RL-Diffusion Policy for Efficient Nonprehensile Manipulation](https://arxiv.org/abs/2512.10099)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Diffusion`  
+  Authors: Steven Caro, Stephen L. Smith
+
+- 🔎 **[Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search](https://arxiv.org/abs/2512.09566)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Junkai Ji, Zhangfan Yang, Dong Xu, Ruibin Bai, Jianqiang Li, Tingjun Hou, Zexuan Zhu
+
+- 🔎 **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Metod Jazbec, Theo X. Olausson, Louis Béthune, Pierre Ablin, Michael Kirchhof, João Monteiro, Victor Turrisi, Jason Ramapuram, et al.
+
+- 🔎 **[YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance](https://arxiv.org/abs/2512.04779)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO`  
+  Authors: Junjie Zheng, Chunbo Hao, Guobin Ma, Xiaoyu Zhang, Gongyu Chen, Chaofan Ding, Zihao Chen, Lei Xie
+
+- 🔎 **[Data-regularized Reinforcement Learning for Diffusion Models at Scale](https://arxiv.org/abs/2512.04332)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Off-policy` · `Diffusion` · `Video Generation`  
+  Authors: Haotian Ye, Kaiwen Zheng, Jiashu Xu, Puheng Li, Huayu Chen, Jiaqi Han, Sheng Liu, Qinsheng Zhang, et al.
+
+- 🔎 **[AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning](https://arxiv.org/abs/2512.02535)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Diffusion`  
+  Authors: Jeric Lew, Yuhong Cao, Derek Ming Siang Tan, Guillaume Sartoretti
+
+- 🔎 **[PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards](https://arxiv.org/abs/2512.01236)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Image Generation`  
+  Authors: Shulei Wang, Longhui Wei, Xin He, Jianbo Ouyang, Hui Lu, Zhou Zhao, Qi Tian
+
 <a id="2025-11"></a>
 
 ### November
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 30 eligible · checked 2026-09-01T13:31:32.573894+00:00.
+> **Audit status:** ✓ Complete · scanned 265 academic records · 73 eligible · checked 2026-09-02T03:51:38.547932+00:00.
 
 - 🔎 **[Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning](https://arxiv.org/abs/2512.00961)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -349,11 +389,6 @@ _No visible paper records in this cell yet._
   Labels: `Diffusion` · `Image Generation`  
   Authors: Hongji Yang, Yucheng Zhou, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen
 
-- 🔎 **[Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](https://arxiv.org/abs/2511.18919)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `GRPO` · `Reward Model` · `Video Generation`  
-  Authors: Ruiying Liu, Yuanzhi Liang, Haibin Huang, Tianshu Yu, Chi Zhang
-
 - 🔎 **[Rethinking Reward Signals in Video GRPO: When Scores Become Targets](https://arxiv.org/abs/2511.19356)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Video Generation`  
@@ -364,11 +399,56 @@ _No visible paper records in this cell yet._
   Labels: `Reward Model` · `Diffusion` · `Robotics`  
   Authors: Wanjiang Weng, Xiaofeng Tan, Junbo Wang, Guo-Sen Xie, Pan Zhou, Hongsong Wang
 
+- 🔎 **[Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](https://arxiv.org/abs/2511.18919)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reward Model` · `Video Generation`  
+  Authors: Ruiying Liu, Yuanzhi Liang, Haibin Huang, Tianshu Yu, Chi Zhang
+
+- 🔎 **[ProxT2I: Efficient Reward-Guided Text-to-Image Generation via Proximal Diffusion](https://arxiv.org/abs/2511.18742)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Zhenghan Fang, Jian Zheng, Qiaozi Gao, Xiaofeng Gao, Jeremias Sulam
+
+- 🔎 **[Text-Driven Reasoning Video Editing via Reinforcement Learning on Digital Twin Representations](https://arxiv.org/abs/2511.14100)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reasoning`  
+  Authors: Yiqing Shen, Chenjia Li, Mathias Unberath
+
+- 🔎 **[Distribution Matching Distillation Meets Reinforcement Learning](https://arxiv.org/abs/2511.13649)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion`  
+  Authors: Dengyang Jiang, Dongyang Liu, Zanyi Wang, Qilong Wu, Liuzhuozheng Li, Hengzhuang Li, Xin Jin, David Liu, et al.
+
+- 🔎 **[Image-POSER: Reflective RL for Multi-Expert Image Generation and Editing](https://arxiv.org/abs/2511.11780)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Image Generation`  
+  Authors: Hossein Mohebbi, Mohammed Abdulrahman, Yanting Miao, Pascal Poupart, Suraj Kothawade
+
+- 🔎 **[ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving](https://arxiv.org/abs/2511.11079)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Reasoning`  
+  Authors: Sejin Kim, Hayan Choi, Seokki Lee, Sundong Kim
+
+- 🔎 **[Diffusion Policies with Value-Conditional Optimization for Offline Reinforcement Learning](https://arxiv.org/abs/2511.08922)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yunchang Ma, Tenglong Liu, Yixing Lan, Xin Yin, Changxin Zhang, Xinglong Zhang, Xin Xu
+
+- 🔎 **[Diffusion Guided Adversarial State Perturbations in Reinforcement Learning](https://arxiv.org/abs/2511.07701)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Xiaolin Sun, Feidi Liu, Zhengming Ding, ZiZhan Zheng
+
+- 🔎 **[Scaling Multi-Agent Environment Co-Design with Diffusion Models](https://arxiv.org/abs/2511.03100)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-11-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion`  
+  Authors: Hao Xiang Li, Michael Amir, Amanda Prorok
+
 <a id="2025-10"></a>
 
 ### October
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 27 eligible · checked 2026-09-01T13:29:23.857300+00:00.
+> **Audit status:** ✓ Complete · scanned 279 academic records · 77 eligible · checked 2026-09-02T03:49:05.002060+00:00.
 
 - 🔎 **[Off-policy Reinforcement Learning with Model-based Exploration Augmentation](https://arxiv.org/abs/2510.25529)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-29 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -425,11 +505,86 @@ _No visible paper records in this cell yet._
   Labels: `Self-improvement` · `Video Generation` · `Reasoning`  
   Authors: Do Xuan Long, Xingchen Wan, Hootan Nakhost, Chen-Yu Lee, Tomas Pfister, Sercan Ö. Arık
 
+- 🔎 **[Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models](https://arxiv.org/abs/2510.15429)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual` · `PPO` · `Off-policy` · `Diffusion` · `Image Generation`  
+  Authors: Shashank Gupta
+
+- 🔎 **[RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning](https://arxiv.org/abs/2510.14830)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `PPO` · `Long-horizon` · `Robotics`  
+  Authors: Kun Lei, Huanyu Li, Dongjie Yu, Zhenyu Wei, Lingxiao Guo, Zhennan Jiang, Ziyu Wang, Shiyu Liang, et al.
+
+- 🔎 **[Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization](https://arxiv.org/abs/2510.14255)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Video Generation`  
+  Authors: Liao Shen, Wentao Jiang, Yiran Zhu, Jiahe Li, Tiezheng Ge, Zhiguo Cao, Bo Zheng
+
+- 🔎 **[Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation](https://arxiv.org/abs/2510.13418)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Diffusion` · `Image Generation`  
+  Authors: Yifu Luo, Xinhao Hu, Keyu Fan, Haoyuan Sun, Zeyu Chen, Bo Xia, Tiantian Zhang, Yongzhe Chang, et al.
+
+- 🔎 **[MosaicDiff: Training-free Structural Pruning for Diffusion Model Acceleration Reflecting Pretraining Dynamics](https://arxiv.org/abs/2510.11962)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Bowei Guo, Shengkun Tang, Cong Zeng, Zhiqiang Shen
+
+- 🔎 **[SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://arxiv.org/abs/2510.09541)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, Cai Zhou, Shannon Zejiang Shen, et al.
+
+- 🔎 **[LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation](https://arxiv.org/abs/2510.08318)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion` · `Video Generation`  
+  Authors: Yushi Huang, Xingtong Ge, Ruihao Gong, Chengtao Lv, Jun Zhang
+
+- 🔎 **[RePainter: Empowering E-commerce Object Removal via Spatial-matting Reinforcement Learning](https://arxiv.org/abs/2510.07721)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO`  
+  Authors: Zipeng Guo, Lichen Ma, Xiaolong Fu, Gaojing Zhou, Lan Yang, Yuchen Zhou, Linkai Liu, Yu He, et al.
+
+- 🔎 **[Diffusion-Augmented Reinforcement Learning for Robust Portfolio Optimization under Stress Scenarios](https://arxiv.org/abs/2510.07099)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Himanshu Choudhary, Arishi Orra, Manoj Thakur
+
+- 🔎 **[No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts](https://arxiv.org/abs/2510.06988)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Girolamo Macaluso, Lorenzo Mandelli, Mirko Bicchierai, Stefano Berretti, Andrew D. Bagdanov
+
+- 🔎 **[Flexible Locomotion Learning with Diffusion Model Predictive Control](https://arxiv.org/abs/2510.04234)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Runhan Huang, Haldun Balim, Heng Yang, Yilun Du
+
+- 🔎 **[D2 Actor Critic: Diffusion Actor Meets Distributional Critic](https://arxiv.org/abs/2510.03508)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Lunjun Zhang, Shuo Han, Hanrui Lyu, Bradly C Stadie
+
+- 🔎 **[Fine-Tuning Diffusion Models via Intermediate Distribution Shaping](https://arxiv.org/abs/2510.02692)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Rejection Sampling` · `Diffusion` · `Image Generation`  
+  Authors: Gautham Govind Anil, Shaan Ul Haque, Nithish Kannen, Dheeraj Nagaraj, Sanjay Shakkottai, Karthikeyan Shanmugam
+
+- 🔎 **[SCOPED: Score-Curvature Out-of-distribution Proximity Evaluator for Diffusion](https://arxiv.org/abs/2510.01456)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Robotics`  
+  Authors: Brett Barkley, Preston Culbertson, David Fridovich-Keil
+
+- 🔎 **[Diffusion Alignment as Variational Expectation-Maximization](https://arxiv.org/abs/2510.00502)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Jaewoo Lee, Minsu Kim, Sanghyeok Choi, Inhyuck Song, Sujin Yun, Hyeongyu Kang, Woocheol Shin, Taeyoung Yun, et al.
+
 <a id="2025-09"></a>
 
 ### September
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 22 eligible · checked 2026-09-01T13:03:51.876974+00:00.
+> **Audit status:** ✓ Complete · scanned 248 academic records · 60 eligible · checked 2026-09-02T03:44:24.617296+00:00.
 
 - 🔎 **[TR2-D2: Tree Search Guided Trajectory-Aware Fine-Tuning for Discrete Diffusion](https://arxiv.org/abs/2509.25171)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-29 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -441,26 +596,86 @@ _No visible paper records in this cell yet._
   Labels: `Verifier` · `Diffusion`  
   Authors: Guanghao Li, Zhihui Fu, Min Fang, Qibin Zhao, Ming Tang, Chun Yuan, Jun Wang
 
-- 🔎 **[Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs](https://arxiv.org/abs/2509.22646)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-09-26 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Reward Model` · `Multimodal` · `Video Generation`  
-  Authors: Xingyu Fu, Siyi Liu, Yinuo Xu, Pan Lu, Guangqiuse Hu, Tianbo Yang, Taran Anantasagar, Christopher Shen, et al.
-
 - 🔎 **[Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces](https://arxiv.org/abs/2509.22963)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-26 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
   Authors: Haitong Ma, Ofir Nabati, Aviv Rosenberg, Bo Dai, Oran Lang, Craig Boutilier, Na Li, Shie Mannor, et al.
+
+- 🔎 **[Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs](https://arxiv.org/abs/2509.22646)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Reward Model` · `Multimodal` · `Video Generation`  
+  Authors: Xingyu Fu, Siyi Liu, Yinuo Xu, Pan Lu, Guangqiuse Hu, Tianbo Yang, Taran Anantasagar, Christopher Shen, et al.
 
 - 🔎 **[Structural Information-based Hierarchical Diffusion for Offline Reinforcement Learning](https://arxiv.org/abs/2509.21942)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-26 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon`  
   Authors: Xianghua Zeng, Hao Peng, Angsheng Li, Yicheng Pan
 
+- 🔎 **[d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation](https://arxiv.org/abs/2509.21474)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Reasoning` · `Math`  
+  Authors: Guanghan Wang, Gilad Turok, Yair Schiff, Marianne Arriola, Volodymyr Kuleshov
+
+- 🔎 **[Actor-Critic without Actor](https://arxiv.org/abs/2509.21022)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion`  
+  Authors: Donghyeon Ki, Hee-Jun Ahn, Kyungyoon Kim, Byung-Jun Lee
+
+- 🔎 **[DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions](https://arxiv.org/abs/2509.19538)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon`  
+  Authors: Zongyue Li, Xiao Han, Yusong Li, Niklas Strauss, Matthias Schubert
+
+- 🔎 **[Diffusion Policies with Offline and Inverse Reinforcement Learning for Promoting Physical Activity in Older Adults Using Wearable Sensors](https://arxiv.org/abs/2509.18433)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Chang Liu, Ladda Thiamwong, Yanjie Fu, Rui Xie
+
+- 🔎 **[SocialTraj: Two-Stage Socially-Aware Trajectory Prediction for Autonomous Driving via Conditional Diffusion Model](https://arxiv.org/abs/2509.17850)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion` · `Autonomous Driving`  
+  Authors: Xiao Zhou, Zengqi Peng, Jun Ma
+
+- 🔎 **[RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation](https://arxiv.org/abs/2509.16500)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `Diffusion` · `Video Generation` · `Autonomous Driving`  
+  Authors: Tianyi Yan, Wencheng Han, Xia Zhou, Xueyang Zhang, Kun Zhan, Cheng-zhong Xu, Jianbing Shen
+
+- 🔎 **[AutoEdit: Automatic Hyperparameter Tuning for Image Editing](https://arxiv.org/abs/2509.15031)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Diffusion`  
+  Authors: Chau Pham, Quan Dao, Mahesh Bhosale, Yunjie Tian, Dimitris Metaxas, David Doermann
+
+- 🔎 **[Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures](https://arxiv.org/abs/2509.14163)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Diffusion`  
+  Authors: Chi-Sheng Chen, En-Jui Kuo
+
+- 🔎 **[Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking](https://arxiv.org/abs/2509.12046)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Image Generation`  
+  Authors: Zirui Zheng, Takashi Isobe, Tong Shen, Xu Jia, Jianbin Zhao, Xiaomin Li, Mengmeng Ge, Baolu Li, et al.
+
+- 🔎 **[UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward](https://arxiv.org/abs/2509.06818)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yufeng Cheng, Wenxu Wu, Shaojin Wu, Mengqi Huang, Fei Ding, Qian He
+
+- 🔎 **[In-Context Policy Adaptation via Cross-Domain Skill Diffusion](https://arxiv.org/abs/2509.04535)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Robotics` · `Autonomous Driving`  
+  Authors: Minjong Yoo, Woo Kyung Kim, Honguk Woo
+
+- 🔎 **[RealMat: Realistic Materials with Diffusion and Reinforcement Learning](https://arxiv.org/abs/2509.01134)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `Image Generation`  
+  Authors: Xilong Zhou, Pedro Figueiredo, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Yiwei Hu, Nima Khademi Kalantari
+
 <a id="2025-08"></a>
 
 ### August
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 20 eligible · checked 2026-09-01T13:02:16.795052+00:00.
+> **Audit status:** ✓ Complete · scanned 210 academic records · 35 eligible · checked 2026-09-02T03:41:20.935382+00:00.
 
 - 🔎 **[Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving](https://arxiv.org/abs/2508.16947)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -487,21 +702,46 @@ _No visible paper records in this cell yet._
   Labels: `Reasoning` · `Code` · `Safety`  
   Authors: Zhixin Xie, Xurui Song, Jun Luo
 
-- 🔎 **[A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-08-14 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Multimodal` · `Diffusion`  
-  Authors: Tianyi Li, Mingda Chen, Bowei Guo, Zhiqiang Shen
-
 - 🔎 **[GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning](https://arxiv.org/abs/2508.11049)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-14 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion` · `Video Generation`  
   Authors: Kelin Yu, Sheng Zhang, Harshit Soora, Furong Huang, Heng Huang, Pratap Tokekar, Ruohan Gao
 
+- 🔎 **[A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion`  
+  Authors: Tianyi Li, Mingda Chen, Bowei Guo, Zhiqiang Shen
+
+- 🔎 **[Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models](https://arxiv.org/abs/2508.09968)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion` · `Reasoning`  
+  Authors: Luca Eyring, Shyamgopal Karthik, Alexey Dosovitskiy, Nataniel Ruiz, Zeynep Akata
+
+- 🔎 **[Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models](https://arxiv.org/abs/2508.09138)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Wen Wang, Bozhen Fang, Chenchen Jing, Yongliang Shen, Yangyi Shen, Qiuyu Wang, Hao Ouyang, Hao Chen, et al.
+
+- 🔎 **[EvaDrive: Evolutionary Adversarial Policy Optimization for End-to-End Autonomous Driving](https://arxiv.org/abs/2508.09158)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Autonomous Driving`  
+  Authors: Siwen Jiao, Kangan Qian, Hao Ye, Yang Zhong, Ziang Luo, Sicong Jiang, Zilin Huang, Yangyi Fang, et al.
+
+- 🔎 **[DiWA: Diffusion Policy Adaptation with World Models](https://arxiv.org/abs/2508.03645)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Akshay L Chandra, Iman Nematollahi, Chenguang Huang, Tim Welschehold, Wolfram Burgard, Abhinav Valada
+
+- 🔎 **[Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis](https://arxiv.org/abs/2508.02106)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Kaiyang Ji, Ye Shi, Zichen Jin, Kangyi Chen, Lan Xu, Yuexin Ma, Jingyi Yu, Jingya Wang
+
 <a id="2025-07"></a>
 
 ### July
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 15 eligible · checked 2026-09-01T13:00:27.328237+00:00.
+> **Audit status:** ✓ Complete · scanned 192 academic records · 31 eligible · checked 2026-09-02T03:39:06.933463+00:00.
 
 - 🔎 **[DmC: Nearest Neighbor Guidance Diffusion Model for Offline Cross-domain Reinforcement Learning](https://arxiv.org/abs/2507.20499)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -528,11 +768,31 @@ _No visible paper records in this cell yet._
   Labels: `Multimodal` · `VLM` · `Diffusion`  
   Authors: Jinglun Li, Kaixun Jiang, Zhaoyu Chen, Bo Lin, Yao Tang, Weifeng Ge, Wenqiang Zhang
 
+- 🔎 **[EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling](https://arxiv.org/abs/2507.05198)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Robotics`  
+  Authors: Boyuan Wang, Xinpan Meng, Xiaofeng Wang, Zheng Zhu, Angen Ye, Yang Wang, Zhiqin Yang, Chaojun Ni, et al.
+
+- 🔎 **[DIVER: Reinforced Diffusion Breaks Imitation Bottlenecks in End-to-End Autonomous Driving](https://arxiv.org/abs/2507.04049)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Autonomous Driving`  
+  Authors: Ziying Song, Lin Liu, Hongyu Pan, Bencheng Liao, Mingzhe Guo, Lei Yang, Yongchang Zhang, Shaoqing Xu, et al.
+
+- 🔎 **[ConceptMix++: Leveling the Playing Field in Text-to-Image Benchmarking via Iterative Prompt Optimization](https://arxiv.org/abs/2507.03275)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Diffusion` · `Image Generation`  
+  Authors: Haosheng Gan, Berk Tinaz, Mohammad Shahab Sepehri, Zalan Fabian, Mahdi Soltanolkotabi
+
+- 🔎 **[SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound](https://arxiv.org/abs/2507.01152)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-07-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Robotics`  
+  Authors: Yunke Ao, Masoud Moghani, Mayank Mittal, Manish Prajapat, Luohong Wu, Frederic Giraud, Fabio Carrillo, Andreas Krause, et al.
+
 <a id="2025-06"></a>
 
 ### June
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 15 eligible · checked 2026-09-01T12:58:46.165800+00:00.
+> **Audit status:** ✓ Complete · scanned 242 academic records · 42 eligible · checked 2026-09-02T03:35:48.488694+00:00.
 
 - 🔎 **[Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound](https://arxiv.org/abs/2506.23538)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -564,11 +824,56 @@ _No visible paper records in this cell yet._
   Labels: `Diffusion`  
   Authors: Qingming Liu, Zhen Liu, Dinghuai Zhang, Kui Jia
 
+- 🔎 **[Toward Rich Video Human-Motion2D Generation](https://arxiv.org/abs/2506.14428)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Ruihao Xi, Xuekuan Wang, Yongcheng Li, Shuhua Li, Zichen Wang, Yiwei Wang, Feng Wei, Cairong Zhao
+
+- 🔎 **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Long-horizon` · `Diffusion`  
+  Authors: Xintong Duan, Yutong He, Fahim Tajwar, Ruslan Salakhutdinov, J. Zico Kolter, Jeff Schneider
+
+- 🔎 **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yunpeng Qing, Yixiao Chi, Shuo Chen, Shunyu Liu, Kexuan Zhou, Sixu Lin, Litao Liu, Changqing Zou
+
+- 🔎 **[Latent Diffusion Model Based Denoising Receiver for 6G Semantic Communication: From Stochastic Differential Theory to Application](https://arxiv.org/abs/2506.05710)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Xiucheng Wang, Honggang Jia, Nan Cheng
+
+- 🔎 **[FocusDiff: Advancing Fine-Grained Text-Image Alignment for Autoregressive Visual Generation through RL](https://arxiv.org/abs/2506.05501)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Kaihang Pan, Wendong Bu, Yuruo Wu, Yang Wu, Kai Shen, Yunfei Li, Hang Zhao, Juncheng Li, et al.
+
+- 🔎 **[Joint modeling for learning decision-making dynamics in behavioral experiments](https://arxiv.org/abs/2506.02394)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yuan Bian, Xingche Guo, Yuanjia Wang
+
+- 🔎 **[Psi-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models](https://arxiv.org/abs/2506.01320)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Image Generation`  
+  Authors: Taehoon Yoon, Yunhong Min, Kyeongmin Yeo, Minhyuk Sung
+
+- 🔎 **[State-Covering Trajectory Stitching for Diffusion Planners](https://arxiv.org/abs/2506.00895)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Reasoning`  
+  Authors: Kyowoon Lee, Jaesik Choi
+
+- 🔎 **[Local Manifold Approximation and Projection for Manifold-Aware Diffusion Planning](https://arxiv.org/abs/2506.00867)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-06-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon`  
+  Authors: Kyowoon Lee, Jaesik Choi
+
 <a id="2025-05"></a>
 
 ### May
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 21 eligible · checked 2026-09-01T12:56:34.727702+00:00.
+> **Audit status:** ✓ Complete · scanned 269 academic records · 61 eligible · checked 2026-09-02T03:33:16.107105+00:00.
 
 - 🔎 **[ADG: Ambient Diffusion-Guided Dataset Recovery for Corruption-Robust Offline Reinforcement Learning](https://arxiv.org/abs/2505.23871)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-29 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -585,11 +890,6 @@ _No visible paper records in this cell yet._
   Labels: `Diffusion` · `Image Generation`  
   Authors: Owen Oertell, Shikun Sun, Yiding Chen, Jin Peng Zhou, Zhiyong Wang, Wen Sun
 
-- 🔎 **[TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning](https://arxiv.org/abs/2505.19769)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `VLM` · `Diffusion` · `Video Generation` · `Robotics`  
-  Authors: Yuhui Chen, Haoran Li, Zhennan Jiang, Haowei Wen, Dongbin Zhao
-
 - 🔎 **[URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning](https://arxiv.org/abs/2505.20175)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Robotics`  
@@ -605,16 +905,71 @@ _No visible paper records in this cell yet._
   Labels: `Curriculum` · `Diffusion`  
   Authors: Ziyi Zhang, Li Shen, Deheng Ye, Yong Luo, Huangxuan Zhao, Meng Liu, Wei Yu, Lefei Zhang
 
+- 🔎 **[TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning](https://arxiv.org/abs/2505.19769)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Diffusion` · `Video Generation` · `Robotics`  
+  Authors: Yuhui Chen, Haoran Li, Zhennan Jiang, Haowei Wen, Dongbin Zhao
+
 - 🔎 **[DiffE2E: Rethinking End-to-End Driving with a Hybrid Action Diffusion and Supervised Policy](https://arxiv.org/abs/2505.19516)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-26 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Autonomous Driving`  
   Authors: Rui Zhao, Yuze Fan, Ziguo Chen, Fei Gao, Zhenhai Gao
 
+- 🔎 **[Diffusion Blend: Inference-Time Multi-Preference Alignment for Diffusion Models](https://arxiv.org/abs/2505.18547)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Min Cheng, Fatemeh Doudi, Dileep Kalathil, Mohammad Ghavamzadeh, Panganamala R. Kumar
+
+- 🔎 **[VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL](https://arxiv.org/abs/2505.15791)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Fengyuan Dai, Zifeng Zhuang, Yufei Huang, Siteng Huang, Bangyan Liao, Donglin Wang, Fajie Yuan
+
+- 🔎 **[Steering Generative Models with Experimental Data for Protein Fitness Optimization](https://arxiv.org/abs/2505.15093)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Jason Yang, Wenda Chu, Daniel Khalil, Raul Astudillo, Bruce J. Wittmann, Frances H. Arnold, Yisong Yue
+
+- 🔎 **[Sample and Computationally Efficient Continuous-Time Reinforcement Learning with General Function Approximation](https://arxiv.org/abs/2505.14821)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Runze Zhao, Yue Yu, Adams Yiyue Zhu, Chen Yang, Dongruo Zhou
+
+- 🔎 **[CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/abs/2505.14455)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Chihan Huang, Hao Tang
+
+- 🔎 **[Modular Diffusion Policy Training: Decoupling and Recombining Guidance and Diffusion for Offline RL](https://arxiv.org/abs/2506.03154)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Zhaoyang Chen, Cody Fleming
+
+- 🔎 **[Temporal Distance-aware Transition Augmentation for Offline Model-based Reinforcement Learning](https://arxiv.org/abs/2505.13144)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon`  
+  Authors: Dongsu Lee, Minhae Kwon
+
+- 🔎 **[Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction](https://arxiv.org/abs/2505.13091)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yuanbo Wang, Zhaoxuan Zhang, Jiajin Qiu, Dilong Sun, Zhengyu Meng, Xiaopeng Wei, Xin Yang
+
+- 🔎 **[Prior-Guided Diffusion Planning for Offline Reinforcement Learning](https://arxiv.org/abs/2505.10881)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Multimodal` · `Diffusion`  
+  Authors: Donghyeon Ki, JunHyeok Oh, Seong-Woong Shim, Byung-Jun Lee
+
+- 🔎 **[ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction](https://arxiv.org/abs/2505.10027)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-05-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Diffusion`  
+  Authors: Shijie Lyu
+
 <a id="2025-04"></a>
 
 ### April
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 17 eligible · checked 2026-09-01T12:54:23.363796+00:00.
+> **Audit status:** ✓ Complete · scanned 152 academic records · 23 eligible · checked 2026-09-02T03:30:02.808011+00:00.
 
 - 🔎 **[Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion](https://arxiv.org/abs/2504.16431)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -625,7 +980,7 @@ _No visible paper records in this cell yet._
 
 ### March
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 12 eligible · checked 2026-09-01T12:53:09.167936+00:00.
+> **Audit status:** ✓ Complete · scanned 260 academic records · 41 eligible · checked 2026-09-02T03:28:11.203834+00:00.
 
 - 🔎 **[High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning](https://arxiv.org/abs/2503.22179)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -642,11 +997,51 @@ _No visible paper records in this cell yet._
   Labels: `Image Generation`  
   Authors: Parham Saremi, Amar Kumar, Mohamed Mohamed, Zahra TehraniNasab, Tal Arbel
 
+- 🔎 **[Reward-Instruct: A Reward-Centric Approach to Fast Photo-Realistic Image Generation](https://arxiv.org/abs/2503.13070)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion` · `Image Generation`  
+  Authors: Yihong Luo, Tianyang Hu, Weijian Luo, Kenji Kawaguchi, Jing Tang
+
+- 🔎 **[Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards](https://arxiv.org/abs/2503.11240)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Zijing Hu, Fengda Zhang, Long Chen, Kun Kuang, Jiahui Li, Kaifeng Gao, Jun Xiao, Xin Wang, et al.
+
+- 🔎 **[Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization](https://arxiv.org/abs/2503.11056)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion` · `Image Generation`  
+  Authors: Kyle Sargent, Kyle Hsu, Justin Johnson, Li Fei-Fei, Jiajun Wu
+
+- 🔎 **[NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models](https://arxiv.org/abs/2503.10626)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Robotics`  
+  Authors: Mert Albaba, Chenhao Li, Markos Diomataris, Omid Taheri, Andreas Krause, Michael Black
+
+- 🔎 **[CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://arxiv.org/abs/2503.10613)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Multi-turn` · `VLM` · `Image Generation`  
+  Authors: Advait Gupta, NandaKiran Velaga, Dang Nguyen, Tianyi Zhou
+
+- 🔎 **[Policy Constraint by Only Support Constraint for Offline Reinforcement Learning](https://arxiv.org/abs/2503.05207)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yunkai Gao, Jiaming Guo, Fan Wu, Rui Zhang
+
+- 🔎 **[Diffusion Classifier-Driven Reward for Offline Preference-based Reinforcement Learning](https://arxiv.org/abs/2503.01143)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Teng Pang, Bingzheng Wang, Guoqiang Wu, Yilong Yin
+
+- 🔎 **[A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/abs/2503.00897)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-03-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Diffusion` · `Image Generation`  
+  Authors: Shashank Gupta, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, Satya Narayan Shukla
+
 <a id="2025-02"></a>
 
 ### February
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 25 eligible · checked 2026-09-01T12:51:41.189343+00:00.
+> **Audit status:** ✓ Complete · scanned 153 academic records · 42 eligible · checked 2026-09-02T03:26:16.555901+00:00.
 
 - 🔎 **[NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-19 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -688,30 +1083,30 @@ _No visible paper records in this cell yet._
   Labels: `Multimodal` · `VLM` · `Diffusion` · `Image Generation` · `Reasoning`  
   Authors: Zhenxing Mi, Kuan-Chieh Wang, Guocheng Qian, Hanrong Ye, Runtao Liu, Sergey Tulyakov, Kfir Aberman, Dan Xu
 
-- 🔎 **[Exploratory Diffusion Model for Unsupervised Reinforcement Learning](https://arxiv.org/abs/2502.07279)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-11 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Reward Model` · `Diffusion`  
-  Authors: Chengyang Ying, Huayu Chen, Xinning Zhou, Zhongkai Hao, Hang Su, Jun Zhu
+  Labels: `Distillation` · `Verifier` · `Diffusion`  
+  Authors: Wenlin Chen, Mingtian Zhang, Jiajun He, Zijing Ou, José Miguel Hernández-Lobato, Bernhard Schölkopf, David Barber
+
+- 🔎 **[RoboBERT: An End-to-end Multimodal Robotic Manipulation Model](https://arxiv.org/abs/2502.07837)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Sicheng Wang, Sheng Liu, Weiheng Wang, Jianhua Shan, Bin Fang
 
 - 🔎 **[Pippo: High-Resolution Multi-View Humans from a Single Image](https://arxiv.org/abs/2502.07785)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-11 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
   Authors: Yash Kant, Ethan Weber, Jin Kyu Kim, Rawal Khirodkar, Su Zhaoen, Julieta Martinez, Igor Gilitschenski, Shunsuke Saito, et al.
 
-- 🔎 **[DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](https://arxiv.org/abs/2502.08005)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[Exploratory Diffusion Model for Unsupervised Reinforcement Learning](https://arxiv.org/abs/2502.07279)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-11 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Distillation` · `Verifier` · `Diffusion`  
-  Authors: Wenlin Chen, Mingtian Zhang, Jiajun He, Zijing Ou, José Miguel Hernández-Lobato, Bernhard Schölkopf, David Barber
+  Labels: `Reward Model` · `Diffusion`  
+  Authors: Chengyang Ying, Huayu Chen, Xinning Zhou, Zhongkai Hao, Hang Su, Jun Zhu
 
 - 🔎 **[Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models](https://arxiv.org/abs/2502.07211)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-11 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
   Authors: Xinren Zhang, Jiadong Yu
-
-- 🔎 **[RoboBERT: An End-to-end Multimodal Robotic Manipulation Model](https://arxiv.org/abs/2502.07837)** — `discovery candidate`; awaiting primary-paper curation.  
-  2025-02-11 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Multimodal` · `Robotics`  
-  Authors: Sicheng Wang, Sheng Liu, Weiheng Wang, Jianhua Shan, Bin Fang
 
 - 🔎 **[Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing](https://arxiv.org/abs/2502.07829)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-10 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -723,26 +1118,36 @@ _No visible paper records in this cell yet._
   Labels: `Robotics`  
   Authors: Haoran He, Yang Zhang, Liang Lin, Zhongwen Xu, Ling Pan
 
-- 🔎 **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](https://arxiv.org/abs/2502.05855)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[Online Reward-Weighted Fine-Tuning of Flow Matching with Wasserstein Regularization](https://arxiv.org/abs/2502.06061)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-09 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Curriculum` · `Long-horizon` · `VLM` · `VLA`  
-  Authors: Junjie Wen, Yichen Zhu, Jinming Li, Zhibin Tang, Chaomin Shen, Feifei Feng
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Jiajun Fan, Shuaike Shen, Chaoran Cheng, Yuxin Chen, Chumeng Liang, Ge Liu
 
 - 🔎 **[Dual Caption Preference Optimization for Diffusion Models](https://arxiv.org/abs/2502.06023)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `DPO` · `Preference Optimization` · `Diffusion` · `Image Generation`  
   Authors: Amir Saeidi, Yiran Luo, Agneet Chatterjee, Shamanthak Hegde, Bimsara Pathiraja, Yezhou Yang, Chitta Baral
 
-- 🔎 **[Online Reward-Weighted Fine-Tuning of Flow Matching with Wasserstein Regularization](https://arxiv.org/abs/2502.06061)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](https://arxiv.org/abs/2502.05855)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-09 · `direction-month-query` · `arxiv-monthly-backfill`  
-  Labels: `Diffusion` · `Image Generation`  
-  Authors: Jiajun Fan, Shuaike Shen, Chaoran Cheng, Yuxin Chen, Chumeng Liang, Ge Liu
+  Labels: `Curriculum` · `Long-horizon` · `VLM` · `VLA`  
+  Authors: Junjie Wen, Yichen Zhu, Jinming Li, Zhibin Tang, Chaomin Shen, Feifei Feng
+
+- 🔎 **[Half-order Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer](https://arxiv.org/abs/2502.00639)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Video Generation`  
+  Authors: Tao Ren, Zishi Zhang, Jingyang Jiang, Zehao Li, Shentao Qin, Yi Zheng, Guanghao Li, Qianyou Sun, et al.
+
+- 🔎 **[EDELINE: Enhancing Memory in Diffusion-based World Models via Linear-Time Sequence Modeling](https://arxiv.org/abs/2502.00466)** — `discovery candidate`; awaiting primary-paper curation.  
+  2025-02-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Jia-Hua Lee, Bor-Jiun Lin, Wei-Fang Sun, Chun-Yi Lee
 
 <a id="2025-01"></a>
 
 ### January
 
-> **Audit status:** ✓ Complete · scanned 96 academic records · 9 eligible · checked 2026-09-01T12:50:56.304231+00:00.
+> **Audit status:** ✓ Complete · scanned 96 academic records · 9 eligible · checked 2026-09-02T03:24:00.609613+00:00.
 
 - 🔎 **[FDPP: Fine-tune Diffusion Policy with Human Preference](https://arxiv.org/abs/2501.08259)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-14 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -762,97 +1167,338 @@ _No visible paper records in this cell yet._
 
 ### December
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 187 academic records · 22 eligible · checked 2026-09-02T03:43:29.188390+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity, and Convergence](https://arxiv.org/abs/2412.18164)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yinbin Han, Meisam Razaviyayn, Renyuan Xu
+
+- 🔎 **[Generative Diffusion Modeling: A Practical Handbook](https://arxiv.org/abs/2412.17162)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion`  
+  Authors: Zihan Ding, Chi Jin
+
+- 🔎 **[GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Yewen Li, Shuai Mao, Jingtong Gao, Nan Jiang, Yunjian Xu, Qingpeng Cai, Fei Pan, Peng Jiang, et al.
+
+- 🔎 **[Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets](https://arxiv.org/abs/2412.07775)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Zhen Liu, Tim Z. Xiao, Weiyang Liu, Yoshua Bengio, Dinghuai Zhang
 
 <a id="2024-11"></a>
 
 ### November
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 114 academic records · 7 eligible · checked 2026-09-02T03:41:38.594543+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation](https://arxiv.org/abs/2411.14913)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Off-policy` · `Diffusion`  
+  Authors: Huy Le, Tai Hoang, Miroslav Gabriel, Gerhard Neumann, Ngo Anh Vien
+
+- 🔎 **[Continuous Speculative Decoding for Autoregressive Image Generation](https://arxiv.org/abs/2411.11925)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Rejection Sampling` · `Diffusion` · `Image Generation`  
+  Authors: Zili Wang, Zheng Zhang, Kun Ding, Qi Yang, Fei Li, Shiming Xiang
+
+- 🔎 **[Aligning Few-Step Diffusion Models with Dense Reward Difference Learning](https://arxiv.org/abs/2411.11727)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-11-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Ziyi Zhang, Li Shen, Sen Zhang, Deheng Ye, Yong Luo, Miaojing Shi, Dongjing Shan, Bo Du, et al.
 
 <a id="2024-10"></a>
 
 ### October
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 154 academic records · 35 eligible · checked 2026-09-02T03:40:24.140953+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data](https://arxiv.org/abs/2410.22938)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Hanyang Chen, Yang Jiang, Shengnan Guo, Xiaowei Mao, Youfang Lin, Huaiyu Wan
+
+- 🔎 **[DIAR: Diffusion-model-guided Implicit Q-learning with Adaptive Revaluation](https://arxiv.org/abs/2410.11338)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Diffusion`  
+  Authors: Jaehyun Park, Yunho Kim, Sejin Kim, Byung-Jun Lee, Sundong Kim
+
+- 🔎 **[E-Motion: Future Motion Simulation via Event Sequence Diffusion](https://arxiv.org/abs/2410.08649)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Robotics`  
+  Authors: Song Wu, Zhiyu Zhu, Junhui Hou, Guangming Shi, Jinjian Wu
+
+- 🔎 **[Avoiding mode collapse in diffusion models fine-tuned with reinforcement learning](https://arxiv.org/abs/2410.08315)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Roberto Barceló, Cristóbal Alcázar, Felipe Tobar
+
+- 🔎 **[ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model](https://arxiv.org/abs/2410.07296)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Gaoge Han, Mingjiang Liang, Jinglei Tang, Yongkang Cheng, Wei Liu, Shaoli Huang
+
+- 🔎 **[Diffusion Model Predictive Control](https://arxiv.org/abs/2410.05364)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Guangyao Zhou, Sivaramakrishnan Swaminathan, Rajkumar Vasudeva Raju, J. Swaroop Guntupalli, Wolfgang Lehrach, Joseph Ortiz, Antoine Dedieu, Miguel Lázaro-Gredilla, et al.
+
+- 🔎 **[DartControl: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control](https://arxiv.org/abs/2410.05260)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Kaifeng Zhao, Gen Li, Siyu Tang
+
+- 🔎 **[ShieldDiff: Suppressing Sexual Content Generation from Diffusion Models through Reinforcement Learning](https://arxiv.org/abs/2410.05309)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Dong Han, Salaheldin Mohamed, Yong Li
+
+- 🔎 **[Adaptive teachers for amortized samplers](https://arxiv.org/abs/2410.01432)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Off-policy` · `Curriculum`  
+  Authors: Minsu Kim, Sanghyeok Choi, Taeyoung Yun, Emmanuel Bengio, Leo Feng, Jarrid Rector-Brooks, Sungsoo Ahn, Jinkyoo Park, et al.
 
 <a id="2024-09"></a>
 
 ### September
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 96 academic records · 13 eligible · checked 2026-09-02T03:37:45.250275+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Task-Agnostic Pre-training and Task-Guided Fine-tuning for Versatile Diffusion Planner](https://arxiv.org/abs/2409.19949)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Chenyou Fan, Chenjia Bai, Zhao Shan, Haoran He, Yang Zhang, Zhen Wang
+
+- 🔎 **[Pixel-Space Post-Training of Latent Diffusion Models](https://arxiv.org/abs/2409.17565)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Christina Zhang, Simran Motwani, Matthew Yu, Ji Hou, Felix Juefei-Xu, Sam Tsai, Peter Vajda, Zijian He, et al.
+
+- 🔎 **[Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion](https://arxiv.org/abs/2409.16950)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Diffusion`  
+  Authors: Vineet Punyamoorty, Pascal Jutras-Dubé, Ruqi Zhang, Vaneet Aggarwal, Damon Conover, Aniket Bera
+
+- 🔎 **[Reward-Directed Score-Based Diffusion Models via q-Learning](https://arxiv.org/abs/2409.04832)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-09-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Xuefeng Gao, Jiale Zha, Xun Yu Zhou
 
 <a id="2024-08"></a>
 
 ### August
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 71 academic records · 7 eligible · checked 2026-09-02T03:35:53.162511+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model](https://arxiv.org/abs/2408.16634)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Zhuan Shi, Jing Yan, Xiaoli Tang, Lingjuan Lyu, Boi Faltings
+
+- 🔎 **[MODULI: Unlocking Preference Generalization via Diffusion Models for Offline Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2408.15501)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yifu Yuan, Zhenrui Zheng, Zibin Dong, Jianye Hao
+
+- 🔎 **[Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation](https://arxiv.org/abs/2408.12110)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-08-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Diffusion` · `Autonomous Driving`  
+  Authors: Woo Kyung Kim, Minjong Yoo, Honguk Woo
 
 <a id="2024-07"></a>
 
 ### July
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 95 academic records · 17 eligible · checked 2026-09-02T03:34:48.879928+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning](https://arxiv.org/abs/2407.20798)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Diffusion` · `Robotics`  
+  Authors: Norman Di Palo, Leonard Hasenclever, Jan Humplik, Arunkumar Byravan
+
+- 🔎 **[Sublinear Regret for a Class of Continuous-Time Linear-Quadratic Reinforcement Learning Problems](https://arxiv.org/abs/2407.17226)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Yilie Huang, Yanwei Jia, Xun Yu Zhou
+
+- 🔎 **[OASIS: Conditional Distribution Shaping for Offline Safe Reinforcement Learning](https://arxiv.org/abs/2407.14653)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yihang Yao, Zhepeng Cen, Wenhao Ding, Haohong Lin, Shiqi Liu, Tingnan Zhang, Wenhao Yu, Ding Zhao
+
+- 🔎 **[Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Diffusion`  
+  Authors: Masatoshi Uehara, Yulai Zhao, Tommaso Biancalani, Sergey Levine
+
+- 🔎 **[Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2407.06642)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Fanyue Wei, Wei Zeng, Zhenyang Li, Dawei Yin, Lixin Duan, Wen Li
+
+- 🔎 **[DiffPhyCon: A Generative Approach to Control Complex Physical Systems](https://arxiv.org/abs/2407.06494)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Long Wei, Peiyan Hu, Ruiqi Feng, Haodong Feng, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, et al.
+
+- 🔎 **[Text-Aware Diffusion for Policy Learning](https://arxiv.org/abs/2407.01903)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Robotics`  
+  Authors: Calvin Luo, Mandy He, Zilai Zeng, Chen Sun
 
 <a id="2024-06"></a>
 
 ### June
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 129 academic records · 19 eligible · checked 2026-09-02T03:33:07.199773+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models](https://arxiv.org/abs/2407.00626)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Sangwoong Yoon, Himchan Hwang, Dohyun Kwon, Yung-Kyun Noh, Frank C. Park
+
+- 🔎 **[Adding Conditional Control to Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2406.12120)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yulai Zhao, Masatoshi Uehara, Gabriele Scalia, Sunyuan Kung, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali
+
+- 🔎 **[Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-06-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Dinghuai Zhang, Yizhe Zhang, Jiatao Gu, Ruixiang Zhang, Josh Susskind, Navdeep Jaitly, Shuangfei Zhai
 
 <a id="2024-05"></a>
 
 ### May
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 106 academic records · 19 eligible · checked 2026-09-02T03:31:17.160107+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Learning from Random Demonstrations: Offline Reinforcement Learning with Importance-Sampled Diffusion Models](https://arxiv.org/abs/2405.19878)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `Diffusion`  
+  Authors: Zeyu Fang, Tian Lan
+
+- 🔎 **[Diffusion Rejection Sampling](https://arxiv.org/abs/2405.17880)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Rejection Sampling` · `Diffusion` · `Image Generation`  
+  Authors: Byeonghu Na, Yeongmin Kim, Minsang Park, Donghyeok Shin, Wanmo Kang, Il-Chul Moon
+
+- 🔎 **[GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2405.16907)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-05-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Jaewoo Lee, Sujin Yun, Taeyoung Yun, Jinkyoo Park
 
 <a id="2024-04"></a>
 
 ### April
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 102 academic records · 14 eligible · checked 2026-09-02T03:29:12.161048+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos](https://arxiv.org/abs/2404.15709)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Zerui Chen, Shizhe Chen, Etienne Arlaud, Ivan Laptev, Cordelia Schmid
+
+- 🔎 **[Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding](https://arxiv.org/abs/2404.11589)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Zezhong Fan, Xiaohan Li, Chenhao Fang, Topojoy Biswas, Kaushiki Nag, Jianpeng Xu, Kannan Achan
+
+- 🔎 **[Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving](https://arxiv.org/abs/2404.04804)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-04-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Autonomous Driving`  
+  Authors: Jinlong Li, Baolu Li, Zhengzhong Tu, Xinyu Liu, Qing Guo, Felix Juefei-Xu, Runsheng Xu, Hongkai Yu
 
 <a id="2024-03"></a>
 
 ### March
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 124 academic records · 14 eligible · checked 2026-09-02T03:27:37.491948+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Diffusion Policies for Risk-Averse Behavior Modeling in Offline Reinforcement Learning](https://arxiv.org/abs/2403.17646)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Xiaocong Chen, Siyu Wang, Tong Yu, Lina Yao
+
+- 🔎 **[Unveil Conditional Diffusion Models with Classifier-free Guidance: A Sharp Statistical Theory](https://arxiv.org/abs/2403.11968)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Hengyu Fu, Zhuoran Yang, Mengdi Wang, Minshuo Chen
+
+- 🔎 **[Distributional Successor Features Enable Zero-Shot Policy Optimization](https://arxiv.org/abs/2403.06328)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Diffusion` · `Robotics`  
+  Authors: Chuning Zhu, Xinqi Wang, Tyler Han, Simon S. Du, Abhishek Gupta
+
+- 🔎 **[DiffChat: Learning to Chat with Text-to-Image Synthesis Models for Interactive Image Creation](https://arxiv.org/abs/2403.04997)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-03-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Off-policy` · `Image Generation`  
+  Authors: Jiapeng Wang, Chengyu Wang, Tingfeng Cao, Jun Huang, Lianwen Jin
 
 <a id="2024-02"></a>
 
 ### February
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 65 academic records · 16 eligible · checked 2026-09-02T03:25:44.777586+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Feedback Efficient Online Fine-Tuning of Diffusion Models](https://arxiv.org/abs/2402.16359)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Masatoshi Uehara, Yulai Zhao, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, et al.
+
+- 🔎 **[Model-Based Reinforcement Learning Control of Reaction-Diffusion Problems](https://arxiv.org/abs/2402.14446)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Christina Schenk, Aditya Vasudevan, Maciej Haranczyk, Ignacio Romero
+
+- 🔎 **[MuLan: Multimodal-LLM Agent for Progressive and Interactive Multi-Object Diffusion](https://arxiv.org/abs/2402.12741)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Diffusion` · `Image Generation`  
+  Authors: Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou
+
+- 🔎 **[PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models](https://arxiv.org/abs/2402.08714)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Fei Deng, Qifei Wang, Wei Wei, Matthias Grundmann, Tingbo Hou
+
+- 🔎 **[Stitching Sub-Trajectories with Conditional Diffusion Model for Goal-Conditioned Offline RL](https://arxiv.org/abs/2402.07226)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Diffusion`  
+  Authors: Sungyoon Kim, Yunseon Choi, Daiki E. Matsunaga, Kee-Eung Kim
+
+- 🔎 **[Diffusion World Model: Future Modeling Beyond Step-by-Step Rollout for Offline Reinforcement Learning](https://arxiv.org/abs/2402.03570)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `Long-horizon` · `Diffusion`  
+  Authors: Zihan Ding, Amy Zhang, Yuandong Tian, Qinqing Zheng
+
+- 🔎 **[DiffStitch: Boosting Offline Reinforcement Learning with Diffusion-based Trajectory Stitching](https://arxiv.org/abs/2402.02439)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Guanghe Li, Yixiang Shan, Zhengbang Zhu, Ting Long, Weinan Zhang
+
+- 🔎 **[Augmenting Offline Reinforcement Learning with State-only Interactions](https://arxiv.org/abs/2402.00807)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-02-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Shangzhe Li, Xinhua Zhang
 
 <a id="2024-01"></a>
 
 ### January
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 47 academic records · 4 eligible · checked 2026-09-02T03:23:39.802910+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[Large-scale Reinforcement Learning for Diffusion Models](https://arxiv.org/abs/2401.12244)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-01-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Image Generation`  
+  Authors: Yinan Zhang, Eric Tzeng, Yilun Du, Dmitry Kislyuk
+
+- 🔎 **[Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model](https://arxiv.org/abs/2401.10700)** — `discovery candidate`; awaiting primary-paper curation.  
+  2024-01-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Yinan Zheng, Jianxiong Li, Dongjie Yu, Yujie Yang, Shengbo Eben Li, Xianyuan Zhan, Jingjing Liu
 
 <a id="2023"></a>
 
