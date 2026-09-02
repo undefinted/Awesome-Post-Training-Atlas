@@ -1,0 +1,8 @@
+interface:
+  display_name: "Post-Training Atlas"
+  short_description: "Track method evolution and research ideas."
+  brand_color: "#3157D5"
+  default_prompt: "Use $post-training-atlas to compare a post-training method family and suggest testable ideas."
+
+policy:
+  allow_implicit_invocation: true
