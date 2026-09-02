@@ -45,10 +45,12 @@ jobs:
           fi
       - name: Generate and validate all views
         run: |
+          python -m radar.labels
           python -m radar.render
           python -m radar.coverage
           python -m radar.site
           python -m unittest discover -s tests
+          python -m radar.labels --check
           python -m radar.render --check
           python -m radar.coverage --check
           python -m radar.site --check

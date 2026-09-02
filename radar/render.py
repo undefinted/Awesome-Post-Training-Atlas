@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DIRECTIONS_DIR = ROOT / "directions"
 START = "<!-- PAPERS:START -->"
 END = "<!-- PAPERS:END -->"
+LABELS_OUTPUT = ROOT / "LABELS.md"
 
 
 def load_yaml(path: Path):
@@ -38,6 +39,9 @@ def all_records() -> list[dict]:
 
 
 def render_papers(records: list[dict], year_level: int = 2) -> str:
+    from radar.labels import effective_labels, label_index
+
+    label_names = {key: value["title"] for key, value in label_index().items()}
     sections: list[str] = []
     years = sorted({str(paper["date"])[:4] for paper in records}, reverse=True)
     for year in years:
@@ -53,6 +57,7 @@ def render_papers(records: list[dict], year_level: int = 2) -> str:
                 reverse=True,
             )
             for paper in by_month:
+                labels = " · ".join(f"`{label_names[label]}`" for label in effective_labels(paper))
                 if paper.get("discovery_candidate"):
                     sources = ", ".join(paper.get("source_signals", ["academic-search"]))
                     authors = ", ".join(paper.get("authors", [])[:8])
@@ -61,6 +66,7 @@ def render_papers(records: list[dict], year_level: int = 2) -> str:
                     sections.append(
                         f"- 🔎 **[{paper['title']}]({paper['url']})** — `discovery candidate`; awaiting primary-paper curation.  \n"
                         f"  {str(paper['date'])} · `{paper.get('classification_method', 'query-hint')}` · `{sources}`  \n"
+                        f"  Labels: {labels or 'pending'}  \n"
                         f"  Authors: {authors or 'metadata pending'}\n"
                     )
                 else:
@@ -73,6 +79,7 @@ def render_papers(records: list[dict], year_level: int = 2) -> str:
                     sections.append(
                         f"- **[{paper['title']}]({paper['url']})** — {paper['key_idea']}  \n"
                         f"  {str(paper['date'])} · {tags}{code}  \n"
+                        f"  Labels: {labels or 'pending'}  \n"
                         f"  Authors: {authors or 'metadata pending'}"
                         + (f"  \n  Institutions*: {institutions}" if institutions else "")
                         + "\n"
@@ -123,6 +130,28 @@ def render_index(taxonomy: list[dict], records: list[dict]) -> str:
     return "\n".join(lines) + "\n"
 
 
+def render_label_catalog(records: list[dict]) -> str:
+    from radar.labels import effective_labels, vocabulary
+
+    counts = {label["id"]: 0 for label in vocabulary()}
+    for paper in records:
+        for label in effective_labels(paper):
+            counts[label] += 1
+    lines = [
+        "# Controlled label directory",
+        "",
+        "[← Back to the atlas](README.md) · [Open interactive filters](https://undefinted.github.io/Awesome-Post-Training-Atlas/)",
+        "",
+        "Labels are extracted reproducibly from title, abstract, reviewed key idea, and existing tags. Counts include curated and provisional academic-discovery records.",
+        "",
+        "| Category | Label | Papers | Definition |",
+        "|---|---|---:|---|",
+    ]
+    for label in sorted(vocabulary(), key=lambda item: (item["category"], item["title"].lower())):
+        lines.append(f"| {label['category']} | `{label['title']}` | {counts[label['id']]} | {label['description']} |")
+    return "\n".join(lines) + "\n"
+
+
 def update_readme(check: bool = False) -> bool:
     taxonomy = load_yaml(ROOT / "config" / "taxonomy.yaml")["directions"]
     records = all_records()
@@ -136,6 +165,7 @@ def update_readme(check: bool = False) -> bool:
         DIRECTIONS_DIR / f"{direction['id']}.md": direction_page(direction, records)
         for direction in taxonomy
     }
+    expected_pages[LABELS_OUTPUT] = render_label_catalog(records)
     stale_pages = [page for page, content in expected_pages.items() if not page.exists() or page.read_text(encoding="utf-8") != content]
     if check and (changed or stale_pages):
         raise SystemExit("README or direction pages are stale; run python -m radar.render")

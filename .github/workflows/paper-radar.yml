@@ -32,9 +32,11 @@ jobs:
         run: python -m radar.main --days "$RADAR_DAYS"
       - name: Validate generated candidates
         run: |
+          python -m radar.labels
           python -m radar.render
           python -m radar.site
           python -m unittest discover -s tests
+          python -m radar.labels --check
           python -m radar.render --check
           python -m radar.coverage --check
           python -m radar.site --check

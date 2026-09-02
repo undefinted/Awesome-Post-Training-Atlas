@@ -7,7 +7,7 @@
 [![Paper Radar](https://github.com/undefinted/Awesome-Post-Training-Atlas/actions/workflows/paper-radar.yml/badge.svg)](https://github.com/undefinted/Awesome-Post-Training-Atlas/actions/workflows/paper-radar.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-🔎 **[Open the searchable research website](https://undefinted.github.io/Awesome-Post-Training-Atlas/)**
+🔎 **[Open the searchable research website](https://undefinted.github.io/Awesome-Post-Training-Atlas/)** · [Browse the controlled label directory](LABELS.md)
 
 Most paper lists answer *what was published*. This atlas tries to answer three
 more useful questions:
@@ -56,19 +56,25 @@ Each direction has its own chronological page. Counts include curated papers and
 
 ## Paper Radar
 
-The repository contains two complementary discovery agents:
+The repository contains complementary discovery and curation agents:
 
 1. the Daily Radar searches 31 direction-specific arXiv queries with pagination
    and adds Hugging Face Daily Papers popularity and code signals;
-2. the Weekly Backfill Radar walks paginated arXiv results over a declared
-   historical date range and persists a cursor for every taxonomy query;
-3. candidate slots are balanced per direction so a high-volume topic cannot
+2. the Direction-Month Coverage Radar audits every direction × month cell
+   directly on arXiv, records exact queries, scan limits, counts, and failures,
+   then rebuilds all chronological pages and the website in its pull request;
+3. the historical Backfill Radar walks paginated arXiv results over a declared
+   date range and persists a cursor for every taxonomy query;
+4. candidate slots are balanced per direction so a high-volume topic cannot
    starve multimodal, agentic, generative-media, or embodied work;
-4. both agents deduplicate curated, rejected, and already queued records and
+5. all agents deduplicate curated, rejected, and already queued records and
    preserve the academic query and primary-source provenance;
-5. an optional LLM judges scope, classifies direction, and drafts a
+6. a controlled-vocabulary extractor assigns auditable labels such as OPD,
+   OPSD, counterfactual, distillation, RLVR, agent, VLM, and VLA; the website
+   supports ANY/ALL multi-label filtering together with year and month;
+7. an optional LLM judges scope, classifies direction, and drafts a
    one-sentence key idea;
-6. each run opens a reviewable pull request instead of silently modifying the
+8. each run opens a reviewable pull request instead of silently modifying the
    curated list.
 
 It works without an API key. To enable semantic triage, add `OPENAI_API_KEY`
@@ -78,6 +84,7 @@ as a GitHub Actions secret. `OPENAI_MODEL` is optional.
 python -m pip install -r requirements.txt
 python -m radar.main --days 7
 python -m radar.backfill --max-new 180
+python -m radar.labels
 python -m radar.render --check
 python -m radar.coverage --check
 python -m unittest discover -s tests
