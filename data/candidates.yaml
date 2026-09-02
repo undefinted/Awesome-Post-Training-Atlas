@@ -51,6 +51,7 @@ papers:
   - sft
   - grpo
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.31106
   title: 'DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution'
   date: '2026-08-31'
@@ -101,6 +102,7 @@ papers:
   - multimodal
   - video-generation
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.31100
   title: 'S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?'
   date: '2026-08-31'
@@ -164,6 +166,7 @@ papers:
   - verifier
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.31079
   title: Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization
   date: '2026-08-31'
@@ -211,6 +214,7 @@ papers:
   - preference-optimization
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.31077
   title: Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization
   date: '2026-08-31'
@@ -267,6 +271,7 @@ papers:
   - agent
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.31075
   title: 'Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence'
   date: '2026-08-31'
@@ -335,6 +340,7 @@ papers:
   - agent
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.31046
   title: Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement
   date: '2026-08-31'
@@ -391,6 +397,7 @@ papers:
   - off-policy
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.31035
   title: When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language
     Models
@@ -433,6 +440,7 @@ papers:
   auto_labels:
   - grpo
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30935
   title: 'LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation'
   date: '2026-08-31'
@@ -502,6 +510,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30910
   title: 'S3C-LLM: Skill-Code Guided Agentic Language Models for Spectrum-to-Structure Elucidation'
   date: '2026-08-31'
@@ -547,6 +556,7 @@ papers:
   - agent
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30842
   title: 'Thesis Proposal: Toward a Human-Centered and Perspective-Aware Framework for Reproducible ML Evaluation and AI Alignment'
   date: '2026-08-31'
@@ -581,6 +591,11 @@ papers:
   classification_method: academic-query-vote
   auto_labels: []
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Rochester Institute of Technology
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30841
   title: 'HSRM: Hidden-State Reward Models for Test-Time Verification'
   date: '2026-08-31'
@@ -628,6 +643,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30705
   title: 'VisLens: Single-Pass Interpretable Visual Search for Multimodal LLMs'
   date: '2026-08-31'
@@ -670,6 +686,7 @@ papers:
   - tool-use
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30679
   title: 'LCoT-GV: Graph Attention Networks for Verifying Long Reasoning Chains in Large Language Models'
   date: '2026-08-31'
@@ -706,6 +723,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30672
   title: 'HiRS-Agent: A Hierarchical Multi-Agent System for Reliable Long-Horizon Remote Sensing Task Solving'
   date: '2026-08-31'
@@ -754,6 +772,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30632
   title: 'GMTS: Gradient Magnitude-based Token Selection Improves RLVR Training for LLM Reasoning'
   date: '2026-08-31'
@@ -797,6 +816,7 @@ papers:
   - rlvr
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30597
   title: 'PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization'
   date: '2026-08-31'
@@ -835,6 +855,7 @@ papers:
   - preference-optimization
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30532
   title: 'DiffPDE: Masked Diffusion Language Models as PDE Solver'
   date: '2026-08-31'
@@ -879,6 +900,7 @@ papers:
   - grpo
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30530
   title: 'WebWorld: The Browser as a World Model for Self-Improving Web Code'
   date: '2026-08-31'
@@ -929,6 +951,7 @@ papers:
   - self-improvement
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30457
   title: Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry
   date: '2026-08-31'
@@ -976,6 +999,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30426
   title: Learning to Reason and Use Tools through Unsupervised Fine-Tuning in Task-Oriented Dialog Systems
   date: '2026-08-31'
@@ -1016,6 +1040,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30397
   title: Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation
   date: '2026-08-31'
@@ -1060,6 +1085,7 @@ papers:
   - grpo
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30325
   title: 'Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS'
   date: '2026-08-31'
@@ -1102,6 +1128,7 @@ papers:
   - sft
   - grpo
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30252
   title: 'Strong Drafts Need Compact Memories: Long-Context Speculative Decoding with Compressed KV Cache'
   date: '2026-08-31'
@@ -1142,6 +1169,7 @@ papers:
   - verifier
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30241
   title: 'PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback'
   date: '2026-08-31'
@@ -1190,6 +1218,7 @@ papers:
   auto_labels:
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30209
   title: 'DICS: Exploring Data Intrinsic Consistency for Visual Instruction Selection'
   date: '2026-08-31'
@@ -1243,6 +1272,7 @@ papers:
   - multimodal
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30141
   title: Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization
   date: '2026-08-31'
@@ -1286,6 +1316,7 @@ papers:
   - dpo
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30125
   title: 'VIBE: Video Instruction-aligned Background music gEneration'
   date: '2026-08-31'
@@ -1339,6 +1370,7 @@ papers:
   - curriculum
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30092
   title: 'Arkios: An Open Bilingual English-Nepali Language Model Trained From Scratch, with a Devanagari-Aware Tokenizer'
   date: '2026-08-30'
@@ -1384,6 +1416,7 @@ papers:
   - sft
   - tool-use
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30087
   title: 'The Nearest Target Is the Wrong One: Target Separation in Arc2Face Identity Unlearning'
   date: '2026-08-30'
@@ -1419,6 +1452,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30051
   title: Mitigating Over-Optimization in PRM-Guided Search in Mathematical Reasoning by Optimizing the Guide
   date: '2026-08-30'
@@ -1463,6 +1497,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.30005
   title: Small Language Models as Judges for Rubric-Based Reinforcement Learning
   date: '2026-08-30'
@@ -1509,6 +1544,7 @@ papers:
   - reward-model
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29999
   title: 'TEMPO: Temporally-grounded Multi-task Post-training for Large Audio-Language Models'
   date: '2026-08-30'
@@ -1561,6 +1597,7 @@ papers:
   - grpo
   - curriculum
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29966
   title: 'DataFoundry: Evolving Data Preparators via Recursive Self-Improvement'
   date: '2026-08-30'
@@ -1604,6 +1641,7 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29953
   title: 'SearchWiki: Learning to Build and Navigate Knowledge Wikis for Active Information Seeking'
   date: '2026-08-30'
@@ -1646,6 +1684,7 @@ papers:
   - tool-use
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29948
   title: 'XQDT: eXplainable and Quantitative Data-Text Alignment Metric with Feedback Signals'
   date: '2026-08-30'
@@ -1681,6 +1720,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29904
   title: 'Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model'
   date: '2026-08-30'
@@ -1721,6 +1761,7 @@ papers:
   classification_method: academic-query-vote
   auto_labels: []
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29897
   title: 'When History Is Multimodal: Rethinking Context Management for Long-Horizon Agents'
   date: '2026-08-30'
@@ -1773,6 +1814,7 @@ papers:
   - long-horizon
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29846
   title: 'Influence-Directed Distillation: Solving the Diversity Bottleneck in Sampled-Token On-Policy Distillation'
   date: '2026-08-30'
@@ -1821,6 +1863,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29841
   title: 'SkillForge: Compositional Skill Synthesis with Verification-in-the-Loop for Generating Formally Verified Dafny Programs'
   date: '2026-08-30'
@@ -1863,6 +1906,7 @@ papers:
   - agent
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29814
   title: 'FRAMEWORKERS: A Dynamic Multi-Agent Framework for AI-Generated Video Production'
   date: '2026-08-30'
@@ -1918,6 +1962,7 @@ papers:
   - long-horizon
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29783
   title: 'InspectorGPT: A Comparative Reasoning Enhanced VLM for Comprehensive Industrial Anomaly Detection'
   date: '2026-08-30'
@@ -1969,6 +2014,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29772
   title: Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving
   date: '2026-08-30'
@@ -2011,6 +2057,7 @@ papers:
   auto_labels:
   - autonomous-driving
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29622
   title: 'AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing'
   date: '2026-08-30'
@@ -2065,6 +2112,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29616
   title: 'JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction'
   date: '2026-08-30'
@@ -2122,6 +2170,7 @@ papers:
   - sft
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29600
   title: Adaptive Doubly Robust Off-Policy Evaluation for Ranking Policies under Diverse User Behavior
   date: '2026-08-30'
@@ -2163,6 +2212,7 @@ papers:
   - off-policy
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29588
   title: 'Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation'
   date: '2026-08-30'
@@ -2209,6 +2259,7 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29483
   title: 'GeoAgent: Evaluating VLM Geolocalization Through Embodied Navigation'
   date: '2026-08-30'
@@ -2255,6 +2306,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29378
   title: 'Arabic Safety Alignment as Selective Refusal: An Empirical Study of SFT, DPO, and Guard Calibration'
   date: '2026-08-29'
@@ -2298,6 +2350,7 @@ papers:
   - preference-optimization
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29374
   title: 'Think, Look, and Revise: Inconsistency-Aware Visual Self-Correction in MLLMs'
   date: '2026-08-29'
@@ -2339,6 +2392,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29357
   title: 'LiteSearch-VL: Small Multimodal Search Agents via Trajectory Distillation and Synthetic Step-DPO'
   date: '2026-08-29'
@@ -2394,6 +2448,7 @@ papers:
   - tool-use
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29280
   title: 'RAGDiffusion++: From Macro-Retrieval to Micro-Fidelity Alignment for Garment Generation'
   date: '2026-08-29'
@@ -2452,6 +2507,7 @@ papers:
   - reward-model
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29255
   title: 'A-MADiff: Attention-Guided Multi-Agent DRL with Diffusion Policies for Memory-Aware Task Orchestration in Mobile
     AIGC Networks'
@@ -2500,6 +2556,7 @@ papers:
   auto_labels:
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29212
   title: Asymmetric Phase Coding Video Watermarking
   date: '2026-08-29'
@@ -2541,6 +2598,7 @@ papers:
   - verifier
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29208
   title: 'AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models'
   date: '2026-08-29'
@@ -2589,6 +2647,7 @@ papers:
   - robotics
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29188
   title: 'Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space'
   date: '2026-08-29'
@@ -2641,6 +2700,7 @@ papers:
   - ppo
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29127
   title: 'Beyond Correctness: Validity-Oriented Evaluation of Biomedical LLM Judges'
   date: '2026-08-29'
@@ -2683,6 +2743,7 @@ papers:
   - sft
   - grpo
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.29030
   title: Learning to Follow In-Context Watermark Instructions via Self-Distillation
   date: '2026-08-29'
@@ -2727,6 +2788,11 @@ papers:
   - verifier
   - self-training
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of California, Santa Barbara
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28886
   title: 'Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation
     Buy in Open-Ended Generation'
@@ -2770,6 +2836,7 @@ papers:
   - sft
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28791
   title: Efficient Geothermal Well-Control Optimization via Diffusion-Surrogate Reinforcement Learning
   date: '2026-08-28'
@@ -2819,6 +2886,7 @@ papers:
   - long-horizon
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28771
   title: 'ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning'
   date: '2026-08-28'
@@ -2868,6 +2936,7 @@ papers:
   - rlvr
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28726
   title: 'Pro-Router: Token-Aware Progressive Model Routing with Adaptive Edge-Cloud Collaboration for Efficient Multimodal
     LLM Inference'
@@ -2915,6 +2984,7 @@ papers:
   - verifier
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28725
   title: 'Beyond the Answer Key: Robustness Evaluation of Large Language Models for Step-Level Mathematical Verification'
   date: '2026-08-28'
@@ -2958,6 +3028,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28496
   title: 'Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation'
   date: '2026-08-28'
@@ -2997,6 +3068,7 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28490
   title: 'LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment'
   date: '2026-08-28'
@@ -3041,6 +3113,7 @@ papers:
   - self-improvement
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28458
   title: 'Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents'
   date: '2026-08-28'
@@ -3081,6 +3154,7 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28447
   title: 'Learning to Use Tools: Reinforcement Learning for Tool-Integrated Mathematical Reasoning'
   date: '2026-08-28'
@@ -3132,6 +3206,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28421
   title: 'Program Learning with Verifiable Rewards: Symbolic Backpropagation for Post-Training LLMs'
   date: '2026-08-28'
@@ -3177,6 +3252,7 @@ papers:
   - rlvr
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28406
   title: Post-Training VLMs for Video Mistake Detection
   date: '2026-08-28'
@@ -3222,6 +3298,7 @@ papers:
   - sft
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28306
   title: 'VISTA: Verifier-Informed Student-to-Teacher Adaptation for On-Policy Self-Distillation'
   date: '2026-08-28'
@@ -3276,6 +3353,7 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28158
   title: 'HARTS: Efficient Agentic Reinforcement Learning for Hybrid-Attention Models over Arbitrary Rollout Trees'
   date: '2026-08-28'
@@ -3323,6 +3401,7 @@ papers:
   auto_labels:
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28128
   title: 'VICT: Verifier-Instrumented Credit Tracing for Long-Horizon LLM Agent Reinforcement Learning'
   date: '2026-08-28'
@@ -3367,6 +3446,7 @@ papers:
   - verifier
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28062
   title: 'WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents'
   date: '2026-08-28'
@@ -3419,6 +3499,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27960
   title: 'When Teacher Guidance Misleads: Reward-Aligned On-Policy Distillation'
   date: '2026-08-28'
@@ -3469,6 +3550,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27893
   title: 'CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement
     Learning'
@@ -3522,6 +3604,7 @@ papers:
   - vlm
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27867
   title: 'CoRe-MoE: Compact Reusable MoE for Continual Multimodal Instruction Tuning'
   date: '2026-08-28'
@@ -3567,6 +3650,11 @@ papers:
   - sft
   - multimodal
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Institute of Information Engineering, Chinese Academy of Sciences
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27857
   title: 'SpikeOPD: Stable On-Policy Distillation for Autoregressive Spiking Language Models'
   date: '2026-08-28'
@@ -3619,6 +3707,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27796
   title: 'ReToolSQL: Agentic Reinforcement Learning for Robust Text-to-SQL'
   date: '2026-08-28'
@@ -3677,6 +3766,7 @@ papers:
   - multi-turn
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27505
   title: A Survey on Rubric-Guided Reinforcement Learning for Language Models
   date: '2026-08-27'
@@ -3724,6 +3814,7 @@ papers:
   - agent
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27501
   title: 'INSPIRE: An Internalize-Then-Improve Approach for Example-Driven Mathematical Reasoning'
   date: '2026-08-27'
@@ -3768,6 +3859,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27448
   title: 'TTPO: Test-Time Policy Optimization'
   date: '2026-08-27'
@@ -3822,6 +3914,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27420
   title: Boosting LLM Exploration via Weak-Model Guidance in RLVR
   date: '2026-08-27'
@@ -3865,6 +3958,7 @@ papers:
   - rlvr
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27417
   title: 'Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information'
   date: '2026-08-27'
@@ -3908,6 +4002,7 @@ papers:
   - sft
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27409
   title: 'Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms'
   date: '2026-08-27'
@@ -3964,6 +4059,7 @@ papers:
   - rlvr
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27351
   title: 'Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO'
   date: '2026-08-27'
@@ -4014,6 +4110,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27266
   title: 'Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search'
   date: '2026-08-27'
@@ -4054,6 +4151,7 @@ papers:
   - agent
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27254
   title: 'Circuit Condensation: Post-Training that Concentrates a Behavior''s Causal Circuit'
   date: '2026-08-27'
@@ -4090,6 +4188,7 @@ papers:
   status: candidate
   auto_labels: []
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27161
   title: 'STAR : Sentence Translation Alignment Rate for Document-to-Document Machine Translation'
   date: '2026-08-27'
@@ -4129,6 +4228,7 @@ papers:
   - preference-optimization
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27141
   title: 'Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents'
   date: '2026-08-27'
@@ -4182,6 +4282,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27065
   title: 'Video-OPSD: Exploiting Privileged Visual Evidence for On-Policy Self-Distillation in Video Large Language Models'
   date: '2026-08-27'
@@ -4233,6 +4334,7 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27046
   title: Performance Foundations of Parallel & Distributed Reasoning Language Models
   date: '2026-08-27'
@@ -4295,6 +4397,7 @@ papers:
   - long-horizon
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.27032
   title: Disentangling Optimization Scale from Preference Scale in DPO
   date: '2026-08-27'
@@ -4331,6 +4434,7 @@ papers:
   - dpo
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26982
   title: 'JudgeStealer: Extracting LLM Judging Capabilities across Evaluation Protocols'
   date: '2026-08-27'
@@ -4378,6 +4482,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26956
   title: 'RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing'
   date: '2026-08-27'
@@ -4433,6 +4538,7 @@ papers:
   - multimodal
   - image-generation
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26872
   title: 'Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher'
   date: '2026-08-27'
@@ -4484,6 +4590,7 @@ papers:
   - on-policy
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26867
   title: 'BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click'
   date: '2026-08-27'
@@ -4524,6 +4631,7 @@ papers:
   - agent
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26820
   title: 'LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning'
   date: '2026-08-27'
@@ -4571,6 +4679,7 @@ papers:
   - sft
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26762
   title: 'Equal Ranking Quality, Different Decisions: Training Order-Consistent LLM Scorers'
   date: '2026-08-27'
@@ -4614,6 +4723,7 @@ papers:
   - sft
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26735
   title: Preserving General Capabilities during Domain Specialization with Uncertainty-Calibrated MOPD
   date: '2026-08-27'
@@ -4661,6 +4771,7 @@ papers:
   - reasoning
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26716
   title: 'Beyond Atomic Layouts: Compositional Design Understanding with Vision-Language Models'
   date: '2026-08-27'
@@ -4708,6 +4819,11 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Northeastern University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26684
   title: 'Reason in the Words You Speak: Idiolectal Paraphrasing Off-Policy Traces for Reasoning Distillation in VideoLLMs'
   date: '2026-08-27'
@@ -4769,6 +4885,11 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Korea University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26659
   title: Simple Actors and Deep Critics for Scalable Reinforcement Learning
   date: '2026-08-27'
@@ -4811,6 +4932,7 @@ papers:
   - distillation
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26658
   title: 'PailitaoGR: Latent Think-with-Images for Generative Image Retrieval'
   date: '2026-08-27'
@@ -4862,6 +4984,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26596
   title: 'Not Just Reason, Not Just Scan: Reinforcement Learning for Proactive Scientific Error Verification over Academic
     Paper'
@@ -4906,6 +5029,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26582
   title: 'J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data'
   date: '2026-08-27'
@@ -4944,6 +5068,7 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26563
   title: 'SPT: Skills as Pre-Training Data for Agentic Language Models'
   date: '2026-08-27'
@@ -4981,6 +5106,11 @@ papers:
   auto_labels:
   - agent
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Beijing University of Posts and Telecommunications
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26550
   title: 'SPEAR: Distilling Domain-Adaptive Reasoning Skeletons via Sequential Symbolic Alignment in Reinforcement Learning'
   date: '2026-08-27'
@@ -5035,6 +5165,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26530
   title: 'PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents'
   date: '2026-08-27'
@@ -5083,6 +5214,7 @@ papers:
   - self-improvement
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26495
   title: 'Video-FLAIR: Not Whether to Reason, But How'
   date: '2026-08-27'
@@ -5121,6 +5253,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26432
   title: 'SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning'
   date: '2026-08-26'
@@ -5177,6 +5310,7 @@ papers:
   - multi-turn
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26418
   title: 'Redwood: A Frontier AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI'
   date: '2026-08-26'
@@ -5217,6 +5351,7 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26372
   title: Knowledge-Verified Emergent Deception in LLM Agents Under Conflicting Incentives
   date: '2026-08-26'
@@ -5260,6 +5395,7 @@ papers:
   auto_labels:
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26334
   title: 'ProofEvolve: Neuro-Symbolic Evolution for Formal Automated Theorem Proving'
   date: '2026-08-26'
@@ -5307,6 +5443,12 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Rochester
+  - University of Virginia
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26329
   title: 'Neuro-symbolic PRM: Enhancing Scientific Reasoning via Structured Traces and Symbolic Verification'
   date: '2026-08-26'
@@ -5356,6 +5498,7 @@ papers:
   - synthetic-data
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26324
   title: 'Privacy Without Regret: Differentially Private Inference-Time Alignment'
   date: '2026-08-26'
@@ -5398,6 +5541,7 @@ papers:
   - rejection-sampling
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26105
   title: 'VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning'
   date: '2026-08-26'
@@ -5502,6 +5646,12 @@ papers:
   - video-generation
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - MMLab@NTU, Nanyang Technological University
+  - Nanyang Technological University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26053
   title: '$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning'
   date: '2026-08-26'
@@ -5556,6 +5706,11 @@ papers:
   - robotics
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Carnegie Mellon University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26019
   title: 'DualOPSD: Adaptive Privileged Teachers for On-Policy Self-Distillation'
   date: '2026-08-26'
@@ -5596,6 +5751,7 @@ papers:
   - self-training
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26013
   title: 'VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following'
   date: '2026-08-26'
@@ -5651,6 +5807,7 @@ papers:
   - agent
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26004
   title: 'AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs'
   date: '2026-08-26'
@@ -5697,6 +5854,11 @@ papers:
   - multi-turn
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Science and Technology of China
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25936
   title: 'One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation'
   date: '2026-08-26'
@@ -5748,6 +5910,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25826
   title: Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training
   date: '2026-08-26'
@@ -5796,6 +5959,11 @@ papers:
   - multi-turn
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - SCIR
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25756
   title: 'TailSFT: Filtered Fine-Tuning Improves Post-Training Performance'
   date: '2026-08-26'
@@ -5844,6 +6012,7 @@ papers:
   - reasoning
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25643
   title: A Token-Level Analysis of Sampled-Token Reverse-KL On-Policy Distillation
   date: '2026-08-26'
@@ -5896,6 +6065,11 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Fudan University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25637
   title: 'AutoVerifier: Residual-Guided Non-Parametric Optimization for Reference-Based Answer Verification'
   date: '2026-08-26'
@@ -5935,6 +6109,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25622
   title: 'Plans You Can Check: Verifier-Grounded Learning of an Open-Weight Planner for Executable Video-Editing'
   date: '2026-08-26'
@@ -5981,6 +6156,7 @@ papers:
   - distillation
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25605
   title: 'From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation'
   date: '2026-08-26'
@@ -6017,6 +6193,7 @@ papers:
   - sft
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25580
   title: 'V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning'
   date: '2026-08-26'
@@ -6074,6 +6251,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25572
   title: 'ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models'
   date: '2026-08-26'
@@ -6117,6 +6295,7 @@ papers:
   auto_labels:
   - synthetic-data
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25559
   title: 'AdaVDR: Adaptive Tool Use and Reflection for Video Deep Research'
   date: '2026-08-26'
@@ -6171,6 +6350,7 @@ papers:
   - tool-use
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25518
   title: Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models
   date: '2026-08-26'
@@ -6215,6 +6395,7 @@ papers:
   - agent
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25452
   title: 'VGA-BenchV2: An Expanded Unified Benchmark and Multi-Model Framework for Evaluating Video Aesthetics and Generation
     Quality'
@@ -6270,6 +6451,7 @@ papers:
   - vlm
   - video-generation
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25428
   title: 'DCGC: Draft-Conditioned Global Correction for Complex Reasoning with Masked Diffusion Models'
   date: '2026-08-26'
@@ -6311,6 +6493,7 @@ papers:
   - diffusion
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25358
   title: 'Where vs What: Decomposing Structural and Content Failures in LLM-Generated Structured Outputs'
   date: '2026-08-26'
@@ -6353,6 +6536,7 @@ papers:
   - grpo
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25356
   title: 'Where to Look Matters: On-Policy Self-Distillation for Long-Video Understanding'
   date: '2026-08-26'
@@ -6403,6 +6587,7 @@ papers:
   - self-training
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25350
   title: 'Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning'
   date: '2026-08-26'
@@ -6457,6 +6642,7 @@ papers:
   - vlm
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25299
   title: 'PointRL: Learning Point-Level Vision-Language Grounding from Verifiable Annotation Evidence'
   date: '2026-08-26'
@@ -6502,6 +6688,7 @@ papers:
   - vlm
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25243
   title: 'From Memorization to Absorption: Mixed-Policy RL for Continual Knowledge Injection'
   date: '2026-08-26'
@@ -6547,6 +6734,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28675
   title: Multi-Agent Self-Improving Reinforcement Learning for Video Reasoning
   date: '2026-08-25'
@@ -6595,6 +6783,7 @@ papers:
   - self-improvement
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25200
   title: 'MoPLEx: Estimating Plackett-Luce Mixture Models for Multi-Objective Alignment'
   date: '2026-08-25'
@@ -6636,6 +6825,7 @@ papers:
   auto_labels:
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25198
   title: Tunable Tool-Call Rates in LLM Agents via Representation Steering
   date: '2026-08-25'
@@ -6682,6 +6872,7 @@ papers:
   - tool-use
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25177
   title: 'AudioLens: Multi-Perspective Speech Clustering with Reasoning Audio-Language Models'
   date: '2026-08-25'
@@ -6735,6 +6926,7 @@ papers:
   - preference-optimization
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.25114
   title: 'Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment'
   date: '2026-08-25'
@@ -6793,6 +6985,7 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24987
   title: 'D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation'
   date: '2026-08-25'
@@ -6844,6 +7037,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24982
   title: 'Unsupervised Post-Training of Foundation Models: A Survey'
   date: '2026-08-25'
@@ -6891,6 +7085,12 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institutions:
+  - HKUST
+  - Tsinghua University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24876
   title: Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
   date: '2026-08-25'
@@ -6938,6 +7138,7 @@ papers:
   - self-improvement
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24859
   title: Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement
   date: '2026-08-25'
@@ -6980,6 +7181,7 @@ papers:
   auto_labels:
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24794
   title: 'CAFE: Self-Improving Search Agents Need Co-Evolving Feedback'
   date: '2026-08-25'
@@ -7040,6 +7242,11 @@ papers:
   - agent
   - hallucination
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Fudan University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24735
   title: 'Meta$^n$: Recursive Self-Improvement through Emergent Depth'
   date: '2026-08-25'
@@ -7080,6 +7287,11 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Minnesota Twin Cities
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24696
   title: On-policy Distillation with Verifiable Reward
   date: '2026-08-25'
@@ -7137,6 +7349,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24646
   title: On-Policy Self-Distillation in Diffusion Models
   date: '2026-08-25'
@@ -7200,6 +7413,7 @@ papers:
   - self-training
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24588
   title: 'IAPO: Influence-Aware Policy Optimization for Credit Assignment in Multi-Turn Service Agents'
   date: '2026-08-25'
@@ -7245,6 +7459,7 @@ papers:
   - multi-turn
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24571
   title: Joint Optimization of Tool Creation and Use for Large Language Model Agents
   date: '2026-08-25'
@@ -7288,6 +7503,7 @@ papers:
   - tool-use
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24534
   title: Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models
   date: '2026-08-25'
@@ -7335,6 +7551,7 @@ papers:
   - reasoning
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24482
   title: 'Beyond Static Interpretability: Anticipating Post-SFT Mechanisms from Pre-SFT Parameters for Better Tuning'
   date: '2026-08-25'
@@ -7376,6 +7593,11 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Xi'an Jiaotong University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24350
   title: 'FARCA: Fact-Aligned Reliability-Aware Credit Assignment for Reinforcement Learning with Factual Supervision'
   date: '2026-08-25'
@@ -7422,6 +7644,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24338
   title: 'Selective Regenerative Decoding: Trajectory-Level Intervention for Inference-Time Reasoning'
   date: '2026-08-25'
@@ -7467,6 +7690,11 @@ papers:
   - reward-model
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - AWS AI Labs
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24310
   title: 'OPDSearch+: On-Policy Distillation with RL Refinement for Search-Augmented Reasoning'
   date: '2026-08-25'
@@ -7520,6 +7748,7 @@ papers:
   - multi-turn
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24302
   title: 'VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models'
   date: '2026-08-25'
@@ -7562,6 +7791,7 @@ papers:
   - agent
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24300
   title: Contrastive Branch Policy Optimization
   date: '2026-08-25'
@@ -7618,6 +7848,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24275
   title: 'RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards'
   date: '2026-08-25'
@@ -7663,6 +7894,7 @@ papers:
   - rlvr
   - grpo
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24231
   title: 'RecurSE: Bounded Recursive Self-Evaluation for LLM Rubric Judges'
   date: '2026-08-25'
@@ -7713,6 +7945,7 @@ papers:
   - self-improvement
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24192
   title: Preference Data Selection for Mitigating the Alignment Tax in Large Language Models
   date: '2026-08-25'
@@ -7755,6 +7988,11 @@ papers:
   auto_labels:
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Korea Advanced Institute of Science and Technology
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24174
   title: Task-Adaptive Rubrics for GUI Reward Modeling
   date: '2026-08-25'
@@ -7804,6 +8042,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24163
   title: Preference Optimization for Non-Verbal Vocalization Synthesis
   date: '2026-08-25'
@@ -7847,6 +8086,7 @@ papers:
   - dpo
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24135
   title: Robust Code RL via Faulty-Code-Driven Test case Synthesis and Dense Reward Shaping
   date: '2026-08-25'
@@ -7891,6 +8131,7 @@ papers:
   - rlvr
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24101
   title: 'TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks'
   date: '2026-08-25'
@@ -7940,6 +8181,7 @@ papers:
   - reward-model
   - vla
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24087
   title: 'Knowing When to Ask for Help: Bayesian Self-Escalation in Hierarchical LLM Agents'
   date: '2026-08-25'
@@ -7980,6 +8222,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24046
   title: Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment
   date: '2026-08-25'
@@ -8021,6 +8264,7 @@ papers:
   auto_labels:
   - rlhf
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24040
   title: 'PinSieve: Production Selective VLM Serving and a Governed Memory Flywheel for Enterprise Content-Quality Triage'
   date: '2026-08-25'
@@ -8070,6 +8314,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24026
   title: 'NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning'
   date: '2026-08-25'
@@ -8112,6 +8357,7 @@ papers:
   - preference-optimization
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.26193
   title: 'AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes'
   date: '2026-08-24'
@@ -8163,6 +8409,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24952
   title: 'The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline'
   date: '2026-08-24'
@@ -8205,6 +8452,11 @@ papers:
   - reward-model
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Oxford
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.24949
   title: Demystifying Reinforcement Learning Post-Training of Language Models
   date: '2026-08-24'
@@ -8255,6 +8507,11 @@ papers:
   - reasoning
   - code
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Allen Institute for Artificial Intelligence
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23911
   title: 'PROOF-Gen: From Optimized Data to Better Distillation'
   date: '2026-08-24'
@@ -8299,6 +8556,7 @@ papers:
   - sft
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23897
   title: 'Names Can Hurt: Spotting Slopsquatting Risks Caused by Package Name Hallucinations in Local Coding LLMs'
   date: '2026-08-24'
@@ -8342,6 +8600,7 @@ papers:
   - code
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23812
   title: 'From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers'
   date: '2026-08-24'
@@ -8379,6 +8638,7 @@ papers:
   status: candidate
   auto_labels: []
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23719
   title: 'ADE: Agentic Data Evolution Framework for Human-Centered Objectives'
   date: '2026-08-24'
@@ -8423,6 +8683,7 @@ papers:
   - synthetic-data
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23664
   title: Scaling Reinforcement Learning for Diffusion Models via Velocity Matching
   date: '2026-08-24'
@@ -8473,6 +8734,11 @@ papers:
   - diffusion
   - video-generation
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Georgia Institute of Technology
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23549
   title: 'FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors'
   date: '2026-08-24'
@@ -8517,6 +8783,7 @@ papers:
   - dpo
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23541
   title: 'The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams'
   date: '2026-08-24'
@@ -8556,6 +8823,11 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Chicago
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23493
   title: 'SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning'
   date: '2026-08-24'
@@ -8608,6 +8880,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23375
   title: Adversarial Entropy Inflation Against Gumbel-Based Inference Verification
   date: '2026-08-24'
@@ -8643,6 +8916,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23329
   title: 'Thinking Beyond Videos: Unifying Video Reasoning and Deep Research for Open-World Video Agents'
   date: '2026-08-24'
@@ -8710,6 +8984,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23318
   title: 'Agent-G$^2$: Gaussian Guidance for Agentic Reinforcement Learning'
   date: '2026-08-24'
@@ -8757,6 +9032,7 @@ papers:
   - agent
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23256
   title: Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data
   date: '2026-08-24'
@@ -8810,6 +9086,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23200
   title: 'LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks'
   date: '2026-08-24'
@@ -8857,6 +9134,7 @@ papers:
   - math
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23149
   title: 'Language Chain in Alignment: Cross-lingual Ranking Preference Optimization'
   date: '2026-08-24'
@@ -8897,6 +9175,7 @@ papers:
   auto_labels:
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23138
   title: 'Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation'
   date: '2026-08-24'
@@ -8945,6 +9224,7 @@ papers:
   - vla
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23035
   title: 'MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks'
   date: '2026-08-24'
@@ -8997,6 +9277,11 @@ papers:
   - tool-use
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institutions:
+  - KU Leuven
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22971
   title: 'ParallelWorld: Test-Time Scaling for Embodied Reasoning'
   date: '2026-08-24'
@@ -9046,6 +9331,7 @@ papers:
   - long-horizon
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22963
   title: 'Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents'
   date: '2026-08-24'
@@ -9098,6 +9384,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22854
   title: 'Thinking at the Right Size: Amortized Distillation Across Post-Trained LLMs'
   date: '2026-08-24'
@@ -9145,6 +9432,12 @@ papers:
   - sft
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Harvard University
+  - Microsoft Research
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22847
   title: 'GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis'
   date: '2026-08-24'
@@ -9203,6 +9496,7 @@ papers:
   - agent
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22842
   title: 'FinixDoc: Rethinking Financial Document Parsing Beyond Saturated Benchmarks'
   date: '2026-08-24'
@@ -9256,6 +9550,7 @@ papers:
   - agent
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22806
   title: 'DIAG: Diagnostic Iterative Alignment and Generation for Data-Efficient Mathematical Preference Distillation'
   date: '2026-08-24'
@@ -9301,6 +9596,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22788
   title: 'TailSieve: Partial-Rollout-Guided Tail Routing for LLM Rollouts'
   date: '2026-08-24'
@@ -9364,6 +9660,12 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Nanjing University
+  - The University of Melbourne
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22780
   title: Can We Perform Online RL for Image Editing without Editing Rewards?
   date: '2026-08-24'
@@ -9413,6 +9715,7 @@ papers:
   - vlm
   - image-generation
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22772
   title: 'SPOC-SQL: Stage-wise Preference Optimization for Controllable Text-to-SQL'
   date: '2026-08-24'
@@ -9453,6 +9756,7 @@ papers:
   - preference-optimization
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.23632
   title: Function-Level Execution Feedback for Code Preference Optimization
   date: '2026-08-23'
@@ -9502,6 +9806,7 @@ papers:
   - math
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22631
   title: Learning Generalizable Behaviors for Terminal Agents
   date: '2026-08-23'
@@ -9550,6 +9855,7 @@ papers:
   - verifier
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22533
   title: 'CONTRAMEM: Learning Self-Evolving Procedural Memory from Contrasting Multi-Model Trajectories'
   date: '2026-08-23'
@@ -9604,6 +9910,7 @@ papers:
   - self-improvement
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22429
   title: 'Think with Structured Grounding: Perceptual Reinforcement Learning for Chart and Visual-Tabular Understanding'
   date: '2026-08-23'
@@ -9665,6 +9972,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22364
   title: 'WAM-OPD: On-Policy Distillation for World Action Models'
   date: '2026-08-23'
@@ -9712,6 +10020,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22278
   title: 'DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model'
   date: '2026-08-23'
@@ -9756,6 +10065,7 @@ papers:
   - distillation
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22232
   title: 'Beyond What Meets the Eye: Unveiling Situational Illusions for Multimodal Large Language Models'
   date: '2026-08-23'
@@ -9803,6 +10113,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22217
   title: 'UR$^{2}$-MLLM: Uncertainty-aware Revisit Reasoning in Multimodal Large Language Models for Radiology Report Generation'
   date: '2026-08-23'
@@ -9847,6 +10158,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22196
   title: Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction
   date: '2026-08-23'
@@ -9885,6 +10197,7 @@ papers:
   - verifier
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22187
   title: 'BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured
     World Generation'
@@ -9940,6 +10253,7 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22167
   title: 'MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning'
   date: '2026-08-23'
@@ -9986,6 +10300,7 @@ papers:
   - tool-use
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22126
   title: Decoupled Physical Modeling and Execution for Physics Reasoning
   date: '2026-08-22'
@@ -10040,6 +10355,11 @@ papers:
   - reasoning
   - code
   label_method: controlled-vocabulary-v1
+  institutions:
+  - William & Mary
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.22014
   title: 'DynaContext: Self-Improving Dynamic Contextualization of Optimized Prompts for Heterogeneous Parameter Extraction'
   date: '2026-08-22'
@@ -10081,6 +10401,7 @@ papers:
   - verifier
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21946
   title: 'EDGE: Experience-Distillation for Guided Exploration in Agentic Reinforcement Learning'
   date: '2026-08-22'
@@ -10131,6 +10452,7 @@ papers:
   - agent
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21883
   title: 'VIG: Visual Information Gain as a Reward Signal for Multimodal Chain-of-Thought Compression'
   date: '2026-08-22'
@@ -10173,6 +10495,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21871
   title: 'The Chase Is the Curriculum, the Capture Anchors the Credit: Pursuit-Evasion Self-Play for Zero-Data LLM Reasoning'
   date: '2026-08-22'
@@ -10218,6 +10541,7 @@ papers:
   - curriculum
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21864
   title: 'BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications'
   date: '2026-08-22'
@@ -10268,6 +10592,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21863
   title: 'HiDiffTIR: Hierarchical Difficulty-Aware Policy Optimization for Multi-Turn Tool-Integrated Reasoning'
   date: '2026-08-22'
@@ -10318,6 +10643,7 @@ papers:
   - multi-turn
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21839
   title: 'FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling'
   date: '2026-08-22'
@@ -10367,6 +10693,7 @@ papers:
   - video-generation
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21830
   title: 'Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents'
   date: '2026-08-22'
@@ -10416,6 +10743,7 @@ papers:
   - grpo
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21811
   title: 'Hints, Critics, and Teachers: Prior Injection for Sparse-Reward RL in Vision-Language Math Reasoning'
   date: '2026-08-22'
@@ -10463,6 +10791,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21808
   title: 'MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning'
   date: '2026-08-22'
@@ -10507,6 +10836,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21796
   title: 'SAFE-G: Structure-aware Faithful Evidence-guided Generation for Knowledge-based Visual Question Answering'
   date: '2026-08-22'
@@ -10555,6 +10885,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21792
   title: 'HIRA: A Human-in-the-Loop Retrieval-Augmented Cascade for Document Classification in Regulated Industries'
   date: '2026-08-22'
@@ -10601,6 +10932,7 @@ papers:
   - distillation
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21740
   title: 'CounterAlign: Counterfactual Supervision for Vision-Language-Action Models'
   date: '2026-08-22'
@@ -10646,6 +10978,7 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21727
   title: Reinforcement Learning on Benign Facts Amplifies Leakage of Memorized Private Data
   date: '2026-08-22'
@@ -10686,6 +11019,7 @@ papers:
   - rlvr
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28660
   title: Test-Time Scaling for Scientific Equation Discovery
   date: '2026-08-21'
@@ -10728,6 +11062,7 @@ papers:
   - reasoning
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21595
   title: 'Perturb the Thought, Not the Pixels: Latent-Space Rollout Diversification for Reinforcement Learning of Vision-Language
     Models'
@@ -10776,6 +11111,7 @@ papers:
   - math
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21500
   title: 'SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation'
   date: '2026-08-21'
@@ -10823,6 +11159,7 @@ papers:
   - agent
   - tool-use
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21315
   title: 'Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations
     of it that failed'
@@ -10863,6 +11200,7 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21305
   title: 'Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning'
   date: '2026-08-21'
@@ -10913,6 +11251,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21229
   title: 'Anchoring Instruction Outside Mask: Exact Reference Caching for Efficient In-Context Diffusion Transformers'
   date: '2026-08-21'
@@ -10963,6 +11302,7 @@ papers:
   - on-policy
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21204
   title: 'Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning'
   date: '2026-08-21'
@@ -11010,6 +11350,7 @@ papers:
   - self-improvement
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21156
   title: 'Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence'
   date: '2026-08-21'
@@ -11086,6 +11427,7 @@ papers:
   - self-improvement
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20975
   title: 'Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language
     Models'
@@ -11131,6 +11473,7 @@ papers:
   - robotics
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20913
   title: Explainable Deepfake Detection with Feature-robust Augmentation and Evidence-grounded Explanation Optimization
   date: '2026-08-21'
@@ -11173,6 +11516,7 @@ papers:
   auto_labels:
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20831
   title: 'STAR-OPD: Structured Aspect-Cascade-Aware On-Policy Reward Distillation for ABSA Quadruple Extraction'
   date: '2026-08-21'
@@ -11220,6 +11564,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20814
   title: Enhancing Localized Reasoning for Long Video Understanding via Efficient Segment-to-Video Supervision
   date: '2026-08-21'
@@ -11267,6 +11612,11 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Shanghai Jiao Tong University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20743
   title: Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis
   date: '2026-08-21'
@@ -11326,6 +11676,7 @@ papers:
   - vla
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20720
   title: 'AffordAny: Open-World 3D Affordance Grounding from Monocular RGB Images via Vision-Language-Guided Geometric Reasoning'
   date: '2026-08-21'
@@ -11370,6 +11721,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20699
   title: 'ArtiMo: Agent-Driven Articulated Mesh Animation'
   date: '2026-08-21'
@@ -11416,6 +11768,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20670
   title: 'Why2Speak: Faithful Reasoning for Abstaining Action Policies'
   date: '2026-08-21'
@@ -11460,6 +11813,7 @@ papers:
   - agent
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20574
   title: 'FlavourBench: Executable Culinary Reward Maps for Language Model Evaluation and Post-Training'
   date: '2026-08-20'
@@ -11503,6 +11857,7 @@ papers:
   - sft
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20556
   title: 'Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model'
   date: '2026-08-20'
@@ -11549,6 +11904,7 @@ papers:
   - preference-optimization
   - vla
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20554
   title: 'aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy'
   date: '2026-08-20'
@@ -11595,6 +11951,7 @@ papers:
   - off-policy
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20492
   title: 'Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs'
   date: '2026-08-20'
@@ -11646,6 +12003,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20334
   title: Exploring the Performance Frontier of Compact Unified Image Generation Models
   date: '2026-08-20'
@@ -11712,6 +12070,7 @@ papers:
   - image-generation
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20331
   title: 'G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation'
   date: '2026-08-20'
@@ -11765,6 +12124,7 @@ papers:
   - multimodal
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20318
   title: 'AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement'
   date: '2026-08-20'
@@ -11817,6 +12177,7 @@ papers:
   - self-improvement
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20314
   title: 'MidTool: Mid-training Data Synthesis for Agentic Tool Use'
   date: '2026-08-20'
@@ -11865,6 +12226,7 @@ papers:
   - tool-use
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20290
   title: 'Phantom Gains: Auditing Self-Improvement Against a Measured Null'
   date: '2026-08-20'
@@ -11911,6 +12273,11 @@ papers:
   - self-training
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University College Dublin
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20208
   title: 'RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation'
   date: '2026-08-20'
@@ -11954,6 +12321,7 @@ papers:
   auto_labels:
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20161
   title: 'DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing'
   date: '2026-08-20'
@@ -11999,6 +12367,7 @@ papers:
   - diffusion
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20129
   title: Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving
   date: '2026-08-20'
@@ -12044,6 +12413,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20122
   title: 'ArmorOCR: Grounded Adversarial Visual Perception via Observation-Transferred Self-Distillation'
   date: '2026-08-20'
@@ -12096,6 +12466,7 @@ papers:
   - self-training
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20099
   title: Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design
   date: '2026-08-20'
@@ -12137,6 +12508,7 @@ papers:
   - reward-model
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20011
   title: 'Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking'
   date: '2026-08-20'
@@ -12180,6 +12552,7 @@ papers:
   - preference-optimization
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19893
   title: 'Interrupting the Loop: Periodic Subject Changes Raise Judged Surprise and Connection in Base Language Models'
   date: '2026-08-20'
@@ -12221,6 +12594,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19891
   title: 'EXIMO: VLM Guided Exploration of VLA Policies'
   date: '2026-08-20'
@@ -12270,6 +12644,7 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19842
   title: 'SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning'
   date: '2026-08-20'
@@ -12317,6 +12692,11 @@ papers:
   - agent
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Zhejiang University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19808
   title: 'FAR-DPO: Feasibility-Aware and Robust Direct Preference Optimization for Cyclic Peptide Design'
   date: '2026-08-20'
@@ -12361,6 +12741,7 @@ papers:
   - dpo
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19807
   title: Answer-Level Trust Selection for Physical Vision-Language Reasoning
   date: '2026-08-20'
@@ -12403,6 +12784,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19804
   title: 'ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control'
   date: '2026-08-20'
@@ -12445,6 +12827,7 @@ papers:
   status: candidate
   auto_labels: []
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19803
   title: 'MileGPO: Milestone Inference with Local Evidence for Graph-Based Policy Optimization of Long-Horizon LLM Agents'
   date: '2026-08-20'
@@ -12491,6 +12874,11 @@ papers:
   - agent
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Institute of Computational Linguistic, Peking University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19802
   title: Stopping and Routing LLM Judge Panels
   date: '2026-08-20'
@@ -12531,6 +12919,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19748
   title: 'Truncate Bad, Upweight Good: BoN-Style Distillation via Rank-Based Classification'
   date: '2026-08-20'
@@ -12571,6 +12960,7 @@ papers:
   - distillation
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19669
   title: 'Scaffolding Minds: Optimizing Latent Visual Target Representations for Multimodal Reasoning'
   date: '2026-08-20'
@@ -12619,6 +13009,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19637
   title: 'TextRefine: Improving Textual Fidelity, Spatial Placement, and Glyph Rendering for Text Editing in Product Posters'
   date: '2026-08-20'
@@ -12671,6 +13062,7 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19598
   title: 'PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment'
   date: '2026-08-20'
@@ -12718,6 +13110,7 @@ papers:
   - multimodal
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.20423
   title: 'From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological
     and Environmental Sensing'
@@ -12756,6 +13149,7 @@ papers:
   auto_labels:
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19408
   title: 'Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress'
   date: '2026-08-19'
@@ -12801,6 +13195,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19197
   title: 'SPADE: Self-Play in Adaptive Synthetic Executable Environments'
   date: '2026-08-19'
@@ -12867,6 +13262,13 @@ papers:
   - long-horizon
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Carnegie Mellon University
+  - Tsinghua University
+  - University of Chicago
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19182
   title: 'ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning'
   date: '2026-08-19'
@@ -12916,6 +13318,7 @@ papers:
   - on-policy
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19181
   title: 'Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning'
   date: '2026-08-19'
@@ -12972,6 +13375,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19098
   title: 'Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation'
   date: '2026-08-19'
@@ -13027,6 +13431,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19072
   title: 'What is Missing from AI Post-Training AI: An Empirical Analysis'
   date: '2026-08-19'
@@ -13072,6 +13477,7 @@ papers:
   auto_labels:
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19047
   title: 'Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery'
   date: '2026-08-19'
@@ -13119,6 +13525,7 @@ papers:
   - verifier
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.19009
   title: 'Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning'
   date: '2026-08-19'
@@ -13160,6 +13567,7 @@ papers:
   - reasoning
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18931
   title: 'Test-Time Scaling in the Wild: Why Exploitation, Not Exploration, Is the Bottleneck'
   date: '2026-08-19'
@@ -13201,6 +13609,7 @@ papers:
   auto_labels:
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18881
   title: 'Falcon Perception-HD: High Density Perception via Reinforcement Learning'
   date: '2026-08-19'
@@ -13247,6 +13656,7 @@ papers:
   - sft
   - grpo
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18787
   title: 'Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation'
   date: '2026-08-19'
@@ -13290,6 +13700,7 @@ papers:
   - reward-model
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18779
   title: 'SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation'
   date: '2026-08-19'
@@ -13331,6 +13742,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18770
   title: 'To Go Far, Go Together: Diverse Preferences Induce a Curriculum for Reward Optimization'
   date: '2026-08-19'
@@ -13374,6 +13786,7 @@ papers:
   - reward-model
   - curriculum
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18719
   title: 'Competence, Not Accuracy: A Diagnostic for Reference-Free Judge Gates in Skill Optimization'
   date: '2026-08-19'
@@ -13418,6 +13831,11 @@ papers:
   - rlvr
   - verifier
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Shanghai Jiao Tong University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18682
   title: 'RTPO: Reverse-Turn Policy Optimization for Stabilizing Agentic RL Training'
   date: '2026-08-19'
@@ -13463,6 +13881,7 @@ papers:
   - multi-turn
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18671
   title: 'Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI'
   date: '2026-08-19'
@@ -13507,6 +13926,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18627
   title: 'PCQA-R1: Advancing Generalized 3D Point Cloud Quality Assessment with Reinforcement Learning'
   date: '2026-08-19'
@@ -13553,6 +13973,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18607
   title: 'VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation'
   date: '2026-08-19'
@@ -13605,6 +14026,7 @@ papers:
   - reward-model
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18580
   title: 'FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis'
   date: '2026-08-19'
@@ -13657,6 +14079,11 @@ papers:
   - verifier
   - agent
   label_method: controlled-vocabulary-v1
+  institutions:
+  - USTC
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18574
   title: 'Continual Reasoning Gym: Diagnosing and Harnessing Shared Reasoning in Continual RLVR'
   date: '2026-08-19'
@@ -13699,6 +14126,7 @@ papers:
   - rlvr
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18450
   title: Adaptive Multi-Agent Feature Selection for Personalized Fall Risk Prevention
   date: '2026-08-19'
@@ -13739,6 +14167,7 @@ papers:
   auto_labels:
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21440
   title: 'Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics'
   date: '2026-08-18'
@@ -13782,6 +14211,7 @@ papers:
   - autonomous-driving
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18351
   title: Task-Conditioned Least-Privilege Learning for Executable Terminal and MCP Agents
   date: '2026-08-18'
@@ -13826,6 +14256,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18324
   title: 'Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair'
   date: '2026-08-18'
@@ -13869,6 +14300,7 @@ papers:
   - self-training
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18271
   title: Rethinking Privileged Information in On-Policy Self-Distillation
   date: '2026-08-18'
@@ -13912,6 +14344,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.18183
   title: Accelerating Visual On-Policy Distillation with Batched Speculative Jacobi Rollouts
   date: '2026-08-18'
@@ -13952,6 +14385,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17941
   title: Efficient RLVR Scheduling via Graph-Structured Online Difficulty Estimation
   date: '2026-08-18'
@@ -14002,6 +14436,7 @@ papers:
   - curriculum
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17795
   title: 'TraceSQL: Traceable Answerability Estimation for Reference-Free Text-to-SQL Verification'
   date: '2026-08-18'
@@ -14045,6 +14480,7 @@ papers:
   auto_labels:
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17776
   title: Debate Training Reduces Reward Hacking in RLAIF
   date: '2026-08-18'
@@ -14100,6 +14536,7 @@ papers:
   - verifier
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17744
   title: 'Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See'
   date: '2026-08-18'
@@ -14148,6 +14585,7 @@ papers:
   - rlvr
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17587
   title: 'Write, Execute, Refine: From Skill Followers to Skill Optimizers via Reinforcement Learning from Execution Feedback'
   date: '2026-08-18'
@@ -14196,6 +14634,7 @@ papers:
   - verifier
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17528
   title: 'Agent Lightning v1.0: Towards Harnessed Agentic RL'
   date: '2026-08-18'
@@ -14245,6 +14684,7 @@ papers:
   - coding-agent
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17512
   title: 'Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation'
   date: '2026-08-18'
@@ -14298,6 +14738,11 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Zhejiang University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17499
   title: 'Towards Better Agents for Multi-Turn User Interaction: The Next User Turn Is More Than Context'
   date: '2026-08-18'
@@ -14343,6 +14788,7 @@ papers:
   - tool-use
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17423
   title: 'Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups'
   date: '2026-08-18'
@@ -14395,6 +14841,7 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17414
   title: 'REChart: Reasoning-Efficient Chart Editing with Large Reasoning Models'
   date: '2026-08-18'
@@ -14444,6 +14891,11 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - The Hong Kong University of Science and Technology (Guangzhou)
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17411
   title: 'GUPO: Gradient Uncertainty-aware Policy Optimization for Post-Training Large Language Models'
   date: '2026-08-18'
@@ -14485,6 +14937,7 @@ papers:
   - grpo
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17328
   title: 'MS-MFAD : Multimodal large language models for Face Anti-spoofing Detection'
   date: '2026-08-18'
@@ -14533,6 +14986,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17323
   title: 'ORPA: Online Residual Policy Adaptation for Robot Manipulation Control with Human Feedback'
   date: '2026-08-18'
@@ -14570,6 +15024,7 @@ papers:
   auto_labels:
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17301
   title: 'SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning'
   date: '2026-08-18'
@@ -14613,6 +15068,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17253
   title: 'Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL'
   date: '2026-08-18'
@@ -14669,6 +15125,11 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Texas at Austin
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17220
   title: 'PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance'
   date: '2026-08-18'
@@ -14717,6 +15178,7 @@ papers:
   - verifier
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17171
   title: 'Polaris: Learning to Generate Table Descriptions from Retrieval Feedback'
   date: '2026-08-17'
@@ -14755,6 +15217,7 @@ papers:
   - dpo
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17163
   title: Q-Learning With World Models
   date: '2026-08-17'
@@ -14798,6 +15261,7 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17162
   title: 'OraclePhys: A Systematic Framework for LLM Fine-Tuning on Structural Mechanics'
   date: '2026-08-17'
@@ -14840,6 +15304,7 @@ papers:
   - grpo
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.17084
   title: Uncertainty-Aware Decision Making in Multimodal Large Language Models
   date: '2026-08-17'
@@ -14885,6 +15350,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16889
   title: 'Don''t Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory'
   date: '2026-08-17'
@@ -14932,6 +15398,7 @@ papers:
   - long-horizon
   - vla
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16837
   title: 'HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral
     Latent RL'
@@ -14990,6 +15457,11 @@ papers:
   auto_labels:
   - vla
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Xi'an Jiaotong University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16831
   title: 'Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning'
   date: '2026-08-17'
@@ -15030,6 +15502,7 @@ papers:
   - tool-use
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16798
   title: 'ClawGym II: Exploring Black-Box RL on Agent Harness'
   date: '2026-08-17'
@@ -15094,6 +15567,7 @@ papers:
   - multi-turn
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16710
   title: 'The Ethical Decision Head: Operationalizing Normative Ethics in Autonomous Vehicles via Reinforcement Learning from
     Human Feedback'
@@ -15146,6 +15620,7 @@ papers:
   - reward-model
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16697
   title: FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy
   date: '2026-08-17'
@@ -15197,6 +15672,7 @@ papers:
   - verifier
   - vla
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16647
   title: 'Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models'
   date: '2026-08-17'
@@ -15251,6 +15727,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16637
   title: 'PDDLCoder: Agentic PDDL Generation for LLM-Assisted Symbolic Planning'
   date: '2026-08-17'
@@ -15291,6 +15768,7 @@ papers:
   - agent
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16622
   title: 'HarmTrace: Anchor-Calibrated Decoupled Optimization for Fine-Grained Target Identification in Harmful Memes'
   date: '2026-08-17'
@@ -15343,6 +15821,7 @@ papers:
   - multimodal
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16620
   title: 'Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning'
   date: '2026-08-17'
@@ -15385,6 +15864,11 @@ papers:
   - agent
   - tool-use
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Pennsylvania
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16585
   title: 'SQuad: Sub-Quadratic Attention Distillation for Efficient Video Generation'
   date: '2026-08-17'
@@ -15429,6 +15913,7 @@ papers:
   - sft
   - video-generation
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16539
   title: 'Listen, Reason, and Segment: Aligning LALMs with Editorial Judgment for Media Chapterization'
   date: '2026-08-17'
@@ -15481,6 +15966,11 @@ papers:
   - grpo
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Centre for Vision, Speech & Signal Processing (CVSSP), University of Surrey
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16419
   title: 'PertMind: Eliciting Emergent Biological Reasoning in LLM via Reinforcement Learning on Cellular Perturbation Data'
   date: '2026-08-17'
@@ -15530,6 +16020,7 @@ papers:
   auto_labels:
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16417
   title: 'D2-ScaleAgent: Dual-Dimensional Scaling for Long Document Understanding'
   date: '2026-08-17'
@@ -15575,6 +16066,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16386
   title: 'Mint-Agent: Introducing Finance-Native Agentic Foundation Models'
   date: '2026-08-17'
@@ -15632,6 +16124,7 @@ papers:
   - long-horizon
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16320
   title: 'StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding'
   date: '2026-08-17'
@@ -15690,6 +16183,7 @@ papers:
   - self-training
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16316
   title: 'Deep Thought Alignment: Trajectory-Level Latent Distillation for Video Reasoning'
   date: '2026-08-17'
@@ -15740,6 +16234,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16284
   title: 'TransAnyText: Translating Arbitrary Text in E-commerce Images via Structured Visual Generation'
   date: '2026-08-17'
@@ -15803,6 +16298,7 @@ papers:
   - vlm
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16259
   title: 'Defake-o3: From Speculative Rationales to Verifiable Evidence for Explainable AIGI Detection'
   date: '2026-08-17'
@@ -15850,6 +16346,7 @@ papers:
   - image-generation
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16211
   title: 'BaT: Towards Self-Evolving Medical Research Agent with Stage Rubrics'
   date: '2026-08-17'
@@ -15900,6 +16397,7 @@ papers:
   - curriculum
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16082
   title: Towards Reasonable Molecular Structure Elucidation from Infrared Spectroscopy with Chemical Feedback
   date: '2026-08-17'
@@ -15943,6 +16441,7 @@ papers:
   auto_labels:
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16074
   title: 'US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina'
   date: '2026-08-17'
@@ -15989,6 +16488,7 @@ papers:
   auto_labels:
   - vla
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16072
   title: 'Learn What''s Left, Not What''s Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization'
   date: '2026-08-17'
@@ -16040,6 +16540,12 @@ papers:
   - math
   - code
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Northeastern University
+  - Northwestern University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.16003
   title: Prior Audit-Repair Context Shifts LLM Verifier Thresholds Toward Leniency
   date: '2026-08-17'
@@ -16081,6 +16587,7 @@ papers:
   - reasoning
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28648
   title: 'How Language Models Choose Sides: Internal Representations of Instruction Hierarchy'
   date: '2026-08-16'
@@ -16125,6 +16632,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28647
   title: Self-Specialized Teachers for Domain Post-Training
   date: '2026-08-16'
@@ -16171,6 +16679,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.21425
   title: 'Aligning Human Sense: Calibrated Distributional Reward Learning for Video Generation'
   date: '2026-08-16'
@@ -16225,6 +16734,11 @@ papers:
   - reward-model
   - video-generation
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Glasgow
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15962
   title: 'SEER: Long-Context Reasoning via Selective Visual-Text Compression'
   date: '2026-08-16'
@@ -16271,6 +16785,11 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Texas at Austin
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15949
   title: 'Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation'
   date: '2026-08-16'
@@ -16322,6 +16841,7 @@ papers:
   - preference-optimization
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15930
   title: 'UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations'
   date: '2026-08-16'
@@ -16395,6 +16915,7 @@ papers:
   - long-horizon
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15875
   title: 'GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture'
   date: '2026-08-16'
@@ -16493,6 +17014,11 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Nanjing University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15869
   title: 'Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning'
   date: '2026-08-16'
@@ -16545,6 +17071,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15763
   title: 'Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report'
   date: '2026-08-16'
@@ -16599,6 +17126,7 @@ papers:
   - tool-use
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15680
   title: 'Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation'
   date: '2026-08-16'
@@ -16655,6 +17183,7 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15605
   title: 'AlloEgo-VLM: Disambiguating Allocentric and Egocentric Reference Frames in Vision-Language Models'
   date: '2026-08-16'
@@ -16700,6 +17229,7 @@ papers:
   - vlm
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15574
   title: 'Catching Hallucinated Citations in Video-LLM Question Answering: A Self-Verification Pipeline and Verifier Ablation
     Study'
@@ -16740,6 +17270,7 @@ papers:
   - vlm
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15530
   title: 'Why Summaries Turn Neutral: Policy Attribution for Sentiment Drift in Reinforcement Learning from Human Feedback'
   date: '2026-08-16'
@@ -16779,6 +17310,7 @@ papers:
   - rlhf
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15517
   title: 'GLaQ: Grounding Latent Queries in Visual Evidence for Multimodal Reasoning'
   date: '2026-08-16'
@@ -16824,6 +17356,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15516
   title: 'UniFed-VLM: Federated Instruction Tuning for Vision-Language Models with Multiple Heterogeneity'
   date: '2026-08-16'
@@ -16875,6 +17408,7 @@ papers:
   - multimodal
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15507
   title: Do Language Models Consistently Encode the Current Year?
   date: '2026-08-16'
@@ -16920,6 +17454,11 @@ papers:
   - sft
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Stanford University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15452
   title: 'Spatially-Grounded Flow Matching: Structured Source Distributions for Image Generation'
   date: '2026-08-16'
@@ -16961,6 +17500,7 @@ papers:
   - diffusion
   - image-generation
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15436
   title: 'OTel: Building Domain-Specialized Telecom LLM Foundations for Intelligent Networks'
   date: '2026-08-15'
@@ -17008,6 +17548,11 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Texas at Dallas
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15311
   title: MoE Router-Guided Clustering for Heterogeneous Federated Instruction Tuning
   date: '2026-08-15'
@@ -17052,6 +17597,7 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15296
   title: 'FMReward: Aligning and Evaluating Audio-Driven 3D Facial Animation with Human Preferences'
   date: '2026-08-15'
@@ -17098,6 +17644,7 @@ papers:
   auto_labels:
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15265
   title: 'VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?'
   date: '2026-08-15'
@@ -17149,6 +17696,11 @@ papers:
   - multi-turn
   - multimodal
   label_method: controlled-vocabulary-v1
+  institutions:
+  - The Hong Kong University of Science and Technology (Guangzhou)
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15139
   title: 'StructRL: Structured Action-Space Exploration for Flow-Based VLAs'
   date: '2026-08-15'
@@ -17194,6 +17746,7 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15107
   title: Global Federated Learning Strategies for Building Efficient Personalized Models
   date: '2026-08-15'
@@ -17234,6 +17787,7 @@ papers:
   - distillation
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15088
   title: Max-Q Selective Imitation for Human-in-the-Loop Online Robot Learning
   date: '2026-08-15'
@@ -17276,6 +17830,7 @@ papers:
   - on-policy
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15071
   title: 'Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents'
   date: '2026-08-15'
@@ -17329,6 +17884,12 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Univeristy of Illinois Urbana Champaign
+  - University of Illinois Urbana-Champaign
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15043
   title: 'SCOPE: Score-Isolated Agentic Optimization for Video World Models'
   date: '2026-08-15'
@@ -17370,6 +17931,7 @@ papers:
   - verifier
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15026
   title: 'PACE: Phase-Progress-Aware Credit for Long-Horizon Embodied Manipulation'
   date: '2026-08-15'
@@ -17420,6 +17982,7 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.15006
   title: 'MetaReason: Precise Interleaved Multimodal Reasoning via Editing Meta Information for Solving Geometry Problems'
   date: '2026-08-15'
@@ -17469,6 +18032,11 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Shanghai Jiao Tong University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14945
   title: 'Trust Is Not Enough: Influence Calibration for On-Policy Self-Distillation in Agentic RL'
   date: '2026-08-14'
@@ -17517,6 +18085,7 @@ papers:
   - self-training
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14787
   title: 'From Positionwise Confidence to Prefix Scheduling: Verifier Skipping in Speculative Decoding'
   date: '2026-08-14'
@@ -17560,6 +18129,7 @@ papers:
   - verifier
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14498
   title: 'Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training'
   date: '2026-08-14'
@@ -17614,6 +18184,7 @@ papers:
   - vlm
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14430
   title: 'Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View'
   date: '2026-08-14'
@@ -17660,6 +18231,7 @@ papers:
   - grpo
   - diffusion
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14420
   title: 'More Correct Mass, Worse Answers: Why Power Sampling Can Fail and How to Fix It'
   date: '2026-08-14'
@@ -17700,6 +18272,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14312
   title: 'Envs-FORGE: Frontier-Optimized Reward-Grounded Environment Synthesis for Agent RL'
   date: '2026-08-14'
@@ -17747,6 +18320,12 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institutions:
+  - School of Advanced Interdisciplinary Sciences, UCAS
+  - State Key Lab of AI Safety, ICT, CAS
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14284
   title: 'PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment'
   date: '2026-08-14'
@@ -17811,6 +18390,7 @@ papers:
   - prm
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14221
   title: 'MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Verification-Guided Refinement'
   date: '2026-08-14'
@@ -17861,6 +18441,7 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14212
   title: 'APTER: Adaptive Post-Training with Expert-Grounded Rubrics'
   date: '2026-08-14'
@@ -17912,6 +18493,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14198
   title: 'MINT: A Universal Zero-Shot Predictor for Transaction Data'
   date: '2026-08-14'
@@ -17961,6 +18543,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14157
   title: Removing Temporal Note Redundancy Improves Multimodal Reinforcement Learning for Medicine
   date: '2026-08-14'
@@ -18006,6 +18589,7 @@ papers:
   - off-policy
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14144
   title: Self-Supervised Visual On-Policy Distillation
   date: '2026-08-14'
@@ -18058,6 +18642,7 @@ papers:
   - on-policy
   - self-training
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14132
   title: 'Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions'
   date: '2026-08-14'
@@ -18101,6 +18686,7 @@ papers:
   - sft
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14028
   title: 'AdvDex: Learning Dexterous Manipulation from Human Demonstrations via Joint-Aligned Actions and Adversarial Learning'
   date: '2026-08-14'
@@ -18148,6 +18734,7 @@ papers:
   - multimodal
   - vla
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13951
   title: 'HELIX: Model-Harness Co-evolution for Recursive Self-Improvement'
   date: '2026-08-14'
@@ -18189,6 +18776,7 @@ papers:
   - sft
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13924
   title: 'BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action
     Control'
@@ -18236,6 +18824,7 @@ papers:
   - preference-optimization
   - vla
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13854
   title: Bootstrapping Niche Multilingual Code Translation via Reinforcement Learning with Execution-Based Verifiable Supervision
   date: '2026-08-14'
@@ -18283,6 +18872,7 @@ papers:
   - grpo
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13833
   title: 'AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution'
   date: '2026-08-13'
@@ -18335,6 +18925,7 @@ papers:
   - agent
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13787
   title: 'From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL'
   date: '2026-08-13'
@@ -18387,6 +18978,7 @@ papers:
   - agent
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13698
   title: 'GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings'
   date: '2026-08-13'
@@ -18428,6 +19020,11 @@ papers:
   - grpo
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Hasso Plattner Institute, University Potsdam
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13560
   title: 'AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design'
   date: '2026-08-13'
@@ -18484,6 +19081,7 @@ papers:
   - long-horizon
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13505
   title: 'Intern-S2-Preview: Scientific Agentic Foundation Model'
   date: '2026-08-13'
@@ -18661,6 +19259,16 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - East China Normal University
+  - Nanyang Technological University
+  - Shanghai AI Lab
+  - Shanghai Jiao Tong University
+  - USTC
+  - University of Science and Technology of China
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13430
   title: Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity
   date: '2026-08-13'
@@ -18698,6 +19306,7 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13395
   title: 'FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving'
   date: '2026-08-13'
@@ -18741,6 +19350,7 @@ papers:
   - vla
   - autonomous-driving
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13387
   title: 'CROP: Task Relevance via Counterfactuals for Selective On-Policy Distillation'
   date: '2026-08-13'
@@ -18785,6 +19395,7 @@ papers:
   - counterfactual
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13345
   title: Rules or Character? Scaling Laws for AI Safety Design
   date: '2026-08-13'
@@ -18828,6 +19439,7 @@ papers:
   - rlhf
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13344
   title: 'LongEarth-R1: Benchmarking and Aligning Vision-Language Models for Long-Horizon Earth Observation Reasoning'
   date: '2026-08-13'
@@ -18873,6 +19485,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13205
   title: 'HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models'
   date: '2026-08-13'
@@ -18934,6 +19547,13 @@ papers:
   - diffusion
   - video-generation
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Nanyang Technological University
+  - Shanghai AI Lab
+  - Shanghai Innovation Institute
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13179
   title: 'Teach the Magnitude, Not the Direction: Verifier-Bounded Credit Assignment for Multi-Turn Multi-step LLM Agents'
   date: '2026-08-13'
@@ -18985,6 +19605,7 @@ papers:
   - tool-use
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13076
   title: 'SPADE: Speculative Decoding for Precise and Low Cost Distributed Edge Cloud Inference'
   date: '2026-08-13'
@@ -19023,6 +19644,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13072
   title: 'EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding'
   date: '2026-08-13'
@@ -19066,6 +19688,7 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13069
   title: 'Behavioral Reprogramming of Open-Weights Models: Cognitive Plasticity and Alignment Bounds'
   date: '2026-08-13'
@@ -19104,6 +19727,7 @@ papers:
   - dpo
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.13040
   title: Latent On-Policy Self-Distillation
   date: '2026-08-13'
@@ -19160,6 +19784,7 @@ papers:
   - tool-use
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12917
   title: Towards Socially Compliant Navigation in Deep Reinforcement Learning via Proxemics-Based Reward Modeling
   date: '2026-08-13'
@@ -19198,6 +19823,7 @@ papers:
   auto_labels:
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12876
   title: 'SPARED: Reasoning-Based AI-Generated Image Detection via Adversarially Edited Data'
   date: '2026-08-13'
@@ -19240,6 +19866,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12841
   title: 'AQuA: Recursively Self-Improving Quantitative Trading Research Agents'
   date: '2026-08-13'
@@ -19283,6 +19910,7 @@ papers:
   auto_labels:
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12821
   title: 'HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models'
   date: '2026-08-13'
@@ -19327,6 +19955,7 @@ papers:
   - preference-optimization
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12781
   title: 'Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs'
   date: '2026-08-13'
@@ -19387,6 +20016,11 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Harbin Institute of Technology, Shenzhen
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12779
   title: 'CRAFT: LLM-Based Iterative Refinement for Temporal Reasoning over Clinical Narratives'
   date: '2026-08-13'
@@ -19429,6 +20063,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12764
   title: 'Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents'
   date: '2026-08-13'
@@ -19477,6 +20112,11 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - LLM, RL, Agent
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12746
   title: Dual-Stream Cross-Anchor Correction Grounding Long-Form Captions and the Domain Limits of Object-Level Anchors
   date: '2026-08-13'
@@ -19529,6 +20169,7 @@ papers:
   - multimodal
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12743
   title: 'Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence'
   date: '2026-08-13'
@@ -19587,6 +20228,7 @@ papers:
   - robotics
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12700
   title: A Contract-Grade Verifier for LLM-Generated GPU Kernels, and a Native Blackwell Backward for the Gated-Linear-Recurrence
     Family
@@ -19630,6 +20272,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.14728
   title: Tail-Aware Top-$k$ On-Policy Distillation
   date: '2026-08-12'
@@ -19671,6 +20314,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12645
   title: 'Jagged Judges: Epistemic Stability Under Perturbation, Pressure, and Persistence'
   date: '2026-08-12'
@@ -19712,6 +20356,7 @@ papers:
   auto_labels:
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12629
   title: 'CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution'
   date: '2026-08-12'
@@ -19761,6 +20406,11 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institutions:
+  - NVIDIA
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12611
   title: 'From Visual Widgets to UI Code: Efficient Tool-Grounded Generation'
   date: '2026-08-12'
@@ -19809,6 +20459,7 @@ papers:
   - reasoning
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12599
   title: Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues
   date: '2026-08-12'
@@ -19851,6 +20502,7 @@ papers:
   - verifier
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12564
   title: Scaling Automatic Research Agents via World Models
   date: '2026-08-12'
@@ -19900,6 +20552,7 @@ papers:
   status: candidate
   auto_labels: []
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12486
   title: 'DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution'
   date: '2026-08-12'
@@ -19947,6 +20600,11 @@ papers:
   - self-improvement
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Georgia Institute of Technology
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12443
   title: 'SSPO: Structure-Aware Similarity-Weighted Preference Optimization for Neural Combinatorial Optimization'
   date: '2026-08-12'
@@ -19994,6 +20652,7 @@ papers:
   auto_labels:
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12436
   title: 'Multi-AUV Ad-hoc network-based Target Tracking: A Value Gradient Guidance Multi-Agent Diffusion Reinforcement Learning
     Approach'
@@ -20042,6 +20701,7 @@ papers:
   status: candidate
   auto_labels: []
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12426
   title: 'Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint
     Satisfaction'
@@ -20084,6 +20744,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12308
   title: 'DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation'
   date: '2026-08-12'
@@ -20129,6 +20790,7 @@ papers:
   - robotics
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12307
   title: 'AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses'
   date: '2026-08-12'
@@ -20181,6 +20843,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12290
   title: 'Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence'
   date: '2026-08-12'
@@ -20230,6 +20893,7 @@ papers:
   - multimodal
   - video-generation
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12253
   title: 'One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL'
   date: '2026-08-12'
@@ -20280,6 +20944,11 @@ papers:
   auto_labels:
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Washington
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12220
   title: 'SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward'
   date: '2026-08-12'
@@ -20325,6 +20994,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12158
   title: 'Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization'
   date: '2026-08-12'
@@ -20370,6 +21040,11 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Korea University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.12062
   title: 'Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations'
   date: '2026-08-12'
@@ -20414,6 +21089,7 @@ papers:
   - preference-optimization
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11980
   title: 'Learning from Unreachable Rewards: Hint-Conditioned Reinforcement Learning for Generative Recommendation'
   date: '2026-08-12'
@@ -20464,6 +21140,7 @@ papers:
   - sft
   - grpo
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11977
   title: Retry, Switch, or Abstain? Learning Strategy-Aware Tool-Use Policies via Controlled Error Injection
   date: '2026-08-12'
@@ -20512,6 +21189,11 @@ papers:
   - tool-use
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Northeastern University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11913
   title: 'HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion'
   date: '2026-08-12'
@@ -20555,6 +21237,7 @@ papers:
   - preference-optimization
   - rlhf
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11829
   title: Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling
   date: '2026-08-12'
@@ -20609,6 +21292,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11755
   title: 'MuseCritic: Learning Multi-Aspect Song Rewards through Natural-Language Aesthetic Critiques'
   date: '2026-08-12'
@@ -20665,6 +21349,7 @@ papers:
   - grpo
   - reward-model
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11739
   title: 'G0.5: One Autoregressive Stream for Robot Reasoning and Action'
   date: '2026-08-12'
@@ -20734,6 +21419,7 @@ papers:
   - vla
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11715
   title: 'When the API Speaks the Wrong Language: Revisiting Post-Training for Multilingual Tool Use'
   date: '2026-08-12'
@@ -20779,6 +21465,7 @@ papers:
   - tool-use
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11698
   title: 'REOPD: Reliability-Adaptive Reward Extrapolation for On-Policy Distillation'
   date: '2026-08-12'
@@ -20828,6 +21515,7 @@ papers:
   - reward-model
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11691
   title: 'LEMUR: Latent Entropy-aware Multimodal Unlearning via Visual-anchored Reasoning Redirection'
   date: '2026-08-12'
@@ -20874,6 +21562,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11674
   title: 'GCPO: Diagnosing and Constraining Subspace Geometry in Rollout RL for LLMs'
   date: '2026-08-12'
@@ -20923,6 +21612,7 @@ papers:
   - math
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11660
   title: Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing
   date: '2026-08-12'
@@ -20978,6 +21668,7 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11631
   title: 'CLAIM: Leading Open-domain Active Clarification of Large Language Models with Uncertainty Measurement'
   date: '2026-08-12'
@@ -21023,6 +21714,7 @@ papers:
   - synthetic-data
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11625
   title: 'Making AI-Generated Feedback Matter: A Large-Scale Study of Feedback Workflows and Student Enactment'
   date: '2026-08-12'
@@ -21067,6 +21759,7 @@ papers:
   auto_labels:
   - rlaif
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11616
   title: 'MBA: Multimodal Benchmark and Agents for Real-World Business Ideation'
   date: '2026-08-12'
@@ -21113,6 +21806,7 @@ papers:
   - agent
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11604
   title: Learning from Online User Feedback for Shopping Agents
   date: '2026-08-12'
@@ -21157,6 +21851,7 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11573
   title: Reinforcing Step-level Reasoning for Effective Self-Correction in LLMs
   date: '2026-08-12'
@@ -21199,6 +21894,11 @@ papers:
   - preference-optimization
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - MIT
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11493
   title: 'From Prompting to Behavioral Alignment: Personalized LLM Judges for Recommendation Evaluation'
   date: '2026-08-11'
@@ -21239,6 +21939,7 @@ papers:
   - preference-optimization
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11415
   title: 'TRACES: A Benchmark for Epistemic Reliability in Scientific Reasoning by LLMs'
   date: '2026-08-11'
@@ -21283,6 +21984,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11403
   title: 'When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs'
   date: '2026-08-11'
@@ -21325,6 +22027,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11368
   title: 'PAIR: Pairwise-Aware Inclusion Reweighting for Adaptive Rollout Allocation in RLVR'
   date: '2026-08-11'
@@ -21370,6 +22073,7 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11350
   title: Self-Evolving Embodied Agents via Skill-Harness Evolution
   date: '2026-08-11'
@@ -21419,6 +22123,12 @@ papers:
   - self-improvement
   - robotics
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Beihang University
+  - University of Chinese Academy of Sciences
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11344
   title: Governing Agentic AI in FinTech
   date: '2026-08-11'
@@ -21461,6 +22171,7 @@ papers:
   - verifier
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11340
   title: Self-evolving network verifiers
   date: '2026-08-11'
@@ -21504,6 +22215,7 @@ papers:
   - coding-agent
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11318
   title: 'Terminal Symmetry as a Carrier of Asymmetric Process Knowledge: Statewise Refinement for Anytime Verified Construction'
   date: '2026-08-11'
@@ -21542,6 +22254,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11205
   title: 'AdvFD: Boosting Visual Generation via Adversarial Fr''echet Distance Loss'
   date: '2026-08-11'
@@ -21583,6 +22296,7 @@ papers:
   status: candidate
   auto_labels: []
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11201
   title: 'VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video
     Forensics'
@@ -21639,6 +22353,7 @@ papers:
   - video-generation
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11191
   title: Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation
   date: '2026-08-11'
@@ -21687,6 +22402,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11181
   title: How to Verify Consistency of Probabilistic Claims
   date: '2026-08-11'
@@ -21731,6 +22447,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11152
   title: Scheduling Mixed RL Rollouts Beyond Prefix Locality
   date: '2026-08-11'
@@ -21779,6 +22496,7 @@ papers:
   - rlvr
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.11030
   title: Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching
   date: '2026-08-11'
@@ -21825,6 +22543,7 @@ papers:
   - sft
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10996
   title: 'ConRub-Med: Reinforcement Learning with Consensus Rubrics for Open-Ended Medical Question Answering'
   date: '2026-08-11'
@@ -21879,6 +22598,7 @@ papers:
   - verifier
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10981
   title: 'ThinkAfford: Affordance-Centric Reasoning for Fine-Grained 3D Grounding in Cluttered Scenes'
   date: '2026-08-11'
@@ -21926,6 +22646,7 @@ papers:
   - grpo
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10964
   title: 'CARE: Confidence-Aware Reasoning for Reliable Medical VQA'
   date: '2026-08-11'
@@ -21976,6 +22697,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10959
   title: 'Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs'
   date: '2026-08-11'
@@ -22019,6 +22741,7 @@ papers:
   auto_labels:
   - vlm
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10954
   title: Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes
   date: '2026-08-11'
@@ -22070,6 +22793,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10905
   title: ReOrder-OPD:Reliability-Aware Prompt Ordering for On-Policy Distillation
   date: '2026-08-11'
@@ -22122,6 +22846,7 @@ papers:
   - on-policy
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10864
   title: Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models
   date: '2026-08-11'
@@ -22172,6 +22897,11 @@ papers:
   - autonomous-driving
   - reasoning
   label_method: controlled-vocabulary-v1
+  institutions:
+  - KAIST
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10843
   title: 'Hypothesis Frontier: Verifier Guided LLM and Symbolic Search for First-Order Induction'
   date: '2026-08-11'
@@ -22207,6 +22937,7 @@ papers:
   - verifier
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10835
   title: 'UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Multi-Structural Internal Representations'
   date: '2026-08-11'
@@ -22256,6 +22987,7 @@ papers:
   - reasoning
   - hallucination
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10827
   title: 'MIRA: Medical Image Reflection for Agentic Diagnosis'
   date: '2026-08-11'
@@ -22314,6 +23046,7 @@ papers:
   - reasoning
   - safety
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10812
   title: Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation
   date: '2026-08-11'
@@ -22359,6 +23092,7 @@ papers:
   - grpo
   - on-policy
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10775
   title: 'SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation'
   date: '2026-08-11'
@@ -22407,6 +23141,7 @@ papers:
   - on-policy
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10764
   title: 'FADE: From Passive Verification to Active Discovery in Counterfactual Video Understanding'
   date: '2026-08-11'
@@ -22452,6 +23187,11 @@ papers:
   - counterfactual
   - sft
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Alibaba
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10756
   title: Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting
   date: '2026-08-11'
@@ -22501,6 +23241,7 @@ papers:
   - vla
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10743
   title: Mitigating Context Interference for Reliable and Efficient Search Agents
   date: '2026-08-11'
@@ -22550,6 +23291,12 @@ papers:
   - agent
   - multi-turn
   label_method: controlled-vocabulary-v1
+  institutions:
+  - The Chinese University of Hong Kong, University of Edinburgh
+  - University College London
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10729
   title: Optimal Stopping of Self-Refining Foundation Models
   date: '2026-08-11'
@@ -22585,6 +23332,7 @@ papers:
   - verifier
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10714
   title: Conversational Orchestration for Organic 6G
   date: '2026-08-11'
@@ -22630,6 +23378,7 @@ papers:
   - agent
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10665
   title: 'VERDICT: Training-Free Step-Wise Verification of Multimodal Reasoning via Disagreement-Aware Consensus'
   date: '2026-08-11'
@@ -22677,6 +23426,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10626
   title: Dual-Loop Self-Evolution via Verifiable Emotion Feedback for Multi-Turn Empathetic Dialogue
   date: '2026-08-11'
@@ -22725,6 +23475,7 @@ papers:
   - multi-turn
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10513
   title: 'SafeCap: Improving LVLM Safety with Image Captioning Reinforcement Learning'
   date: '2026-08-11'
@@ -22780,6 +23531,11 @@ papers:
   - vlm
   - safety
   label_method: controlled-vocabulary-v1
+  institutions:
+  - The University of Hong Kong
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10462
   title: Calibrating Post-Training Feature Shifts for LLM Data Contamination Detection
   date: '2026-08-11'
@@ -22826,6 +23582,7 @@ papers:
   - preference-optimization
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10402
   title: 'TideRL: Boosting Agentic RL Goodput with Readiness-Aware Scheduling'
   date: '2026-08-11'
@@ -22874,6 +23631,7 @@ papers:
   - multi-turn
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10357
   title: Efficient Reinforcement Learning for Long-Horizon Tool-Use Agentic Tasks
   date: '2026-08-11'
@@ -22922,6 +23680,7 @@ papers:
   - multi-turn
   - long-horizon
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10333
   title: 'MERA: Model Evolution and Routing with Skill Adaptation for Agentic Systems at Scale'
   date: '2026-08-11'
@@ -22973,6 +23732,7 @@ papers:
   - agent
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.28638
   title: Self-Evolving Skills via Surrogate-Guided Solve-and-Reproduce
   date: '2026-08-10'
@@ -23014,6 +23774,7 @@ papers:
   - verifier
   - self-improvement
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10209
   title: 'Evaluation-Conditioned Training: Teaching Models to Generalize to Stronger Oversight Regimes'
   date: '2026-08-10'
@@ -23054,6 +23815,11 @@ papers:
   - sft
   - ppo
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Georgia Tech
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10196
   title: 'ELMER: Evolutionary Language Model that Explores and Refines'
   date: '2026-08-10'
@@ -23093,6 +23859,7 @@ papers:
   - dpo
   - preference-optimization
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10157
   title: 'SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents'
   date: '2026-08-10'
@@ -23140,6 +23907,7 @@ papers:
   - coding-agent
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10126
   title: Procedural Fairness Failures in RLHF from Preference Averaging
   date: '2026-08-10'
@@ -23184,6 +23952,7 @@ papers:
   - reward-model
   - agent
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.10090
   title: 'CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation'
   date: '2026-08-10'
@@ -23227,6 +23996,7 @@ papers:
   - sft
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09931
   title: 'Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots'
   date: '2026-08-10'
@@ -23275,6 +24045,7 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09907
   title: 'DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning'
   date: '2026-08-10'
@@ -23317,6 +24088,13 @@ papers:
   - sft
   - multimodal
   label_method: controlled-vocabulary-v1
+  institutions:
+  - University of Bergamo
+  - University of Florence
+  - University of Trento
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09898
   title: Consilience for Verifier-Free Test-Time Scaling
   date: '2026-08-10'
@@ -23363,6 +24141,7 @@ papers:
   - reasoning
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09880
   title: Financial Numerical Prediction and Allocation as Token Generation
   date: '2026-08-10'
@@ -23404,6 +24183,7 @@ papers:
   - grpo
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09853
   title: 'RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance'
   date: '2026-08-10'
@@ -23459,6 +24239,7 @@ papers:
   - reward-model
   - robotics
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09836
   title: 'Mismatch Matters: On-Policy Distillation Beyond Token Agreement'
   date: '2026-08-10'
@@ -23509,6 +24290,7 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09826
   title: 'Distill Skills into Weights, Not Prompts: Abstract Skills as Privileged Signals for On-Policy Self-Distillation'
   date: '2026-08-10'
@@ -23556,6 +24338,7 @@ papers:
   - on-policy
   - self-training
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09819
   title: 'Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA'
   date: '2026-08-10'
@@ -23680,6 +24463,11 @@ papers:
   - agent
   - code
   label_method: controlled-vocabulary-v1
+  institutions:
+  - HKUSTgz
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09818
   title: 'MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation'
   date: '2026-08-10'
@@ -23732,6 +24520,7 @@ papers:
   - vlm
   - reasoning
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09789
   title: 'ADOPD: Reference-Privileged On-Policy Distillation for MLLM-Based Industrial Anomaly Detection'
   date: '2026-08-10'
@@ -23776,6 +24565,7 @@ papers:
   - on-policy
   - multimodal
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09745
   title: 'SR-OPSD: Self-Referenced On-Policy Self-Distillation'
   date: '2026-08-10'
@@ -23831,6 +24621,7 @@ papers:
   - math
   - code
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09706
   title: Test-Time Scaling for CAD Generation via Verifier-Free Consensus Selection
   date: '2026-08-10'
@@ -23872,6 +24663,7 @@ papers:
   auto_labels:
   - verifier
   label_method: controlled-vocabulary-v1
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09703
   title: Matryoshka Language Model Suites
   date: '2026-08-10'
@@ -23907,6 +24699,11 @@ papers:
   - distillation
   - verifier
   label_method: controlled-vocabulary-v1
+  institutions:
+  - Cornell University
+  institution_source: semantic-scholar-author-profiles
+  institution_note: Author-profile affiliations; may differ from publication-time affiliations.
+  institution_enrichment_checked_at: '2026-09-02T04:55:26.369503+00:00'
 - id: arxiv:2608.09650
   title: 'Listwise Cross-Encoder Fine-Tuning vs. Agentic Instruction Tuning for LLM Rerankers: A Systematic Study in Medical
     Procedure Reranking'

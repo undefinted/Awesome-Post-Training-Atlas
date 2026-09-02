@@ -28,6 +28,8 @@ class PaperDataTests(unittest.TestCase):
             self.assertTrue(str(paper["url"]).startswith("https://"))
             self.assertTrue(paper.get("authors"), paper["id"])
             self.assertFalse(set(paper.get("auto_labels", [])) - self.labels, paper["id"])
+            if paper.get("institutions"):
+                self.assertTrue(paper.get("institution_source"), paper["id"])
 
     def test_community_signal_schema(self):
         payload = yaml.safe_load((ROOT / "data" / "community_signals.yaml").read_text(encoding="utf-8"))
@@ -49,6 +51,8 @@ class PaperDataTests(unittest.TestCase):
             self.assertIn("arxiv", " ".join(paper.get("source_signals", [])).lower(), paper["id"])
             self.assertTrue(paper.get("authors"), paper["id"])
             self.assertFalse(set(paper.get("auto_labels", [])) - self.labels, paper["id"])
+            if paper.get("institutions"):
+                self.assertTrue(paper.get("institution_source"), paper["id"])
 
     def test_label_ids_are_unique(self):
         labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))["labels"]
