@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓85 · [Jul](#2026-07) ◐7 · [Jun](#2026-06) ◐3 · [May](#2026-05) ◐5 · [Apr](#2026-04) ◐4 · [Mar](#2026-03) ◐3 · Feb ⏳ · [Jan](#2026-01) ◐1
-- [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · Jan ✓0
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓85 · [Jul](#2026-07) ◐7 · [Jun](#2026-06) ◐3 · [May](#2026-05) ◐5 · [Apr](#2026-04) ◐4 · [Mar](#2026-03) ◐3 · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ◐1
+- [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · [Jan](#2025-01) ✓0
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ⏳
 
 <a id="2026"></a>
 
@@ -23,6 +23,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 133 academic records · 121 eligible · checked 2026-09-01T14:35:23.251185+00:00.
 
 - 🔎 **[Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://arxiv.org/abs/2608.31046)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -454,6 +456,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - **[Adaptive FastOPD: Progress-Aware Rollout Horizon Expansion for Efficient On-Policy Distillation](https://arxiv.org/abs/2607.29494)** — Expands the student rollout horizon only when learning at the current boundary plateaus, reducing wasted long-horizon sampling.  
   2026-07-31 · `on-policy-distillation` · `adaptive-horizon` · `efficiency` · `multi-turn`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Multi-turn` · `Long-horizon`  
@@ -495,6 +499,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### June
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - **[OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.26790)** — Extracts hierarchical hindsight skills from completed student trajectories and combines skill-conditioned token guidance with outcome-based reinforcement learning.  
   2026-06-25 · `on-policy-distillation` · `skill-distillation` · `hindsight` · `agentic-rl`  
   Labels: `Distillation` · `On-policy` · `Agent`  
@@ -513,6 +519,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-05"></a>
 
 ### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Trust Region On-Policy Distillation](https://arxiv.org/abs/2606.01249)** — Restricts distillation to reliable teacher regions using clipping, masking, and forward-KL controls, with optional off-policy guidance outside the trust region.  
   2026-05-31 · `on-policy-distillation` · `trust-region` · `clipping` · `stability`  
@@ -543,6 +551,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### April
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - **[Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://arxiv.org/abs/2604.28123)** — Inserts a black-box response-level distribution-alignment stage between SFT and RLVR using specialized perception and reasoning discriminators.  
   2026-04-30 · `on-policy-distillation` · `distribution-alignment` · `rlvr` · `mixture-of-experts` · [code](https://github.com/XIAO4579/PRISM)  
   Labels: `OPD` · `Distillation` · `SFT` · `RLVR` · `On-policy` · `Multimodal` · `Reasoning`  
@@ -568,6 +578,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### March
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - **[Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes](https://arxiv.org/abs/2603.25562)** — Diagnoses sampled-token distillation failures and evaluates top-K local support matching, top-p rollouts, and special-token masking as simple remedies.  
   2026-03-26 · `on-policy-distillation` · `failure-analysis` · `support-matching` · `stability`  
   Labels: `OPD` · `Distillation` · `On-policy`  
@@ -584,9 +596,19 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `OPD` · `Distillation` · `On-policy`  
   Authors: Woogyeol Jin, Taywon Min, Yongjin Yang, Dennis Wei, Yi Zhou, Swanand Ravindra Kadhe, Nathalie Baracaldo, Kimin Lee
 
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2026-01"></a>
 
 ### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734)** — Uses one model as both privileged-trace teacher and question-only student, matching their token distributions along student-generated reasoning trajectories.  
   2026-01-26 · `on-policy-self-distillation` · `privileged-information` · `reasoning` · `token-level`  
@@ -600,6 +622,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ✓ Complete · scanned 29 academic records · 6 eligible · checked 2026-09-01T13:32:40.148017+00:00.
 
 - 🔎 **[GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](https://arxiv.org/abs/2512.13043)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -624,6 +648,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-11"></a>
 
 ### November
+
+> **Audit status:** ✓ Complete · scanned 33 academic records · 8 eligible · checked 2026-09-01T13:30:54.803352+00:00.
 
 - 🔎 **[FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models](https://arxiv.org/abs/2511.16233)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -659,6 +685,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### October
 
+> **Audit status:** ✓ Complete · scanned 28 academic records · 9 eligible · checked 2026-09-01T13:28:50.593644+00:00.
+
 - 🔎 **[LC-Opt: Benchmarking Reinforcement Learning and Agentic AI for End-to-End Liquid Cooling Optimization in Data Centers](https://arxiv.org/abs/2511.00116)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Agent`  
@@ -693,6 +721,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### September
 
+> **Audit status:** ✓ Complete · scanned 24 academic records · 5 eligible · checked 2026-09-01T13:03:18.234041+00:00.
+
 - 🔎 **[SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling](https://arxiv.org/abs/2509.25756)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Off-policy` · `Robotics`  
@@ -711,6 +741,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 30 academic records · 8 eligible · checked 2026-09-01T13:01:34.897603+00:00.
 
 - 🔎 **[One-Step Flow Q-Learning: Addressing the Diffusion Policy Bottleneck in Offline Reinforcement Learning](https://arxiv.org/abs/2508.13904)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -746,6 +778,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ✓ Complete · scanned 22 academic records · 5 eligible · checked 2026-09-01T12:59:38.666437+00:00.
+
 - 🔎 **[FairReason: Balancing Reasoning and Social Bias in MLLMs](https://arxiv.org/abs/2507.23067)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `SFT` · `Multimodal` · `Reasoning`  
@@ -775,6 +809,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### June
 
+> **Audit status:** ✓ Complete · scanned 18 academic records · 7 eligible · checked 2026-09-01T12:57:43.856037+00:00.
+
 - 🔎 **[Decentralized Consensus Inference-based Hierarchical Reinforcement Learning for Multi-Constrained UAV Pursuit-Evasion Game](https://arxiv.org/abs/2506.18126)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-22 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `PPO`  
@@ -793,6 +829,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-05"></a>
 
 ### May
+
+> **Audit status:** ✓ Complete · scanned 29 academic records · 5 eligible · checked 2026-09-01T12:55:27.922644+00:00.
 
 - 🔎 **[How Ensembles of Distilled Policies Improve Generalisation in Reinforcement Learning](https://arxiv.org/abs/2505.16581)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -818,6 +856,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### April
 
+> **Audit status:** ✓ Complete · scanned 21 academic records · 8 eligible · checked 2026-09-01T12:53:54.539246+00:00.
+
 - 🔎 **[LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning](https://arxiv.org/abs/2504.21738)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation`  
@@ -831,6 +871,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-03"></a>
 
 ### March
+
+> **Audit status:** ✓ Complete · scanned 20 academic records · 5 eligible · checked 2026-09-01T12:52:39.432501+00:00.
 
 - 🔎 **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](https://arxiv.org/abs/2503.20384)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-26 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -856,6 +898,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### February
 
+> **Audit status:** ✓ Complete · scanned 26 academic records · 7 eligible · checked 2026-09-01T12:51:22.371092+00:00.
+
 - 🔎 **[Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids](https://arxiv.org/abs/2502.20396)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-27 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation`  
@@ -880,3 +924,111 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2025-02-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation`  
   Authors: Wenzheng Jiang, Ji Wang, Xiongtao Zhang, Weidong Bao, Cheston Tan, Flint Xiaofeng Fan
+
+<a id="2025-01"></a>
+
+### January
+
+> **Audit status:** ✓ Complete · scanned 10 academic records · 0 eligible · checked 2026-09-01T12:50:42.463543+00:00.
+
+_No visible paper records in this cell yet._
+
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._

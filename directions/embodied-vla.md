@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓20 · [Jul](#2026-07) ◐19 · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓20 · [Jul](#2026-07) ◐19 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ⏳
 - [2023](#2023) — [Jul](#2023-07) ◐1
 
 <a id="2026"></a>
@@ -24,6 +24,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 97 academic records · 49 eligible · checked 2026-09-01T14:37:12.030728+00:00.
 
 - 🔎 **[Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving](https://arxiv.org/abs/2608.29772)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-30 · `academic-query-vote` · `arxiv-backfill`  
@@ -129,6 +131,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - 🔎 **[CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning](https://arxiv.org/abs/2607.29172)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Robotics`  
@@ -224,6 +228,54 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Distillation` · `Multimodal` · `Diffusion` · `VLA` · `Robotics`  
   Authors: Andreas Sochopoulos, Esmeralda S. Whitammer, Nikolaos Tsagkas, João Moura, Michael Gienger, Sethu Vijayakumar
 
+<a id="2026-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2025"></a>
 
 ## 2025
@@ -231,6 +283,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ✓ Complete · scanned 61 academic records · 31 eligible · checked 2026-09-01T13:33:17.625421+00:00.
 
 - 🔎 **[Semi-Supervised Diversity-Aware Domain Adaptation for 3D Object detection](https://arxiv.org/abs/2512.24922)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -351,6 +405,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### November
 
+> **Audit status:** ✓ Complete · scanned 64 academic records · 29 eligible · checked 2026-09-01T13:31:36.804538+00:00.
+
 - 🔎 **[MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents](https://arxiv.org/abs/2511.23055)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `VLM` · `Robotics` · `Reasoning`  
@@ -439,6 +495,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-10"></a>
 
 ### October
+
+> **Audit status:** ✓ Complete · scanned 56 academic records · 29 eligible · checked 2026-09-01T13:29:28.270829+00:00.
 
 - 🔎 **[Human-in-the-loop Online Rejection Sampling for Robotic Manipulation](https://arxiv.org/abs/2510.26406)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -538,6 +596,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-09"></a>
 
 ### September
+
+> **Audit status:** ✓ Complete · scanned 67 academic records · 37 eligible · checked 2026-09-01T13:03:57.588160+00:00.
 
 - 🔎 **[Can AI Perceive Physical Danger and Intervene?](https://arxiv.org/abs/2509.21651)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-25 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -668,6 +728,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
+> **Audit status:** ✓ Complete · scanned 23 academic records · 14 eligible · checked 2026-09-01T13:02:20.739208+00:00.
+
 - 🔎 **[Galaxea Open-World Dataset and G0 Dual-System VLA Model](https://arxiv.org/abs/2509.00576)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Curriculum` · `Long-horizon` · `Multimodal` · `VLM` · `VLA` · `Robotics`  
@@ -707,6 +769,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ✓ Complete · scanned 31 academic records · 16 eligible · checked 2026-09-01T13:00:33.731877+00:00.
+
 - 🔎 **[Assistax: A Multi-Agent Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics](https://arxiv.org/abs/2507.21638)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-29 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Robotics`  
@@ -740,6 +804,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-06"></a>
 
 ### June
+
+> **Audit status:** ✓ Complete · scanned 49 academic records · 26 eligible · checked 2026-09-01T12:58:49.947816+00:00.
 
 - 🔎 **[Unified Vision-Language-Action Model](https://arxiv.org/abs/2506.19850)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -824,6 +890,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-05"></a>
 
 ### May
+
+> **Audit status:** ✓ Complete · scanned 46 academic records · 28 eligible · checked 2026-09-01T12:56:38.684503+00:00.
 
 - 🔎 **[Intrinsic Goals for Autonomous Agents: Model-Based Exploration in Virtual Zebrafish Predicts Ethological Behavior and Whole-Brain Dynamics](https://arxiv.org/abs/2506.00138)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -934,6 +1002,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### April
 
+> **Audit status:** ✓ Complete · scanned 20 academic records · 9 eligible · checked 2026-09-01T12:54:26.418104+00:00.
+
 - 🔎 **[Preference-Driven Active 3D Scene Representation for Robotic Inspection in Nuclear Decommissioning](https://arxiv.org/abs/2504.02161)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLHF` · `Robotics`  
@@ -942,6 +1012,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-03"></a>
 
 ### March
+
+> **Audit status:** ✓ Complete · scanned 33 academic records · 19 eligible · checked 2026-09-01T12:53:12.649269+00:00.
 
 - 🔎 **[Can Test-Time Scaling Improve World Foundation Model?](https://arxiv.org/abs/2503.24320)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1002,6 +1074,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### February
 
+> **Audit status:** ✓ Complete · scanned 24 academic records · 12 eligible · checked 2026-09-01T12:51:43.224030+00:00.
+
 - 🔎 **[Generative Models in Decision Making: A Survey](https://arxiv.org/abs/2502.17100)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Autonomous Driving` · `Hallucination`  
@@ -1021,10 +1095,112 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### January
 
+> **Audit status:** ✓ Complete · scanned 13 academic records · 4 eligible · checked 2026-09-01T12:50:58.209819+00:00.
+
 - 🔎 **[Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination](https://arxiv.org/abs/2501.06058)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
   Authors: Kevin Fu, Shalin Anand Jain, Pierce Howell, Harish Ravichandar
+
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
 
 <a id="2023"></a>
 
@@ -1033,6 +1209,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2023-07"></a>
 
 ### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818)** — Co-fine-tunes web-scale vision-language knowledge and robot trajectories by expressing actions as tokens.  
   2023-07-28 · `vla` · `co-fine-tuning` · `embodied`  

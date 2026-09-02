@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓58 · [Jul](#2026-07) ◐18 · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓58 · [Jul](#2026-07) ◐18 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐68 · [Nov](#2025-11) ◐76 · [Oct](#2025-10) ◐76 · [Sep](#2025-09) ◐79 · [Aug](#2025-08) ◐72 · [Jul](#2025-07) ◐79 · [Jun](#2025-06) ◐75 · [May](#2025-05) ◐77 · [Apr](#2025-04) ◐82 · [Mar](#2025-03) ◐83 · [Feb](#2025-02) ◐72 · [Jan](#2025-01) ✓72
-- [2024](#2024) — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · [May](#2024-05) ◐1 · Apr ⏳ · Mar ⏳ · [Feb](#2024-02) ◐1 · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ◐1 · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ◐1 · [Jan](#2024-01) ⏳
 - [2023](#2023) — [May](#2023-05) ◐1
 - [2022](#2022) — [Dec](#2022-12) ◐1 · [Mar](#2022-03) ◐1
 
@@ -25,6 +25,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 111 academic records · 90 eligible · checked 2026-09-01T14:33:31.811222+00:00.
 
 - 🔎 **[Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence](https://arxiv.org/abs/2608.31075)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -320,6 +322,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - 🔎 **[SciForma: Structure-Faithful Generation of Scientific Diagrams](https://arxiv.org/abs/2607.18091)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-20 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization`  
@@ -410,6 +414,54 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `DPO` · `Preference Optimization`  
   Authors: Hua Qu, Yifan Li, Xiaodong Yuan
 
+<a id="2026-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2025"></a>
 
 ## 2025
@@ -417,6 +469,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 80 eligible · checked 2026-09-01T13:32:20.385737+00:00.
 
 - 🔎 **[ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning](https://arxiv.org/abs/2512.25023)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -761,6 +815,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-11"></a>
 
 ### November
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 85 eligible · checked 2026-09-01T13:30:08.770439+00:00.
 
 - 🔎 **[When Human Preferences Flip: An Instance-Dependent Robust Loss for RLHF](https://arxiv.org/abs/2512.00709)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1146,6 +1202,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### October
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 82 eligible · checked 2026-09-01T13:28:31.198319+00:00.
+
 - 🔎 **[MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design](https://arxiv.org/abs/2510.27671)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `DPO` · `Preference Optimization`  
@@ -1529,6 +1587,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-09"></a>
 
 ### September
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 83 eligible · checked 2026-09-01T13:02:56.765441+00:00.
 
 - 🔎 **[Free Lunch Alignment of Text-to-Image Diffusion Models without Preference Image Pairs](https://arxiv.org/abs/2509.25771)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1929,6 +1989,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 86 eligible · checked 2026-09-01T13:01:10.471647+00:00.
+
 - 🔎 **[RPRO: Ranked Preference Reinforcement Optimization for Enhancing Medical QA and Diagnostic Reasoning](https://arxiv.org/abs/2509.00974)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Preference Optimization` · `Reasoning`  
@@ -2292,6 +2354,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-07"></a>
 
 ### July
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 89 eligible · checked 2026-09-01T12:59:22.359194+00:00.
 
 - 🔎 **[3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2692,6 +2756,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### June
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 85 eligible · checked 2026-09-01T12:57:25.370649+00:00.
+
 - 🔎 **[$μ^2$Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation](https://arxiv.org/abs/2507.00316)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `DPO` · `Preference Optimization` · `Multimodal` · `Reasoning`  
@@ -3070,6 +3136,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-05"></a>
 
 ### May
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 87 eligible · checked 2026-09-01T12:55:09.134724+00:00.
 
 - 🔎 **[CLARIFY: Contrastive Preference Reinforcement Learning for Untangling Ambiguous Queries](https://arxiv.org/abs/2506.00388)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3459,6 +3527,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-04"></a>
 
 ### April
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 96 eligible · checked 2026-09-01T12:53:39.142015+00:00.
 
 - 🔎 **[Base Models Beat Aligned Models at Randomness and Creativity](https://arxiv.org/abs/2505.00047)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3873,6 +3943,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-03"></a>
 
 ### March
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 92 eligible · checked 2026-09-01T12:52:20.044416+00:00.
 
 - 🔎 **[Learning a Canonical Basis of Human Preferences from Binary Ratings](https://arxiv.org/abs/2503.24150)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -4293,6 +4365,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### February
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 90 eligible · checked 2026-09-01T12:51:12.834366+00:00.
+
 - 🔎 **[Gradient Imbalance in Direct Preference Optimization](https://arxiv.org/abs/2502.20847)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `DPO` · `Preference Optimization` · `RLHF` · `PPO`  
@@ -4656,6 +4730,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-01"></a>
 
 ### January
+
+> **Audit status:** ✓ Complete · scanned 86 academic records · 81 eligible · checked 2026-09-01T12:50:33.043921+00:00.
 
 - 🔎 **[Best Policy Learning from Trajectory Preference Feedback](https://arxiv.org/abs/2501.18873)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5021,9 +5097,67 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2024
 
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2024-05"></a>
 
 ### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/abs/2405.14734)** — Uses average response log probability as an implicit reward and removes the reference model from preference optimization.  
   2024-05-23 · `reference-free` · `preference-optimization` · `simpo`  
@@ -5031,14 +5165,40 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Authors: Yu Meng, Mengzhou Xia, Danqi Chen  
   Institutions*: Princeton University; University of Virginia
 
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2024-02"></a>
 
 ### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/abs/2402.01306)** — Learns from unpaired desirable and undesirable examples using a prospect-theoretic utility objective.  
   2024-02-02 · `binary-feedback` · `offline` · `kto`  
   Labels: pending  
   Authors: Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, Douwe Kiela
+
+<a id="2024-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
 
 <a id="2023"></a>
 
@@ -5047,6 +5207,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2023-05"></a>
 
 ### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)** — Converts the RLHF objective into a direct classification-style loss over preferred and rejected responses.  
   2023-05-29 · `offline` · `pairwise-preference` · `dpo`  
@@ -5062,6 +5224,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### December
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - **[Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)** — Uses written principles and model-generated critiques to reduce dependence on direct human harmlessness labels.  
   2022-12-15 · `rlaif` · `critique` · `revision` · `constitutional-ai`  
   Labels: `RLAIF`  
@@ -5071,6 +5235,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2022-03"></a>
 
 ### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)** — Establishes the SFT-to-reward-model-to-RLHF pipeline for aligning language models with human intent.  
   2022-03-04 · `sft` · `reward-modeling` · `rlhf` · `ppo`  

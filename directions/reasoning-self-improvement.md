@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓48 · [Jul](#2026-07) ◐14 · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓48 · [Jul](#2026-07) ◐14 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐18 · [Nov](#2025-11) ◐12 · [Oct](#2025-10) ◐12 · [Sep](#2025-09) ◐14 · [Aug](#2025-08) ◐13 · [Jul](#2025-07) ◐14 · [Jun](#2025-06) ◐14 · [May](#2025-05) ◐12 · [Apr](#2025-04) ◐13 · [Mar](#2025-03) ◐8 · [Feb](#2025-02) ◐16 · [Jan](#2025-01) ✓8
-- [2024](#2024) — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · [Mar](#2024-03) ◐1 · Feb ⏳ · [Jan](#2024-01) ◐1
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ◐1 · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ◐1
 - [2022](#2022) — [Mar](#2022-03) ◐1
 
 <a id="2026"></a>
@@ -24,6 +24,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 261 academic records · 117 eligible · checked 2026-09-01T14:35:40.332569+00:00.
 
 - 🔎 **[S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](https://arxiv.org/abs/2608.31100)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -269,6 +271,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - 🔎 **[Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation](https://arxiv.org/abs/2607.29287)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `SFT` · `Reasoning`  
@@ -339,6 +343,54 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Distillation` · `SFT` · `Multimodal` · `Reasoning`  
   Authors: Isak Hwang, Yoon Pyo Lee, Syed Bahauddin Alam
 
+<a id="2026-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2025"></a>
 
 ## 2025
@@ -346,6 +398,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 48 eligible · checked 2026-09-01T13:32:47.907855+00:00.
 
 - 🔎 **[VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents](https://arxiv.org/abs/2512.24851)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -441,6 +495,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### November
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 36 eligible · checked 2026-09-01T13:31:03.844767+00:00.
+
 - 🔎 **[Text-to-SQL as Dual-State Reasoning: Integrating Adaptive Context and Progressive Generation](https://arxiv.org/abs/2511.21402)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-26 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reasoning`  
@@ -505,6 +561,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### October
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 38 eligible · checked 2026-09-01T13:28:58.156359+00:00.
+
 - 🔎 **[Counteracting Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing](https://arxiv.org/abs/2510.26474)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `VLM` · `Reasoning`  
@@ -568,6 +626,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-09"></a>
 
 ### September
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 44 eligible · checked 2026-09-01T13:03:26.341886+00:00.
 
 - 🔎 **[Memory-Driven Self-Improvement for Decision Making with Large Language Models](https://arxiv.org/abs/2509.26340)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -643,6 +703,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 39 eligible · checked 2026-09-01T13:01:47.360013+00:00.
+
 - 🔎 **[LLM-Assisted Iterative Evolution with Swarm Intelligence Toward SuperBrain](https://arxiv.org/abs/2509.00510)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Self-improvement`  
@@ -711,6 +773,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-07"></a>
 
 ### July
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 41 eligible · checked 2026-09-01T12:59:46.611528+00:00.
 
 - 🔎 **[Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://arxiv.org/abs/2507.16746)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -786,6 +850,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### June
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 36 eligible · checked 2026-09-01T12:58:08.657831+00:00.
+
 - 🔎 **[MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](https://arxiv.org/abs/2506.22434)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-27 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLM` · `Reasoning`  
@@ -860,6 +926,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### May
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 42 eligible · checked 2026-09-01T12:55:51.909196+00:00.
+
 - 🔎 **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](https://arxiv.org/abs/2506.00750)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reasoning` · `Code`  
@@ -923,6 +991,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-04"></a>
 
 ### April
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 40 eligible · checked 2026-09-01T12:54:02.390621+00:00.
 
 - 🔎 **[SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement](https://arxiv.org/abs/2504.20459)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-29 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -993,6 +1063,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### March
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 26 eligible · checked 2026-09-01T12:52:47.808846+00:00.
+
 - 🔎 **[Large Language and Reasoning Models are Shallow Disjunctive Reasoners](https://arxiv.org/abs/2503.23487)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reasoning`  
@@ -1036,6 +1108,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-02"></a>
 
 ### February
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 37 eligible · checked 2026-09-01T12:51:27.878136+00:00.
 
 - 🔎 **[Self-Training Elicits Concise Reasoning in Large Language Models](https://arxiv.org/abs/2502.20122)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-27 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1121,6 +1195,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### January
 
+> **Audit status:** ✓ Complete · scanned 64 academic records · 21 eligible · checked 2026-09-01T12:50:44.805468+00:00.
+
 - 🔎 **[SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling](https://arxiv.org/abs/2501.19306)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Reasoning` · `Code`  
@@ -1165,9 +1241,83 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2024
 
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2024-03"></a>
 
 ### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)** — Trains models to generate useful internal rationales at arbitrary positions in ordinary text.  
   2024-03-14 · `rationale` · `self-training` · `reasoning`  
@@ -1175,9 +1325,19 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Authors: Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman  
   Institutions*: Stanford University
 
+<a id="2024-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2024-01"></a>
 
 ### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)** — Iteratively uses the model itself as an instruction follower and judge to create preference data for further training.  
   2024-01-18 · `self-reward` · `iterative-dpo` · `llm-as-a-judge`  
@@ -1192,6 +1352,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2022-03"></a>
 
 ### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)** — Iteratively trains on rationales that lead to correct answers and regenerates rationales for failed examples.  
   2022-03-28 · `rationale` · `bootstrapping` · `self-training`  

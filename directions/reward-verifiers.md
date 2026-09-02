@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓223 · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓223 · [Jul](#2026-07) ⏳ · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐26 · [Nov](#2025-11) ◐32 · [Oct](#2025-10) ◐29 · [Sep](#2025-09) ◐49 · [Aug](#2025-08) ◐23 · [Jul](#2025-07) ◐27 · [Jun](#2025-06) ◐28 · [May](#2025-05) ◐27 · [Apr](#2025-04) ◐17 · [Mar](#2025-03) ◐23 · [Feb](#2025-02) ◐17 · [Jan](#2025-01) ◐13
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ⏳
 - [2023](#2023) — [May](#2023-05) ◐1
 
 <a id="2026"></a>
@@ -24,6 +24,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 996 academic records · 341 eligible · checked 2026-09-01T14:34:38.988299+00:00.
 
 - 🔎 **[Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](https://arxiv.org/abs/2608.31077)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -1140,6 +1142,62 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Verifier` · `Reasoning`  
   Authors: Dahai Yu, Lin Jiang, Rongchao Xu, Guang Wang
 
+<a id="2026-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2025"></a>
 
 ## 2025
@@ -1147,6 +1205,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 40 eligible · checked 2026-09-01T13:32:28.750575+00:00.
 
 - 🔎 **[Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity](https://arxiv.org/abs/2512.25063)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1281,6 +1341,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-11"></a>
 
 ### November
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 44 eligible · checked 2026-09-01T13:30:16.242627+00:00.
 
 - 🔎 **[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1446,6 +1508,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### October
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 42 eligible · checked 2026-09-01T13:28:39.755906+00:00.
+
 - 🔎 **[Closing the Expression Gap in LLM Instructions via Socratic Questioning](https://arxiv.org/abs/2510.27410)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reward Model`  
@@ -1594,6 +1658,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-09"></a>
 
 ### September
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 58 eligible · checked 2026-09-01T13:03:05.548930+00:00.
 
 - 🔎 **[Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning](https://arxiv.org/abs/2509.26578)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1844,6 +1910,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 38 eligible · checked 2026-09-01T13:01:19.196235+00:00.
+
 - 🔎 **[L-MARS: Legal Multi-Agent System with Agentic Search and Citation-Faithfulness Audit](https://arxiv.org/abs/2509.00761)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Verifier` · `Agent` · `Multi-turn`  
@@ -1962,6 +2030,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-07"></a>
 
 ### July
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 36 eligible · checked 2026-09-01T12:59:30.609389+00:00.
 
 - 🔎 **[Policy Learning from Large Vision-Language Model Feedback without Reward Modeling](https://arxiv.org/abs/2507.23391)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2101,6 +2171,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-06"></a>
 
 ### June
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 47 eligible · checked 2026-09-01T12:57:33.185563+00:00.
 
 - 🔎 **[L0: Reinforcement Learning to Become General Agents](https://arxiv.org/abs/2506.23667)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2246,6 +2318,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### May
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 43 eligible · checked 2026-09-01T12:55:16.890918+00:00.
+
 - 🔎 **[Accelerating Diffusion LLMs via Adaptive Parallel Decoding](https://arxiv.org/abs/2506.00413)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Verifier`  
@@ -2385,6 +2459,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### April
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 33 eligible · checked 2026-09-01T12:53:46.867642+00:00.
+
 - 🔎 **[Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-29 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `RLVR` · `GRPO` · `PPO` · `Reasoning` · `Math`  
@@ -2473,6 +2549,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-03"></a>
 
 ### March
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 42 eligible · checked 2026-09-01T12:52:32.663933+00:00.
 
 - 🔎 **[Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains](https://arxiv.org/abs/2503.23829)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2593,6 +2671,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### February
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 32 eligible · checked 2026-09-01T12:51:18.228247+00:00.
+
 - 🔎 **[Multi-Turn Code Generation Through Single-Step Rewards](https://arxiv.org/abs/2502.20380)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-27 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reward Model` · `Verifier` · `Multi-turn` · `Code`  
@@ -2682,6 +2762,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### January
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 29 eligible · checked 2026-09-01T12:50:38.711344+00:00.
+
 - 🔎 **[Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Bootstrapping](https://arxiv.org/abs/2501.18962)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Verifier` · `Synthetic Data` · `Reasoning` · `Math`  
@@ -2747,6 +2829,106 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Verifier` · `Diffusion` · `Image Generation`  
   Authors: Nanye Ma, Shangyuan Tong, Haolin Jia, Hexiang Hu, Yu-Chuan Su, Mingda Zhang, Xuan Yang, Yandong Li, et al.
 
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2023"></a>
 
 ## 2023
@@ -2754,6 +2936,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2023-05"></a>
 
 ### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)** — Shows that supervising intermediate reasoning steps can outperform outcome-only reward supervision for mathematical reasoning.  
   2023-05-31 · `process-reward-model` · `verifier` · `reasoning`  

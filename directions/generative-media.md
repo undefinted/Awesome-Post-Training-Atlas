@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓33 · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓33 · [Jul](#2026-07) ⏳ · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐9 · [Nov](#2025-11) ◐11 · [Oct](#2025-10) ◐11 · [Sep](#2025-09) ◐5 · [Aug](#2025-08) ◐7 · [Jul](#2025-07) ◐5 · [Jun](#2025-06) ◐6 · [May](#2025-05) ◐8 · [Apr](#2025-04) ◐1 · [Mar](#2025-03) ◐3 · [Feb](#2025-02) ◐18 · [Jan](#2025-01) ✓2
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ⏳
 - [2023](#2023) — [Nov](#2023-11) ◐1 · [May](#2023-05) ◐1
 
 <a id="2026"></a>
@@ -24,6 +24,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 244 academic records · 51 eligible · checked 2026-09-01T14:37:07.710657+00:00.
 
 - 🔎 **[Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization](https://arxiv.org/abs/2608.31079)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -190,6 +192,62 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `GRPO` · `On-policy`  
   Authors: Guanrou Yang, Tian Tan, Qian Chen, Ziyang Ma, Yakun Song, Zhikang Niu, Qi Chen, Wenming Tu, et al.
 
+<a id="2026-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2025"></a>
 
 ## 2025
@@ -197,6 +255,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 24 eligible · checked 2026-09-01T13:33:13.370252+00:00.
 
 - 🔎 **[Dichotomous Diffusion Policy Optimization](https://arxiv.org/abs/2601.00898)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -246,6 +306,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-11"></a>
 
 ### November
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 30 eligible · checked 2026-09-01T13:31:32.573894+00:00.
 
 - 🔎 **[Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning](https://arxiv.org/abs/2512.00961)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -306,6 +368,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### October
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 27 eligible · checked 2026-09-01T13:29:23.857300+00:00.
+
 - 🔎 **[Off-policy Reinforcement Learning with Model-based Exploration Augmentation](https://arxiv.org/abs/2510.25529)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-29 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `On-policy` · `Off-policy`  
@@ -365,6 +429,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### September
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 22 eligible · checked 2026-09-01T13:03:51.876974+00:00.
+
 - 🔎 **[TR2-D2: Tree Search Guided Trajectory-Aware Fine-Tuning for Discrete Diffusion](https://arxiv.org/abs/2509.25171)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-29 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
@@ -393,6 +459,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-08"></a>
 
 ### August
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 20 eligible · checked 2026-09-01T13:02:16.795052+00:00.
 
 - 🔎 **[Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving](https://arxiv.org/abs/2508.16947)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -433,6 +501,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 15 eligible · checked 2026-09-01T13:00:27.328237+00:00.
+
 - 🔎 **[DmC: Nearest Neighbor Guidance Diffusion Model for Offline Cross-domain Reinforcement Learning](https://arxiv.org/abs/2507.20499)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
@@ -461,6 +531,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-06"></a>
 
 ### June
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 15 eligible · checked 2026-09-01T12:58:46.165800+00:00.
 
 - 🔎 **[Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound](https://arxiv.org/abs/2506.23538)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -495,6 +567,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-05"></a>
 
 ### May
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 21 eligible · checked 2026-09-01T12:56:34.727702+00:00.
 
 - 🔎 **[ADG: Ambient Diffusion-Guided Dataset Recovery for Corruption-Robust Offline Reinforcement Learning](https://arxiv.org/abs/2505.23871)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-29 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -540,6 +614,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### April
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 17 eligible · checked 2026-09-01T12:54:23.363796+00:00.
+
 - 🔎 **[Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion](https://arxiv.org/abs/2504.16431)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-23 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Diffusion`  
@@ -548,6 +624,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-03"></a>
 
 ### March
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 12 eligible · checked 2026-09-01T12:53:09.167936+00:00.
 
 - 🔎 **[High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning](https://arxiv.org/abs/2503.22179)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -567,6 +645,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-02"></a>
 
 ### February
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 25 eligible · checked 2026-09-01T12:51:41.189343+00:00.
 
 - 🔎 **[NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-19 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -662,6 +742,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### January
 
+> **Audit status:** ✓ Complete · scanned 96 academic records · 9 eligible · checked 2026-09-01T12:50:56.304231+00:00.
+
 - 🔎 **[FDPP: Fine-tune Diffusion Policy with Human Preference](https://arxiv.org/abs/2501.08259)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-14 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Robotics`  
@@ -672,6 +754,106 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Multimodal` · `VLM` · `Diffusion` · `VLA`  
   Authors: Alhassan Mumuni, Fuseini Mumuni
 
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2023"></a>
 
 ## 2023
@@ -679,6 +861,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2023-11"></a>
 
 ### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Diffusion Model Alignment Using Direct Preference Optimization](https://arxiv.org/abs/2311.12908)** — Adapts direct preference optimization to diffusion likelihoods to align image generation without a learned reward model.  
   2023-11-22 · `diffusion` · `preference-optimization` · `dpo`  
@@ -688,6 +872,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2023-05"></a>
 
 ### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)** — Treats diffusion denoising as a multi-step decision process so image generators can optimize downstream rewards directly.  
   2023-05-22 · `diffusion` · `reinforcement-learning` · `ddpo`  

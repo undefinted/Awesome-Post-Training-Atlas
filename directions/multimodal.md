@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓68 · [Jul](#2026-07) ◐4 · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓68 · [Jul](#2026-07) ◐4 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐7 · [Nov](#2025-11) ◐11 · [Oct](#2025-10) ◐8 · [Sep](#2025-09) ◐12 · [Aug](#2025-08) ◐8 · [Jul](#2025-07) ◐9 · [Jun](#2025-06) ◐13 · [May](#2025-05) ◐9 · [Apr](#2025-04) ◐5 · [Mar](#2025-03) ◐5 · [Feb](#2025-02) ◐15 · [Jan](#2025-01) ◐6
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ⏳
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
 
 <a id="2026"></a>
@@ -24,6 +24,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 392 academic records · 127 eligible · checked 2026-09-01T14:36:52.837845+00:00.
 
 - 🔎 **[LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation](https://arxiv.org/abs/2608.30935)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -369,6 +371,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
 - 🔎 **[Reasoning to Regulate: Chain-of-Thought for Traffic Rule Understanding](https://arxiv.org/abs/2607.24199)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-27 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `GRPO` · `Verifier` · `VLM` · `Autonomous Driving` · `Reasoning`  
@@ -389,6 +393,54 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `SFT` · `DPO` · `Preference Optimization` · `RLHF` · `PPO` · `Multimodal`  
   Authors: Thi Kim Trang Vo, Nghia Hieu Nguyen, Ha Minh Tan
 
+<a id="2026-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2025"></a>
 
 ## 2025
@@ -396,6 +448,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 29 eligible · checked 2026-09-01T13:33:04.969435+00:00.
 
 - 🔎 **[RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence](https://arxiv.org/abs/2512.24653)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -435,6 +489,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-11"></a>
 
 ### November
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 33 eligible · checked 2026-09-01T13:31:24.811878+00:00.
 
 - 🔎 **[Adapting Like Humans: A Metacognitive Agent with Test-time Reasoning](https://arxiv.org/abs/2511.23262)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -495,6 +551,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### October
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 32 eligible · checked 2026-09-01T13:29:14.973220+00:00.
+
 - 🔎 **[Emu3.5: Native Multimodal Models are World Learners](https://arxiv.org/abs/2510.26583)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon` · `Multimodal` · `Image Generation` · `Reasoning`  
@@ -538,6 +596,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-09"></a>
 
 ### September
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 36 eligible · checked 2026-09-01T13:03:43.771249+00:00.
 
 - 🔎 **[MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation](https://arxiv.org/abs/2509.26642)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -603,6 +663,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 29 eligible · checked 2026-09-01T13:02:06.577577+00:00.
+
 - 🔎 **[Text Reinforcement for Multimodal Time Series Forecasting](https://arxiv.org/abs/2509.00687)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal`  
@@ -646,6 +708,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-07"></a>
 
 ### July
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 35 eligible · checked 2026-09-01T13:00:17.376924+00:00.
 
 - 🔎 **[A Survey of Multimodal Ophthalmic Diagnostics: From Task-Specific Approaches to Foundational Models](https://arxiv.org/abs/2508.03734)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -695,6 +759,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-06"></a>
 
 ### June
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 26 eligible · checked 2026-09-01T12:58:37.608750+00:00.
 
 - 🔎 **[Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving](https://arxiv.org/abs/2506.23771)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -765,6 +831,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### May
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 41 eligible · checked 2026-09-01T12:56:13.104564+00:00.
+
 - 🔎 **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/abs/2506.00555)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Curriculum` · `Multimodal` · `VLM` · `Reasoning`  
@@ -814,6 +882,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### April
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 22 eligible · checked 2026-09-01T12:54:14.805293+00:00.
+
 - 🔎 **[Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2504.21277)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
@@ -843,6 +913,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### March
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 36 eligible · checked 2026-09-01T12:53:00.980589+00:00.
+
 - 🔎 **[Learning Adaptive Dexterous Grasping from Single Demonstrations](https://arxiv.org/abs/2503.20208)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-26 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Curriculum` · `VLM`  
@@ -871,6 +943,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-02"></a>
 
 ### February
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 29 eligible · checked 2026-09-01T12:51:35.617136+00:00.
 
 - 🔎 **[Multimodal Dreaming: A Global Workspace Approach to World Model-Based Reinforcement Learning](https://arxiv.org/abs/2502.21142)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -951,6 +1025,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### January
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 19 eligible · checked 2026-09-01T12:50:52.387953+00:00.
+
 - 🔎 **[RLS3: RL-Based Synthetic Sample Selection to Enhance Spatial Reasoning in Vision-Language Models for Indoor Autonomous Perception](https://arxiv.org/abs/2501.18880)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Synthetic Data` · `VLM` · `Reasoning`  
@@ -981,6 +1057,106 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Reward Model` · `Multimodal` · `Image Generation` · `Reasoning` · `Hallucination`  
   Authors: Ruixiang Jiang, Changwen Chen
 
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2023"></a>
 
 ## 2023
@@ -988,6 +1164,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2023-09"></a>
 
 ### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/abs/2309.14525)** — Adds factually grounded preference feedback and RLHF to improve multimodal helpfulness and reduce hallucination.  
   2023-09-25 · `rlhf` · `hallucination` · `multimodal-alignment`  
@@ -998,6 +1176,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2023-04"></a>
 
 ### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)** — Uses language-model-generated visual instruction data to adapt a vision-language assistant end to end.  
   2023-04-17 · `instruction-tuning` · `synthetic-data` · `vlm`  

@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓58 · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓58 · [Jul](#2026-07) ⏳ · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐40 · [Nov](#2025-11) ◐40 · [Oct](#2025-10) ◐45 · [Sep](#2025-09) ◐26 · [Aug](#2025-08) ◐42 · [Jul](#2025-07) ✓43 · [Jun](#2025-06) ◐31 · [May](#2025-05) ◐31 · [Apr](#2025-04) ✓29 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓11 · [Jan](#2025-01) ✓2
-- [2024](#2024) — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · [Feb](#2024-02) ◐1 · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ◐1 · [Jan](#2024-01) ⏳
 - [2017](#2017) — [Jul](#2017-07) ◐1
 
 <a id="2026"></a>
@@ -24,6 +24,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 221 academic records · 156 eligible · checked 2026-09-01T14:34:53.749317+00:00.
 
 - 🔎 **[GMTS: Gradient Magnitude-based Token Selection Improves RLVR Training for LLM Reasoning](https://arxiv.org/abs/2608.30632)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -315,6 +317,62 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Distillation` · `SFT` · `Curriculum` · `Multimodal` · `Reasoning`  
   Authors: Jiaxuan Kang, Siyu Chen, Mingda Li, Mingjie Liu, Tianyue Wang, Zhaoyang Wei, Yongheng Zhang, Yanchao Hao, et al.
 
+<a id="2026-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2025"></a>
 
 ## 2025
@@ -322,6 +380,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 68 eligible · checked 2026-09-01T13:32:37.100631+00:00.
 
 - 🔎 **[SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning](https://arxiv.org/abs/2512.24330)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -527,6 +587,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### November
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 68 eligible · checked 2026-09-01T13:30:51.609305+00:00.
+
 - 🔎 **[ESPO: Entropy Importance Sampling Policy Optimization](https://arxiv.org/abs/2512.00499)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-29 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reasoning` · `Math`  
@@ -730,6 +792,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-10"></a>
 
 ### October
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 77 eligible · checked 2026-09-01T13:28:47.657259+00:00.
 
 - 🔎 **[InfoFlow: Reinforcing Search Agent Via Reward Density Optimization](https://arxiv.org/abs/2510.26575)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -960,6 +1024,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### September
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 72 eligible · checked 2026-09-01T13:03:14.922804+00:00.
+
 - 🔎 **[Learning to Reason as Action Abstractions with Scalable Mid-Training RL](https://arxiv.org/abs/2509.25810)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLVR` · `Reasoning` · `Code`  
@@ -1093,6 +1159,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-08"></a>
 
 ### August
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 71 eligible · checked 2026-09-01T13:01:30.595148+00:00.
 
 - 🔎 **[RLFactory: A Plug-and-Play Reinforcement Learning Post-Training Framework for LLM Multi-Turn Tool-Use](https://arxiv.org/abs/2509.06980)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1307,6 +1375,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-07"></a>
 
 ### July
+
+> **Audit status:** ✓ Complete · scanned 95 academic records · 72 eligible · checked 2026-09-01T12:59:35.956216+00:00.
 
 - 🔎 **[One-Step Flow Policy Mirror Descent](https://arxiv.org/abs/2507.23675)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1527,6 +1597,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### June
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 70 eligible · checked 2026-09-01T12:57:40.992075+00:00.
+
 - 🔎 **[Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2506.23127)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-29 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
@@ -1685,6 +1757,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-05"></a>
 
 ### May
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 68 eligible · checked 2026-09-01T12:55:24.848645+00:00.
 
 - 🔎 **[Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/abs/2505.24164)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1845,6 +1919,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### April
 
+> **Audit status:** ✓ Complete · scanned 74 academic records · 48 eligible · checked 2026-09-01T12:53:51.473485+00:00.
+
 - 🔎 **[GVPO: Group Variance Policy Optimization for Large Language Model Post-Training](https://arxiv.org/abs/2504.19599)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `On-policy`  
@@ -1994,6 +2070,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### March
 
+> **Audit status:** ✓ Complete · scanned 49 academic records · 38 eligible · checked 2026-09-01T12:52:36.448809+00:00.
+
 - 🔎 **[Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/abs/2503.21776)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-27 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO` · `Multimodal` · `Reasoning`  
@@ -2088,6 +2166,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### February
 
+> **Audit status:** ✓ Complete · scanned 28 academic records · 21 eligible · checked 2026-09-01T12:51:20.260675+00:00.
+
 - 🔎 **[Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time Series Forecasting: A Benchmark and Insights](https://arxiv.org/abs/2503.01895)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-27 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
@@ -2147,6 +2227,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### January
 
+> **Audit status:** ✓ Complete · scanned 14 academic records · 10 eligible · checked 2026-09-01T12:50:40.637077+00:00.
+
 - **[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)** — Demonstrates that large-scale reinforcement learning with verifiable rewards can elicit and improve long-form reasoning.  
   2025-01-22 · `rlvr` · `grpo` · `reasoning` · `distillation`  
   Labels: `Distillation` · `RLVR` · `GRPO` · `Reasoning`  
@@ -2162,15 +2244,105 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2024
 
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2024-02"></a>
 
 ### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)** — Introduces Group Relative Policy Optimization to improve mathematical reasoning without a separate critic model.  
   2024-02-05 · `grpo` · `mathematical-reasoning` · `reinforcement-learning`  
   Labels: `GRPO` · `Reasoning` · `Math`  
   Authors: Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, et al.  
   Institutions*: DeepSeek AI
+
+<a id="2024-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
 
 <a id="2017"></a>
 
@@ -2179,6 +2351,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2017-07"></a>
 
 ### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)** — Introduces a clipped surrogate objective that makes policy-gradient updates simpler and more stable.  
   2017-07-20 · `policy-optimization` · `on-policy` · `ppo`  

@@ -12,9 +12,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓115 · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓115 · [Jul](#2026-07) ⏳ · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ◐64 · [Nov](#2025-11) ◐66 · [Oct](#2025-10) ◐61 · [Sep](#2025-09) ◐64 · [Aug](#2025-08) ◐66 · [Jul](#2025-07) ◐63 · [Jun](#2025-06) ◐59 · [May](#2025-05) ◐63 · [Apr](#2025-04) ◐55 · [Mar](#2025-03) ◐70 · [Feb](#2025-02) ◐55 · [Jan](#2025-01) ✓52
-- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2024](#2024) — [Dec](#2024-12) ⏳ · [Nov](#2024-11) ⏳ · [Oct](#2024-10) ⏳ · [Sep](#2024-09) ⏳ · [Aug](#2024-08) ⏳ · [Jul](#2024-07) ⏳ · [Jun](#2024-06) ⏳ · [May](#2024-05) ⏳ · [Apr](#2024-04) ⏳ · [Mar](#2024-03) ⏳ · [Feb](#2024-02) ⏳ · [Jan](#2024-01) ⏳
 - [2023](#2023) — [Oct](#2023-10) ◐1
 - [2022](#2022) — [Dec](#2022-12) ◐1
 
@@ -25,6 +25,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026-08"></a>
 
 ### August
+
+> **Audit status:** ✓ Complete · scanned 277 academic records · 175 eligible · checked 2026-09-01T14:33:25.233493+00:00.
 
 - 🔎 **[Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS](https://arxiv.org/abs/2608.30325)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -601,6 +603,62 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `SFT` · `Synthetic Data` · `Long-horizon`  
   Authors: Hao Yuan, Yuxin Wang, Lei Ji, Zhiwei Yu
 
+<a id="2026-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2026-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2025"></a>
 
 ## 2025
@@ -608,6 +666,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-12"></a>
 
 ### December
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 64 eligible · checked 2026-09-01T13:31:57.660762+00:00.
 
 - 🔎 **[Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting](https://arxiv.org/abs/2512.24702)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -932,6 +992,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-11"></a>
 
 ### November
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 66 eligible · checked 2026-09-01T13:30:01.203913+00:00.
 
 - 🔎 **[Less is More: Resource-Efficient Low-Rank Adaptation](https://arxiv.org/abs/2512.00878)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1267,6 +1329,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### October
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 61 eligible · checked 2026-09-01T13:28:23.351824+00:00.
+
 - 🔎 **[Towards Understanding Self-play for LLM Reasoning](https://arxiv.org/abs/2510.27072)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `RLVR` · `Self-play` · `Reasoning` · `Math`  
@@ -1575,6 +1639,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-09"></a>
 
 ### September
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 64 eligible · checked 2026-09-01T13:02:48.821671+00:00.
 
 - 🔎 **[Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training](https://arxiv.org/abs/2509.25758)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-09-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1899,6 +1965,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-08"></a>
 
 ### August
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 66 eligible · checked 2026-09-01T13:01:02.483424+00:00.
 
 - 🔎 **[CoreThink: A Symbolic Reasoning Layer to reason over Long Horizon Tasks with LLMs](https://arxiv.org/abs/2509.00971)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2234,6 +2302,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 63 eligible · checked 2026-09-01T12:59:12.016527+00:00.
+
 - 🔎 **[MLLM-CTBench: A Benchmark for Continual Instruction Tuning with Reasoning Process Diagnosis](https://arxiv.org/abs/2508.08275)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO` · `On-policy` · `Multimodal` · `Reasoning`  
@@ -2553,6 +2623,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### June
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 59 eligible · checked 2026-09-01T12:57:02.560127+00:00.
+
 - 🔎 **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-06-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `SFT` · `RLVR` · `Self-play` · `Curriculum` · `Agent` · `Multi-turn` · `Reasoning`  
@@ -2851,6 +2923,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-05"></a>
 
 ### May
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 63 eligible · checked 2026-09-01T12:55:01.162506+00:00.
 
 - 🔎 **[Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs](https://arxiv.org/abs/2506.00577)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3171,6 +3245,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### April
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 55 eligible · checked 2026-09-01T12:53:31.687610+00:00.
+
 - 🔎 **[Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning](https://arxiv.org/abs/2504.21561)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-04-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Preference Optimization` · `RLAIF` · `Verifier` · `Multimodal` · `VLM`  
@@ -3449,6 +3525,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2025-03"></a>
 
 ### March
+
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 70 eligible · checked 2026-09-01T12:51:56.813537+00:00.
 
 - 🔎 **[Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](https://arxiv.org/abs/2503.24376)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-03-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3804,6 +3882,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### February
 
+> **Audit status:** ◐ Incomplete or truncated · scanned 100 academic records · 55 eligible · checked 2026-09-01T12:51:07.411565+00:00.
+
 - 🔎 **[Jawaher: A Multidialectal Dataset of Arabic Proverbs for LLM Benchmarking](https://arxiv.org/abs/2503.00231)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-02-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization` · `RLHF`  
@@ -4083,6 +4163,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### January
 
+> **Audit status:** ✓ Complete · scanned 94 academic records · 52 eligible · checked 2026-09-01T12:50:30.068570+00:00.
+
 - 🔎 **[BRiTE: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning](https://arxiv.org/abs/2501.18858)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Rejection Sampling` · `Reasoning` · `Code`  
@@ -4343,6 +4425,106 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Self-improvement` · `Reasoning`  
   Authors: Yiwei Qin, Yixiu Liu, Pengfei Liu
 
+<a id="2024"></a>
+
+## 2024
+
+<a id="2024-12"></a>
+
+### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-09"></a>
+
+### September
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-08"></a>
+
+### August
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-07"></a>
+
+### July
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-06"></a>
+
+### June
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-05"></a>
+
+### May
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-04"></a>
+
+### April
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-03"></a>
+
+### March
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-02"></a>
+
+### February
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
+<a id="2024-01"></a>
+
+### January
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+_No visible paper records in this cell yet._
+
 <a id="2023"></a>
 
 ## 2023
@@ -4350,6 +4532,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2023-10"></a>
 
 ### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[UltraFeedback: Boosting Language Models with Scaled AI Feedback](https://arxiv.org/abs/2310.01377)** — Builds large-scale fine-grained preference data by having strong models critique and score multiple responses.  
   2023-10-02 · `ai-feedback` · `preference-data` · `synthetic-data`  
@@ -4364,6 +4548,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2022-12"></a>
 
 ### December
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - **[Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560)** — Bootstraps diverse instruction-following data from a model using filtering before supervised fine-tuning.  
   2022-12-20 · `synthetic-data` · `instruction-tuning` · `self-generation`  

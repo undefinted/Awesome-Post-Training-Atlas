@@ -38,17 +38,25 @@ def all_records() -> list[dict]:
     return curated
 
 
-def render_papers(records: list[dict], year_level: int = 2) -> str:
+def render_papers(
+    records: list[dict],
+    year_level: int = 2,
+    month_keys: list[str] | None = None,
+    audit: dict[str, dict] | None = None,
+) -> str:
     from radar.labels import effective_labels, label_index
 
     label_names = {key: value["title"] for key, value in label_index().items()}
     sections: list[str] = []
-    years = sorted({str(paper["date"])[:4] for paper in records}, reverse=True)
+    audit = audit or {}
+    month_keys = month_keys or sorted({str(paper["date"])[:7] for paper in records}, reverse=True)
+    years = sorted({month[:4] for month in month_keys}, reverse=True)
     for year in years:
         sections.append(f"<a id=\"{year}\"></a>\n\n{'#' * year_level} {year}\n")
         by_year = [paper for paper in records if str(paper["date"]).startswith(year)]
-        months = sorted({str(paper["date"])[5:7] for paper in by_year}, reverse=True)
+        months = [month_key[5:7] for month_key in month_keys if month_key.startswith(year)]
         for month in months:
+            month_key = f"{year}-{month}"
             month_name = dt.date(2000, int(month), 1).strftime("%B")
             sections.append(f"<a id=\"{year}-{month}\"></a>\n\n{'#' * (year_level + 1)} {month_name}\n")
             by_month = sorted(
@@ -56,6 +64,27 @@ def render_papers(records: list[dict], year_level: int = 2) -> str:
                 key=lambda paper: str(paper["date"]),
                 reverse=True,
             )
+            cell = audit.get(month_key)
+            if not cell:
+                sections.append(
+                    "> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.\n"
+                )
+            elif cell.get("error"):
+                sections.append(
+                    f"> **Audit status:** ⚠ Failed — `{cell['error']}` · checked {cell.get('checked_at', 'time unavailable')}.\n"
+                )
+            elif cell.get("complete"):
+                sections.append(
+                    f"> **Audit status:** ✓ Complete · scanned {cell.get('records_scanned', 0)} academic records · "
+                    f"{cell.get('eligible', 0)} eligible · checked {cell.get('checked_at', 'time unavailable')}.\n"
+                )
+            else:
+                sections.append(
+                    f"> **Audit status:** ◐ Incomplete or truncated · scanned {cell.get('records_scanned', 0)} academic records · "
+                    f"{cell.get('eligible', 0)} eligible · checked {cell.get('checked_at', 'time unavailable')}.\n"
+                )
+            if not by_month:
+                sections.append("_No visible paper records in this cell yet._\n")
             for paper in by_month:
                 labels = " · ".join(f"`{label_names[label]}`" for label in effective_labels(paper))
                 if paper.get("discovery_candidate"):
@@ -115,14 +144,12 @@ def direction_page(direction: dict, records: list[dict]) -> str:
                 state = "✓" if cell and cell.get("complete") and not cell.get("error") else "◐"
                 month_items.append(f"[{month_name}](#{month_key}) {state}{count}")
             elif cell and cell.get("complete") and not cell.get("error"):
-                month_items.append(f"{month_name} ✓0")
+                month_items.append(f"[{month_name}](#{month_key}) ✓0")
             elif cell and (cell.get("error") or not cell.get("complete")):
-                month_items.append(f"{month_name} ⚠")
+                month_items.append(f"[{month_name}](#{month_key}) ⚠")
             else:
-                month_items.append(f"{month_name} ⏳")
-        year_has_papers = any(str(paper["date"]).startswith(year) for paper in selected)
-        year_label = f"[{year}](#{year})" if year_has_papers else year
-        directory.append(f"- {year_label} — " + " · ".join(month_items))
+                month_items.append(f"[{month_name}](#{month_key}) ⏳")
+        directory.append(f"- [{year}](#{year}) — " + " · ".join(month_items))
     return (
         f"# {direction['title']}\n\n"
         "[← Back to the atlas](../README.md)\n\n"
@@ -133,7 +160,7 @@ def direction_page(direction: dict, records: list[dict]) -> str:
         "`✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.\n\n"
         + "\n".join(directory)
         + "\n\n"
-        + render_papers(selected)
+        + render_papers(selected, month_keys=displayed_months, audit=audit)
     )
 
 
