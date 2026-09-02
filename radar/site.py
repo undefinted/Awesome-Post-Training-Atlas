@@ -122,6 +122,11 @@ def analytics(records: list[dict], directions: list[dict]) -> dict:
     }
 
 
+def snapshot_date(records: list[dict]) -> str:
+    """Return a deterministic date for the data snapshot shown in the footer."""
+    return max((str(paper["date"]) for paper in records), default=dt.date.today().isoformat())
+
+
 def render() -> str:
     directions = load_yaml(ROOT / "config" / "taxonomy.yaml")["directions"]
     labels = load_yaml(ROOT / "config" / "labels.yaml")["labels"]
@@ -151,7 +156,7 @@ def render() -> str:
   <details class="label-picker" open><summary>Labels — select one or more (<span id="selectedCount">0</span> selected)</summary><div class="label-tools"><select id="labelMode"><option value="any">Match ANY selected label</option><option value="all">Match ALL selected labels</option></select><button id="clearLabels" type="button">Clear labels</button></div><div id="labelOptions" class="label-options"></div></details>
   <div id="summary"></div><section id="papers" class="papers"></section>
 </main>
-<footer>* Institutions and publication venues are displayed only when sourced from academic metadata; author-profile affiliations may differ from publication-time affiliations.<br>Generated from the <a href="https://github.com/undefinted/Awesome-Post-Training-Atlas">Awesome Post-Training Atlas</a> · __GENERATED__</footer>
+<footer>* Institutions and publication venues are displayed only when sourced from academic metadata; author-profile affiliations may differ from publication-time affiliations.<br>Data snapshot through __GENERATED__ · Generated from the <a href="https://github.com/undefinted/Awesome-Post-Training-Atlas">Awesome Post-Training Atlas</a></footer>
 <script>
 const PAPERS=__PAPERS__, DIRECTIONS=__DIRECTIONS__, LABELS=__LABELS__, ANALYTICS=__ANALYTICS__, names=Object.fromEntries(DIRECTIONS.map(x=>[x.id,x.title])), labelNames=Object.fromEntries(LABELS.map(x=>[x.id,x.title])), selectedLabels=new Set();
 const $=id=>document.getElementById(id), controls=['q','direction','family','year','month','status','confidence','labelMode'];
@@ -173,7 +178,7 @@ $('clearLabels').onclick=()=>{selectedLabels.clear();for(const b of $('labelOpti
 function render(){const q=$('q').value.trim().toLowerCase(),d=$('direction').value,f=$('family').value,y=$('year').value,m=$('month').value,s=$('status').value,cf=$('confidence').value,lm=$('labelMode').value,chosen=[...selectedLabels];const confidenceOK=p=>cf==='all'||cf==='reliable'&&p.confidence!=='broad'||cf==='high'&&(p.confidence==='curated'||p.confidence==='high')||cf===p.confidence,labelOK=p=>!chosen.length||(lm==='all'?chosen.every(x=>p.labels.includes(x)):chosen.some(x=>p.labels.includes(x)));const list=PAPERS.filter(p=>(!d||p.direction===d)&&(!f||p.methodFamily===f)&&(!y||p.date.startsWith(y))&&(!m||p.date.slice(5,7)===m)&&(!s||p.status===s)&&confidenceOK(p)&&labelOK(p)&&(!q||[p.title,p.keyIdea,p.venue,p.methodFamilyTitle,...p.changeAxes,...p.transferIdeas,...p.tags,...p.labels.map(x=>labelNames[x]||x),...p.authors,...p.institutions].join(' ').toLowerCase().includes(q)));$('summary').textContent=`Showing ${list.length.toLocaleString()} of ${PAPERS.length.toLocaleString()} papers${chosen.length?` · labels: ${chosen.map(x=>labelNames[x]).join(lm==='all'?' + ':' / ')}`:''}`;$('papers').replaceChildren();if(!list.length){add('div','empty','No papers match these filters.',$('papers'));return}for(const p of list){const card=add('article','paper '+p.status,undefined,$('papers')),h=add('h2','',undefined,card),a=add('a','',p.title,h);a.href=p.url;a.target='_blank';a.rel='noopener';const meta=add('div','meta',undefined,card);add('span','pill status',p.status==='curated'?'Curated':`🔎 ${p.confidence} confidence`,meta);add('span','',p.date,meta);add('span','pill',names[p.direction]||p.direction,meta);if(p.methodFamilyTitle)add('span','pill family',p.methodFamilyTitle,meta);for(const axis of p.changeAxes.slice(0,4))add('span','pill axis',axisNames[axis]||axis,meta);for(const t of p.labels.slice(0,8))add('span','pill label',labelNames[t]||t,meta);if(p.code){const links=add('span','links',undefined,meta),c=add('a','', 'Code ↗',links);c.href=p.code;c.target='_blank';c.rel='noopener'}if(p.authors.length)add('p','people',`Authors: ${p.authors.slice(0,8).join(', ')}${p.authors.length>8?', et al.':''}`,card);if(p.institutions.length)add('p','people',`Institutions*: ${p.institutions.slice(0,5).join('; ')}`,card);if(p.venue){const row=add('p','people','Venue: ',card),v=add(p.venueUrl?'a':'span','',`${p.venue}${p.venueType?` (${p.venueType})`:''}`,row);if(p.venueUrl){v.href=p.venueUrl;v.target='_blank';v.rel='noopener'}}if(p.transferIdeas.length)add('p','evolution',`Transferable idea: ${p.transferIdeas[0]}`,card);if(p.keyIdea)add('p','idea',p.keyIdea,card)}}
 $('total').textContent=PAPERS.length.toLocaleString();$('curated').textContent=PAPERS.filter(p=>p.status==='curated').length.toLocaleString();$('discovery').textContent=PAPERS.filter(p=>p.status==='discovery').length.toLocaleString();$('months').textContent=new Set(PAPERS.map(p=>p.date.slice(0,7))).size;for(const id of controls)$(id).addEventListener(id==='q'?'input':'change',render);render();
 </script></body></html>'''
-    return template.replace("__PAPERS__", data).replace("__DIRECTIONS__", direction_data).replace("__LABELS__", label_data).replace("__ANALYTICS__", analytics_data).replace("__GENERATED__", dt.date.today().isoformat())
+    return template.replace("__PAPERS__", data).replace("__DIRECTIONS__", direction_data).replace("__LABELS__", label_data).replace("__ANALYTICS__", analytics_data).replace("__GENERATED__", snapshot_date(papers))
 
 
 def update(check: bool = False) -> None:
