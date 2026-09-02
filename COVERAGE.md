@@ -1,8 +1,9 @@
 # Coverage matrix
 
-This report tracks curated papers by publication month and primary direction.
-It is generated from `data/papers.yaml`; zeroes are useful backfill targets,
-not claims that no relevant work existed.
+This report tracks curated papers and visibly provisional academic-discovery
+records by arXiv first-submission month and primary direction. It is generated
+from the repository data; a zero is not considered audited unless the matching
+cell in `data/monthly_audit.yaml` is complete.
 
 <!-- COVERAGE:START -->
 Coverage window: **2024-01 through 2026-09**.
@@ -45,4 +46,3 @@ Coverage window: **2024-01 through 2026-09**.
 
 Counts include curated papers and visibly provisional academic discovery candidates. Direction IDs are defined in [TAXONOMY.md](TAXONOMY.md). The monthly Agent audits every direction × month cell directly against arXiv.
 <!-- COVERAGE:END -->
-

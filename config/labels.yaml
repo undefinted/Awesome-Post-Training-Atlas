@@ -1,0 +1,44 @@
+version: controlled-vocabulary-v1
+labels:
+  - {id: opd, title: OPD, category: method, description: On-policy distillation, patterns: ['\bon[- ]policy distillation\b', '\bOPD\b']}
+  - {id: opsd, title: OPSD, category: method, description: On-policy self-distillation, patterns: ['\bon[- ]policy self[- ]distillation\b', '\bOPSD\b', '\bAgentOPSD\b']}
+  - {id: distillation, title: Distillation, category: method, description: Knowledge or policy transfer from a teacher, patterns: ['\bdistill(?:ation|ing|ed)?\b', '\bteacher[- ]student\b']}
+  - {id: counterfactual, title: Counterfactual, category: method, description: Counterfactual data, reasoning, or feedback, patterns: ['\bcounterfactuals?\b', '\bcontrastive counterfactual\b']}
+  - {id: sft, title: SFT, category: method, description: Supervised fine-tuning and instruction tuning, patterns: ['\bsupervised fine[- ]tuning\b', '\binstruction (?:fine[- ])?tuning\b', '\bSFT\b']}
+  - {id: rejection-sampling, title: Rejection Sampling, category: method, description: Rejection-sampling fine-tuning or data selection, patterns: ['\brejection sampling\b']}
+  - {id: dpo, title: DPO, category: method, description: Direct preference optimization and named variants, patterns: ['\bdirect preference optimization\b', '\bDPO\b']}
+  - {id: preference-optimization, title: Preference Optimization, category: method, description: Learning directly from preference comparisons, patterns: ['\bpreference optimiz(?:ation|ing)\b', '\bpreference learning\b']}
+  - {id: rlhf, title: RLHF, category: method, description: Reinforcement learning from human feedback, patterns: ['\breinforcement learning from human feedback\b', '\bRLHF\b']}
+  - {id: rlaif, title: RLAIF, category: method, description: Reinforcement learning from AI feedback, patterns: ['\breinforcement learning from AI feedback\b', '\bRLAIF\b', '\bAI feedback\b']}
+  - {id: rlvr, title: RLVR, category: method, description: Reinforcement learning with verifiable rewards, patterns: ['\breinforcement learning (?:from|with) verifiable rewards?\b', '\bRLVR\b', '\bverifiable rewards?\b']}
+  - {id: grpo, title: GRPO, category: algorithm, description: Group Relative Policy Optimization, patterns: ['\bgroup relative policy optimization\b', '\bGRPO\b']}
+  - {id: ppo, title: PPO, category: algorithm, description: Proximal Policy Optimization, patterns: ['\bproximal policy optimization\b', '\bPPO\b']}
+  - {id: on-policy, title: On-policy, category: property, description: Training on samples from the current policy, patterns: ['\bon[- ]policy\b']}
+  - {id: off-policy, title: Off-policy, category: property, description: Training on data from another or older policy, patterns: ['\boff[- ]policy\b']}
+  - {id: reward-model, title: Reward Model, category: component, description: Learned reward or preference model, patterns: ['\breward models?\b', '\bpreference models?\b']}
+  - {id: prm, title: PRM, category: component, description: Process reward model or process supervision, patterns: ['\bprocess reward models?\b', '\bPRM\b', '\bprocess supervision\b', '\bstep[- ]level rewards?\b']}
+  - {id: verifier, title: Verifier, category: component, description: Verifier or judge used for feedback, patterns: ['\bverifiers?\b', '\bLLM[- ]as[- ]a[- ]judge\b', '\bLLM judge\b']}
+  - {id: self-training, title: Self-training, category: method, description: Training on model-generated supervision, patterns: ['\bself[- ]training\b', '\bself[- ]distillation\b']}
+  - {id: self-improvement, title: Self-improvement, category: objective, description: Iterative autonomous capability improvement, patterns: ['\bself[- ]improv(?:ement|ing)\b', '\bself[- ]evolv(?:e|ing)\b']}
+  - {id: self-play, title: Self-play, category: method, description: Policies learn through self-play, patterns: ['\bself[- ]play\b']}
+  - {id: synthetic-data, title: Synthetic Data, category: data, description: Model-generated training data, patterns: ['\bsynthetic (?:training )?data\b', '\bdata synthesis\b', '\bsynthetic instructions?\b']}
+  - {id: curriculum, title: Curriculum, category: data, description: Curriculum or adaptive task generation, patterns: ['\bcurriculum(?: learning)?\b', '\btask generation\b']}
+  - {id: agent, title: Agent, category: setting, description: Agentic systems and agent training, patterns: ['\bagentic\b', '\bAI agents?\b', '\blanguage agents?\b', '\bagent training\b']}
+  - {id: tool-use, title: Tool Use, category: setting, description: Learning to call tools or APIs, patterns: ['\btool[- ]use\b', '\btool calling\b', '\bAPI calling\b']}
+  - {id: web-agent, title: Web Agent, category: setting, description: Web navigation and browser agents, patterns: ['\bweb agents?\b', '\bweb navigation\b', '\bbrowser agents?\b']}
+  - {id: coding-agent, title: Coding Agent, category: setting, description: Software engineering and coding agents, patterns: ['\bcoding agents?\b', '\bsoftware (?:engineering )?agents?\b']}
+  - {id: multi-turn, title: Multi-turn, category: setting, description: Multi-turn interaction or training, patterns: ['\bmulti[- ]turn\b']}
+  - {id: long-horizon, title: Long-horizon, category: setting, description: Long-horizon tasks and credit assignment, patterns: ['\blong[- ]horizon\b', '\btemporal credit assignment\b']}
+  - {id: multimodal, title: Multimodal, category: modality, description: Models combining multiple modalities, patterns: ['\bmultimodal\b', '\bmulti[- ]modal\b', '\bMLLMs?\b']}
+  - {id: vlm, title: VLM, category: modality, description: Vision-language models, patterns: ['\bvision[- ]language models?\b', '\bVLMs?\b']}
+  - {id: diffusion, title: Diffusion, category: modality, description: Diffusion and flow-based generation, patterns: ['\bdiffusion models?\b', '\bdiffusion language models?\b', '\bflow matching\b']}
+  - {id: image-generation, title: Image Generation, category: modality, description: Text-to-image and image synthesis, patterns: ['\bimage generation\b', '\btext[- ]to[- ]image\b']}
+  - {id: video-generation, title: Video Generation, category: modality, description: Text-to-video and video synthesis, patterns: ['\bvideo generation\b', '\btext[- ]to[- ]video\b']}
+  - {id: vla, title: VLA, category: modality, description: Vision-language-action models, patterns: ['\bvision[- ]language[- ]action\b', '\bVLA models?\b', '\bVLAs\b']}
+  - {id: robotics, title: Robotics, category: domain, description: Robot policies and embodied control, patterns: ['\brobotics?\b', '\brobot policies\b', '\bembodied agents?\b']}
+  - {id: autonomous-driving, title: Autonomous Driving, category: domain, description: Driving policies and world models, patterns: ['\bautonomous driving\b', '\bself[- ]driving\b']}
+  - {id: reasoning, title: Reasoning, category: capability, description: General and chain-of-thought reasoning, patterns: ['\breasoning\b', '\bchain[- ]of[- ]thought\b']}
+  - {id: math, title: Math, category: domain, description: Mathematical reasoning, patterns: ['\bmathematical reasoning\b', '\bmath reasoning\b', '\bmath problems?\b', '\bAIME\b']}
+  - {id: code, title: Code, category: domain, description: Code generation and programming, patterns: ['\bcode generation\b', '\bcoding\b', '\bprogramming problems?\b']}
+  - {id: safety, title: Safety, category: objective, description: Safety alignment and harmfulness reduction, patterns: ['\bsafety alignment\b', '\bsafe and helpful\b', '\bharmful(?:ness)?\b', '\bjailbreak(?:ing|s)?\b']}
+  - {id: hallucination, title: Hallucination, category: objective, description: Hallucination and factuality, patterns: ['\bhallucinations?\b', '\bfactuality\b']}

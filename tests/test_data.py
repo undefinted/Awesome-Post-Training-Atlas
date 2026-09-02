@@ -13,6 +13,8 @@ class PaperDataTests(unittest.TestCase):
         cls.papers = yaml.safe_load((ROOT / "data" / "papers.yaml").read_text(encoding="utf-8"))["papers"]
         taxonomy = yaml.safe_load((ROOT / "config" / "taxonomy.yaml").read_text(encoding="utf-8"))
         cls.directions = {item["id"] for item in taxonomy["directions"]}
+        labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))
+        cls.labels = {item["id"] for item in labels["labels"]}
 
     def test_ids_are_unique(self):
         ids = [paper["id"].lower() for paper in self.papers]
@@ -25,6 +27,7 @@ class PaperDataTests(unittest.TestCase):
             self.assertIn(paper["direction"], self.directions)
             self.assertTrue(str(paper["url"]).startswith("https://"))
             self.assertTrue(paper.get("authors"), paper["id"])
+            self.assertFalse(set(paper.get("auto_labels", [])) - self.labels, paper["id"])
 
     def test_community_signal_schema(self):
         payload = yaml.safe_load((ROOT / "data" / "community_signals.yaml").read_text(encoding="utf-8"))
@@ -45,6 +48,11 @@ class PaperDataTests(unittest.TestCase):
             self.assertIn(direction, self.directions, paper["id"])
             self.assertIn("arxiv", " ".join(paper.get("source_signals", [])).lower(), paper["id"])
             self.assertTrue(paper.get("authors"), paper["id"])
+            self.assertFalse(set(paper.get("auto_labels", [])) - self.labels, paper["id"])
+
+    def test_label_ids_are_unique(self):
+        labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))["labels"]
+        self.assertEqual(len(labels), len(self.labels))
 
 
 if __name__ == "__main__":
