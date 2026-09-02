@@ -3,6 +3,8 @@ from pathlib import Path
 
 import yaml
 
+from radar.site import analytics
+
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -79,6 +81,37 @@ class PaperDataTests(unittest.TestCase):
     def test_label_ids_are_unique(self):
         labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))["labels"]
         self.assertEqual(len(labels), len(self.labels))
+
+    def test_direction_analytics_rows_are_chart_compatible(self):
+        records = [
+            {
+                "id": "paper:1",
+                "title": "Paper one",
+                "date": "2025-01-01",
+                "direction": "direction-a",
+                "status": "curated",
+                "url": "https://example.com/1",
+                "methodFamily": None,
+                "changeAxes": [],
+                "transferIdeas": [],
+                "predecessors": [],
+            },
+            {
+                "id": "paper:2",
+                "title": "Paper two",
+                "date": "2025-02-01",
+                "direction": "direction-b",
+                "status": "discovery",
+                "url": "https://example.com/2",
+                "methodFamily": None,
+                "changeAxes": [],
+                "transferIdeas": [],
+                "predecessors": [],
+            },
+        ]
+        result = analytics(records, [{"id": "direction-a", "title": "A"}, {"id": "direction-b", "title": "B"}])
+        self.assertEqual([row["count"] for row in result["directions"]], [1, 1])
+        self.assertEqual([row["total"] for row in result["directions"]], [1, 1])
 
 
 if __name__ == "__main__":

@@ -59,6 +59,7 @@ def analytics(records: list[dict], directions: list[dict]) -> dict:
             {
                 "id": direction["id"],
                 "title": direction["title"],
+                "count": len(selected),
                 "total": len(selected),
                 "curated": curated,
                 "discovery": len(selected) - curated,
@@ -112,7 +113,7 @@ def analytics(records: list[dict], directions: list[dict]) -> dict:
             }
         )
     return {
-        "directions": sorted(direction_rows, key=lambda row: row["total"], reverse=True),
+        "directions": sorted(direction_rows, key=lambda row: row["count"], reverse=True),
         "years": [{"key": year, "count": year_counts[year]} for year in sorted(year_counts)],
         "months": [{"key": month, "count": month_counts[month]} for month in sorted(month_counts)],
         "families": sorted(family_rows, key=lambda row: row["count"], reverse=True),
