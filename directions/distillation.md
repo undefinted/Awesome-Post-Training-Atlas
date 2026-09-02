@@ -109,7 +109,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[A Token-Level Analysis of Sampled-Token Reverse-KL On-Policy Distillation](https://arxiv.org/abs/2608.25643)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `OPD` · `Distillation` · `On-policy`  
-  Authors: Bing Shao, Jiazheng Zhang, Long Ma, Yujiong Shen, Senjie Jin, Xin Guo, Yuming Yang, Mingxu Chai, et al.
+  Authors: Bing Shao, Jiazheng Zhang, Long Ma, Yujiong Shen, Senjie Jin, Xin Guo, Yuming Yang, Mingxu Chai, et al.  
+  Institutions*: Fudan University
 
 - 🔎 **[Where to Look Matters: On-Policy Self-Distillation for Long-Video Understanding](https://arxiv.org/abs/2608.25356)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
@@ -149,7 +150,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[TailSieve: Partial-Rollout-Guided Tail Routing for LLM Rollouts](https://arxiv.org/abs/2608.22788)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `OPD` · `Distillation` · `On-policy`  
-  Authors: Tianqi Xu, Lu Lv, Haoyang Huang, Wenjie Huang, Zhanming Shen, Yuhao Shen, Baolin Zhang, Xinyi Hu, et al.
+  Authors: Tianqi Xu, Lu Lv, Haoyang Huang, Wenjie Huang, Zhanming Shen, Yuhao Shen, Baolin Zhang, Xinyi Hu, et al.  
+  Institutions*: Nanjing University; The University of Melbourne
 
 - 🔎 **[WAM-OPD: On-Policy Distillation for World Action Models](https://arxiv.org/abs/2608.22364)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-23 · `academic-query-vote` · `arxiv-backfill`  

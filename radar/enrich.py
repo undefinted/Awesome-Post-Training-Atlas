@@ -46,7 +46,7 @@ def post_json(url: str, body: dict, fields: str) -> list:
         return json.loads(response.read())
 
 
-def enrich_institutions(papers: list[dict]) -> None:
+def enrich_academic_metadata(papers: list[dict], include_institutions: bool = True) -> None:
     arxiv_ids = [paper["id"] for paper in papers if paper["id"].startswith("arxiv:")]
     if not arxiv_ids:
         return
@@ -56,16 +56,17 @@ def enrich_institutions(papers: list[dict]) -> None:
             post_json(
                 S2_PAPER_BATCH,
                 {"ids": [paper_id.upper() for paper_id in arxiv_ids[offset : offset + 400]]},
-                "externalIds,authors",
+                "externalIds,authors,venue,publicationVenue,journal,year",
             )
         )
-    author_ids = sorted(
-        {author["authorId"] for paper in s2_papers if paper for author in paper.get("authors", []) if author.get("authorId")}
-    )
     profiles = {}
-    for offset in range(0, len(author_ids), 1000):
-        batch = post_json(S2_AUTHOR_BATCH, {"ids": author_ids[offset : offset + 1000]}, "name,affiliations")
-        profiles.update({author["authorId"]: author for author in batch if author})
+    if include_institutions:
+        author_ids = sorted(
+            {author["authorId"] for paper in s2_papers if paper for author in paper.get("authors", []) if author.get("authorId")}
+        )
+        for offset in range(0, len(author_ids), 1000):
+            batch = post_json(S2_AUTHOR_BATCH, {"ids": author_ids[offset : offset + 1000]}, "name,affiliations")
+            profiles.update({author["authorId"]: author for author in batch if author})
     by_arxiv = {}
     for record in s2_papers:
         if not record:
@@ -76,26 +77,44 @@ def enrich_institutions(papers: list[dict]) -> None:
     checked_at = dt.datetime.now(dt.timezone.utc).isoformat()
     for paper in papers:
         record = by_arxiv.get(paper["id"].lower())
-        institutions = sorted(
-            {
-                affiliation
-                for author in (record or {}).get("authors", [])
-                for affiliation in profiles.get(author.get("authorId"), {}).get("affiliations", [])
-                if affiliation
-            }
-        )
-        if institutions:
-            paper["institutions"] = institutions
-            paper["institution_source"] = "semantic-scholar-author-profiles"
-            paper["institution_note"] = "Author-profile affiliations; may differ from publication-time affiliations."
-        paper["institution_enrichment_checked_at"] = checked_at
+        if include_institutions:
+            institutions = sorted(
+                {
+                    affiliation
+                    for author in (record or {}).get("authors", [])
+                    for affiliation in profiles.get(author.get("authorId"), {}).get("affiliations", [])
+                    if affiliation
+                }
+            )
+            if institutions:
+                paper["institutions"] = institutions
+                paper["institution_source"] = "semantic-scholar-author-profiles"
+                paper["institution_note"] = "Author-profile affiliations; may differ from publication-time affiliations."
+            paper["institution_enrichment_checked_at"] = checked_at
+        publication_venue = (record or {}).get("publicationVenue") or {}
+        venue_name = publication_venue.get("name") or (record or {}).get("venue")
+        if venue_name and venue_name.strip().lower() not in {"arxiv", "arxiv.org", "corr"}:
+            paper["venue"] = venue_name.strip()
+            paper["venue_type"] = publication_venue.get("type") or "publication venue"
+            if publication_venue.get("url"):
+                paper["venue_url"] = publication_venue["url"]
+            paper["venue_source"] = "semantic-scholar-paper-metadata"
+        paper["venue_enrichment_checked_at"] = checked_at
 
 
 def enrich_file(path, include_authors: bool, include_institutions: bool, limit: int | None = None) -> int:
     papers = load_yaml(path)["papers"]
     selected = [paper for paper in papers if paper["id"].startswith("arxiv:")]
-    if include_institutions:
-        selected = [paper for paper in selected if not paper.get("institution_enrichment_checked_at")]
+    refresh_before = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=14)
+    selected = [
+        paper
+        for paper in selected
+        if not paper.get("venue_enrichment_checked_at")
+        or (
+            not paper.get("venue")
+            and dt.datetime.fromisoformat(paper["venue_enrichment_checked_at"]) <= refresh_before
+        )
+    ]
     selected = selected[:limit] if limit else selected
     if include_authors:
         arxiv_ids = [paper["id"] for paper in selected]
@@ -105,11 +124,10 @@ def enrich_file(path, include_authors: bool, include_institutions: bool, limit: 
             if record and record.get("authors"):
                 paper["authors"] = record["authors"]
                 paper["author_source"] = "arxiv"
-    if include_institutions:
-        try:
-            enrich_institutions(selected)
-        except Exception as exc:
-            print(f"Semantic Scholar enrichment skipped: {type(exc).__name__}: {str(exc).encode('ascii', 'backslashreplace').decode('ascii')}")
+    try:
+        enrich_academic_metadata(selected, include_institutions)
+    except Exception as exc:
+        print(f"Semantic Scholar enrichment skipped: {type(exc).__name__}: {str(exc).encode('ascii', 'backslashreplace').decode('ascii')}")
     with path.open("w", encoding="utf-8", newline="\n") as handle:
         yaml.safe_dump({"papers": papers}, handle, sort_keys=False, allow_unicode=True, width=120)
     return len(selected)
@@ -125,11 +143,10 @@ def enrich_curated(include_institutions: bool = True) -> None:
         if record and record.get("authors"):
             paper["authors"] = record["authors"]
             paper["author_source"] = "arxiv"
-    if include_institutions:
-        try:
-            enrich_institutions(papers)
-        except Exception as exc:
-            print(f"Semantic Scholar enrichment skipped: {type(exc).__name__}: {str(exc).encode('ascii', 'backslashreplace').decode('ascii')}")
+    try:
+        enrich_academic_metadata(papers, include_institutions)
+    except Exception as exc:
+        print(f"Semantic Scholar enrichment skipped: {type(exc).__name__}: {str(exc).encode('ascii', 'backslashreplace').decode('ascii')}")
     with path.open("w", encoding="utf-8", newline="\n") as handle:
         yaml.safe_dump({"papers": papers}, handle, sort_keys=False, allow_unicode=True, width=120)
 
@@ -148,7 +165,7 @@ def main() -> None:
             include_institutions=not args.no_institutions,
             limit=args.candidate_limit,
         )
-        print(f"Checked institution metadata for {count} discovery candidates")
+        print(f"Checked institution and publication-venue metadata for {count} discovery candidates")
 
 
 if __name__ == "__main__":

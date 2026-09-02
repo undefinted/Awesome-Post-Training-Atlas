@@ -101,7 +101,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[SPT: Skills as Pre-Training Data for Agentic Language Models](https://arxiv.org/abs/2608.26563)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Agent`  
-  Authors: Yufei Sun, Yudong Li, Yiming Cheng
+  Authors: Yufei Sun, Yudong Li, Yiming Cheng  
+  Institutions*: Beijing University of Posts and Telecommunications
 
 - 🔎 **[PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents](https://arxiv.org/abs/2608.26530)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
@@ -161,7 +162,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent` · `Tool Use` · `Long-horizon`  
-  Authors: Yi Zhu, Xiongwei Wu, Qiyi Wang, Tingyu Qu, Jiajun Liu, Sihan Cao, Long Chen, Weigao Sun, et al.
+  Authors: Yi Zhu, Xiongwei Wu, Qiyi Wang, Tingyu Qu, Jiajun Liu, Sihan Cao, Long Chen, Weigao Sun, et al.  
+  Institutions*: KU Leuven
 
 - 🔎 **[MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning](https://arxiv.org/abs/2608.22167)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -181,7 +183,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[MileGPO: Milestone Inference with Local Evidence for Graph-Based Policy Optimization of Long-Horizon LLM Agents](https://arxiv.org/abs/2608.19803)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `On-policy` · `Agent` · `Long-horizon`  
-  Authors: Bo Qian, Yuting Wu, Shuang Zeng, Huaiyu Wan, Dalin Zhang, Jiqiang Liu
+  Authors: Bo Qian, Yuting Wu, Shuang Zeng, Huaiyu Wan, Dalin Zhang, Jiqiang Liu  
+  Institutions*: Institute of Computational Linguistic, Peking University
 
 - 🔎 **[What is Missing from AI Post-Training AI: An Empirical Analysis](https://arxiv.org/abs/2608.19072)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -211,17 +214,21 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](https://arxiv.org/abs/2608.12253)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multi-turn`  
-  Authors: Simon Yu, Nicholas Tomlin, Marwa Abdulhai, Ximing Lu, Derek Chong, Abe Hou, Dilara Soylu, Sergey Levine, et al.
+  Authors: Simon Yu, Nicholas Tomlin, Marwa Abdulhai, Ximing Lu, Derek Chong, Abe Hou, Dilara Soylu, Sergey Levine, et al.  
+  Institutions*: University of Washington
 
 - 🔎 **[Retry, Switch, or Abstain? Learning Strategy-Aware Tool-Use Policies via Controlled Error Injection](https://arxiv.org/abs/2608.11977)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Curriculum` · `Tool Use` · `Multi-turn`  
-  Authors: Chaoran Chen, Vy Nguyen, Ziji Zhang, Abhinav Gullapalli, Ziyi Wang, Yuxuan Lu, Dakuo Wang, Jing Huang, et al.
+  Authors: Chaoran Chen, Vy Nguyen, Ziji Zhang, Abhinav Gullapalli, Ziyi Wang, Yuxuan Lu, Dakuo Wang, Jing Huang, et al.  
+  Institutions*: Northeastern University
 
 - 🔎 **[Mitigating Context Interference for Reliable and Efficient Search Agents](https://arxiv.org/abs/2608.10743)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Agent` · `Multi-turn`  
-  Authors: Boyang Xue, Bin Wu, Shuofei Qiao, Sheng Wang, Rui Wang, Yiming Du, Hongru Wang, Jeff Z. Pan, et al.
+  Authors: Boyang Xue, Bin Wu, Shuofei Qiao, Sheng Wang, Rui Wang, Yiming Du, Hongru Wang, Jeff Z. Pan, et al.  
+  Institutions*: The Chinese University of Hong Kong, University of Edinburgh; University College London  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[TideRL: Boosting Agentic RL Goodput with Readiness-Aware Scheduling](https://arxiv.org/abs/2608.10402)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1800,7 +1807,8 @@ _No visible paper records in this cell yet._
   2023-02-09 · `tool-use` · `self-supervision` · `api`  
   Labels: `Tool Use`  
   Authors: Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom  
-  Institutions*: FAIR; Facebook; University of Washington
+  Institutions*: FAIR; Facebook; University of Washington  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 <a id="2021"></a>
 

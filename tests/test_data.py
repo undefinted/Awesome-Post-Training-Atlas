@@ -30,6 +30,9 @@ class PaperDataTests(unittest.TestCase):
             self.assertFalse(set(paper.get("auto_labels", [])) - self.labels, paper["id"])
             if paper.get("institutions"):
                 self.assertTrue(paper.get("institution_source"), paper["id"])
+            if paper.get("venue"):
+                self.assertTrue(paper.get("venue_source"), paper["id"])
+                self.assertNotIn(paper["venue"].lower(), {"arxiv", "arxiv.org", "corr"})
 
     def test_community_signal_schema(self):
         payload = yaml.safe_load((ROOT / "data" / "community_signals.yaml").read_text(encoding="utf-8"))
@@ -53,6 +56,9 @@ class PaperDataTests(unittest.TestCase):
             self.assertFalse(set(paper.get("auto_labels", [])) - self.labels, paper["id"])
             if paper.get("institutions"):
                 self.assertTrue(paper.get("institution_source"), paper["id"])
+            if paper.get("venue"):
+                self.assertTrue(paper.get("venue_source"), paper["id"])
+                self.assertNotIn(paper["venue"].lower(), {"arxiv", "arxiv.org", "corr"})
 
     def test_label_ids_are_unique(self):
         labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))["labels"]

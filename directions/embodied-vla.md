@@ -40,7 +40,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](https://arxiv.org/abs/2608.26053)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Long-horizon` · `VLM` · `Robotics` · `Reasoning`  
-  Authors: Lehong Wu, Yuxiao Qu, Zheyuan Hu, Ivan Zhang, Limin Wei, Zackory Erickson, Aviral Kumar
+  Authors: Lehong Wu, Yuxiao Qu, Zheyuan Hu, Ivan Zhang, Limin Wei, Zackory Erickson, Aviral Kumar  
+  Institutions*: Carnegie Mellon University
 
 - 🔎 **[ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models](https://arxiv.org/abs/2608.25572)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
@@ -80,7 +81,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](https://arxiv.org/abs/2608.15875)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon` · `VLA` · `Robotics`  
-  Authors:  GigaBrain Team, Angen Ye, Axiang Sun, Can Jin, Chenxi Cheng, Chong Shi, Dengke Shang, Dingqian Zhang, et al.
+  Authors:  GigaBrain Team, Angen Ye, Axiang Sun, Can Jin, Chenxi Cheng, Chong Shi, Dengke Shang, Dingqian Zhang, et al.  
+  Institutions*: Nanjing University
 
 - 🔎 **[FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving](https://arxiv.org/abs/2608.13395)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1308,4 +1310,5 @@ _No visible paper records in this cell yet._
   2023-07-28 · `vla` · `co-fine-tuning` · `embodied`  
   Labels: `VLA` · `Robotics`  
   Authors: Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, et al.  
-  Institutions*: Google; Stanford
+  Institutions*: Google; Stanford  
+  Venue: Conference on Robot Learning

@@ -95,7 +95,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[ProofEvolve: Neuro-Symbolic Evolution for Formal Automated Theorem Proving](https://arxiv.org/abs/2608.26334)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement`  
-  Authors: Wenqian Ye, Ziwei Guan, Eric Xie, Bohan Liu, Shivani Modi, Buyun Zhang, Ellie Dingqiao Wen, Henry Kautz, et al.
+  Authors: Wenqian Ye, Ziwei Guan, Eric Xie, Bohan Liu, Shivani Modi, Buyun Zhang, Ellie Dingqiao Wen, Henry Kautz, et al.  
+  Institutions*: University of Rochester; University of Virginia
 
 - 🔎 **[Multi-Agent Self-Improving Reinforcement Learning for Video Reasoning](https://arxiv.org/abs/2608.28675)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
@@ -105,7 +106,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Meta$^n$: Recursive Self-Improvement through Emergent Depth](https://arxiv.org/abs/2608.24735)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement`  
-  Authors: Zae Myung Kim, Young-Jun Lee, Seungyeon Jwa, Dongyeop Kang
+  Authors: Zae Myung Kim, Young-Jun Lee, Seungyeon Jwa, Dongyeop Kang  
+  Institutions*: University of Minnesota Twin Cities
 
 - 🔎 **[VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models](https://arxiv.org/abs/2608.24302)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
@@ -155,7 +157,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Phantom Gains: Auditing Self-Improvement Against a Measured Null](https://arxiv.org/abs/2608.20290)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Self-training` · `Self-improvement`  
-  Authors: Cheng Xu, Nan Yan, Liming Chen, M-Tahar Kechadi
+  Authors: Cheng Xu, Nan Yan, Liming Chen, M-Tahar Kechadi  
+  Institutions*: University College Dublin
 
 - 🔎 **[PertMind: Eliciting Emergent Biological Reasoning in LLM via Reinforcement Learning on Cellular Perturbation Data](https://arxiv.org/abs/2608.16419)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -185,7 +188,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents](https://arxiv.org/abs/2608.15071)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement`  
-  Authors: Tianxin Wei, Zhan Shi, Minhua Lin, Bing He, Zewen Liu, Yisi Sang, Yuanchen Bei, Xuying Ning, et al.
+  Authors: Tianxin Wei, Zhan Shi, Minhua Lin, Bing He, Zewen Liu, Yisi Sang, Yuanchen Bei, Xuying Ning, et al.  
+  Institutions*: Univeristy of Illinois Urbana Champaign; University of Illinois Urbana-Champaign
 
 - 🔎 **[AQuA: Recursively Self-Improving Quantitative Trading Research Agents](https://arxiv.org/abs/2608.12841)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -215,7 +219,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://arxiv.org/abs/2608.09819)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Agent` · `Code`  
-  Authors: Mind Lab,  :, Vin Bo, Asher Cai, Jingwei Cao, Song Cao, Vic Cao, Amelia Chen, et al.
+  Authors: Mind Lab,  :, Vin Bo, Asher Cai, Jingwei Cao, Song Cao, Vic Cao, Amelia Chen, et al.  
+  Institutions*: HKUSTgz
 
 - 🔎 **[Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses](https://arxiv.org/abs/2608.08466)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-09 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2423,7 +2428,8 @@ _No visible paper records in this cell yet._
   2024-01-18 · `self-reward` · `iterative-dpo` · `llm-as-a-judge`  
   Labels: `DPO` · `Verifier`  
   Authors: Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston  
-  Institutions*: Meta AI; New York University
+  Institutions*: Meta AI; New York University  
+  Venue: [International Conference on Machine Learning](https://icml.cc/)
 
 <a id="2022"></a>
 
