@@ -16915,7 +16915,9 @@ _No visible paper records in this cell yet._
   Labels: `RLAIF`  
   Authors: Ganqu Cui, Lifan Yuan, Ning Ding, Guanming Yao, Bingxiang He, Wei Zhu, Yuan Ni, Guotong Xie, et al.  
   Institutions*: University of Illinois Urbana-Champaign; Wechat AI, Tencent Inc.  
-  Venue: [International Conference on Machine Learning](https://icml.cc/)
+  Venue: [International Conference on Machine Learning](https://icml.cc/)  
+  Method family: `Data & Feedback Construction`  
+  Change axes: `data, feedback, reward`
 
 <a id="2022"></a>
 
@@ -16932,4 +16934,6 @@ _No visible paper records in this cell yet._
   Labels: `SFT`  
   Authors: Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi  
   Institutions*: Allen Institute for AI; Arizona State University; Johns Hopkins University; Northwestern University; University of Washington  
-  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)  
+  Method family: `Data & Feedback Construction`  
+  Change axes: `data, self-improvement`

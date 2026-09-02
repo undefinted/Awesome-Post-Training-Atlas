@@ -15,6 +15,9 @@ class PaperDataTests(unittest.TestCase):
         cls.directions = {item["id"] for item in taxonomy["directions"]}
         labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))
         cls.labels = {item["id"] for item in labels["labels"]}
+        methods = yaml.safe_load((ROOT / "config" / "method_families.yaml").read_text(encoding="utf-8"))
+        cls.method_families = {item["id"]: item for item in methods["families"]}
+        cls.method_axes = set(methods["axes"])
 
     def test_ids_are_unique(self):
         ids = [paper["id"].lower() for paper in self.papers]
@@ -33,6 +36,19 @@ class PaperDataTests(unittest.TestCase):
             if paper.get("venue"):
                 self.assertTrue(paper.get("venue_source"), paper["id"])
                 self.assertNotIn(paper["venue"].lower(), {"arxiv", "arxiv.org", "corr"})
+            self.assertIn(paper.get("method_family"), self.method_families, paper["id"])
+            self.assertIsInstance(paper.get("predecessors"), list, paper["id"])
+            self.assertNotIn(paper["id"], paper.get("predecessors", []), paper["id"])
+            self.assertFalse(set(paper.get("change_axes", [])) - self.method_axes, paper["id"])
+            self.assertIsInstance(paper.get("transfer_ideas"), list, paper["id"])
+            self.assertTrue(all(isinstance(idea, str) and idea.strip() for idea in paper.get("transfer_ideas", [])), paper["id"])
+
+    def test_method_family_config(self):
+        for family in self.method_families.values():
+            self.assertTrue(family.get("title"), family.get("id"))
+            self.assertTrue(family.get("description"), family.get("id"))
+            self.assertTrue(family.get("color", "").startswith("#"), family.get("id"))
+            self.assertTrue(family.get("transfer_ideas"), family.get("id"))
 
     def test_community_signal_schema(self):
         payload = yaml.safe_load((ROOT / "data" / "community_signals.yaml").read_text(encoding="utf-8"))

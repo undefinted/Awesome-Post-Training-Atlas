@@ -15280,4 +15280,6 @@ _No visible paper records in this cell yet._
   2023-05-31 · `process-reward-model` · `verifier` · `reasoning`  
   Labels: `Verifier` · `Reasoning` · `Math`  
   Authors: Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, et al.  
-  Venue: [International Conference on Learning Representations](https://iclr.cc/)
+  Venue: [International Conference on Learning Representations](https://iclr.cc/)  
+  Method family: `RL Optimization & Verifiable Rewards`  
+  Change axes: `verifier, reward, feedback`

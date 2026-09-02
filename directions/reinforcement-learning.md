@@ -3756,7 +3756,9 @@ _No visible paper records in this cell yet._
   Labels: `Distillation` · `RLVR` · `GRPO` · `Reasoning`  
   Authors:  DeepSeek-AI, Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Peiyi Wang, Qihao Zhu, Runxin Xu, et al.  
   Institutions*: Stanford University; Tsinghua University  
-  Venue: [Nature](https://www.nature.com/)
+  Venue: [Nature](https://www.nature.com/)  
+  Method family: `RL Optimization & Verifiable Rewards`  
+  Change axes: `reward, optimization, verifier, self-improvement`
 
 - 🔎 **[Unlocking Multimodal Mathematical Reasoning via Process Reward Model](https://arxiv.org/abs/2501.04686)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-01-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3893,7 +3895,9 @@ _No visible paper records in this cell yet._
   2024-02-05 · `grpo` · `mathematical-reasoning` · `reinforcement-learning`  
   Labels: `GRPO` · `Reasoning` · `Math`  
   Authors: Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, et al.  
-  Institutions*: DeepSeek AI
+  Institutions*: DeepSeek AI  
+  Method family: `RL Optimization & Verifiable Rewards`  
+  Change axes: `reward, optimization, verifier, efficiency`
 
 <a id="2024-01"></a>
 
@@ -3919,4 +3923,6 @@ _No visible paper records in this cell yet._
 - **[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)** — Introduces a clipped surrogate objective that makes policy-gradient updates simpler and more stable.  
   2017-07-20 · `policy-optimization` · `on-policy` · `ppo`  
   Labels: `PPO` · `On-policy`  
-  Authors: John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov
+  Authors: John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov  
+  Method family: `RL Optimization & Verifiable Rewards`  
+  Change axes: `optimization, efficiency`

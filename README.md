@@ -35,6 +35,11 @@ visible instead of hiding gaps behind a large total paper count.
 The [discovery coverage report](DISCOVERY_COVERAGE.md) separately records the
 academic-search window, query counts, and unresolved backlog.
 
+The curated layer also carries an optional method-evolution view: method
+families, carefully sourced precedents, change axes, and explicit idea surfaces.
+The website visualizes these annotations separately from the much larger
+discovery pool so provisional records do not look like confirmed lineage.
+
 <!-- PAPERS:START -->
 ## Research directions
 

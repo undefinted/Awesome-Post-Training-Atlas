@@ -2005,4 +2005,6 @@ _No visible paper records in this cell yet._
   Labels: `VLA` · `Robotics`  
   Authors: Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, et al.  
   Institutions*: Google; Stanford  
-  Venue: Conference on Robot Learning
+  Venue: Conference on Robot Learning  
+  Method family: `Embodied & VLA Transfer`  
+  Change axes: `cross-modal, data, environment`

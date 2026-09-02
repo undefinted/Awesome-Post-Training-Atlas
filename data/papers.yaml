@@ -39,6 +39,15 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - objective
+  - credit-assignment
+  - efficiency
+  - long-horizon
+  transfer_ideas:
+  - Can step-level guidance be used as a controllable bridge between supervised adaptation and interactive RL?
 - id: arxiv:2608.14277
   title: 'SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning'
   date: 2026-08-14
@@ -84,6 +93,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - tokenization
+  - objective
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2608.05987
   title: 'AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning'
   date: 2026-08-06
@@ -126,6 +142,14 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - credit-assignment
+  - self-improvement
+  - efficiency
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2607.29494
   title: 'Adaptive FastOPD: Progress-Aware Rollout Horizon Expansion for Efficient On-Policy Distillation'
   date: 2026-07-31
@@ -157,6 +181,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - sampling
+  - efficiency
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2607.14777
   title: 'SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning'
   date: 2026-07-16
@@ -195,6 +226,14 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - self-improvement
+  - feedback
+  - reward
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2607.13399
   title: 'Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations'
   date: 2026-07-15
@@ -231,6 +270,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - objective
+  - optimization
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2607.05804
   title: 'TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training'
   date: 2026-07-07
@@ -267,6 +313,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - sampling
+  - efficiency
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2606.26790
   title: 'OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning'
   date: 2026-06-25
@@ -302,6 +355,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - feedback
+  - credit-assignment
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2606.17628
   title: 'OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation'
   date: 2026-06-16
@@ -334,6 +394,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - self-improvement
+  - credit-assignment
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2606.15912
   title: On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents
   date: 2026-06-14
@@ -371,6 +438,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - feedback
+  - credit-assignment
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2606.01249
   title: Trust Region On-Policy Distillation
   date: 2026-05-31
@@ -401,6 +475,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - optimization
+  - objective
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2605.21606
   title: When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning
   date: 2026-05-20
@@ -433,6 +514,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - feedback
+  - objective
+  - credit-assignment
+  transfer_ideas: []
 - id: arxiv:2605.11739
   title: 'Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation'
   date: 2026-05-12
@@ -469,6 +557,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - sampling
+  - efficiency
+  - long-horizon
+  transfer_ideas: []
 - id: arxiv:2605.09725
   title: On-Policy Distillation with Best-of-N Teacher Rollout Selection
   date: 2026-05-10
@@ -500,6 +595,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - sampling
+  - feedback
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2605.01347
   title: 'MAD-OPD: Breaking the Ceiling in On-Policy Distillation via Multi-Agent Debate'
   date: 2026-05-02
@@ -536,6 +638,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - feedback
+  - verifier
+  - objective
+  transfer_ideas: []
 - id: arxiv:2604.24005
   title: 'TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents'
   date: 2026-04-27
@@ -568,6 +677,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - sampling
+  - long-horizon
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2604.13016
   title: 'Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe'
   date: 2026-04-14
@@ -609,6 +725,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - objective
+  - optimization
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2604.00626
   title: A Survey of On-Policy Distillation for Large Language Models
   date: 2026-04-01
@@ -634,6 +757,12 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - objective
+  - feedback
+  transfer_ideas: []
 - id: arxiv:2603.25562
   title: 'Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes'
   date: 2026-03-26
@@ -669,6 +798,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - objective
+  - optimization
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2603.11137
   title: Scaling Reasoning Efficiently via Relaxed On-Policy Distillation
   date: 2026-03-11
@@ -699,6 +835,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - objective
+  - efficiency
+  - optimization
+  transfer_ideas: []
 - id: arxiv:2603.07079
   title: Entropy-Aware On-Policy Distillation of Language Models
   date: 2026-03-07
@@ -731,6 +874,12 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - objective
+  - optimization
+  transfer_ideas: []
 - id: arxiv:2601.18734
   title: 'Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models'
   date: 2026-01-26
@@ -764,6 +913,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - self-improvement
+  - feedback
+  - objective
+  transfer_ideas: []
 - id: arxiv:2604.28123
   title: 'Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL'
   date: 2026-04-30
@@ -805,6 +961,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - cross-modal
+  - feedback
+  - objective
+  transfer_ideas: []
 - id: arxiv:1707.06347
   title: Proximal Policy Optimization Algorithms
   date: 2017-07-20
@@ -830,6 +993,12 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: rlvr-grpo
+  predecessors: []
+  change_axes:
+  - optimization
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2112.09332
   title: 'WebGPT: Browser-assisted question-answering with human feedback'
   date: 2021-12-17
@@ -870,6 +1039,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: agentic-feedback
+  predecessors: []
+  change_axes:
+  - feedback
+  - environment
+  - data
+  transfer_ideas: []
 - id: arxiv:2203.02155
   title: Training language models to follow instructions with human feedback
   date: 2022-03-04
@@ -916,6 +1092,13 @@ papers:
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: preference-optimization
+  predecessors: []
+  change_axes:
+  - data
+  - feedback
+  - objective
+  transfer_ideas: []
 - id: arxiv:2203.14465
   title: 'STaR: Bootstrapping Reasoning With Reasoning'
   date: 2022-03-28
@@ -940,6 +1123,14 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: reasoning-self-improvement
+  predecessors: []
+  change_axes:
+  - self-improvement
+  - data
+  - objective
+  transfer_ideas:
+  - Can self-generated reasoning traces be filtered by uncertainty before being reused for other modalities?
 - id: arxiv:2212.08073
   title: 'Constitutional AI: Harmlessness from AI Feedback'
   date: 2022-12-15
@@ -1019,6 +1210,13 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: preference-optimization
+  predecessors: []
+  change_axes:
+  - feedback
+  - safety
+  - objective
+  transfer_ideas: []
 - id: arxiv:2212.10560
   title: 'Self-Instruct: Aligning Language Models with Self-Generated Instructions'
   date: 2022-12-20
@@ -1057,6 +1255,12 @@ papers:
   venue_url: https://www.aclweb.org/anthology/venues/acl/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: data-feedback
+  predecessors: []
+  change_axes:
+  - data
+  - self-improvement
+  transfer_ideas: []
 - id: arxiv:2302.04761
   title: 'Toolformer: Language Models Can Teach Themselves to Use Tools'
   date: 2023-02-09
@@ -1095,6 +1299,14 @@ papers:
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: agentic-feedback
+  predecessors: []
+  change_axes:
+  - data
+  - environment
+  - feedback
+  transfer_ideas:
+  - Can tool-use traces become structured intermediate supervision for reasoning or multimodal models?
 - id: arxiv:2304.08485
   title: Visual Instruction Tuning
   date: 2023-04-17
@@ -1127,6 +1339,13 @@ papers:
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: multimodal-alignment
+  predecessors: []
+  change_axes:
+  - data
+  - cross-modal
+  transfer_ideas:
+  - Can modality-specific correctness checks complement text-side preference optimization?
 - id: arxiv:2305.13301
   title: Training Diffusion Models with Reinforcement Learning
   date: 2023-05-22
@@ -1161,6 +1380,14 @@ papers:
   venue_url: https://iclr.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: generative-alignment
+  predecessors: []
+  change_axes:
+  - reward
+  - optimization
+  - feedback
+  transfer_ideas:
+  - Can reward-guided updates and preference objectives be compared under matched sampling budgets?
 - id: arxiv:2305.18290
   title: 'Direct Preference Optimization: Your Language Model is Secretly a Reward Model'
   date: 2023-05-29
@@ -1199,6 +1426,15 @@ papers:
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: preference-optimization
+  predecessors: []
+  change_axes:
+  - objective
+  - feedback
+  - efficiency
+  transfer_ideas:
+  - Could verifier-derived outcomes be converted into preference pairs while preserving the simplicity of a reference-free
+    objective?
 - id: arxiv:2305.20050
   title: Let's Verify Step by Step
   date: 2023-05-31
@@ -1236,6 +1472,15 @@ papers:
   venue_url: https://iclr.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: rlvr-grpo
+  predecessors: []
+  change_axes:
+  - verifier
+  - reward
+  - feedback
+  transfer_ideas:
+  - Can process verification provide denser feedback for multi-turn agent trajectories without introducing a separate critic
+    bottleneck?
 - id: arxiv:2307.15818
   title: 'RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control'
   date: 2023-07-28
@@ -1319,6 +1564,14 @@ papers:
   venue_type: conference
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: embodied-transfer
+  predecessors: []
+  change_axes:
+  - cross-modal
+  - data
+  - environment
+  transfer_ideas:
+  - Can language-side reasoning or distillation signals improve grounded action while respecting latency?
 - id: arxiv:2309.14525
   title: 'LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF'
   date: 2023-09-25
@@ -1361,6 +1614,14 @@ papers:
   venue_url: https://www.aclweb.org/anthology/venues/acl/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: multimodal-alignment
+  predecessors:
+  - arxiv:2304.08485
+  change_axes:
+  - feedback
+  - reward
+  - cross-modal
+  transfer_ideas: []
 - id: arxiv:2310.01377
   title: 'UltraFeedback: Boosting Language Models with Scaled AI Feedback'
   date: 2023-10-02
@@ -1401,6 +1662,13 @@ papers:
   venue_url: https://icml.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: data-feedback
+  predecessors: []
+  change_axes:
+  - data
+  - feedback
+  - reward
+  transfer_ideas: []
 - id: arxiv:2311.12908
   title: Diffusion Model Alignment Using Direct Preference Optimization
   date: 2023-11-22
@@ -1439,6 +1707,14 @@ papers:
   venue_url: https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: generative-alignment
+  predecessors:
+  - arxiv:2305.18290
+  change_axes:
+  - objective
+  - feedback
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2401.10020
   title: Self-Rewarding Language Models
   date: 2024-01-18
@@ -1475,6 +1751,13 @@ papers:
   venue_url: https://icml.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: reasoning-self-improvement
+  predecessors: []
+  change_axes:
+  - self-improvement
+  - feedback
+  - objective
+  transfer_ideas: []
 - id: arxiv:2402.01306
   title: 'KTO: Model Alignment as Prospect Theoretic Optimization'
   date: 2024-02-02
@@ -1498,6 +1781,14 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: preference-optimization
+  predecessors:
+  - arxiv:2305.18290
+  change_axes:
+  - objective
+  - feedback
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2402.03300
   title: 'DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models'
   date: 2024-02-05
@@ -1535,6 +1826,17 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: rlvr-grpo
+  predecessors:
+  - arxiv:1707.06347
+  - arxiv:2305.20050
+  change_axes:
+  - reward
+  - optimization
+  - verifier
+  - efficiency
+  transfer_ideas:
+  - Can group-relative normalization make verifier-based optimization less sensitive to reward scale across tasks?
 - id: arxiv:2403.09629
   title: 'Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking'
   date: 2024-03-14
@@ -1565,6 +1867,14 @@ papers:
   label_method: controlled-vocabulary-v1
   institution_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: reasoning-self-improvement
+  predecessors:
+  - arxiv:2203.14465
+  change_axes:
+  - self-improvement
+  - objective
+  - efficiency
+  transfer_ideas: []
 - id: arxiv:2405.14734
   title: 'SimPO: Simple Preference Optimization with a Reference-Free Reward'
   date: 2024-05-23
@@ -1596,6 +1906,14 @@ papers:
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: preference-optimization
+  predecessors:
+  - arxiv:2305.18290
+  change_axes:
+  - objective
+  - efficiency
+  - feedback
+  transfer_ideas: []
 - id: arxiv:2501.12948
   title: 'DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning'
   date: 2025-01-22
@@ -1830,3 +2148,13 @@ papers:
   venue_url: https://www.nature.com/
   venue_source: semantic-scholar-paper-metadata
   venue_enrichment_checked_at: '2026-09-02T07:23:55.631683+00:00'
+  method_family: rlvr-grpo
+  predecessors:
+  - arxiv:2402.03300
+  change_axes:
+  - reward
+  - optimization
+  - verifier
+  - self-improvement
+  transfer_ideas:
+  - Can long-horizon agent feedback reuse the same verifiable-reward recipe without excessive rollout cost?

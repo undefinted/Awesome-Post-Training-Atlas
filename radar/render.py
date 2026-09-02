@@ -45,8 +45,10 @@ def render_papers(
     audit: dict[str, dict] | None = None,
 ) -> str:
     from radar.labels import effective_labels, label_index
+    from radar.methods import method_catalog
 
     label_names = {key: value["title"] for key, value in label_index().items()}
+    method_names = {key: value["title"] for key, value in method_catalog().items()}
     sections: list[str] = []
     audit = audit or {}
     month_keys = month_keys or sorted({str(paper["date"])[:7] for paper in records}, reverse=True)
@@ -95,6 +97,8 @@ def render_papers(
                     institutions = "; ".join(paper.get("institutions", [])[:5])
                     venue = paper.get("venue")
                     venue_link = f"[{venue}]({paper['venue_url']})" if venue and paper.get("venue_url") else venue
+                    method_family = method_names.get(paper.get("method_family", ""), paper.get("method_family"))
+                    change_axes = ", ".join(paper.get("change_axes", [])[:5])
                     sections.append(
                         f"- 🔎 **[{paper['title']}]({paper['url']})** — `discovery candidate`; awaiting primary-paper curation.  \n"
                         f"  {str(paper['date'])} · `{paper.get('classification_method', 'query-hint')}` · `{sources}`  \n"
@@ -102,6 +106,8 @@ def render_papers(
                         f"  Authors: {authors or 'metadata pending'}"
                         + (f"  \n  Institutions*: {institutions}" if institutions else "")
                         + (f"  \n  Venue: {venue_link}" if venue_link else "")
+                        + (f"  \n  Method family: `{method_family}`" if method_family else "")
+                        + (f"  \n  Change axes: `{change_axes}`" if change_axes else "")
                         + "\n"
                     )
                 else:
@@ -113,6 +119,8 @@ def render_papers(
                     institutions = "; ".join(paper.get("institutions", [])[:5])
                     venue = paper.get("venue")
                     venue_link = f"[{venue}]({paper['venue_url']})" if venue and paper.get("venue_url") else venue
+                    method_family = method_names.get(paper.get("method_family", ""), paper.get("method_family"))
+                    change_axes = ", ".join(paper.get("change_axes", [])[:5])
                     sections.append(
                         f"- **[{paper['title']}]({paper['url']})** — {paper['key_idea']}  \n"
                         f"  {str(paper['date'])} · {tags}{code}  \n"
@@ -120,6 +128,8 @@ def render_papers(
                         f"  Authors: {authors or 'metadata pending'}"
                         + (f"  \n  Institutions*: {institutions}" if institutions else "")
                         + (f"  \n  Venue: {venue_link}" if venue_link else "")
+                        + (f"  \n  Method family: `{method_family}`" if method_family else "")
+                        + (f"  \n  Change axes: `{change_axes}`" if change_axes else "")
                         + "\n"
                     )
     return "\n".join(sections).rstrip() + "\n"

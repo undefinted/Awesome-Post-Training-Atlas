@@ -12622,7 +12622,9 @@ _No visible paper records in this cell yet._
   Labels: `Preference Optimization`  
   Authors: Yu Meng, Mengzhou Xia, Danqi Chen  
   Institutions*: Princeton University; University of Virginia  
-  Venue: [Neural Information Processing Systems](http://neurips.cc/)
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)  
+  Method family: `Preference Optimization`  
+  Change axes: `objective, efficiency, feedback`
 
 - 🔎 **[Direct Preference Optimization With Unobserved Preference Heterogeneity: The Necessity of Ternary Preferences](https://arxiv.org/abs/2405.15065)** — `discovery candidate`; awaiting primary-paper curation.  
   2024-05-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -13675,7 +13677,9 @@ _No visible paper records in this cell yet._
 - **[KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/abs/2402.01306)** — Learns from unpaired desirable and undesirable examples using a prospect-theoretic utility objective.  
   2024-02-02 · `binary-feedback` · `offline` · `kto`  
   Labels: pending  
-  Authors: Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, Douwe Kiela
+  Authors: Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, Douwe Kiela  
+  Method family: `Preference Optimization`  
+  Change axes: `objective, feedback, efficiency`
 
 - 🔎 **[Rethinking the Role of Proxy Rewards in Language Model Alignment](https://arxiv.org/abs/2402.03469)** — `discovery candidate`; awaiting primary-paper curation.  
   2024-02-02 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -13893,7 +13897,9 @@ _No visible paper records in this cell yet._
   Labels: `DPO` · `Preference Optimization` · `RLHF` · `Reward Model`  
   Authors: Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn  
   Institutions*: Google; Stanford; Stanford University  
-  Venue: [Neural Information Processing Systems](http://neurips.cc/)
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)  
+  Method family: `Preference Optimization`  
+  Change axes: `objective, feedback, efficiency`
 
 <a id="2022"></a>
 
@@ -13909,7 +13915,9 @@ _No visible paper records in this cell yet._
   2022-12-15 · `rlaif` · `critique` · `revision` · `constitutional-ai`  
   Labels: `RLAIF`  
   Authors: Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, et al.  
-  Institutions*: Anthropic; NYU; OpenAI; Stanford University; UC Berkeley
+  Institutions*: Anthropic; NYU; OpenAI; Stanford University; UC Berkeley  
+  Method family: `Preference Optimization`  
+  Change axes: `feedback, safety, objective`
 
 <a id="2022-03"></a>
 
@@ -13921,4 +13929,6 @@ _No visible paper records in this cell yet._
   2022-03-04 · `sft` · `reward-modeling` · `rlhf` · `ppo`  
   Labels: `SFT` · `RLHF` · `PPO`  
   Authors: Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, et al.  
-  Venue: [Neural Information Processing Systems](http://neurips.cc/)
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)  
+  Method family: `Preference Optimization`  
+  Change axes: `data, feedback, objective`

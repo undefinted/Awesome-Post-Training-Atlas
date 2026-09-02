@@ -4351,7 +4351,9 @@ _No visible paper records in this cell yet._
   Labels: `RLHF` · `Multimodal` · `Hallucination`  
   Authors: Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, et al.  
   Institutions*: Carnegie Mellon University; University of California, Berkeley  
-  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)  
+  Method family: `Multimodal Alignment`  
+  Change axes: `feedback, reward, cross-modal`
 
 <a id="2023-04"></a>
 
@@ -4364,4 +4366,6 @@ _No visible paper records in this cell yet._
   Labels: `SFT` · `VLM`  
   Authors: Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee  
   Institutions*: Columbia University  
-  Venue: [Neural Information Processing Systems](http://neurips.cc/)
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)  
+  Method family: `Multimodal Alignment`  
+  Change axes: `data, cross-modal`

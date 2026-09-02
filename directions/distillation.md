@@ -212,7 +212,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[Step-Level On-Policy Distillation: Interpolating Between On-Policy Distillation and Supervised Fine-Tuning](https://arxiv.org/abs/2608.16333)** — Corrects student trajectories at the step level, yielding a continuum between supervised fine-tuning and fully on-policy distillation for interactive agents.  
   2026-08-17 · `on-policy-distillation` · `step-level-guidance` · `sft` · `long-horizon`  
   Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Long-horizon`  
-  Authors: Changhui Sun, Lanbo Liu, Hang Lei, Tong Ling, Jiahang Xie, Zhiyong Zheng, Yujia Wang, Hao Liu, et al.
+  Authors: Changhui Sun, Lanbo Liu, Hang Lei, Tong Ling, Jiahang Xie, Zhiyong Zheng, Yujia Wang, Hao Liu, et al.  
+  Method family: `On-Policy Distillation`  
+  Change axes: `objective, credit-assignment, efficiency, long-horizon`
 
 - 🔎 **[Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2608.16647)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -238,7 +240,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-14 · `on-policy-distillation` · `tokenizer-alignment` · `long-context` · `reasoning`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Reasoning`  
   Authors: Haonan He, Haodi Lei, Yun Luo, Haoran Zhang, Shunkai Zhang, Yizhuo Li, Shengji Tang, Zhilin Wang, et al.  
-  Institutions*: University of Macau
+  Institutions*: University of Macau  
+  Method family: `On-Policy Distillation`  
+  Change axes: `tokenization, objective, long-horizon`
 
 - 🔎 **[Trust Is Not Enough: Influence Calibration for On-Policy Self-Distillation in Agentic RL](https://arxiv.org/abs/2608.14945)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-14 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -333,7 +337,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.05987)** — Recursively aggregates teacher-student token evidence into turn-level Bayesian credit signals for long-horizon agent training without a separate critic or extra rollouts.  
   2026-08-06 · `on-policy-self-distillation` · `agentic-rl` · `temporal-credit` · `multi-turn` · [code](https://github.com/ZethWang/AgentOPSD)  
   Labels: `OPSD` · `Distillation` · `On-policy` · `Self-training` · `Agent` · `Multi-turn` · `Long-horizon`  
-  Authors: Zi-Han Wang, Zhengxi Lu, Zhiyuan Yao, Jinyang Wu, Jie Wu, Zhengzhou Cai, Yueqing Sun, Ziang Ye, et al.
+  Authors: Zi-Han Wang, Zhengxi Lu, Zhiyuan Yao, Jinyang Wu, Jie Wu, Zhengzhou Cai, Yueqing Sun, Ziang Ye, et al.  
+  Method family: `On-Policy Distillation`  
+  Change axes: `credit-assignment, self-improvement, efficiency, long-horizon`
 
 - 🔎 **[InsertFuse: A Unified Framework for Multi-Category Reference-Guided Image Insertion](https://arxiv.org/abs/2608.06490)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -474,7 +480,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[Adaptive FastOPD: Progress-Aware Rollout Horizon Expansion for Efficient On-Policy Distillation](https://arxiv.org/abs/2607.29494)** — Expands the student rollout horizon only when learning at the current boundary plateaus, reducing wasted long-horizon sampling.  
   2026-07-31 · `on-policy-distillation` · `adaptive-horizon` · `efficiency` · `multi-turn`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Multi-turn` · `Long-horizon`  
-  Authors: Qian Tan, Huaifei Liang, Xuanyu Zhu, Lei Jiang, Yuqiang Li
+  Authors: Qian Tan, Huaifei Liang, Xuanyu Zhu, Lei Jiang, Yuqiang Li  
+  Method family: `On-Policy Distillation`  
+  Change axes: `sampling, efficiency, long-horizon`
 
 - 🔎 **[Verifier-Induced Support Reshaping in On-Policy Optimization](https://arxiv.org/abs/2608.00220)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -619,7 +627,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.14777)** — Converts completed on-policy trajectories into evolving hindsight skills and jointly distills their token-level guidance with outcome reinforcement learning.  
   2026-07-16 · `on-policy-distillation` · `skill-evolution` · `hindsight` · `agentic-rl` · [code](https://github.com/jinyangwu/SEED)  
   Labels: `OPD` · `Distillation` · `On-policy` · `Self-improvement` · `Agent`  
-  Authors: Jinyang Wu, Shuo Yang, Zhengxi Lu, Fan Zhang, Yuhao Shen, Lang Feng, Haoran Luo, Zheng Lian, et al.
+  Authors: Jinyang Wu, Shuo Yang, Zhengxi Lu, Fan Zhang, Yuhao Shen, Lang Feng, Haoran Luo, Zheng Lian, et al.  
+  Method family: `On-Policy Distillation`  
+  Change axes: `self-improvement, feedback, reward, long-horizon`
 
 - 🔎 **[Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers](https://arxiv.org/abs/2607.15456)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-16 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -630,7 +640,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-07-15 · `on-policy-distillation` · `failure-analysis` · `regularization` · `exploration`  
   Labels: `OPD` · `Distillation` · `On-policy`  
   Authors: Rui Wang, Hongru Wang, Yi Chen, Boyang Xue, Tianqing Fang, Wenhao Yu, Kam-Fai Wong  
-  Institutions*: Tencent AI Lab; The Chinese University of Hong Kong, University of Edinburgh
+  Institutions*: Tencent AI Lab; The Chinese University of Hong Kong, University of Edinburgh  
+  Method family: `On-Policy Distillation`  
+  Change axes: `objective, optimization, efficiency`
 
 - 🔎 **[Med-OPD: Improving Medical Vision-Language Models via Evidence-Aware On-Policy Distillation](https://arxiv.org/abs/2607.16303)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-14 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -681,7 +693,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-07-07 · `on-policy-distillation` · `turn-aware` · `rollout-budgeting` · `long-horizon`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Agent` · `Long-horizon`  
   Authors: Yuhang Zhou, Kai Zheng, Haoling Li, Dengyun Peng, Can Xu, Jingjing Chen  
-  Institutions*: Microsoft
+  Institutions*: Microsoft  
+  Method family: `On-Policy Distillation`  
+  Change axes: `sampling, efficiency, long-horizon`
 
 - 🔎 **[Geometric Self-Distillation for Reasoning Generalization](https://arxiv.org/abs/2607.06855)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-07 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -762,7 +776,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.26790)** — Extracts hierarchical hindsight skills from completed student trajectories and combines skill-conditioned token guidance with outcome-based reinforcement learning.  
   2026-06-25 · `on-policy-distillation` · `skill-distillation` · `hindsight` · `agentic-rl`  
   Labels: `Distillation` · `On-policy` · `Agent`  
-  Authors: Shuo Yang, Jinyang Wu, Zhengxi Lu, Yuhao Shen, Fan Zhang, Lang Feng, Shuai Zhang, Haoran Luo, et al.
+  Authors: Shuo Yang, Jinyang Wu, Zhengxi Lu, Yuhao Shen, Fan Zhang, Lang Feng, Shuai Zhang, Haoran Luo, et al.  
+  Method family: `On-Policy Distillation`  
+  Change axes: `feedback, credit-assignment, long-horizon`
 
 - 🔎 **[On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity](https://arxiv.org/abs/2606.26091)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-06-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -827,7 +843,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation](https://arxiv.org/abs/2606.17628)** — Couples fast hierarchical memory evolution with a slow privileged-hindsight distillation loop so an agent internalizes how to select, use, write, and maintain experience.  
   2026-06-16 · `on-policy-distillation` · `memory` · `experience-evolution` · `agent` · [code](https://github.com/bingreeky/opd-evolver)  
   Labels: `OPD` · `Distillation` · `On-policy`  
-  Authors: Guibin Zhang, Xun Xu, Yanwei Yue, Zikun Su, Wangchunshu Zhou, Xiaobin Hu, Shuicheng Yan
+  Authors: Guibin Zhang, Xun Xu, Yanwei Yue, Zikun Su, Wangchunshu Zhou, Xiaobin Hu, Shuicheng Yan  
+  Method family: `On-Policy Distillation`  
+  Change axes: `self-improvement, credit-assignment, long-horizon`
 
 - 🔎 **[Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding](https://arxiv.org/abs/2606.18101)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-06-16 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -842,7 +860,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents](https://arxiv.org/abs/2606.15912)** — Mixes teacher- and student-generated turns, then gradually removes teacher intervention as the agent becomes capable of completing longer trajectories independently.  
   2026-06-14 · `on-policy-distillation` · `curriculum` · `turn-level-guidance` · `multi-turn`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Curriculum` · `Multi-turn`  
-  Authors: Gengsheng Li, Mao Zheng, Mingyang Song, Ruiqi Liu, Tianyu Yang, Jie Sun, Qiyong Zhong, Haiyun Guo, et al.
+  Authors: Gengsheng Li, Mao Zheng, Mingyang Song, Ruiqi Liu, Tianyu Yang, Jie Sun, Qiyong Zhong, Haiyun Guo, et al.  
+  Method family: `On-Policy Distillation`  
+  Change axes: `feedback, credit-assignment, long-horizon`
 
 - 🔎 **[GeoStream: Toward Precise Camera Controlled Streaming Video Generation](https://arxiv.org/abs/2606.15162)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-06-13 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -933,7 +953,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[Trust Region On-Policy Distillation](https://arxiv.org/abs/2606.01249)** — Restricts distillation to reliable teacher regions using clipping, masking, and forward-KL controls, with optional off-policy guidance outside the trust region.  
   2026-05-31 · `on-policy-distillation` · `trust-region` · `clipping` · `stability`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Off-policy`  
-  Authors: Xingrun Xing, Haoqing Wang, Boyan Gao, Ziheng Li, Yehui Tang
+  Authors: Xingrun Xing, Haoqing Wang, Boyan Gao, Ziheng Li, Yehui Tang  
+  Method family: `On-Policy Distillation`  
+  Change axes: `optimization, objective, efficiency`
 
 - 🔎 **[OPD+: Rethinking the Advantage Design for On-Policy Distillation](https://arxiv.org/abs/2606.01039)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-05-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1048,7 +1070,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning](https://arxiv.org/abs/2605.21606)** — Models teacher-token reliability as position-dependent and increases supervision weight across a generated reasoning trajectory.  
   2026-05-20 · `on-policy-self-distillation` · `token-reliability` · `position-weighting` · `reasoning` · [code](https://github.com/SaFo-Lab/PW-OPSD)  
   Labels: `OPSD` · `Distillation` · `On-policy` · `Self-training` · `Reasoning`  
-  Authors: Xiaogeng Liu, Xinyan Wang, Yingzi Ma, Yechao Zhang, Chaowei Xiao
+  Authors: Xiaogeng Liu, Xinyan Wang, Yingzi Ma, Yechao Zhang, Chaowei Xiao  
+  Method family: `On-Policy Distillation`  
+  Change axes: `feedback, objective, credit-assignment`
 
 - 🔎 **[GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation](https://arxiv.org/abs/2605.21605)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-05-20 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1113,7 +1137,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](https://arxiv.org/abs/2605.11739)** — Studies why distillation updates anticipate later optimization directions and exploits that structure to extrapolate updates and accelerate training.  
   2026-05-12 · `on-policy-distillation` · `efficiency` · `update-extrapolation` · `analysis`  
   Labels: `OPD` · `Distillation` · `On-policy`  
-  Authors: Yuchen Cai, Ding Cao, Liang Lin, Chunxi Luo, Xin Xu, Kai Yang, Weijie Liu, Saiyong Yang, et al.
+  Authors: Yuchen Cai, Ding Cao, Liang Lin, Chunxi Luo, Xin Xu, Kai Yang, Weijie Liu, Saiyong Yang, et al.  
+  Method family: `On-Policy Distillation`  
+  Change axes: `sampling, efficiency, long-horizon`
 
 - 🔎 **[Adaptive Teacher Exposure for Self-Distillation in LLM Reasoning](https://arxiv.org/abs/2605.11458)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-05-12 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1143,7 +1169,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[On-Policy Distillation with Best-of-N Teacher Rollout Selection](https://arxiv.org/abs/2605.09725)** — Selects among multiple teacher rollouts before supervising the student to reduce the effect of incorrect or high-variance teacher trajectories.  
   2026-05-10 · `on-policy-distillation` · `best-of-n` · `rollout-selection` · `teacher-quality`  
   Labels: `OPD` · `Distillation` · `On-policy`  
-  Authors: Ke Zhang, Yunjie Tian, Dongdi Zhao, Yijiang Li, Yuanye Liu, Vishal M Patel, Di Fu
+  Authors: Ke Zhang, Yunjie Tian, Dongdi Zhao, Yijiang Li, Yuanye Liu, Vishal M Patel, Di Fu  
+  Method family: `On-Policy Distillation`  
+  Change axes: `sampling, feedback, efficiency`
 
 - 🔎 **[The Extrapolation Cliff in On-Policy Distillation of Near-Deterministic Structured Outputs](https://arxiv.org/abs/2605.08737)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-05-09 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1208,7 +1236,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[MAD-OPD: Breaking the Ceiling in On-Policy Distillation via Multi-Agent Debate](https://arxiv.org/abs/2605.01347)** — Replaces a single teacher with a multi-agent debate collective and uses step-level sampling to provide stronger supervision for agentic trajectories.  
   2026-05-02 · `on-policy-distillation` · `multi-agent-debate` · `teacher-ensemble` · `agent`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Agent`  
-  Authors: Jianze Wang, Ying Liu, Jinlong Chen, Xuchun Hu, Qilong Zhang, Yu Cao, Jun Wang, Hua Yang, et al.
+  Authors: Jianze Wang, Ying Liu, Jinlong Chen, Xuchun Hu, Qilong Zhang, Yu Cao, Jun Wang, Hua Yang, et al.  
+  Method family: `On-Policy Distillation`  
+  Change axes: `feedback, verifier, objective`
 
 - 🔎 **[Healthcare AI GYM for Medical Agents](https://arxiv.org/abs/2605.02943)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-05-01 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1229,7 +1259,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://arxiv.org/abs/2604.28123)** — Inserts a black-box response-level distribution-alignment stage between SFT and RLVR using specialized perception and reasoning discriminators.  
   2026-04-30 · `on-policy-distillation` · `distribution-alignment` · `rlvr` · `mixture-of-experts` · [code](https://github.com/XIAO4579/PRISM)  
   Labels: `OPD` · `Distillation` · `SFT` · `RLVR` · `On-policy` · `Multimodal` · `Reasoning`  
-  Authors: Sudong Wang, Weiquan Huang, Xiaomin Yu, Zuhao Yang, Hehai Lin, Keming Wu, Chaojun Xiao, Chen Chen, et al.
+  Authors: Sudong Wang, Weiquan Huang, Xiaomin Yu, Zuhao Yang, Hehai Lin, Keming Wu, Chaojun Xiao, Chen Chen, et al.  
+  Method family: `On-Policy Distillation`  
+  Change axes: `cross-modal, feedback, objective`
 
 - 🔎 **[Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers](https://arxiv.org/abs/2604.25891)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-04-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1239,7 +1271,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents](https://arxiv.org/abs/2604.24005)** — Progressively expands trajectory depth to control compounding turn errors and stabilize trajectory-level divergence optimization in autonomous agents.  
   2026-04-27 · `on-policy-distillation` · `temporal-curriculum` · `multi-turn` · `agent` · [code](https://github.com/kokolerk/TCOD)  
   Labels: `OPD` · `Distillation` · `On-policy` · `Curriculum` · `Multi-turn`  
-  Authors: Jiaqi Wang, Wenhao Zhang, Weijie Shi, Yaliang Li, James Cheng
+  Authors: Jiaqi Wang, Wenhao Zhang, Weijie Shi, Yaliang Li, James Cheng  
+  Method family: `On-Policy Distillation`  
+  Change axes: `sampling, long-horizon, efficiency`
 
 - 🔎 **[Hybrid Policy Distillation for LLMs](https://arxiv.org/abs/2604.20244)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-04-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1260,7 +1294,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-04-14 · `on-policy-distillation` · `teacher-student-compatibility` · `cold-start` · `analysis`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Off-policy` · `Reasoning`  
   Authors: Yaxuan Li, Yuxin Zuo, Bingxiang He, Jinqian Zhang, Chaojun Xiao, Cheng Qian, Tianyu Yu, Huan-ang Gao, et al.  
-  Institutions*: Tsinghua University
+  Institutions*: Tsinghua University  
+  Method family: `On-Policy Distillation`  
+  Change axes: `objective, optimization, efficiency`
 
 - 🔎 **[SCOPE: Signal-Calibrated On-Policy Distillation Enhancement with Dual-Path Adaptive Weighting](https://arxiv.org/abs/2604.10688)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-04-12 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1315,7 +1351,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[A Survey of On-Policy Distillation for Large Language Models](https://arxiv.org/abs/2604.00626)** — Organizes on-policy distillation by feedback signal, teacher access, and loss granularity under a unified divergence-based view.  
   2026-04-01 · `on-policy-distillation` · `survey` · `taxonomy` · `knowledge-distillation`  
   Labels: `OPD` · `Distillation` · `On-policy`  
-  Authors: Mingyang Song, Mao Zheng
+  Authors: Mingyang Song, Mao Zheng  
+  Method family: `On-Policy Distillation`  
+  Change axes: `objective, feedback`
 
 <a id="2026-03"></a>
 
@@ -1327,7 +1365,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-03-26 · `on-policy-distillation` · `failure-analysis` · `support-matching` · `stability`  
   Labels: `OPD` · `Distillation` · `On-policy`  
   Authors: Yuqian Fu, Haohuan Huang, Kaiwen Jiang, Jiacai Liu, Zhuo Jiang, Yuanheng Zhu, Dongbin Zhao  
-  Institutions*: UCAS
+  Institutions*: UCAS  
+  Method family: `On-Policy Distillation`  
+  Change axes: `objective, optimization, efficiency`
 
 - 🔎 **[Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/abs/2603.19220)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-03-19 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1342,7 +1382,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[Scaling Reasoning Efficiently via Relaxed On-Policy Distillation](https://arxiv.org/abs/2603.11137)** — Interprets distillation as policy optimization and relaxes it through mixture-based reward clipping, entropy-aware token sampling, and staged exploration and refinement.  
   2026-03-11 · `on-policy-distillation` · `reward-clipping` · `entropy-sampling` · `efficiency`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Reasoning`  
-  Authors: Jongwoo Ko, Sara Abdali, Young Jin Kim, Tianyi Chen, Pashmina Cameron
+  Authors: Jongwoo Ko, Sara Abdali, Young Jin Kim, Tianyi Chen, Pashmina Cameron  
+  Method family: `On-Policy Distillation`  
+  Change axes: `objective, efficiency, optimization`
 
 - 🔎 **[PACED: Distillation and On-Policy Self-Distillation at the Frontier of Student Competence](https://arxiv.org/abs/2603.11178)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-03-11 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1362,7 +1404,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[Entropy-Aware On-Policy Distillation of Language Models](https://arxiv.org/abs/2603.07079)** — Uses reverse KL on confident teacher tokens and adds forward-KL supervision under high teacher uncertainty to preserve useful output diversity.  
   2026-03-07 · `on-policy-distillation` · `entropy` · `forward-kl` · `reverse-kl`  
   Labels: `OPD` · `Distillation` · `On-policy`  
-  Authors: Woogyeol Jin, Taywon Min, Yongjin Yang, Dennis Wei, Yi Zhou, Swanand Ravindra Kadhe, Nathalie Baracaldo, Kimin Lee
+  Authors: Woogyeol Jin, Taywon Min, Yongjin Yang, Dennis Wei, Yi Zhou, Swanand Ravindra Kadhe, Nathalie Baracaldo, Kimin Lee  
+  Method family: `On-Policy Distillation`  
+  Change axes: `objective, optimization`
 
 - 🔎 **[CRISP: Compressed Reasoning via Iterative Self-Policy Distillation](https://arxiv.org/abs/2603.05433)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-03-05 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1499,7 +1543,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - **[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734)** — Uses one model as both privileged-trace teacher and question-only student, matching their token distributions along student-generated reasoning trajectories.  
   2026-01-26 · `on-policy-self-distillation` · `privileged-information` · `reasoning` · `token-level`  
   Labels: `OPSD` · `Distillation` · `On-policy` · `Self-training` · `Reasoning`  
-  Authors: Siyan Zhao, Zhihui Xie, Mengchen Liu, Jing Huang, Guan Pang, Feiyu Chen, Aditya Grover
+  Authors: Siyan Zhao, Zhihui Xie, Mengchen Liu, Jing Huang, Guan Pang, Feiyu Chen, Aditya Grover  
+  Method family: `On-Policy Distillation`  
+  Change axes: `self-improvement, feedback, objective`
 
 - 🔎 **[Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models](https://arxiv.org/abs/2601.18129)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-01-26 · `direction-month-query` · `arxiv-monthly-backfill`  

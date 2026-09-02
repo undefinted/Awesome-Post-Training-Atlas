@@ -2216,7 +2216,9 @@ _No visible paper records in this cell yet._
   2023-11-22 · `diffusion` · `preference-optimization` · `dpo`  
   Labels: `DPO` · `Preference Optimization` · `Reward Model` · `Diffusion` · `Image Generation`  
   Authors: Bram Wallace, Meihua Dang, Rafael Rafailov, Linqi Zhou, Aaron Lou, Senthil Purushwalkam, Stefano Ermon, Caiming Xiong, et al.  
-  Venue: [Computer Vision and Pattern Recognition](https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147)
+  Venue: [Computer Vision and Pattern Recognition](https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147)  
+  Method family: `Generative Media Alignment`  
+  Change axes: `objective, feedback, efficiency`
 
 <a id="2023-05"></a>
 
@@ -2229,4 +2231,6 @@ _No visible paper records in this cell yet._
   Labels: `Diffusion`  
   Authors: Kevin Black, Michael Janner, Yilun Du, Ilya Kostrikov, Sergey Levine  
   Institutions*: MIT; University of California, Berkeley  
-  Venue: [International Conference on Learning Representations](https://iclr.cc/)
+  Venue: [International Conference on Learning Representations](https://iclr.cc/)  
+  Method family: `Generative Media Alignment`  
+  Change axes: `reward, optimization, feedback`

@@ -44,6 +44,7 @@ When the atlas repository is available, inspect the relevant files before answer
 - `data/candidates.yaml` - academic discovery candidates; do not treat these as endorsements.
 - `config/labels.yaml` - controlled label vocabulary.
 - `data/monthly_audit.yaml` and `COVERAGE.md` - direction/month audit state.
+- `config/method_families.yaml` - method-family definitions, change axes, and transfer prompts.
 - `docs/index.html` - searchable website payload and current UI behavior.
 
 For a maintenance task, prefer the existing commands rather than inventing a parallel pipeline:
@@ -58,6 +59,8 @@ python -m unittest discover -s tests
 ```
 
 Automated discovery creates proposals. Keep curation, rejection, provenance, and review status explicit. Do not silently rewrite curated entries.
+
+Method-evolution fields are optional and should be added only when supported: `method_family`, `predecessors`, `change_axes`, and `transfer_ideas`. Treat a predecessor as a sourced or defensible conceptual precedent, not proof of direct authorship or official lineage.
 
 ## Default response shape
 

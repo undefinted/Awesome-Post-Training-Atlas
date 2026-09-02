@@ -2798,7 +2798,9 @@ _No visible paper records in this cell yet._
   Labels: `Tool Use`  
   Authors: Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom  
   Institutions*: FAIR; Facebook; University of Washington  
-  Venue: [Neural Information Processing Systems](http://neurips.cc/)
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)  
+  Method family: `Agentic Feedback & Tool Use`  
+  Change axes: `data, environment, feedback`
 
 <a id="2021"></a>
 
@@ -2813,4 +2815,6 @@ _No visible paper records in this cell yet._
 - **[WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)** — Trains a language model to browse the web and answer with citations using demonstrations and human preference feedback.  
   2021-12-17 · `tool-use` · `browsing` · `imitation-learning` · `reward-modeling`  
   Labels: `Tool Use`  
-  Authors: Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, et al.
+  Authors: Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, et al.  
+  Method family: `Agentic Feedback & Tool Use`  
+  Change axes: `feedback, environment, data`

@@ -3741,7 +3741,9 @@ _No visible paper records in this cell yet._
   2024-03-14 · `rationale` · `self-training` · `reasoning`  
   Labels: `Self-training` · `Reasoning`  
   Authors: Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman  
-  Institutions*: Stanford University
+  Institutions*: Stanford University  
+  Method family: `Reasoning & Self-Improvement`  
+  Change axes: `self-improvement, objective, efficiency`
 
 - 🔎 **[Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation](https://arxiv.org/abs/2403.05056)** — `discovery candidate`; awaiting primary-paper curation.  
   2024-03-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3825,7 +3827,9 @@ _No visible paper records in this cell yet._
   Labels: `DPO` · `Verifier`  
   Authors: Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston  
   Institutions*: Meta AI; New York University  
-  Venue: [International Conference on Machine Learning](https://icml.cc/)
+  Venue: [International Conference on Machine Learning](https://icml.cc/)  
+  Method family: `Reasoning & Self-Improvement`  
+  Change axes: `self-improvement, feedback, objective`
 
 <a id="2022"></a>
 
@@ -3840,4 +3844,6 @@ _No visible paper records in this cell yet._
 - **[STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)** — Iteratively trains on rationales that lead to correct answers and regenerates rationales for failed examples.  
   2022-03-28 · `rationale` · `bootstrapping` · `self-training`  
   Labels: `Self-training` · `Reasoning`  
-  Authors: Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
+  Authors: Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman  
+  Method family: `Reasoning & Self-Improvement`  
+  Change axes: `self-improvement, data, objective`
