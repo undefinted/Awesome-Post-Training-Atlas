@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**212 papers**: 1 curated and 211 academic discovery candidates.
+**227 papers**: 1 curated and 226 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓20 · [Jul](#2026-07) ◐19 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓20 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -133,12 +133,37 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 105 academic records · 53 eligible · checked 2026-09-02T08:11:53.193506+00:00.
 
 - 🔎 **[CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning](https://arxiv.org/abs/2607.29172)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Robotics`  
   Authors: Yuxin Chen, Hari Srikanth, Nathan Jew, Menglin Wu, Pengcheng Wang, Junli Ren, Masayoshi Tomizuka, Peng Xu, et al.
+
+- 🔎 **[X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching](https://arxiv.org/abs/2607.28560)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Tianyu Yang, Yiming Zeng, Wenzhe Cai, Yuqiang Yang, Jiaqi Peng, Hui Cheng, Jiangmiao Pang, Tai Wang
+
+- 🔎 **[Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models](https://arxiv.org/abs/2607.26513)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA`  
+  Authors: Mingyang Sun, Jiude Wei, Xiujian Liang, Qichen He, Donglin Wang, Cewu Lu, Jianhua Sun
+
+- 🔎 **[HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/abs/2607.25895)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-28 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA`  
+  Authors: Simple AI,  :, Yuteng Wei, Jinming Ma, Jiawei Wang, Weitao Zhou, Yushen Zuo, Ke Rui, et al.
+
+- 🔎 **[$N_0$-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://arxiv.org/abs/2607.23782)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon`  
+  Authors:  NeoteAI Team,  Fudan TEAI Team
+
+- 🔎 **[Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids](https://arxiv.org/abs/2607.20345)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA`  
+  Authors: Roger Sala Sisó, Tiago Silvério, Jakob Sand, Tran Nguyen Le
 
 - 🔎 **[Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interaction](https://arxiv.org/abs/2607.18985)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-21 · `academic-query-vote` · `arxiv-backfill`  
@@ -195,6 +220,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `RLVR` · `On-policy` · `Off-policy` · `VLM` · `Robotics` · `Reasoning`  
   Authors: Qingrong He, Lin Zhao, Kevin Zheng, Liang Lin
 
+- 🔎 **[M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming](https://arxiv.org/abs/2607.14005)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Multimodal` · `VLM`  
+  Authors: Ke Cheng, Hanqiao Ye, Lei Shi, Yahui Liu, Yunhan Shen, Jingtao Dong, Zhenke Wang, Wenxuan Ao, et al.
+
 - 🔎 **[ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning](https://arxiv.org/abs/2607.12931)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-14 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `VLA` · `Robotics`  
@@ -220,15 +250,60 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `SFT` · `Diffusion` · `VLA` · `Robotics`  
   Authors: Michael Murray, Daphne Chen, Simran Bagaria, Dean Fortier, Tess Hellebrekers, Galen Mullins, Harshavardhan Gajarla, Oier Mees, et al.
 
+- 🔎 **[Post-Training in End-to-End Autonomous Driving](https://arxiv.org/abs/2607.08072)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Multimodal` · `VLA` · `Autonomous Driving`  
+  Authors: Ruining Yang, Muxing Wang, Yixiao Chen, Tongfei Guo, Yi Xu, Can Cui, Zichong Yang, Yitian Zhang, et al.
+
+- 🔎 **[FabriVLA: A Lightweight Vision-Language-Action Model with Conformal Action Chunk Uncertainty](https://arxiv.org/abs/2607.08575)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Diffusion` · `VLA` · `Robotics`  
+  Authors: Shiyuan Yang, Borong Zhang, Jizheng Zhang, Zhijia Tao, Junfei Guo, Donglai Ran, Xu Bian, Qingbiao Li
+
 - 🔎 **[Ego-Human Motion Prediction with 3D-Aware LLM](https://arxiv.org/abs/2607.07001)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-08 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `GRPO`  
   Authors: Yujin Bae, Jaewoo Jeong, Hyeonseong Kim, Kuk-Jin Yoon
 
+- 🔎 **[HELP: Human-Efficient Large-Scale Robot Post-Training with Rollout Segmentation](https://arxiv.org/abs/2607.09776)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA`  
+  Authors: Shaopeng Zhai, Qi Zhang, Tianyi Zhang, Haoran Zhang, Fuxian Huang, Zhanhui Lin, Zijun Xu, Weinan Zhang
+
 - 🔎 **[Optimal Transport Q-Learning for Flow Policy Steering and Acceleration](https://arxiv.org/abs/2607.06262)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-07 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `Multimodal` · `Diffusion` · `VLA` · `Robotics`  
   Authors: Andreas Sochopoulos, Esmeralda S. Whitammer, Nikolaos Tsagkas, João Moura, Michael Gienger, Sethu Vijayakumar
+
+- 🔎 **[DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation](https://arxiv.org/abs/2607.04927)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Video Generation` · `VLA`  
+  Authors: Jian Zhu, Jianjun Zhang, Taiyi Su, Tianbin Liu, Zhangyuan Wang, Kai Xie, Zitai Huang, Chong Ma, et al.
+
+- 🔎 **[VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models](https://arxiv.org/abs/2607.04517)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA`  
+  Authors: Damir Shodiev, Aleksei Staroverov, Nikita Kachaev, Alexey K. Kovalev, Aleksandr I. Panov
+
+- 🔎 **[TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training](https://arxiv.org/abs/2607.02840)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA` · `Robotics`  
+  Authors: Shengbang Liu, Yueru Jia, Yuyang Yan, Jiaming Liu, Xinran Zhang, Qiuxuan Feng, Yandong Guo, Shiji Zhou, et al.
+
+- 🔎 **[WorldSample: Closed-loop Real-robot RL with World Modelling](https://arxiv.org/abs/2607.02431)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Hallucination`  
+  Authors: Yuquan Xue, Le Xu, Zeyi Liu, Zhenyu Wu, Zhengyi Gu, Xinyang Song, Bofang Jia, Ziwei Wang
+
+- 🔎 **[GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation](https://arxiv.org/abs/2607.02642)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Robotics`  
+  Authors:  GigaWorld Team, Angyuan Ma, Boyuan Wang, Bohan Li, Chaojun Ni, Guo Li, Guan Huang, Guosheng Zhao, et al.
+
+- 🔎 **[Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA` · `Robotics`  
+  Authors: Chi Zhang, Penglin Cai, Ziheng Xi, Haoqi Yuan, Hao Luo, Wanpeng Zhang, Sipeng Zheng, Chaoyi Xu, et al.
 
 <a id="2026-06"></a>
 

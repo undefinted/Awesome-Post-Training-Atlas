@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**255 papers**: 2 curated and 253 academic discovery candidates.
+**264 papers**: 2 curated and 262 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓33 · [Jul](#2026-07) ⏳ · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓33 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ✓17 · [Nov](#2025-11) ✓19 · [Oct](#2025-10) ✓26 · [Sep](#2025-09) ✓17 · [Aug](#2025-08) ✓12 · [Jul](#2025-07) ✓9 · [Jun](#2025-06) ✓15 · [May](#2025-05) ✓18 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓9 · [Sep](#2024-09) ✓4 · [Aug](#2024-08) ✓3 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓3 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓4 · [Feb](#2024-02) ✓8 · [Jan](#2024-01) ✓2
 - [2023](#2023) — [Nov](#2023-11) ◐1 · [May](#2023-05) ◐1
@@ -200,9 +200,52 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 242 academic records · 40 eligible · checked 2026-09-02T08:11:46.032655+00:00.
 
-_No visible paper records in this cell yet._
+- 🔎 **[RefCaptioner: Multi-Reference Image-Grounded Video Captioning](https://arxiv.org/abs/2607.28509)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `GRPO` · `Hallucination`  
+  Authors: Tengfei Liu, Yang Shi, Yuran Wang, Xiaohan Zhang, Yuqing Wen, Yuqi Tang, Qixun Wang, Zhuoran Zhang, et al.
+
+- 🔎 **[Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering](https://arxiv.org/abs/2607.21848)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Video Generation`  
+  Authors: Wenchao Ma, Changran Liu, Sharon X. Huang, Haomiao Jiang
+
+- 🔎 **[MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](https://arxiv.org/abs/2607.15273)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Video Generation`  
+  Authors: Yushi Huang, Xiangxin Zhou, Jun Zhang, Liefeng Bo, Tianyu Pang
+
+- 🔎 **[Mask-Aware Policy Gradients for Diffusion Language Models](https://arxiv.org/abs/2607.15200)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion` · `Reasoning` · `Math` · `Code`  
+  Authors: Haran Raajesh, Kulin Shah, Adam Klivans, Philipp Krähenbühl
+
+- 🔎 **[Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation](https://arxiv.org/abs/2607.14962)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-16 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Image Generation`  
+  Authors: Ku Onoda, Paavo Parmas, Hiroki Furuta, Soichiro Nishimori, Yuta Oshima, Shohei Taniguchi, Yutaka Matsuo
+
+- 🔎 **[Steering Diffusion Models via Class-Contrastive Influence for Few-Shot Medical Classification](https://arxiv.org/abs/2607.12464)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `Diffusion`  
+  Authors: Jeeyung Kim, Erfan Esmaeili, Qiang Qiu
+
+- 🔎 **[A Single Diffusion-Policy Controller for Multi-Task Block Pushing with Zero-Shot Sim-to-Real Transfer](https://arxiv.org/abs/2607.10892)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Curriculum` · `Robotics`  
+  Authors: Haitong Ma, Haldun Balim, Yang Hu, Bo Dai, Na Li
+
+- 🔎 **[CDCP: Conditional Diffusion Model with Contextual Prompts for Multi-task Offline Safe Reinforcement Learning](https://arxiv.org/abs/2607.03903)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Diffusion`  
+  Authors: Jiayi Guan, Tianle Zhang, Li Shen, Ruiqi Zhang, Ao Zhou, Lusong Li, Guai Chen, Mengjie Li, et al.
+
+- 🔎 **[Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](https://arxiv.org/abs/2607.00535)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Image Generation`  
+  Authors: Zhiqi Li, Wen Zhang, Bo Zhu
 
 <a id="2026-06"></a>
 

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**476 papers**: 2 curated and 474 academic discovery candidates.
+**506 papers**: 2 curated and 504 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓68 · [Jul](#2026-07) ◐4 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
+- [2026](#2026) — [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ⏳ · [May](#2026-05) ⏳ · [Apr](#2026-04) ⏳ · [Mar](#2026-03) ⏳ · [Feb](#2026-02) ⏳ · [Jan](#2026-01) ⏳
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓36 · [Oct](#2025-10) ✓43 · [Sep](#2025-09) ✓37 · [Aug](#2025-08) ✓26 · [Jul](#2025-07) ✓26 · [Jun](#2025-06) ✓34 · [May](#2025-05) ✓35 · [Apr](#2025-04) ✓12 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓7
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
@@ -383,27 +383,177 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### July
 
-> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+> **Audit status:** ✓ Complete · scanned 380 academic records · 121 eligible · checked 2026-09-02T08:11:32.315069+00:00.
+
+- 🔎 **[WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning](https://arxiv.org/abs/2607.29613)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `On-policy` · `Off-policy` · `VLM` · `VLA` · `Robotics`  
+  Authors: Senyu Fei, Xiaopeng Yu, Siyin Wang, Xianzhong Zhao, Jingjing Gong, Xipeng Qiu
+
+- 🔎 **[One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting](https://arxiv.org/abs/2607.27902)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-30 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Rui Tang, Wentao Yang, Peirong Zhang, Yongxin Shi, Shun Zhang, Huiguo He, Lianwen Jin
+
+- 🔎 **[RLMM-Flow: A Flow-based Mobile Manipulation Framework with Latent-Space Reinforcement Learning](https://arxiv.org/abs/2607.26460)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Shuhang Wang, Ziming Li, Hui Cheng
+
+- 🔎 **[CG-World: A Large-Scale World-State Dataset and Protocol for World Models](https://arxiv.org/abs/2607.26452)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual` · `Multimodal` · `Video Generation` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Yiming Cai, Fangjie Yu, Meiqing Yu, Ziyue Shi, Pengfei Yuan, Yong Guo
+
+- 🔎 **[CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games](https://arxiv.org/abs/2607.26393)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multimodal` · `Reasoning`  
+  Authors: Zheng Zhang, Nanjie Yao, Jiarui He, Deheng Ye, Peilin Zhao, Hao Wang
 
 - 🔎 **[Reasoning to Regulate: Chain-of-Thought for Traffic Rule Understanding](https://arxiv.org/abs/2607.24199)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-27 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `GRPO` · `Verifier` · `VLM` · `Autonomous Driving` · `Reasoning`  
   Authors: Yueru Luo, Xu Yan, Changqing Zhou, Yiming Yang, Chao Zhan, Shuqi Mei, Chao Zheng, Zhen Li
 
+- 🔎 **[Data Pyramid for Embodied Manipulation: A Survey](https://arxiv.org/abs/2607.24744)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Yifan Ye, Yankai Fu, Yaoxu Lv, Bohan Hou, Jun Cen, Lingdong Kong, Duo Zheng, Tianxing Chen, et al.
+
+- 🔎 **[Offline-Online Curriculum RL for Multimodal Reasoning](https://arxiv.org/abs/2607.23700)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Curriculum` · `Multimodal` · `Reasoning`  
+  Authors: Wendi Deng, Hang Du, Guoshun Nan, Haokun Tian, Jiaqi Yu, Xinlei Cao, Jaile Li, Jingfeng Chen, et al.
+
+- 🔎 **[Token-Region Guided Cross-Attention Fusion for Multimodal Affect Interpretation](https://arxiv.org/abs/2607.23493)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM`  
+  Authors: Musa Tur Farazi, Nufayer Jahan Reza
+
 - 🔎 **[Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests](https://arxiv.org/abs/2607.22864)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-24 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `RLVR` · `Multimodal` · `Reasoning`  
   Authors: Patrick Rim, Tom Long, Ekta Prashnani, Ruth Rosenholtz, Ben Boudaoud, Peter Xenopoulos, Alex Wong, Joohwan Kim, et al.
+
+- 🔎 **[MIRROR: Learning from the Other View for Multi-Modal Reasoning](https://arxiv.org/abs/2607.21552)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-23 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Wen Ye, Yuxiao Qu, Aviral Kumar, Xuezhe Ma
+
+- 🔎 **[EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness](https://arxiv.org/abs/2607.19880)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Jialu Zhang, Yong Du, Xianda Guo, Shunwang Sun, Xinqi Liu, Yue Sun, Guodong Lu, Wei Sui, et al.
+
+- 🔎 **[PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model](https://arxiv.org/abs/2607.17806)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics` · `Reasoning`  
+  Authors: Li Xian, Mingxi Li, Yizheng Wang, Yiming Shen, Qi Chen, Zhuoling Xiao
+
+- 🔎 **[FUSAR-R1: A Large-Scale Reasoning Model for Intelligent Interpretation of SAR Images](https://arxiv.org/abs/2607.16819)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Yi Yang, Xiaokun Zhang, Yuxuan Li, Ruyi Zhang, Xinpeng Zhou, Haipeng Wang
 
 - 🔎 **[Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling](https://arxiv.org/abs/2607.15740)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-17 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `DPO` · `Preference Optimization` · `RLHF` · `Reward Model` · `Multimodal` · `Image Generation`  
   Authors: Bo-An Chang, Yu-Chih Chen
 
+- 🔎 **[More with Less: a Large Scale Remote Sensing VLM with a Simple Recipe](https://arxiv.org/abs/2607.15942)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Stefan Maria Ailuro, Mario Markov, Mohammad Mahdi, Luc Van Gool, Danda Pani Paudel
+
+- 🔎 **[Unified Hallucination Fuzzing for Multimodal Large Language Models](https://arxiv.org/abs/2608.07525)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Self-improvement` · `Multimodal` · `Reasoning` · `Hallucination`  
+  Authors: Pengfei Zhou, Jiajun Song, Zhiwei Tang, Yixing Ma, Xiaopeng Peng, Donghui Si, Yuhang Xu, Huiqi Song, et al.
+
+- 🔎 **[RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination](https://arxiv.org/abs/2607.14187)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Haotian Liang, Mingkang Chen, Yufei Huang, Yuchun Guo, Xiaomeng Zhu, Xiangli Shi, Kaixuan Wang, Yunxuan Mao, et al.
+
+- 🔎 **[Beyond SBDD: Geometric Deep Learning in Polypharmacology and Multi-target Drug Design](https://arxiv.org/abs/2607.20550)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Diffusion`  
+  Authors: Tianming Han, Zhijie Pan, Wenchi Ge, Qi Zhao
+
+- 🔎 **[Risk-Aware Decision-Making for Autonomous Overtaking: A World Model-Based Mixture-of-Experts Framework](https://arxiv.org/abs/2609.00385)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Multimodal`  
+  Authors: Yongzhi Liu, Sunan Zhang, Jinchang Xu, Jiawei Wang, Yushu Qiu, Chen Lv, Weichao Zhuang
+
 - 🔎 **[Direct Image-to-Modern Vietnamese Translation of Han-Nom Manuscripts via Multimodal RLHF Preference Alignment](https://arxiv.org/abs/2607.11434)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-13 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization` · `RLHF` · `PPO` · `Multimodal`  
   Authors: Thi Kim Trang Vo, Nghia Hieu Nguyen, Ha Minh Tan
+
+- 🔎 **[Towards Predictive, Aligned, and Scalable Robot Learning](https://arxiv.org/abs/2607.11270)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Long-horizon` · `Multimodal` · `VLA` · `Reasoning`  
+  Authors: Peijun Tang, Shangjin Xie, Baifu Huang, Binyan Sun, Haotian Yang, Kuncheng Luo, Weiqi Jin, Shilin Fang, et al.
+
+- 🔎 **[Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies](https://arxiv.org/abs/2607.10991)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Ali Ahmadi, Hamed Rahimi, Adrien Jacquet Cretides, Marie Samson, Mahdi Khoramshahi, Mohamed Chetouani
+
+- 🔎 **[VINE: Taming Generative Control Policies for Reinforcement Learning](https://arxiv.org/abs/2607.10369)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Rushuai Yang, Zhuo Han, Houlin Li, Hecheng Wang, Zhichao Wu, Rui Zhang, Zhaowei Zhang, Zihong Chen, et al.
+
+- 🔎 **[Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing](https://arxiv.org/abs/2607.08497)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Long-horizon` · `Multimodal` · `Image Generation` · `Reasoning`  
+  Authors: Feng Wang, Canmiao Fu, Zhipeng Huang, Chen Li, Jing Lyu, Ge Li
+
+- 🔎 **[HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales](https://arxiv.org/abs/2607.08705)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Diffusion` · `Video Generation` · `Reasoning`  
+  Authors: Wenbo Xu, Zhimin Chen, Xiaojie Liang, Hengrui Liu, Ziqi Sheng, Wei Lu
+
+- 🔎 **[Expressivity and Statistical Trade-offs in Diffusion Policy Learning](https://arxiv.org/abs/2607.07967)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Viet Vu, Renyuan Xu, Jiacheng Zhang, Yufei Zhang
+
+- 🔎 **[Scalable and Trustworthy Earth Observation Foundation Models](https://arxiv.org/abs/2607.07758)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-08 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Safety`  
+  Authors: Syed Usama Imtiaz, Mitra Nasr Azadani, Nasrin Alamdari
+
+- 🔎 **[Aura: Consistent Multi-Subject Video Generation via VLM-Grounded Semantic Alignment](https://arxiv.org/abs/2607.04311)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Video Generation`  
+  Authors: Zixiang Zhou, Zhentao Yu, Yifeng Ma, Hongmei Wang, Wenqing Yu, Cong Wang, Zilin Yang, Rui Chen, et al.
+
+- 🔎 **[Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process](https://arxiv.org/abs/2607.03748)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Long-horizon` · `Multimodal` · `VLM` · `Image Generation` · `Reasoning`  
+  Authors: Zican Hu, Xuyang Hu, Yiming Liu, Zuwei Long, Wei Liu, Yunzhuo Hao, Jiawei Gu, Linjie Li, et al.
+
+- 🔎 **[Overloading Large Vision-Language Models for Jailbreaking](https://arxiv.org/abs/2607.02961)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLM` · `Robotics` · `Safety`  
+  Authors: Haoyu Zhang, Yangyang Guo, Mohan Kankanhalli
+
+- 🔎 **[CLEAR: Closed-Loop Reinforcement Learning at Scale for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.02841)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `VLA` · `Autonomous Driving`  
+  Authors: Yunxiao Shi, Hong Cai, Mohammad Ghavamzadeh, Fatih Porikli
+
+- 🔎 **[CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](https://arxiv.org/abs/2607.01721)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLM` · `Robotics`  
+  Authors: Hexian Ni, Tao Lu, Yinghao Cai
+
+- 🔎 **[Scaling with Confidence: Calibrating Confidence of LLMs for Adaptive Test Time Scaling](https://arxiv.org/abs/2607.01612)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal` · `Reasoning`  
+  Authors: Xuqing Yang, Yi Yuan, Shanzhe Lei, Xuhong Wang
 
 <a id="2026-06"></a>
 
