@@ -58,6 +58,13 @@ jobs:
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: |
+            COVERAGE.md
+            README.md
+            LABELS.md
+            data/**
+            directions/**
+            docs/**
           commit-message: "radar: audit direction-month academic coverage"
           branch: radar/monthly-coverage
           delete-branch: true

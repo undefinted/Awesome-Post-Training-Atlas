@@ -91,19 +91,46 @@ def direction_page(direction: dict, records: list[dict]) -> str:
     selected = [paper for paper in records if paper["direction"] == direction["id"]]
     curated_count = sum(not paper.get("discovery_candidate") for paper in selected)
     candidate_count = len(selected) - curated_count
-    years = sorted({str(paper["date"])[:4] for paper in selected}, reverse=True)
+    audit_path = ROOT / "data" / "monthly_audit.yaml"
+    audit_cells = (load_yaml(audit_path) or {"cells": []})["cells"] if audit_path.exists() else []
+    audit = {cell["month"]: cell for cell in audit_cells if cell["direction"] == direction["id"]}
+    latest_complete_month = (dt.date.today().replace(day=1) - dt.timedelta(days=1)).replace(day=1)
+    dense_months = []
+    cursor = dt.date(2024, 1, 1)
+    while cursor <= latest_complete_month:
+        dense_months.append(cursor.strftime("%Y-%m"))
+        cursor = (cursor.replace(day=28) + dt.timedelta(days=4)).replace(day=1)
+    existing_months = {str(paper["date"])[:7] for paper in selected}
+    displayed_months = sorted(set(dense_months) | existing_months, reverse=True)
+    years = sorted({month[:4] for month in displayed_months}, reverse=True)
     directory = []
     for year in years:
-        months = sorted({str(paper["date"])[5:7] for paper in selected if str(paper["date"]).startswith(year)}, reverse=True)
-        month_links = " · ".join(f"[{dt.date(2000, int(month), 1).strftime('%b')}](#{year}-{month})" for month in months)
-        directory.append(f"- [{year}](#{year}) — {month_links}")
+        month_items = []
+        for month_key in [month for month in displayed_months if month.startswith(year)]:
+            month = month_key[5:7]
+            month_name = dt.date(2000, int(month), 1).strftime("%b")
+            count = sum(str(paper["date"]).startswith(month_key) for paper in selected)
+            cell = audit.get(month_key)
+            if count:
+                state = "✓" if cell and cell.get("complete") and not cell.get("error") else "◐"
+                month_items.append(f"[{month_name}](#{month_key}) {state}{count}")
+            elif cell and cell.get("complete") and not cell.get("error"):
+                month_items.append(f"{month_name} ✓0")
+            elif cell and (cell.get("error") or not cell.get("complete")):
+                month_items.append(f"{month_name} ⚠")
+            else:
+                month_items.append(f"{month_name} ⏳")
+        year_has_papers = any(str(paper["date"]).startswith(year) for paper in selected)
+        year_label = f"[{year}](#{year})" if year_has_papers else year
+        directory.append(f"- {year_label} — " + " · ".join(month_items))
     return (
         f"# {direction['title']}\n\n"
         "[← Back to the atlas](../README.md)\n\n"
         f"**{len(selected)} papers**: {curated_count} curated and {candidate_count} academic discovery candidates.\n\n"
         "Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.\n\n"
         "*Institution names, when shown, come from Semantic Scholar author profiles and may differ from affiliations at publication time.*\n\n"
-        "## Timeline directory\n\n"
+        "## Monthly audit directory\n\n"
+        "`✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.\n\n"
         + "\n".join(directory)
         + "\n\n"
         + render_papers(selected)

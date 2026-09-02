@@ -8,11 +8,14 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 *Institution names, when shown, come from Semantic Scholar author profiles and may differ from affiliations at publication time.*
 
-## Timeline directory
+## Monthly audit directory
 
-- [2026](#2026) — [Aug](#2026-08) · [Jul](#2026-07)
-- [2025](#2025) — [Dec](#2025-12) · [Nov](#2025-11) · [Oct](#2025-10) · [Sep](#2025-09) · [Aug](#2025-08) · [Jul](#2025-07) · [Jun](#2025-06) · [May](#2025-05) · [Apr](#2025-04) · [Mar](#2025-03) · [Feb](#2025-02) · [Jan](#2025-01)
-- [2023](#2023) — [Sep](#2023-09) · [Apr](#2023-04)
+`✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
+
+- [2026](#2026) — [Aug](#2026-08) ✓68 · [Jul](#2026-07) ◐4 · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2025](#2025) — [Dec](#2025-12) ◐7 · [Nov](#2025-11) ◐11 · [Oct](#2025-10) ◐8 · [Sep](#2025-09) ◐12 · [Aug](#2025-08) ◐8 · [Jul](#2025-07) ◐9 · [Jun](#2025-06) ◐13 · [May](#2025-05) ◐9 · [Apr](#2025-04) ◐5 · [Mar](#2025-03) ◐5 · [Feb](#2025-02) ◐15 · [Jan](#2025-01) ◐6
+- 2024 — Dec ⏳ · Nov ⏳ · Oct ⏳ · Sep ⏳ · Aug ⏳ · Jul ⏳ · Jun ⏳ · May ⏳ · Apr ⏳ · Mar ⏳ · Feb ⏳ · Jan ⏳
+- [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
 
 <a id="2026"></a>
 
