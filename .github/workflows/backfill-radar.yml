@@ -14,7 +14,8 @@ on:
         default: "1000"
         required: true
   schedule:
-    - cron: "47 3 * * *"
+    # GitHub Actions uses UTC; 00:30 UTC = 08:30 China Standard Time (UTC+8).
+    - cron: "30 0 * * *"
 
 permissions:
   contents: write
