@@ -264,7 +264,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Post-Training in End-to-End Autonomous Driving](https://arxiv.org/abs/2607.08072)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon` · `Multimodal` · `VLA` · `Autonomous Driving`  
-  Authors: Ruining Yang, Muxing Wang, Yixiao Chen, Tongfei Guo, Yi Xu, Can Cui, Zichong Yang, Yitian Zhang, et al.
+  Authors: Ruining Yang, Muxing Wang, Yixiao Chen, Tongfei Guo, Yi Xu, Can Cui, Zichong Yang, Yitian Zhang, et al.  
+  Resources: [project page](https://github.com/RYNing/Awesome-Post-Training-In-Autonomous-Driving-Papers)
 
 - 🔎 **[FabriVLA: A Lightweight Vision-Language-Action Model with Conformal Action Chunk Uncertainty](https://arxiv.org/abs/2607.08575)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-09 · `direction-month-query` · `arxiv-monthly-backfill`  

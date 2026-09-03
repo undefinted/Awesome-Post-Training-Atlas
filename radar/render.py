@@ -97,6 +97,7 @@ def render_papers(
                     institutions = "; ".join(paper.get("institutions", [])[:5])
                     venue = paper.get("venue")
                     venue_link = f"[{venue}]({paper['venue_url']})" if venue and paper.get("venue_url") else venue
+                    project_link = f"[project page]({paper['project_page']})" if paper.get("project_page") else None
                     method_family = method_names.get(paper.get("method_family", ""), paper.get("method_family"))
                     change_axes = ", ".join(paper.get("change_axes", [])[:5])
                     sections.append(
@@ -106,6 +107,7 @@ def render_papers(
                         f"  Authors: {authors or 'metadata pending'}"
                         + (f"  \n  Institutions*: {institutions}" if institutions else "")
                         + (f"  \n  Venue: {venue_link}" if venue_link else "")
+                        + (f"  \n  Resources: {project_link}" if project_link else "")
                         + (f"  \n  Method family: `{method_family}`" if method_family else "")
                         + (f"  \n  Change axes: `{change_axes}`" if change_axes else "")
                         + "\n"
@@ -113,6 +115,7 @@ def render_papers(
                 else:
                     tags = " · ".join(f"`{tag}`" for tag in paper.get("tags", []))
                     code = f" · [code]({paper['code']})" if paper.get("code") else ""
+                    project = f" · [project page]({paper['project_page']})" if paper.get("project_page") else ""
                     authors = ", ".join(paper.get("authors", [])[:8])
                     if len(paper.get("authors", [])) > 8:
                         authors += ", et al."
@@ -123,7 +126,7 @@ def render_papers(
                     change_axes = ", ".join(paper.get("change_axes", [])[:5])
                     sections.append(
                         f"- **[{paper['title']}]({paper['url']})** — {paper['key_idea']}  \n"
-                        f"  {str(paper['date'])} · {tags}{code}  \n"
+                        f"  {str(paper['date'])} · {tags}{project}{code}  \n"
                         f"  Labels: {labels or 'pending'}  \n"
                         f"  Authors: {authors or 'metadata pending'}"
                         + (f"  \n  Institutions*: {institutions}" if institutions else "")

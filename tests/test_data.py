@@ -3,6 +3,7 @@ from pathlib import Path
 
 import yaml
 
+from radar.main import extract_project_page
 from radar.site import analytics
 
 
@@ -38,6 +39,8 @@ class PaperDataTests(unittest.TestCase):
             if paper.get("venue"):
                 self.assertTrue(paper.get("venue_source"), paper["id"])
                 self.assertNotIn(paper["venue"].lower(), {"arxiv", "arxiv.org", "corr"})
+            if paper.get("project_page"):
+                self.assertTrue(str(paper["project_page"]).startswith("https://"), paper["id"])
             self.assertIn(paper.get("method_family"), self.method_families, paper["id"])
             self.assertIsInstance(paper.get("predecessors"), list, paper["id"])
             self.assertNotIn(paper["id"], paper.get("predecessors", []), paper["id"])
@@ -77,6 +80,22 @@ class PaperDataTests(unittest.TestCase):
             if paper.get("venue"):
                 self.assertTrue(paper.get("venue_source"), paper["id"])
                 self.assertNotIn(paper["venue"].lower(), {"arxiv", "arxiv.org", "corr"})
+            if paper.get("project_page"):
+                self.assertTrue(str(paper["project_page"]).startswith("https://"), paper["id"])
+
+    def test_extract_project_page_from_explicit_abstract_language(self):
+        self.assertEqual(
+            extract_project_page(
+                "A collection of related papers is available at "
+                "https://github.com/RYNing/Awesome-Post-Training-In-Autonomous-Driving-Papers."
+            ),
+            "https://github.com/RYNing/Awesome-Post-Training-In-Autonomous-Driving-Papers",
+        )
+        self.assertEqual(
+            extract_project_page("The project page is available at https://example.org/demo/)."),
+            "https://example.org/demo/",
+        )
+        self.assertIsNone(extract_project_page("We cite https://example.org but provide no project page."))
 
     def test_label_ids_are_unique(self):
         labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))["labels"]

@@ -32,6 +32,22 @@ def normalize_arxiv_id(url: str) -> str:
     return f"arxiv:{value.lower()}"
 
 
+def extract_project_page(text: str) -> str | None:
+    """Extract only URLs explicitly introduced as a project/homepage resource."""
+    patterns = (
+        r"(?:project\s+(?:page|homepage)|paper\s+homepage|homepage)\s*"
+        r"(?:(?:is\s+)?(?:available\s+)?at|is|:)?\s*"
+        r"(https?://[^\s<>\]\[{}\"']+)",
+        r"(?:collection\s+of\s+related\s+papers|related\s+papers)\s+is\s+available\s+at\s+"
+        r"(https?://[^\s<>\]\[{}\"']+)",
+    )
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE)
+        if match:
+            return match.group(1).rstrip(".,;:!?)")
+    return None
+
+
 def existing_ids() -> set[str]:
     ids: set[str] = set()
     for name in ("papers.yaml", "candidates.yaml", "rejected.yaml"):
@@ -80,8 +96,7 @@ def fetch_query_page(query: str, categories: list[str], start: int, maximum: int
         url = entry.findtext("atom:id", "", ATOM)
         paper_id = normalize_arxiv_id(url)
         categories_found = [node.attrib["term"] for node in entry.findall("atom:category", ATOM)]
-        papers.append(
-            {
+        paper = {
                 "id": paper_id,
                 "title": title,
                 "date": entry.findtext("atom:published", "", ATOM)[:10],
@@ -92,7 +107,10 @@ def fetch_query_page(query: str, categories: list[str], start: int, maximum: int
                 "arxiv_categories": categories_found,
                 "source_signals": ["arxiv"],
             }
-        )
+        project_page = extract_project_page(abstract)
+        if project_page:
+            paper["project_page"] = project_page
+        papers.append(paper)
     return papers
 
 
@@ -147,7 +165,7 @@ def fetch_huggingface_daily(days: int, limit: int) -> list[dict]:
 
 def merge_source_record(target: dict, incoming: dict) -> None:
     target["source_signals"] = sorted(set(target.get("source_signals", [])) | set(incoming.get("source_signals", [])))
-    for key in ("huggingface", "code"):
+    for key in ("huggingface", "code", "project_page"):
         if incoming.get(key):
             target[key] = incoming[key]
     target["direction_hints"] = sorted(
