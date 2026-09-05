@@ -8473,6 +8473,4455 @@ Automated proposals only; inclusion requires human review.
 | 2024-01-02 | [CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation](https://arxiv.org/abs/2401.01275) | arxiv-monthly-backfill | 4 | `needs-review` |
 | 2024-01-02 | [LLaMA Beyond English: An Empirical Study on Language Capability Transfer](https://arxiv.org/abs/2401.01055) | arxiv-monthly-backfill | 3 | `needs-review` |
 | 2024-01-01 | [Astraios: Parameter-Efficient Instruction Tuning Code Large Language Models](https://arxiv.org/abs/2401.00788) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-30 | [KEPO: Knowledge-Enhanced Preference Optimization for Multimodal Reasoning with Applications to Medical VQA](https://arxiv.org/abs/2602.00400) | arxiv-monthly-backfill | 20 | `needs-review` |
+| 2026-01-31 | [LLMs as High-Dimensional Nonlinear Autoregressive Models with Attention: Training, Alignment and Inference](https://arxiv.org/abs/2602.00426) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-01-12 | [Reward Modeling from Natural Language Human Feedback](https://arxiv.org/abs/2601.07349) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-01-20 | [Knowledge Graph-Assisted LLM Post-Training for Enhanced Legal Reasoning](https://arxiv.org/abs/2601.13806) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-01-02 | [IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models](https://arxiv.org/abs/2601.00677) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-01-28 | [Positive-Unlabeled Reinforcement Learning Distillation for On-Premise Small Models](https://arxiv.org/abs/2601.20687) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-01-07 | [Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes](https://arxiv.org/abs/2601.04300) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-01-30 | [DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding](https://arxiv.org/abs/2601.23161) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-01-23 | [Retell, Reward, Repeat: Reinforcement Learning for Narrative Theory-Informed Story Retelling](https://arxiv.org/abs/2601.17226) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-01-07 | [Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards](https://arxiv.org/abs/2601.04411) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-01-07 | [Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](https://arxiv.org/abs/2601.04068) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-01-03 | [From RLHF to Direct Alignment: A Theoretical Unification of Preference Learning for Large Language Models](https://arxiv.org/abs/2601.06108) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-01-31 | [RoDiF: Robust Direct Fine-Tuning of Diffusion Policies with Corrupted Human Feedback](https://arxiv.org/abs/2602.00886) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-01-30 | [Real-Time Aligned Reward Model beyond Semantics](https://arxiv.org/abs/2601.22664) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-01-29 | [Factored Causal Representation Learning for Robust Reward Modeling in RLHF](https://arxiv.org/abs/2601.21350) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-01-23 | [Towards a Theoretical Understanding to the Generalization of RLHF](https://arxiv.org/abs/2601.16403) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-01-06 | [A Versatile Multimodal Agent for Multimedia Content Generation](https://arxiv.org/abs/2601.03250) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-01-31 | [Direct Preference Optimization with Rating Information: Practical Algorithms and Provable Gains](https://arxiv.org/abs/2602.00603) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-29 | [Latent Adversarial Regularization for Offline Preference Optimization](https://arxiv.org/abs/2601.22083) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-28 | [MARE: Multimodal Alignment and Reinforcement for Explainable Deepfake Detection via Vision-Language Models](https://arxiv.org/abs/2601.20433) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-25 | [Benchmarking Direct Preference Optimization for Medical Large Vision-Language Models](https://arxiv.org/abs/2601.17918) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-24 | [Decoupling Strategy and Execution in Task-Focused Dialogue via Goal-Oriented Preference Optimization](https://arxiv.org/abs/2602.15854) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-22 | [RebuttalAgent: Strategic Persuasion in Academic Rebuttal via Theory of Mind](https://arxiv.org/abs/2601.15715) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-13 | [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](https://arxiv.org/abs/2601.08777) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-06 | [Reducing Hallucinations in LLMs via Factuality-Aware Preference Learning](https://arxiv.org/abs/2601.03027) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-04 | [Unified Generation and Self-Verification for Vision-Language Models via Advantage Decoupled Preference Optimization](https://arxiv.org/abs/2601.01483) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-30 | [Scaling Multiagent Systems with Process Rewards](https://arxiv.org/abs/2601.23228) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-29 | [Thinking Broad, Acting Fast: Latent Reasoning Distillation from Multi-Perspective Chain-of-Thought for E-Commerce Relevance](https://arxiv.org/abs/2601.21611) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-29 | [SAGE: Sequence-level Adaptive Gradient Evolution for Generative Recommendation](https://arxiv.org/abs/2601.21452) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-27 | [Optimizing Conversational Quality in Spoken Dialogue Systems with Reinforcement Learning from AI Feedback](https://arxiv.org/abs/2601.19063) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-26 | [Expert Evaluation and the Limits of Human Feedback in Mental Health AI Safety Testing](https://arxiv.org/abs/2601.18061) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-23 | [Beyond Instrumental and Substitutive Paradigms: Introducing Machine Culture as an Emergent Phenomenon in Large Language Models](https://arxiv.org/abs/2601.17096) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-19 | [Objective Matters: Fine-Tuning Objectives Shape Safety, Robustness, and Persona Drift](https://arxiv.org/abs/2601.12639) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-16 | [How Much Would a Clinician Edit This Draft? Evaluating LLM Alignment for Patient Message Response Drafting](https://arxiv.org/abs/2601.11344) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-12 | [A Human-Centric Pipeline for Aligning Large Language Models with Chinese Medical Ethics](https://arxiv.org/abs/2601.07954) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-09 | [IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck](https://arxiv.org/abs/2601.05870) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-08 | [CounterVid: Counterfactual Video Generation for Mitigating Action and Temporal Hallucinations in Video-Language Models](https://arxiv.org/abs/2601.04778) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-08 | [AM$^3$Safety: Towards Data Efficient Alignment of Multi-modal Multi-turn Safety for MLLMs](https://arxiv.org/abs/2601.04736) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-07 | [Simulated Students in Tutoring Dialogues: Substance or Illusion?](https://arxiv.org/abs/2601.04025) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-07 | [AMIR-GRPO: Inducing Implicit Preference Signals into GRPO](https://arxiv.org/abs/2601.03661) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-06 | [AWARE-US: Preference-Aware Infeasibility Resolution in Tool-Calling Agents](https://arxiv.org/abs/2601.02643) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-02 | [Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation](https://arxiv.org/abs/2601.00664) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-30 | [Sample Complexity Analysis for Constrained Bilevel Reinforcement Learning](https://arxiv.org/abs/2602.00282) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-30 | [VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://arxiv.org/abs/2601.23286) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-29 | [Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding](https://arxiv.org/abs/2601.21969) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-28 | [Demonstration-Free Robotic Control via LLM Agents](https://arxiv.org/abs/2601.20334) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-27 | [Bridging Information Asymmetry: A Hierarchical Framework for Deterministic Blind Face Restoration](https://arxiv.org/abs/2601.19506) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-26 | [Reflect: Transparent Principle-Guided Reasoning for Constitutional Alignment at Scale](https://arxiv.org/abs/2601.18730) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-26 | [Integrating Fine-Grained Audio-Visual Evidence for Robust Multimodal Emotion Reasoning](https://arxiv.org/abs/2601.18321) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-25 | [Differential Voting: Loss Functions For Axiomatically Diverse Aggregation of Heterogeneous Preferences](https://arxiv.org/abs/2601.18824) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-24 | [Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment](https://arxiv.org/abs/2601.17329) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-23 | [A Hessian-Free Actor-Critic Algorithm for Bi-Level Reinforcement Learning with Applications to LLM Fine-Tuning](https://arxiv.org/abs/2601.16399) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-22 | [Off-Policy Actor-Critic with Sigmoid-Bounded Entropy for Real-World Robot Learning](https://arxiv.org/abs/2601.15761) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-21 | [Mechanistic Interpretability for Large Language Model Alignment: Progress, Challenges, and Future Directions](https://arxiv.org/abs/2602.11180) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-14 | [Reward Learning through Ranking Mean Squared Error](https://arxiv.org/abs/2601.09236) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-10 | [Characterising Toxicity in Generative Large Language Models](https://arxiv.org/abs/2601.06700) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-09 | [SceneAlign: Aligning Multimodal Reasoning to Scene Graphs in Complex Visual Scenes](https://arxiv.org/abs/2601.05600) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-07 | [DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2601.03559) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-02 | [DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations](https://arxiv.org/abs/2601.00623) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-31 | [Continuous-Utility Direct Preference Optimization](https://arxiv.org/abs/2602.00931) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-31 | [Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis](https://arxiv.org/abs/2602.00846) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-30 | [Region-Normalized DPO for Medical Image Segmentation under Noisy Judges](https://arxiv.org/abs/2601.23222) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-30 | [Evaluating the Utility of Grounding Documents with Reference-Free LLM-based Metrics](https://arxiv.org/abs/2601.23129) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-30 | [CATTO: Balancing Preferences and Confidence in Language Models](https://arxiv.org/abs/2601.23096) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-29 | [SP^2DPO: An LLM-assisted Semantic Per-Pair DPO Generalization](https://arxiv.org/abs/2601.22385) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-27 | [RPO-RAG: Aligning Small LLMs with Relation-aware Preference Optimization for Knowledge Graph Question Answering](https://arxiv.org/abs/2601.19225) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-26 | [Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision](https://arxiv.org/abs/2603.15624) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-24 | [The Viscosity of Logic: Phase Transitions and Hysteresis in DPO Alignment](https://arxiv.org/abs/2601.17260) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-23 | [PROST-LLM: Progressively Enhancing the Speech-to-Speech Translation Capability in LLMs](https://arxiv.org/abs/2601.16618) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-16 | [RAC: Retrieval-Augmented Clarification for Faithful Conversational Search](https://arxiv.org/abs/2601.11722) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-15 | [LLMdoctor: Token-Level Flow-Guided Preference Optimization for Efficient Test-Time Alignment of Large Language Models](https://arxiv.org/abs/2601.10416) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-13 | [YaPO: Learnable Sparse Activation Steering Vectors for Domain Adaptation](https://arxiv.org/abs/2601.08441) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-12 | [SecureCAI: Injection-Resilient LLM Assistants for Cybersecurity Operations](https://arxiv.org/abs/2601.07835) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-12 | [FocalOrder: Focal Preference Optimization for Reading Order Detection](https://arxiv.org/abs/2601.07483) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-12 | [Learning How to Remember: A Meta-Cognitive Management Method for Structured and Transferable Agent Memory](https://arxiv.org/abs/2601.07470) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-12 | [RLPO: Residual Listwise Preference Optimization for Long-Context Review Ranking](https://arxiv.org/abs/2601.07449) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-12 | [Forward versus Backward: Comparing Reasoning Objectives in Direct Preference Optimization](https://arxiv.org/abs/2601.07199) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-10 | [Are LLMs Vulnerable to Preference-Undermining Attacks (PUA)? A Factorial Analysis Methodology for Diagnosing the Trade-off between Preference Alignment and Real-World Validity](https://arxiv.org/abs/2601.06596) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-09 | [CLewR: Curriculum Learning with Restarts for Machine Translation Preference Learning](https://arxiv.org/abs/2601.05858) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-08 | [SPINAL -- Scaling-law and Preference Integration in Neural Alignment Layers](https://arxiv.org/abs/2601.06238) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-08 | [SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment](https://arxiv.org/abs/2601.05075) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-07 | [Safety Is Not Universal: The Selective Safety Trap in LLM Alignment](https://arxiv.org/abs/2601.04389) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-07 | [MixDPO: Modeling Preference Strength for Pluralistic Alignment](https://arxiv.org/abs/2601.06180) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-06 | [The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models](https://arxiv.org/abs/2601.02954) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-06 | [HAL: Inducing Human-likeness in LLMs with Alignment](https://arxiv.org/abs/2601.02813) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-06 | [ECLIPTICA -- A Framework for Switchable LLM Alignment via CITA - Contrastive Instruction-Tuned Alignment](https://arxiv.org/abs/2601.06157) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-05 | [UnPII: Unlearning Personally Identifiable Information with Quantifiable Exposure Risk](https://arxiv.org/abs/2601.01786) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-02 | [Physio-DPO: Aligning Large Language Models with the Protein Energy Landscape to Eliminate Structural Hallucinations](https://arxiv.org/abs/2601.00647) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-31 | [Unifying Adversarial Robustness and Training Across Text Scoring Models](https://arxiv.org/abs/2602.00857) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-31 | [QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals](https://arxiv.org/abs/2602.02581) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-29 | [Conversation for Non-verifiable Learning: Self-Evolving LLMs through Meta-Evaluation](https://arxiv.org/abs/2601.21464) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-27 | [Dynamics of Human-AI Collective Knowledge on the Web: A Scalable Model and Insights for Sustainable Growth](https://arxiv.org/abs/2601.20099) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-27 | [Metric $k$-clustering using only Weak Comparison Oracles](https://arxiv.org/abs/2601.19333) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-26 | [HumanoidTurk: Expanding VR Haptics with Humanoids for Driving Simulations](https://arxiv.org/abs/2601.18975) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-21 | [Beyond Fixed Psychological Personas: State Beats Trait, but Language Models are State-Blind](https://arxiv.org/abs/2601.15395) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-17 | [CTPD: Cross Tokenizer Preference Distillation](https://arxiv.org/abs/2601.11865) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-26 | [Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models](https://arxiv.org/abs/2601.18129) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-01-06 | [MiMo-V2-Flash Technical Report](https://arxiv.org/abs/2601.02780) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-01-27 | [Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-01-29 | [OVD: On-policy Verbal Distillation](https://arxiv.org/abs/2601.21968) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-01-13 | [ORBIT: On-policy Exploration-Exploitation for Controllable Multi-Budget Reasoning](https://arxiv.org/abs/2601.08310) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-01-12 | [Stable On-Policy Distillation through Adaptive Target Reformulation](https://arxiv.org/abs/2601.07155) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-01-29 | [WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-01-30 | [Continual Policy Distillation from Distributed Reinforcement Learning Teachers](https://arxiv.org/abs/2601.22475) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-28 | [CADENT: Gated Hybrid Distillation for Sample-Efficient Transfer in Reinforcement Learning](https://arxiv.org/abs/2602.02532) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-05 | [ACDZero: MCTS Agent for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-08 | [Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models](https://arxiv.org/abs/2601.05019) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-07 | [What Matters For Safety Alignment?](https://arxiv.org/abs/2601.03868) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-04 | [COVR:Collaborative Optimization of VLMs and RL Agent for Visual-Based Control](https://arxiv.org/abs/2601.06122) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-18 | [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-01-06 | [SOP: A Scalable Online Post-Training System for Vision-Language-Action Models](https://arxiv.org/abs/2601.03044) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-01-29 | [Causal World Modeling for Robot Control](https://arxiv.org/abs/2601.21998) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-22 | [Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-18 | [ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models](https://arxiv.org/abs/2601.12428) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-12 | [Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation](https://arxiv.org/abs/2601.07821) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-02 | [RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-01-26 | [A Pragmatic VLA Foundation Model](https://arxiv.org/abs/2601.18692) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-11 | [On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning](https://arxiv.org/abs/2601.06748) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-07 | [CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos](https://arxiv.org/abs/2601.04061) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-01-11 | [Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration](https://arxiv.org/abs/2601.10744) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-07 | [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](https://arxiv.org/abs/2601.03782) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-06 | [FIRE-VLM: A Vision-Language-Driven Reinforcement Learning Framework for UAV Wildfire Tracking in a Physics-Grounded Fire Digital Twin](https://arxiv.org/abs/2601.03449) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-01-31 | [SA-VLA: Spatially-Aware Flow-Matching for Vision-Language-Action Reinforcement Learning](https://arxiv.org/abs/2602.00743) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-30 | [ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control](https://arxiv.org/abs/2602.00401) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-23 | [Cognitively-Inspired Tokens Overcome Egocentric Bias in Multimodal Models](https://arxiv.org/abs/2601.16378) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-12 | [Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-10 | [3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence](https://arxiv.org/abs/2601.06496) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-01-07 | [State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space](https://arxiv.org/abs/2601.04266) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](https://arxiv.org/abs/2602.02994) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-02-16 | [Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation](https://arxiv.org/abs/2602.15005) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-12 | [Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation](https://arxiv.org/abs/2602.12125) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-26 | [Reinforcement-aware Knowledge Distillation for LLM Reasoning](https://arxiv.org/abs/2602.22495) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-16 | [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-12 | [On-Policy Context Distillation for Language Models](https://arxiv.org/abs/2602.12275) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-04 | [Privileged Information Distillation for Language Models](https://arxiv.org/abs/2602.04942) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-04 | [Reinforced Attention Learning](https://arxiv.org/abs/2602.04884) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-13 | [$\mathcal{X}$-KD: General Experiential Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2602.12674) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-02 | [DCoPilot: Generative AI-Empowered Policy Adaptation for Dynamic Data Center Operations](https://arxiv.org/abs/2602.02137) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-10 | [Answer First, Reason Later: Aligning Search Relevance via Mode-Balanced Reinforcement Learning](https://arxiv.org/abs/2602.10006) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-25 | [Explain in Your Own Words: Improving Reasoning via Token-Selective Dual Knowledge Distillation](https://arxiv.org/abs/2603.13260) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-20 | [Latent Diffeomorphic Co-Design of End-Effectors for Deformable and Fragile Object Manipulation](https://arxiv.org/abs/2602.17921) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-01 | [Verification Required: The Impact of Information Credibility on AI Persuasion](https://arxiv.org/abs/2602.00970) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-18 | [References Improve LLM Alignment in Non-Verifiable Domains](https://arxiv.org/abs/2602.16802) | arxiv-monthly-backfill | 19 | `needs-review` |
+| 2026-02-24 | [Alignment-Weighted DPO: A principled reasoning approach to improve safety alignment](https://arxiv.org/abs/2602.21346) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-02-05 | [DeDPO: Debiased Direct Preference Optimization for Diffusion Models](https://arxiv.org/abs/2602.06195) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-02-12 | [Native Reasoning Models: Training Language Models to Reason on Unverifiable Data](https://arxiv.org/abs/2602.11549) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-02-11 | [Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away](https://arxiv.org/abs/2602.11096) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-08 | [GR2: Generative Reasoning Re-ranker](https://arxiv.org/abs/2602.07774) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-05 | [SAIL: Self-Amplified Iterative Learning for Diffusion Model Alignment with Minimal Human Feedback](https://arxiv.org/abs/2602.05380) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-04 | [Scaling Agentic Verifier for Competitive Coding](https://arxiv.org/abs/2602.04254) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-02 | [Unified Personalized Reward Model for Vision Generation](https://arxiv.org/abs/2602.02380) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-01 | [Self-Generative Adversarial Fine-Tuning for Large Language Models](https://arxiv.org/abs/2602.01137) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-23 | [Prefer-DAS: Learning from Local Preferences and Sparse Prompts for Domain Adaptive Segmentation of Electron Microscopy](https://arxiv.org/abs/2602.19423) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-20 | [Adaptive Time Series Reasoning via Segment Selection](https://arxiv.org/abs/2602.18645) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-16 | [MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation](https://arxiv.org/abs/2602.14534) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-15 | [ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization](https://arxiv.org/abs/2602.14098) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-15 | [GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training](https://arxiv.org/abs/2602.14093) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-14 | [GSRM: Generative Speech Reward Model for Speech RLHF](https://arxiv.org/abs/2602.13891) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-07 | [Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models](https://arxiv.org/abs/2602.07533) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-06 | [Generating Data-Driven Reasoning Rubrics for Domain-Adaptive Reward Modeling](https://arxiv.org/abs/2602.06795) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-05 | [TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning](https://arxiv.org/abs/2602.05818) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-03 | [Not All Negative Samples Are Equal: LLMs Learn Better from Plausible Reasoning](https://arxiv.org/abs/2602.03516) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-03 | [Test-time Recursive Thinking: Self-Improvement without External Feedback](https://arxiv.org/abs/2602.03094) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-28 | [RLAR: An Agentic Reward System for Multi-task Reinforcement Learning on Large Language Models](https://arxiv.org/abs/2603.00724) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-03 | [Seeing Through the Chain: Mitigate Hallucination in Multimodal Reasoning Models via CoT Compression and Contrastive Preference Optimization](https://arxiv.org/abs/2602.03380) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-28 | [MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence](https://arxiv.org/abs/2603.00515) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-26 | [Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-26 | [SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation](https://arxiv.org/abs/2602.22745) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-16 | [How to Train Your Long-Context Visual Document Model](https://arxiv.org/abs/2602.15257) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-04 | [Dual Tuning for Reasoning Efficacy-Driven Data Curation in Multimodal LLM Training](https://arxiv.org/abs/2603.04415) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-02 | [ATLAS: A Multi-LLM Training Framework for EvoDPO with Adaptive Reference Evolution](https://arxiv.org/abs/2602.02709) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-25 | [Improving Parametric Knowledge Access in Reasoning Language Models](https://arxiv.org/abs/2602.22193) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-25 | [Self-Correcting VLA: Online Action Refinement via Sparse World Imagination](https://arxiv.org/abs/2602.21633) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-16 | [DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI](https://arxiv.org/abs/2602.14974) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-13 | [Constraint-Rectified Training for Efficient Chain-of-Thought](https://arxiv.org/abs/2602.12526) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-11 | [Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://arxiv.org/abs/2602.11149) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-11 | [DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning](https://arxiv.org/abs/2602.11089) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-05 | [Self-Improving World Modelling with Latent Actions](https://arxiv.org/abs/2602.06130) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-03 | [Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](https://arxiv.org/abs/2602.03978) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-02 | [Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability](https://arxiv.org/abs/2602.02477) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-28 | [RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment](https://arxiv.org/abs/2603.00483) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-27 | [Thinking with Images as Continuous Actions: Numerical Visual Chain-of-Thought](https://arxiv.org/abs/2602.23959) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-24 | [LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](https://arxiv.org/abs/2602.20913) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-24 | [CAMEL: Confidence-Gated Reflection for Reward Modeling](https://arxiv.org/abs/2602.20670) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-21 | [TAG: Thinking with Action Unit Grounding for Facial Expression Recognition](https://arxiv.org/abs/2602.18763) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-14 | [Cast-R1: Learning Tool-Augmented Sequential Decision Policies for Time Series Forecasting](https://arxiv.org/abs/2602.13802) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-13 | [Generalized Discrete Diffusion with Self-Correction](https://arxiv.org/abs/2603.02230) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-11 | [Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://arxiv.org/abs/2602.10604) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-09 | [Self-Supervised Bootstrapping of Action-Predictive Embodied Reasoning](https://arxiv.org/abs/2602.08167) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-27 | [Learning from Partial Chain-of-Thought via Truncated-Reasoning Self-Distillation](https://arxiv.org/abs/2603.13274) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-26 | [Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning](https://arxiv.org/abs/2602.22642) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-26 | [Metacognitive Behavioral Tuning of Large Language Models for Multi-Hop Question Answering](https://arxiv.org/abs/2602.22508) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-25 | [See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs](https://arxiv.org/abs/2602.21497) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-24 | [Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking](https://arxiv.org/abs/2602.21435) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-24 | [GATES: Self-Distillation under Privileged Context with Consensus Gating](https://arxiv.org/abs/2602.20574) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-24 | [Beyond Human Performance: A Vision-Language Multi-Agent Approach for Quality Control in Pharmaceutical Manufacturing](https://arxiv.org/abs/2602.20543) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-22 | [IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning](https://arxiv.org/abs/2602.19049) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-19 | [From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection](https://arxiv.org/abs/2602.17342) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-17 | [Improving Interactive In-Context Learning from Natural Language Feedback](https://arxiv.org/abs/2602.16066) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-16 | [DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving](https://arxiv.org/abs/2602.14577) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-13 | [On-Policy Supervised Fine-Tuning for Efficient Reasoning](https://arxiv.org/abs/2602.13407) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-13 | [Monte Carlo Tree Search with Reasoning Path Refinement for Small Language Models in Conversational Text-to-NoSQL](https://arxiv.org/abs/2602.12574) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-13 | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://arxiv.org/abs/2602.12506) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-10 | [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](https://arxiv.org/abs/2602.10229) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-10 | [Auditing Multi-Agent LLM Reasoning Trees Outperforms Majority Vote and LLM-as-Judge](https://arxiv.org/abs/2602.09341) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-09 | [Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression](https://arxiv.org/abs/2602.08324) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-05 | [TangramSR: Can Vision-Language Models Reason in Continuous Geometric Space?](https://arxiv.org/abs/2602.05570) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-04 | [Understanding Degradation with Vision Language Model](https://arxiv.org/abs/2602.04565) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-03 | [CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning](https://arxiv.org/abs/2602.02979) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-02 | [SIDiffAgent: Self-Improving Diffusion Agent](https://arxiv.org/abs/2602.02051) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-01 | [Your Self-Play Algorithm is Secretly an Adversarial Imitator: Understanding LLM Self-Play through the Lens of Imitation Learning](https://arxiv.org/abs/2602.01357) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-28 | [PaLMR: Towards Faithful Visual Reasoning via Multimodal Process Alignment](https://arxiv.org/abs/2603.06652) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-26 | [ParamMem: Augmenting Language Agents with Parametric Reflective Memory](https://arxiv.org/abs/2602.23320) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-25 | [Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets](https://arxiv.org/abs/2602.22207) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-25 | [OOWM: Structuring Embodied Reasoning and Planning via Object-Oriented Programmatic World Modeling](https://arxiv.org/abs/2604.09580) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-25 | [Help Without Being Asked: A Deployed Proactive Agent System for On-Call Support with Continuous Self-Improvement](https://arxiv.org/abs/2604.09579) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-24 | [HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning](https://arxiv.org/abs/2602.21157) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-20 | [BLM-Guard: Explainable Multimodal Ad Moderation with Chain-of-Thought and Policy-Aligned Rewards](https://arxiv.org/abs/2602.18193) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-19 | [OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents](https://arxiv.org/abs/2602.17665) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration](https://arxiv.org/abs/2602.11937) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [RISE: Self-Improving Robot Policy with Compositional World Model](https://arxiv.org/abs/2602.11075) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [Sample Efficient Generative Molecular Optimization with Joint Self-Improvement](https://arxiv.org/abs/2602.10984) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics](https://arxiv.org/abs/2602.10885) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [Anagent For Enhancing Scientific Table & Figure Analysis](https://arxiv.org/abs/2602.10081) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [A Task-Centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula](https://arxiv.org/abs/2602.10014) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies](https://arxiv.org/abs/2602.09877) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain](https://arxiv.org/abs/2603.02218) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [Learning Self-Correction in Vision-Language Models via Rollout Augmentation](https://arxiv.org/abs/2602.08503) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [Characterizing, Evaluating, and Optimizing Complex Reasoning](https://arxiv.org/abs/2602.08498) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [Do MLLMs Really See It: Reinforcing Visual Attention in Multimodal LLMs](https://arxiv.org/abs/2602.08241) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-08 | [Time Series Reasoning via Process-Verifiable Thinking Data Synthesis and Scheduling for Tailored LLM Reasoning](https://arxiv.org/abs/2602.07830) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-06 | [SE-Search: Self-Evolving Search Agent via Memory and Dense Reward](https://arxiv.org/abs/2603.03293) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-06 | [On the Wings of Imagination: Conflicting Script-based Multi-role Framework for Humor Caption Generation](https://arxiv.org/abs/2602.06423) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-05 | [V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-05 | [Weaver: End-to-End Agentic System Training for Video Interleaved Reasoning](https://arxiv.org/abs/2602.05829) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-05 | [Bifrost: Steering Strategic Trajectories to Bridge Contextual Gaps for Self-Improving Agents](https://arxiv.org/abs/2602.05810) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-04 | [Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing](https://arxiv.org/abs/2602.04837) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-04 | [Fine-tuning Pre-trained Vision-Language Models in a Human-Annotation-Free Manner](https://arxiv.org/abs/2602.04337) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-04 | [ImpRIF: Stronger Implicit Reasoning Leads to Better Complex Instruction Following](https://arxiv.org/abs/2602.21228) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-04 | [Contextual Drag: How Errors in the Context Affect LLM Reasoning](https://arxiv.org/abs/2602.04288) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](https://arxiv.org/abs/2602.03798) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [Inference-time Unlearning Using Conformal Prediction](https://arxiv.org/abs/2602.03787) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [RegionReasoner: Region-Grounded Multi-Round Visual Reasoning](https://arxiv.org/abs/2602.03733) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [One Model, All Roles: Multi-Turn, Multi-Agent Self-Play Reinforcement Learning for Conversational Social Intelligence](https://arxiv.org/abs/2602.03109) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [Scaling Small Agents Through Strategy Auctions](https://arxiv.org/abs/2602.02751) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [Toward Cognitive Supersensing in Multimodal Large Language Model](https://arxiv.org/abs/2602.01541) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-01 | [MedAD-R1: Eliciting Consistent Reasoning in Interpretible Medical Anomaly Detection via Consistency-Reinforced Policy Optimization](https://arxiv.org/abs/2602.01081) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-15 | [Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](https://arxiv.org/abs/2602.14225) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-02-03 | [MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning](https://arxiv.org/abs/2602.03320) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-02-25 | [SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](https://arxiv.org/abs/2602.22124) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-02-19 | [RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-02-11 | [Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization](https://arxiv.org/abs/2602.11351) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-10 | [Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-03 | [Verified Critical Step Optimization for LLM Agents](https://arxiv.org/abs/2602.03412) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-25 | [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](https://arxiv.org/abs/2602.21534) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-12 | [CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use](https://arxiv.org/abs/2602.12268) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-10 | [SceneReVis: A Self-Reflective Vision-Grounded Framework for 3D Indoor Scene Synthesis via Multi-turn RL](https://arxiv.org/abs/2602.09432) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-10 | [Latent Poincaré Shaping for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.09375) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-13 | [Safety Training May Persist Through Helpfulness Optimization in LLM Agents](https://arxiv.org/abs/2603.02229) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-11 | [Fine-Tuning GPT-5 for GPU Kernel Generation](https://arxiv.org/abs/2602.11000) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-27 | [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-17 | [EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use](https://arxiv.org/abs/2602.15329) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-15 | [GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery](https://arxiv.org/abs/2602.14201) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-09 | [Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems](https://arxiv.org/abs/2602.08847) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-04 | [Agent-Omit: Adaptive Context Omission for Efficient LLM Agents](https://arxiv.org/abs/2602.04284) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-03 | [BranPO: Scalable Contrastive Branch Sampling for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2602.03719) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-02 | [Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-19 | [Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](https://arxiv.org/abs/2602.17616) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-19 | [Phase-Aware Mixture of Experts for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.17038) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-17 | [Multi-Modal Multi-Agent Reinforcement Learning for Radiology Report Generation](https://arxiv.org/abs/2603.16876) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-03 | [General learned delegation by clones](https://arxiv.org/abs/2602.13262) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-01 | [Reasoning and Tool-use Compete in Agentic RL:From Quantifying Interference to Disentangled Tuning](https://arxiv.org/abs/2602.00994) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-20 | [Agentic AI, Retrieval-Augmented Generation, and the Institutional Turn: Legal Architectures and Financial Governance in the Age of Distributional AGI](https://arxiv.org/abs/2603.13244) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-14 | [OpAgent: Operator Agent for Web Navigation](https://arxiv.org/abs/2602.13559) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-09 | [SoK: The Pitfalls of Deep Reinforcement Learning for Cybersecurity](https://arxiv.org/abs/2602.08690) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-09 | [Who Deserves the Reward? SHARP: Shapley Credit-based Optimization for Multi-Agent System](https://arxiv.org/abs/2602.08335) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-08 | [MARTI-MARS$^2$: Scaling Multi-Agent Self-Search via Reinforcement Learning for Code Generation](https://arxiv.org/abs/2602.07848) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-04 | [The Missing Half: Unveiling Training-time Implicit Safety Risks Beyond Deployment](https://arxiv.org/abs/2602.04196) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-02 | [SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-28 | [COMBAT: Conditional World Models for Behavioral Agent Training](https://arxiv.org/abs/2603.00825) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-26 | [Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization](https://arxiv.org/abs/2602.22675) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-25 | [Which Tool Response Should I Trust? Tool-Expertise-Aware Chest X-ray Agent with Multimodal Agentic Learning](https://arxiv.org/abs/2602.21517) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-24 | [PyVision-RL: Forging Open Agentic Vision Models via RL](https://arxiv.org/abs/2602.20739) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-22 | [Proximity-Based Multi-Turn Optimization: Practical Credit Assignment for LLM Agent Training](https://arxiv.org/abs/2602.19225) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-20 | [Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](https://arxiv.org/abs/2602.18291) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-13 | [MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/abs/2602.12705) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-12 | [LongNav-R1: Horizon-Adaptive Multi-Turn RL for Long-Horizon VLA Navigation](https://arxiv.org/abs/2602.12351) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-11 | [TVCACHE: A Stateful Tool-Value Cache for Post-Training LLM Agents](https://arxiv.org/abs/2602.10986) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-10 | [MedCalc-Bench Doesn't Measure What You Think: A Benchmark Audit and the Case for Open-Book Evaluation](https://arxiv.org/abs/2603.02222) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-09 | [Weak-Driven Learning: How Weak Agents make Strong Agents Stronger](https://arxiv.org/abs/2602.08222) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-06 | [ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training](https://arxiv.org/abs/2602.06820) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-02 | [VLM-Guided Experience Replay](https://arxiv.org/abs/2602.01915) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-19 | [Spatio-temporal dual-stage hypergraph MARL for human-centric multimodal corridor traffic signal control](https://arxiv.org/abs/2602.17068) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-16 | [WebWorld: A Large-Scale World Model for Web Agent Training](https://arxiv.org/abs/2602.14721) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-16 | [Engineering Reasoning and Instruction (ERI) Benchmark: A Large Taxonomy-driven Dataset for Foundation Models and Agents](https://arxiv.org/abs/2603.02239) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-16 | [TikArt: Stabilizing Aperture-Guided Fine-Grained Visual Reasoning with Reinforcement Learning](https://arxiv.org/abs/2602.14482) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-15 | [AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines](https://arxiv.org/abs/2602.14296) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-15 | [REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents](https://arxiv.org/abs/2602.14234) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-13 | [Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation](https://arxiv.org/abs/2602.12544) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [TSR: Trajectory-Search Rollouts for Multi-Turn RL of LLM Agents](https://arxiv.org/abs/2602.11767) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [Divide, Harmonize, Then Conquer It: Shooting Multi-Commodity Flow Problems with Multimodal Language Models](https://arxiv.org/abs/2602.11057) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [FeatureBench: Benchmarking Agentic Coding for Complex Feature Development](https://arxiv.org/abs/2602.10975) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents](https://arxiv.org/abs/2602.10863) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [Learning to Evict from Key-Value Cache](https://arxiv.org/abs/2602.10238) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-08 | [CoLF: Learning Consistent Leader-Follower Policies for Vision-Language-Guided Multi-Robot Cooperative Transport](https://arxiv.org/abs/2602.07776) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-04 | [WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.04634) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [SWE-World: Building Software Engineering Agents in Docker-Free Environments](https://arxiv.org/abs/2602.03419) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [Beyond Quantity: Trajectory Diversity Scaling for Code Agents](https://arxiv.org/abs/2602.03219) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning](https://arxiv.org/abs/2602.02395) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios](https://arxiv.org/abs/2602.01675) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety](https://arxiv.org/abs/2602.01539) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-01 | [ASTER: Agentic Scaling with Tool-integrated Extended Reasoning](https://arxiv.org/abs/2602.01204) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis](https://arxiv.org/abs/2602.12395) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-02-08 | [Robustness of Vision Language Models Against Split-Image Harmful Input Attacks](https://arxiv.org/abs/2602.08136) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-02-11 | [Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/abs/2602.11146) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-11 | [Reinforced Curriculum Pre-Alignment for Domain-Adaptive VLMs](https://arxiv.org/abs/2602.10740) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-06 | [MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images](https://arxiv.org/abs/2602.06965) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-21 | [Advances in GRPO for Generation Models: A Survey](https://arxiv.org/abs/2603.06623) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-11 | [Why Does RL Generalize Better Than SFT? A Data-Centric Perspective on VLM Post-Training](https://arxiv.org/abs/2602.10815) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-06 | [MeDocVL: A Visual Language Model for Medical Document Understanding and Parsing](https://arxiv.org/abs/2602.06402) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-06 | [VowelPrompt: Hearing Speech Emotions from Text via Vowel-level Prosodic Augmentation](https://arxiv.org/abs/2602.06270) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-28 | [IdGlow: Dynamic Identity Modulation for Multi-Subject Generation](https://arxiv.org/abs/2603.00607) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-28 | [Pragma-VL: Towards a Pragmatic Arbitration of Safety and Helpfulness in MLLMs](https://arxiv.org/abs/2603.13292) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-25 | [When to Act, Ask, or Learn: Uncertainty-Aware Policy Steering](https://arxiv.org/abs/2602.22474) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-15 | [LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.14147) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-10 | [P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads](https://arxiv.org/abs/2602.09443) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-05 | [Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR](https://arxiv.org/abs/2602.05261) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-25 | [PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning](https://arxiv.org/abs/2602.21992) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-25 | [Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization](https://arxiv.org/abs/2602.21743) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-25 | [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](https://arxiv.org/abs/2602.21628) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-23 | [LAD: Learning Advantage Distribution for Reasoning](https://arxiv.org/abs/2602.20132) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-20 | [1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World](https://arxiv.org/abs/2602.18548) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-18 | [DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning](https://arxiv.org/abs/2602.16742) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-12 | [Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning](https://arxiv.org/abs/2602.11455) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-10 | [ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-09 | [Demo-ICL: In-Context Learning for Procedural Video Knowledge Acquisition](https://arxiv.org/abs/2602.08439) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-08 | [UniRank: End-to-End Domain-Specific Reranking of Hybrid Text-Image Candidates](https://arxiv.org/abs/2603.29897) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-05 | [InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions](https://arxiv.org/abs/2602.06035) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-04 | [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-22 | [EMAD: Evidence-Centric Grounded Multimodal Diagnosis for Alzheimer's Disease](https://arxiv.org/abs/2602.19178) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-22 | [Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning](https://arxiv.org/abs/2602.20197) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-18 | [Narrow Fine-Tuning Erodes Safety Alignment in Vision-Language Agents](https://arxiv.org/abs/2602.16931) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-15 | [CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning](https://arxiv.org/abs/2602.14068) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-07 | [SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](https://arxiv.org/abs/2602.07564) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-05 | [Bird-SR: Bidirectional Reward-Guided Diffusion for Real-World Image Super-Resolution](https://arxiv.org/abs/2602.07069) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-05 | [Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation](https://arxiv.org/abs/2602.05548) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-04 | [Guided Verifier: Collaborative Multimodal Reasoning via Dynamic Process Supervision](https://arxiv.org/abs/2602.04290) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-03 | [MM-SCALE: Grounded Multimodal Moral Reasoning via Scalar Judgment and Listwise Alignment](https://arxiv.org/abs/2602.03665) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-27 | [EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2602.23802) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-26 | [FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2602.22963) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-26 | [Enhancing Geometric Perception in VLMs via Translator-Guided Reinforcement Learning](https://arxiv.org/abs/2602.22703) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-26 | [$φ$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models](https://arxiv.org/abs/2602.22601) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-25 | [VecGlypher: Unified Vector Glyph Generation with Language Models](https://arxiv.org/abs/2602.21461) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-23 | [PoseVLA: Universal Pose Pretraining for Generalizable Vision-Language-Action Policies](https://arxiv.org/abs/2602.19710) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-22 | [JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation](https://arxiv.org/abs/2602.19163) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-13 | [Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution](https://arxiv.org/abs/2602.12684) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-12 | [Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-12 | [DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://arxiv.org/abs/2602.12205) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-12 | [SafeNeuron: Neuron-Level Safety Alignment for Large Language Models](https://arxiv.org/abs/2602.12158) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-12 | [ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning](https://arxiv.org/abs/2602.11636) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-12 | [What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/2602.11499) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-11 | [Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation](https://arxiv.org/abs/2602.10880) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-10 | [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://arxiv.org/abs/2602.09934) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-09 | [CoTZero: Annotation-Free Human-Like Vision Reasoning via Hierarchical Synthetic CoT](https://arxiv.org/abs/2602.08339) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-04 | [VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models](https://arxiv.org/abs/2602.05049) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-04 | [AVERE: Improving Audiovisual Emotion Reasoning with Preference Optimization](https://arxiv.org/abs/2602.07054) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-03 | [Contextualized Visual Personalization in Vision-Language Models](https://arxiv.org/abs/2602.03454) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-02 | [IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination](https://arxiv.org/abs/2602.01769) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-01 | [EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment](https://arxiv.org/abs/2602.01173) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-28 | [CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](https://arxiv.org/abs/2603.00610) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-28 | [ReMoT: Reinforcement Learning with Motion Contrast Triplets](https://arxiv.org/abs/2603.00461) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-26 | [DesignSense: A Human Preference Dataset and Reward Modeling Framework for Graphic Layout Generation](https://arxiv.org/abs/2602.23438) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-26 | [MediX-R1: Open Ended Medical Reinforcement Learning](https://arxiv.org/abs/2602.23363) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-26 | [ContextRL: Enhancing MLLM's Knowledge Discovery Efficiency with Context-Augmented RL](https://arxiv.org/abs/2602.22623) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-22 | [Direction-aware 3D Large Multimodal Models](https://arxiv.org/abs/2602.19063) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-21 | [TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models](https://arxiv.org/abs/2602.18884) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-10 | [CAPER: Constrained and Procedural Reasoning for Robotic Scientific Experiments](https://arxiv.org/abs/2602.09367) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-08 | [MaD-Mix: Multi-Modal Data Mixtures via Latent Space Coupling for Vision-Language Model Training](https://arxiv.org/abs/2602.07790) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-05 | [OmniFysics: Towards Physical Intelligence Evolution via Omni-Modal Signal Processing and Network Optimization](https://arxiv.org/abs/2602.07064) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-05 | [GT-SVJ: Generative-Transformer-Based Self-Supervised Video Judge For Efficient Video Reward Modeling](https://arxiv.org/abs/2602.05202) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-04 | [ReFORM: Reflected Flows for On-support Offline RL via Noise Manipulation](https://arxiv.org/abs/2602.05051) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-03 | [ELIQ: A Label-Free Framework for Quality Assessment of Evolving AI-Generated Images](https://arxiv.org/abs/2602.03558) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-03 | [Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](https://arxiv.org/abs/2602.03491) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-02 | [How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](https://arxiv.org/abs/2602.02924) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-02 | [Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models](https://arxiv.org/abs/2602.07026) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-02 | [Entropy-Guided Data-Efficient Training for Multimodal Reasoning Reward Models](https://arxiv.org/abs/2602.01884) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-02 | [RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation](https://arxiv.org/abs/2602.01789) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-27 | [See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent](https://arxiv.org/abs/2602.23806) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-26 | [A Perspective on Open Challenges in Deformable Object Manipulation](https://arxiv.org/abs/2602.22998) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-26 | [MSJoE: Jointly Evolving MLLM and Sampler for Efficient Long-Form Video Understanding](https://arxiv.org/abs/2602.22932) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-26 | [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](https://arxiv.org/abs/2602.22859) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-25 | [FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation](https://arxiv.org/abs/2603.00159) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-24 | [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](https://arxiv.org/abs/2603.00141) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-23 | [Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey](https://arxiv.org/abs/2603.04445) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-23 | [Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://arxiv.org/abs/2602.20161) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-23 | [TextShield-R1: Reinforced Reasoning for Tampered Text Detection](https://arxiv.org/abs/2602.19828) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-22 | [Human-to-Robot Interaction: Learning from Video Demonstration for Robot Imitation](https://arxiv.org/abs/2602.19184) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-14 | [Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings](https://arxiv.org/abs/2602.13823) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-14 | [Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization](https://arxiv.org/abs/2602.13653) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [Wireless TokenCom: RL-Based Tokenizer Agreement for Multi-User Wireless Token Communications](https://arxiv.org/abs/2602.12338) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [Geometry of Uncertainty: Learning Metric Spaces for Multimodal State Estimation in RL](https://arxiv.org/abs/2602.12087) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [Accelerating Robotic Reinforcement Learning with Agent Guidance](https://arxiv.org/abs/2602.11978) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning](https://arxiv.org/abs/2602.11730) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge](https://arxiv.org/abs/2602.11340) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows](https://arxiv.org/abs/2602.11142) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [MetaphorStar: Image Metaphor Understanding and Reasoning with End-to-End Visual Reinforcement Learning](https://arxiv.org/abs/2602.10575) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [Found-RL: foundation model-enhanced reinforcement learning for autonomous driving](https://arxiv.org/abs/2602.10458) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [Code2World: A GUI World Model via Renderable Code Generation](https://arxiv.org/abs/2602.09856) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [Bridging Efficiency and Transparency: Explainable CoT Compression in Multimodal Large Reasoning Models](https://arxiv.org/abs/2602.09485) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.08868) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-08 | [Multimodal Information Fusion for Chart Understanding: A Survey of MLLMs -- Evolution, Limitations, and Cognitive Enhancement](https://arxiv.org/abs/2602.10138) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-06 | [SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs](https://arxiv.org/abs/2602.06566) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-05 | [VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation](https://arxiv.org/abs/2602.05998) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-04 | [ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation](https://arxiv.org/abs/2602.04279) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-04 | [DELTA: Deliberative Multi-Agent Reasoning with Reinforcement Learning for Multimodal Psychological Counseling](https://arxiv.org/abs/2602.04112) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [Human-Centric Traffic Signal Control for Equity: A Multi-Agent Action Branching Deep Reinforcement Learning Approach](https://arxiv.org/abs/2602.02959) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [From Tokens to Numbers: Continuous Number Modeling for SVG Generation](https://arxiv.org/abs/2602.02820) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [World-Gymnast: Training Robots with Reinforcement Learning in a World Model](https://arxiv.org/abs/2602.02454) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-01 | [Bridging Lexical Ambiguity and Vision: A Mini Review on Visual Word Sense Disambiguation](https://arxiv.org/abs/2602.01193) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-01 | [PolicyFlow: Policy Optimization with Continuous Normalizing Flow in Reinforcement Learning](https://arxiv.org/abs/2602.01156) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-01 | [Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning](https://arxiv.org/abs/2602.00971) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](https://arxiv.org/abs/2602.12155) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-02-03 | [DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents](https://arxiv.org/abs/2602.07035) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-02-28 | [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/abs/2603.00526) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-04 | [Entropy Aware Reward Guidance for Diffusion Language Model Alignment](https://arxiv.org/abs/2602.05000) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-02-13 | [Curriculum-DPO++: Direct Preference Optimization via Data and Model Curricula for Text-to-Image Generation](https://arxiv.org/abs/2602.13055) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-06 | [World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy](https://arxiv.org/abs/2602.06508) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-04 | [Euphonium: Steering Video Flow Matching via Process Reward Gradient Guided Stochastic Dynamics](https://arxiv.org/abs/2602.04928) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-19 | [VQPP: Video Query Performance Prediction Benchmark](https://arxiv.org/abs/2602.17814) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-02 | [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](https://arxiv.org/abs/2602.01624) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-09 | [WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/abs/2602.09022) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-07 | [TeleBoost: A Systematic Alignment Framework for High-Fidelity, Controllable, and Robust Video Generation](https://arxiv.org/abs/2602.07595) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-06 | [AEGPO: Adaptive Entropy-Guided Policy Optimization for Diffusion Models](https://arxiv.org/abs/2602.06825) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-01 | [PromptRL: Prompt Matters in RL for Flow-Based Image Generation](https://arxiv.org/abs/2602.01382) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-27 | [Enhancing Spatial Understanding in Image Generation via Reward Modeling](https://arxiv.org/abs/2602.24233) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-21 | [Rethinking Preference Alignment for Diffusion Models with Classifier-Free Guidance](https://arxiv.org/abs/2602.18799) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-15 | [UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing](https://arxiv.org/abs/2602.14186) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-12 | [FireRed-Image-Edit-1.0 Technical Report](https://arxiv.org/abs/2602.13344) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-10 | [Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models](https://arxiv.org/abs/2602.09713) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-05 | [GRP-Obliteration: Unaligning LLMs With a Single Unlabeled Prompt](https://arxiv.org/abs/2602.06258) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-05 | [Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps](https://arxiv.org/abs/2602.05993) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-05 | [DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](https://arxiv.org/abs/2602.05859) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-28 | [Keyframe-Guided Structured Rewards for Reinforcement Learning in Long-Horizon Laboratory Robotics](https://arxiv.org/abs/2603.00719) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-08 | [EasyTune: Efficient Step-Aware Fine-Tuning for Diffusion-Based Motion Generation](https://arxiv.org/abs/2602.07967) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-27 | [Bridging Dynamics Gaps via Diffusion Schrödinger Bridge for Cross-Domain Reinforcement Learning](https://arxiv.org/abs/2602.23737) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-24 | [Steering Away from Memorization: Reachability-Constrained Reinforcement Learning for Text-to-Image Diffusion](https://arxiv.org/abs/2603.00140) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-23 | [Diffusion Modulation via Environment Mechanism Modeling for Planning](https://arxiv.org/abs/2602.20422) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-22 | [DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation](https://arxiv.org/abs/2602.19261) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-18 | [RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion](https://arxiv.org/abs/2602.16548) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-14 | [Skeleton2Stage: Reward-Guided Fine-Tuning for Physically Plausible Dance Generation](https://arxiv.org/abs/2602.13778) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-13 | [Dual-Granularity Contrastive Reward via Generated Episodic Guidance for Efficient Embodied RL](https://arxiv.org/abs/2602.12636) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-13 | [Flow-Factory: A Unified Framework for Reinforcement Learning in Flow-Matching Models](https://arxiv.org/abs/2602.12529) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-12 | [From Prompt to Production:Automating Brand-Safe Marketing Imagery with Text-to-Image Models](https://arxiv.org/abs/2602.13349) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [Where-to-Unmask: Ground-Truth-Guided Unmasking Order Learning for Masked Diffusion Language Models](https://arxiv.org/abs/2602.09501) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-10 | [ArtifactLens: Hundreds of Labels Are Enough for Artifact Detection with VLMs](https://arxiv.org/abs/2602.09475) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [CausalGDP: Causality-Guided Diffusion Policies for Reinforcement Learning](https://arxiv.org/abs/2602.09207) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [Efficient and Stable Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2602.08905) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [Learning To Sample From Diffusion Models Via Inverse Reinforcement Learning](https://arxiv.org/abs/2602.08689) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [LLaDA2.1: Speeding Up Text Diffusion via Token Editing](https://arxiv.org/abs/2602.08676) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [SemiNFT: Learning to Transfer Presets from Imitation to Appreciation via Hybrid-Sample Reinforcement Learning](https://arxiv.org/abs/2602.08582) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [Breaking the Factorization Barrier in Diffusion Language Models](https://arxiv.org/abs/2603.00045) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-09 | [CADO: From Imitation to Cost Minimization for Heatmap-based Solvers in Combinatorial Optimization](https://arxiv.org/abs/2602.08210) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-08 | [Learnable Chernoff Baselines for Inference-Time Alignment](https://arxiv.org/abs/2602.07738) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-04 | [Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://arxiv.org/abs/2602.04663) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [Hierarchical Entity-centric Reinforcement Learning with Factored Subgoal Diffusion](https://arxiv.org/abs/2602.02722) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-02 | [LaDi-RL: Latent Diffusion Reasoning Prevents Entropy Collapse in Reinforcement Learning](https://arxiv.org/abs/2602.01705) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning](https://arxiv.org/abs/2602.10503) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-02-09 | [TwinRL: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-02-27 | [SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems](https://arxiv.org/abs/2602.24235) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-03 | [CRL-VLA: Continual Vision-Language-Action Learning](https://arxiv.org/abs/2602.03445) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-02-26 | [Unleashing the Potential of Diffusion Models for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.22801) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-13 | [ALOE: Action-Level Off-Policy Evaluation for Vision-Language-Action Model Post-Training](https://arxiv.org/abs/2602.12691) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-02-15 | [WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL](https://arxiv.org/abs/2602.13977) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-12 | [Adaptive Milestone Reward for GUI Agents](https://arxiv.org/abs/2602.11524) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-06 | [Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](https://arxiv.org/abs/2602.07227) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-02-26 | [Rethinking the Practicality of Vision-language-action Model: A Comprehensive Benchmark and An Improved Baseline](https://arxiv.org/abs/2602.22663) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-13 | [Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](https://arxiv.org/abs/2602.12628) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-10 | [Causality in Video Diffusers is Separable from Denoising](https://arxiv.org/abs/2602.10095) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-05 | [Imagine a City: CityGenAgent for Procedural 3D City Generation](https://arxiv.org/abs/2602.05362) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-02-19 | [FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment](https://arxiv.org/abs/2602.17259) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-18 | [Learning Personalized Agents from Human Feedback](https://arxiv.org/abs/2602.16173) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-17 | [Constraining Streaming Flow Models for Adapting Learned Robot Trajectory Distributions](https://arxiv.org/abs/2602.15567) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-06 | [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/abs/2602.06949) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-05 | [RFM-Pose:Reinforcement-Guided Flow Matching for Fast Category-Level 6D Pose Estimation](https://arxiv.org/abs/2602.05257) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-02-25 | [CWM: Contrastive World Models for Action Feasibility Learning in Embodied Agent Pipelines](https://arxiv.org/abs/2602.22452) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-25 | [LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations](https://arxiv.org/abs/2602.21723) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-24 | [IG-RFT: An Interaction-Guided RL Framework for VLA Models in Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2602.20715) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-22 | [TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://arxiv.org/abs/2602.19313) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-11 | [Human Preference Modeling Using Visual Motion Prediction Improves Robot Skill Learning from Egocentric Human Video](https://arxiv.org/abs/2602.11393) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-05 | [MerNav: A Highly Generalizable Memory-Execute-Review Framework for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2602.05467) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-03 | [When Attention Betrays: Erasing Backdoor Attacks in Robotic Policies by Reconstructing Visual Tokens](https://arxiv.org/abs/2602.03153) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-02-01 | [HERMES: A Holistic End-to-End Risk-Aware Multimodal Embodied System with Vision-Language Models for Long-Tail Autonomous Driving](https://arxiv.org/abs/2602.00993) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-27 | [VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation](https://arxiv.org/abs/2603.26666) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-03-29 | [KAT-Coder-V2 Technical Report](https://arxiv.org/abs/2603.27703) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-03-18 | [Towards Reliable Local Security Agents: Verifiable Post-Training for Linux Privilege Escalation](https://arxiv.org/abs/2603.17673) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-03-11 | [DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning](https://arxiv.org/abs/2603.11193) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-03-06 | [X-OPD: Cross-Modal On-Policy Distillation for Capability Alignment in Speech LLMs](https://arxiv.org/abs/2603.24596) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-03-02 | [CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification](https://arxiv.org/abs/2603.01940) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-03-02 | [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-03-17 | [Internalizing Agency from Reflective Experience](https://arxiv.org/abs/2603.16843) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-13 | [LibraGen: Playing a Balance Game in Subject-Driven Video Generation](https://arxiv.org/abs/2603.13506) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-07 | [Chart-RL: Generalized Chart Comprehension via Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2603.06958) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-03 | [PrivMedChat: End-to-End Differentially Private RLHF for Medical Dialogue Systems](https://arxiv.org/abs/2603.03054) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-02 | [EstLLM: Enhancing Estonian Capabilities in Multilingual LLMs via Continued Pretraining and Post-Training](https://arxiv.org/abs/2603.02041) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-30 | [SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-19 | [CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think](https://arxiv.org/abs/2603.18991) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-16 | [Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing](https://arxiv.org/abs/2603.15011) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-14 | [SmoothVLA: Aligning Vision-Language-Action Models with Physical Constraints via Intrinsic Smoothness Optimization](https://arxiv.org/abs/2603.13925) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-08 | [Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models](https://arxiv.org/abs/2603.07443) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-07 | [Facial Expression Generation Aligned with Human Preference for Natural Dyadic Interaction](https://arxiv.org/abs/2603.07093) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-06 | [From Prompting to Preference Optimization: A Comparative Study of LLM-based Automated Essay Scoring](https://arxiv.org/abs/2603.06424) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-01 | [When Does RL Help Medical VLMs? Disentangling Vision, SFT, and RL Gains](https://arxiv.org/abs/2603.01301) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-01 | [Towards Policy-Adaptive Image Guardrail: Benchmark and Method](https://arxiv.org/abs/2603.01228) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-28 | [Rethinking Easy-to-Hard: Limits of Curriculum Learning in Post-Training for Deductive Reasoning](https://arxiv.org/abs/2603.27226) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-25 | [Learning to Staff: Offline Reinforcement Learning and Fine-Tuned LLMs for Warehouse Staffing Optimization](https://arxiv.org/abs/2603.24883) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-22 | [PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost](https://arxiv.org/abs/2603.21383) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-19 | [Automatic Configuration of LLM Post-Training Pipelines](https://arxiv.org/abs/2603.18773) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-19 | [Mind the Rarities: Can Rare Skin Diseases Be Reliably Diagnosed via Diagnostic Reasoning?](https://arxiv.org/abs/2603.18418) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-18 | [Learning to Reason with Curriculum I: Provable Benefits of Autocurriculum](https://arxiv.org/abs/2603.18325) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-17 | [Offline Exploration-Aware Fine-Tuning for Long-Chain Mathematical Reasoning](https://arxiv.org/abs/2603.16206) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-16 | [MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge](https://arxiv.org/abs/2603.15117) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-14 | [GRPO and Reflection Reward for Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2603.14041) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-14 | [Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models](https://arxiv.org/abs/2603.13985) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-13 | [Visual-ERM: Reward Modeling for Visual Equivalence](https://arxiv.org/abs/2603.13224) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-13 | [Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing](https://arxiv.org/abs/2603.12788) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-12 | [Bielik-Minitron-7B: Compressing Large Language Models via Structured Pruning and Knowledge Distillation for the Polish Language](https://arxiv.org/abs/2603.11881) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-11 | [Self-Execution Simulation Improves Coding Models](https://arxiv.org/abs/2604.03253) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-09 | [SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans](https://arxiv.org/abs/2603.07853) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-07 | [$\textbf{Re}^{2}$: Unlocking LLM Reasoning via Reinforcement Learning with Re-solving](https://arxiv.org/abs/2603.07197) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-07 | [Perception-Aware Multimodal Spatial Reasoning from Monocular Images](https://arxiv.org/abs/2603.06985) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-06 | [Reference-guided Policy Optimization for Molecular Optimization via LLM Reasoning](https://arxiv.org/abs/2603.05900) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-05 | [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](https://arxiv.org/abs/2603.04976) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-03 | [SAE as a Crystal Ball: Interpretable Features Predict Cross-domain Transferability of LLMs without Training](https://arxiv.org/abs/2603.02908) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-01 | [Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models](https://arxiv.org/abs/2603.01293) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-01 | [CHIMERA: Compact Synthetic Data for Generalizable LLM Reasoning](https://arxiv.org/abs/2603.00889) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-27 | [Mitigating the Reasoning Tax in Vision-Language Fine-Tuning with Input-Adaptive Depth Aggregation](https://arxiv.org/abs/2603.26330) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-19 | [TAU-R1: Visual Language Model for Traffic Anomaly Understanding](https://arxiv.org/abs/2603.19098) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-18 | [Gender Disambiguation in Machine Translation: Diagnostic Evaluation in Decoder-Only Architectures](https://arxiv.org/abs/2603.17952) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-18 | [SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning](https://arxiv.org/abs/2603.17426) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-17 | [SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding](https://arxiv.org/abs/2603.16124) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-16 | [Writer-R1: Enhancing Generative Writing in LLMs via Memory-augmented Replay Policy Optimization](https://arxiv.org/abs/2603.15061) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-15 | [Exposing Long-Tail Safety Failures in Large Language Models through Efficient Diverse Response Sampling](https://arxiv.org/abs/2603.14355) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-09 | [AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models](https://arxiv.org/abs/2603.08519) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-04 | [Traces of Social Competence in Large Language Models](https://arxiv.org/abs/2603.04161) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-02 | [CharacterFlywheel: Scaling Iterative Improvement of Engaging and Steerable LLMs in Production](https://arxiv.org/abs/2603.01973) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-02 | [TopoCurate:Modeling Interaction Topology for Tool-Use Agent Training](https://arxiv.org/abs/2603.01714) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-31 | [Self-Improving Code Generation via Semantic Entropy and Behavioral Consensus](https://arxiv.org/abs/2603.29292) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-30 | [DongYuan: An LLM-Based Framework for Integrative Chinese and Western Medicine Spleen-Stomach Disorders Diagnosis](https://arxiv.org/abs/2603.28191) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-26 | [Self-Improvement of Large Language Models: A Technical Overview and Future Outlook](https://arxiv.org/abs/2603.25681) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-26 | [LanteRn: Latent Visual Structured Reasoning](https://arxiv.org/abs/2603.25629) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-22 | [Prompt replay: speeding up grpo with on-policy reuse of high-signal prompts](https://arxiv.org/abs/2603.21177) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-21 | [E-SocialNav: Efficient Socially Compliant Navigation with Language Models](https://arxiv.org/abs/2603.20664) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-20 | [Chain-of-Adaptation: Surgical Vision-Language Adaptation with Reinforcement Learning](https://arxiv.org/abs/2603.20116) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-20 | [An Empirical Study of SFT-DPO Interaction and Parameterization in Small Language Models](https://arxiv.org/abs/2603.20100) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-20 | [DataProphet: Demystifying Supervision Data Generalization in Multimodal LLMs](https://arxiv.org/abs/2603.19688) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-20 | [PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization](https://arxiv.org/abs/2603.19649) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-19 | [Balanced Thinking: Improving Chain of Thought Training in Vision Language Models](https://arxiv.org/abs/2603.18656) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-17 | [Generative AI for Quantum Circuits and Quantum Code: A Technical Review and Taxonomy](https://arxiv.org/abs/2603.16216) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-16 | [A Family of LLMs Liberated from Static Vocabularies](https://arxiv.org/abs/2603.15953) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-16 | [Ego to World: Collaborative Spatial Reasoning in Embodied Systems via Reinforcement Learning](https://arxiv.org/abs/2603.14811) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-12 | [Surg-R1: A Hierarchical Reasoning Foundation Model for Scalable and Interpretable Surgical Decision Support with Multi-Center Clinical Validation](https://arxiv.org/abs/2603.12430) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-11 | [UltrasoundAgents: Hierarchical Multi-Agent Evidence-Chain Reasoning for Breast Ultrasound Diagnosis](https://arxiv.org/abs/2603.10852) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-10 | [RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation](https://arxiv.org/abs/2603.09723) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-10 | [IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework](https://arxiv.org/abs/2603.09312) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-06 | [Structured Style-Rewrite with Chain-of-Thought Planning for Low-Resource Character Dialogue](https://arxiv.org/abs/2603.05933) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-06 | [PatchCue: Enhancing Vision-Language Model Reasoning with Patch-Based Visual Cues](https://arxiv.org/abs/2603.05869) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-04 | [When Agents Persuade: Rhetoric Generation and Mitigation in LLMs](https://arxiv.org/abs/2603.04636) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-02 | [Efficient RLVR Training via Weighted Mutual Information Data Selection](https://arxiv.org/abs/2603.01907) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-31 | [A Comprehensive Information-Decomposition Analysis of Large Vision-Language Models](https://arxiv.org/abs/2603.29676) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-30 | [CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains](https://arxiv.org/abs/2603.28474) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-29 | [TIR-Agent: Training an Explorative and Efficient Agent for Image Restoration](https://arxiv.org/abs/2603.27742) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-29 | [Learning to Focus and Precise Cropping: A Reinforcement Learning Framework with Information Gaps and Grounding Loss for MLLMs](https://arxiv.org/abs/2603.27494) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-27 | [FairLLaVA: Fairness-Aware Parameter-Efficient Fine-Tuning for Large Vision-Language Assistants](https://arxiv.org/abs/2603.26008) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-26 | [Pixelis: Reasoning in Pixels, from Seeing to Acting](https://arxiv.org/abs/2603.25091) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-25 | [LLaVA-LE: Large Language-and-Vision Assistant for Lunar Exploration](https://arxiv.org/abs/2603.24696) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-25 | [A Deep Dive into Scaling RL for Code Generation with Synthetic Data and Curricula](https://arxiv.org/abs/2603.24202) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-24 | [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://arxiv.org/abs/2603.22918) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-21 | [Clinical Cognition Alignment for Gastrointestinal Diagnosis with Multimodal LLMs](https://arxiv.org/abs/2603.20698) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-19 | [Teaching an Agent to Sketch One Part at a Time](https://arxiv.org/abs/2603.19500) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-18 | [Retrieval-Augmented LLM Agents: Learning to Learn from Experience](https://arxiv.org/abs/2603.18272) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-16 | [Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection](https://arxiv.org/abs/2603.15237) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-15 | [UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding](https://arxiv.org/abs/2603.14336) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-12 | [Tokenization Allows Multimodal Large Language Models to Understand, Generate and Edit Architectural Floor Plans](https://arxiv.org/abs/2603.11640) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-10 | [Does the Question Really Matter? Training-Free Data Selection for Vision-Language SFT](https://arxiv.org/abs/2603.09715) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-10 | [C2F-Thinker: Coarse-to-Fine Reasoning with Hint-Guided Reinforcement Learning for Multimodal Sentiment Analysis](https://arxiv.org/abs/2604.00013) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-09 | [SGG-R$^{\rm 3}$: From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation](https://arxiv.org/abs/2603.07961) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-08 | [Generalization in Online Reinforcement Learning for Mobile Agents](https://arxiv.org/abs/2603.07432) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-05 | [Mario: Multimodal Graph Reasoning with Large Language Models](https://arxiv.org/abs/2603.05181) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-04 | [Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks](https://arxiv.org/abs/2603.04364) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-03 | [Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion](https://arxiv.org/abs/2603.03485) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-03 | [Edit in 2D, Verify in 3D: Reinforcement Learning for Multi-view Consistent Scene Editing](https://arxiv.org/abs/2603.03143) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-03 | [CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning](https://arxiv.org/abs/2603.02951) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-02 | [Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](https://arxiv.org/abs/2603.01696) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-01 | [GameVerse: Can Vision-Language Models Learn from Video-based Reflection?](https://arxiv.org/abs/2603.06656) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-01 | [Unified Vision-Language Modeling via Concept Space Alignment](https://arxiv.org/abs/2603.01096) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-01 | [How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning](https://arxiv.org/abs/2603.01070) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-01 | [Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](https://arxiv.org/abs/2603.01063) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-31 | [6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management](https://arxiv.org/abs/2603.29656) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-31 | [GraphRAG-Router: Learning Cost-Efficient Routing over GraphRAGs and LLMs with Reinforcement Learning](https://arxiv.org/abs/2604.16401) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-31 | [PRISM: A Multi-View Multi-Capability Retail Video Dataset for Embodied Vision-Language Models](https://arxiv.org/abs/2603.29281) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-29 | [Data Organization Matters in Multimodal Instruction Tuning: A Controlled Study of Capability Trade-offs](https://arxiv.org/abs/2603.27744) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-29 | [On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models](https://arxiv.org/abs/2603.27481) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-26 | [Reinforcing Structured Chain-of-Thought for Video Understanding](https://arxiv.org/abs/2603.25942) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-26 | [Learning Rollout from Sampling:An R1-Style Tokenized Traffic Simulation Model](https://arxiv.org/abs/2603.24989) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-25 | [Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning](https://arxiv.org/abs/2603.24372) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-25 | [PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Few-shot Learning](https://arxiv.org/abs/2603.23957) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-23 | [Mind over Space: Can Multimodal Large Language Models Mentally Navigate?](https://arxiv.org/abs/2603.21577) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-20 | [Grounded Chess Reasoning in Language Models via Master Distillation](https://arxiv.org/abs/2603.20510) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models](https://arxiv.org/abs/2603.19131) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models](https://arxiv.org/abs/2603.19044) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [HumorGen: Cognitive Synergy for Humor Generation in Large Language Models via Persona-Based Distillation](https://arxiv.org/abs/2604.09629) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [CycleCap: Improving VLMs Captioning Performance via Self-Supervised Cycle Consistency Fine-Tuning](https://arxiv.org/abs/2603.18282) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [From Isolated Scoring to Collaborative Ranking: A Comparison-Native Framework for LLM-Based Paper Evaluation](https://arxiv.org/abs/2603.17588) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [Enhancing Reinforcement Learning Fine-Tuning with an Online Refiner](https://arxiv.org/abs/2603.18088) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation](https://arxiv.org/abs/2603.17450) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [Lightweight Adaptation for LLM-based Technical Service Agent: Latent Logic Augmentation and Robust Noise Reduction](https://arxiv.org/abs/2603.18074) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-17 | [REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](https://arxiv.org/abs/2603.17145) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-17 | [Efficient Reasoning on the Edge](https://arxiv.org/abs/2603.16867) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-17 | [HIPO: Instruction Hierarchy via Constrained Reinforcement Learning](https://arxiv.org/abs/2603.16152) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-16 | [From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation](https://arxiv.org/abs/2603.15600) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-16 | [Fusian: Multi-LoRA Fusion for Fine-Grained Continuous MBTI Personality Control in Large Language Models](https://arxiv.org/abs/2603.15405) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-16 | [Probe-then-Plan: Environment-Aware Planning for Industrial E-commerce Search](https://arxiv.org/abs/2603.15262) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-13 | [RetroReasoner: A Reasoning LLM for Strategic Retrosynthesis Prediction](https://arxiv.org/abs/2603.12666) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-12 | [Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning](https://arxiv.org/abs/2603.12478) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-12 | [Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding](https://arxiv.org/abs/2603.11831) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-12 | [WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing](https://arxiv.org/abs/2603.11593) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs](https://arxiv.org/abs/2603.08166) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [In-Context Reinforcement Learning for Tool Use in Large Language Models](https://arxiv.org/abs/2603.08068) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-08 | [TableMind++: An Uncertainty-Aware Programmatic Agent for Tool-Augmented Table Reasoning](https://arxiv.org/abs/2603.07528) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-07 | [AutoTool: Automatic Scaling of Tool-Use Capabilities in RL via Decoupled Entropy Constraints](https://arxiv.org/abs/2603.13348) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-07 | [Countdown-Code: A Testbed for Studying The Emergence and Generalization of Reward Hacking in RLVR](https://arxiv.org/abs/2603.07084) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-06 | [EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking](https://arxiv.org/abs/2603.06561) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-05 | [DiSCTT: Consensus-Guided Self-Curriculum for Efficient Test-Time Adaptation in Reasoning](https://arxiv.org/abs/2603.05357) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-04 | [Crab$^{+}$: A Scalable and Unified Audio-Visual Scene Understanding Model with Explicit Cooperation](https://arxiv.org/abs/2603.04128) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-04 | [TimeSpot: Benchmarking Geo-Temporal Understanding in Vision-Language Models in Real-World Settings](https://arxiv.org/abs/2603.06687) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-03 | [TikZilla: Scaling Text-to-TikZ with High-Quality Data and Reinforcement Learning](https://arxiv.org/abs/2603.03072) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-03 | [Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models](https://arxiv.org/abs/2603.02938) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-02 | [Generative Visual Chain-of-Thought for Image Editing](https://arxiv.org/abs/2603.01893) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-01 | [VisNec: Measuring and Leveraging Visual Necessity for Multimodal Instruction Tuning](https://arxiv.org/abs/2603.01195) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-01 | [FCN-LLM: Empower LLM for Brain Functional Connectivity Network Understanding via Graph-level Multi-task Instruction Tuning](https://arxiv.org/abs/2603.01135) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-01 | [Stabilizing Policy Optimization via Logits Convexity](https://arxiv.org/abs/2603.00963) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-29 | [Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models](https://arxiv.org/abs/2603.27522) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-27 | [Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats](https://arxiv.org/abs/2604.25920) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models](https://arxiv.org/abs/2603.25411) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-25 | [Lightweight Multimodal LLM-Enabled Cost-Effective Defect Grading of Power Transmission Equipment](https://arxiv.org/abs/2605.28822) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [Domain Adapted Large Language Models for Additive Manufacturing](https://arxiv.org/abs/2603.22017) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-22 | [SleepVLM: A Rule-Grounded Vision-Language Model for Auditable Sleep Staging](https://arxiv.org/abs/2603.26738) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-20 | [Epistemic Observability in Language Models](https://arxiv.org/abs/2603.20531) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-19 | [Instruction-Free Tuning of Large Vision Language Models for Medical Instruction Following](https://arxiv.org/abs/2603.19482) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-19 | [MOSAIC: Multi-Objective Slice-Aware Iterative Curation for Alignment](https://arxiv.org/abs/2603.18637) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models](https://arxiv.org/abs/2603.17541) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [A Unified Language Model for Large Scale Search, Recommendation, and Reasoning](https://arxiv.org/abs/2603.17533) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis](https://arxiv.org/abs/2603.20278) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [SIA: A Synthesize-Inject-Align Framework for Knowledge-Grounded and Secure E-commerce Search LLMs with Industrial Deployment](https://arxiv.org/abs/2603.16137) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-16 | [GT-PCQA: Geometry-Texture Decoupled Point Cloud Quality Assessment with MLLM](https://arxiv.org/abs/2603.14951) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-16 | [RS-WorldModel: a Unified Model for Remote Sensing Understanding and Future Sense Forecasting](https://arxiv.org/abs/2603.14941) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [Neuron-Aware Data Selection In Instruction Tuning For Large Language Models](https://arxiv.org/abs/2603.13201) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [Topo-R1: Detecting Topological Anomalies via Vision-Language Models](https://arxiv.org/abs/2603.13054) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [Multimodal OCR: Parse Anything from Documents](https://arxiv.org/abs/2603.13032) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [DS$^2$-Instruct: Domain-Specific Data Synthesis for Large Language Models Instruction Tuning](https://arxiv.org/abs/2603.12932) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](https://arxiv.org/abs/2603.10370) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [Sabiá-4 Technical Report](https://arxiv.org/abs/2603.10213) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [OmniEdit: A Training-free framework for Lip Synchronization and Audio-Visual Editing](https://arxiv.org/abs/2603.09084) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-07 | [FreeFly-Thinking : Aligning Chain-of-Thought Reasoning with Continuous UAV Navigation](https://arxiv.org/abs/2603.07181) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-07 | [Hit-RAG: Learning to Reason with Long Contexts via Preference Alignment](https://arxiv.org/abs/2603.07023) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-07 | [Konkani LLM: Multi-Script Instruction Tuning and Evaluation for a Low-Resource Indian Language](https://arxiv.org/abs/2603.23529) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [MedInjection-FR: Exploring the Role of Native, Synthetic, and Translated Data in Biomedical Instruction Tuning](https://arxiv.org/abs/2603.06905) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning](https://arxiv.org/abs/2603.06570) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [Enhancing Instruction Following of LLMs via Activation Steering with Dynamic Rejection](https://arxiv.org/abs/2603.06745) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [AILS-NTUA at SemEval-2026 Task 3: Efficient Dimensional Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2603.04933) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [Compact Prompting in Instruction-tuned LLMs for Joint Argumentative Component Detection](https://arxiv.org/abs/2603.03095) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Toward Graph-Tokenizing Large Language Models with Reconstructive Graph Instruction Tuning](https://arxiv.org/abs/2603.01385) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-01 | [Prompt Sensitivity and Answer Consistency of Small Open-Source Language Models for Clinical Question Answering in Low-Resource Healthcare](https://arxiv.org/abs/2603.00917) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-01 | [MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains](https://arxiv.org/abs/2603.00873) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data](https://arxiv.org/abs/2603.19294) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-03-19 | [TARo: Token-level Adaptive Routing for LLM Test-time Alignment](https://arxiv.org/abs/2603.18411) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-03-17 | [Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLM Reward Models](https://arxiv.org/abs/2603.16600) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-11 | [Coverage-Controlled Preference Mining from Noisy Claim Verification for Evidence-Grounded Generation](https://arxiv.org/abs/2603.10494) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-04 | [A Rubric-Supervised Critic from Sparse Real-World Outcomes](https://arxiv.org/abs/2603.03800) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-25 | [Gaze patterns predict preference and confidence in pairwise AI image evaluation](https://arxiv.org/abs/2603.24849) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-24 | [Improving Safety Alignment via Balanced Direct Preference Optimization](https://arxiv.org/abs/2603.22829) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-22 | [Reward Sharpness-Aware Fine-Tuning for Diffusion Models](https://arxiv.org/abs/2603.21175) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-20 | [FedPDPO: Federated Personalized Direct Preference Optimization for Large Language Model Alignment](https://arxiv.org/abs/2603.19741) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-17 | [Via Negativa for AI Alignment: Why Negative Constraints Are Structurally Superior to Positive Preferences](https://arxiv.org/abs/2603.16417) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-16 | [GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering](https://arxiv.org/abs/2603.15616) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-16 | [Learning from Mistakes: Post-Training for Driving VLA with Takeover Data](https://arxiv.org/abs/2603.14972) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-16 | [EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing](https://arxiv.org/abs/2603.14916) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-11 | [Learning to Negotiate: Multi-Agent Deliberation for Collective Value Alignment in LLMs](https://arxiv.org/abs/2603.10476) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-04 | [Alternating Reinforcement Learning with Contextual Rubric Rewards: Beyond the Scalarization Strategy](https://arxiv.org/abs/2603.15646) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-26 | [Neuro-Cognitive Reward Modeling for Human-Centered Autonomous Vehicle Control](https://arxiv.org/abs/2603.25968) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-24 | [ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment](https://arxiv.org/abs/2603.23184) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-23 | [Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling](https://arxiv.org/abs/2603.22563) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-22 | [Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-20 | [Regret Bounds for Reinforcement Learning from Multi-Source Imperfect Preferences](https://arxiv.org/abs/2603.20453) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-19 | [CausalRM: Causal-Theoretic Reward Modeling for RLHF from Observational User Feedbacks](https://arxiv.org/abs/2603.18736) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-18 | [Efficient Exploration at Scale](https://arxiv.org/abs/2603.17378) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-13 | [Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2603.12595) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-12 | [LoV3D: Grounding Cognitive Prognosis Reasoning in Longitudinal 3D Brain MRI via Regional Volume Assessments](https://arxiv.org/abs/2603.12071) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-12 | [SVLL: Staged Vision-Language Learning for Physically Grounded Embodied Task Planning](https://arxiv.org/abs/2603.11563) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-09 | [Aligning to Illusions: Choice Blindness in Human and AI Feedback](https://arxiv.org/abs/2603.08412) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-03 | [Why Does RLAIF Work At All?](https://arxiv.org/abs/2603.03000) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-02 | [Fast-Slow Thinking RM: Efficient Integration of Scalar and Generative Reward Models](https://arxiv.org/abs/2603.20212) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-18 | [Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2603.18118) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-17 | [PlotTwist: A Creative Plot Generation Framework with Small Language Models](https://arxiv.org/abs/2603.16410) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-16 | [GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution](https://arxiv.org/abs/2603.16769) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-10 | [Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF](https://arxiv.org/abs/2603.10279) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-07 | [CompassDPO: Dynamics-Controlled Direct Preference Optimization for Robust Safety Alignment](https://arxiv.org/abs/2603.07211) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-06 | [LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Flow-Based Real-World Super-Resolution](https://arxiv.org/abs/2603.05947) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-30 | [SARL: Label-Free Reinforcement Learning by Rewarding Reasoning Topology](https://arxiv.org/abs/2603.27977) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-24 | [ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment](https://arxiv.org/abs/2603.23376) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-23 | [ACPO: Counteracting Likelihood Displacement in Vision-Language Alignment with Asymmetric Constraints](https://arxiv.org/abs/2603.22165) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-12 | [Risk-Controllable Multi-View Diffusion for Driving Scenario Generation](https://arxiv.org/abs/2603.11534) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-09 | [It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2603.08011) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-04 | [Bridging Human Evaluation to Infrared and Visible Image Fusion](https://arxiv.org/abs/2603.03871) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-03 | [How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference](https://arxiv.org/abs/2603.03280) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-02 | [ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents](https://arxiv.org/abs/2603.01620) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-01 | [ClinCoT: Clinical-Aware Visual Chain-of-Thought for Medical Vision Language Models](https://arxiv.org/abs/2603.01124) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-31 | [Offline Constrained RLHF with Multiple Preference Oracles](https://arxiv.org/abs/2604.00200) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-31 | [Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE](https://arxiv.org/abs/2603.29259) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-30 | [PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/abs/2603.28763) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-30 | [Corruption-robust Offline Multi-agent Reinforcement Learning From Human Feedback](https://arxiv.org/abs/2603.28281) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-30 | [ColorFLUX: A Structure-Color Decoupling Framework for Old Photo Colorization](https://arxiv.org/abs/2603.28162) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-29 | [LVRPO: Language-Visual Alignment with GRPO for Multimodal Understanding and Generation](https://arxiv.org/abs/2603.27693) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-27 | [Distributionally Robust Token Optimization in RLHF](https://arxiv.org/abs/2604.08577) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-26 | [Learning to Rank Caption Chains for Video-Text Alignment](https://arxiv.org/abs/2603.25145) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-19 | [Box Maze: A Process-Control Architecture for Reliable LLM Reasoning](https://arxiv.org/abs/2603.19182) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-18 | [FINER: MLLMs Hallucinate under Fine-grained Negative Queries](https://arxiv.org/abs/2603.17662) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-18 | [AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization](https://arxiv.org/abs/2603.17461) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-13 | [PrefPO: Pairwise Preference Prompt Optimization](https://arxiv.org/abs/2603.19311) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-13 | [PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization](https://arxiv.org/abs/2603.13228) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-11 | [Safe RLHF Beyond Expectation: Stochastic Dominance for Universal Spectral Risk Control](https://arxiv.org/abs/2603.10938) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-11 | [Enhancing Value Alignment of LLMs with Multi-agent system and Combinatorial Fusion](https://arxiv.org/abs/2603.11126) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-10 | [ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning](https://arxiv.org/abs/2603.09692) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-10 | [Amnesia: Adversarial Semantic Layer Specific Activation Steering in Large Language Models](https://arxiv.org/abs/2603.10080) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-07 | [Looking Back and Forth: Cross-Image Attention Calibration and Attentive Preference Learning for Multi-Image Hallucination Mitigation](https://arxiv.org/abs/2603.07048) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-06 | [Place-it-R1: Unlocking Environment-aware Reasoning Potential of MLLM for Video Object Insertion](https://arxiv.org/abs/2603.06140) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-05 | [PRISM: Personalized Refinement of Imitation Skills for Manipulation via Human Instructions](https://arxiv.org/abs/2603.05574) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-05 | [Knowledge Divergence and the Value of Debate for Scalable Oversight](https://arxiv.org/abs/2603.05293) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-05 | [VISA: Value Injection via Shielded Adaptation for Personalized LLM Alignment](https://arxiv.org/abs/2603.04822) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-03 | [MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](https://arxiv.org/abs/2603.03192) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-02 | [Retrieval, Refinement, and Ranking for Text-to-Video Generation via Prompt Optimization and Test-Time Scaling](https://arxiv.org/abs/2603.01509) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-27 | [The Last Fingerprint: How Markdown Training Shapes LLM Prose](https://arxiv.org/abs/2603.27006) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-26 | [Cross-Preference Learning for Sentence-Level and Context-Aware Machine Translation](https://arxiv.org/abs/2603.25183) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-25 | [Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA](https://arxiv.org/abs/2603.24580) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-25 | [From Oracle to Noisy Context: Mitigating Contextual Exposure Bias in Speech-LLMs](https://arxiv.org/abs/2603.24034) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-25 | [Tug-of-War within A Decade: Conflict Resolution in Vulnerability Analysis via Teacher-Guided Retrieval-Augmented Generations](https://arxiv.org/abs/2604.14172) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-21 | [Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/abs/2603.22335) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-20 | [The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](https://arxiv.org/abs/2603.20164) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [Do Post-Training Algorithms Actually Differ? A Controlled Study Across Model Scales Uncovers Scale-Dependent Ranking Inversions](https://arxiv.org/abs/2603.19335) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [Sharpness-Aware Minimization in Logit Space Efficiently Enhances Direct Preference Optimization](https://arxiv.org/abs/2603.18258) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [Directing the Narrative: A Finetuning Method for Controlling Coherence and Style in Story Generation](https://arxiv.org/abs/2603.17295) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-17 | [Breaking the Chain: A Causal Analysis of LLM Faithfulness to Intermediate Structures](https://arxiv.org/abs/2603.16475) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-14 | [The Institutional Scaling Law: Non-Monotonic Fitness, Capability-Trust Divergence, and Symbiogenetic Scaling in Generative AI](https://arxiv.org/abs/2603.14126) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-14 | [Retrieval-Feedback-Driven Distillation and Preference Alignment for Efficient LLM-based Query Expansion](https://arxiv.org/abs/2603.13776) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-13 | [OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution](https://arxiv.org/abs/2603.12811) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-13 | [Speech-Worthy Alignment for Japanese SpeechLLMs via Direct Preference Optimization](https://arxiv.org/abs/2603.12565) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-12 | [Unleashing Video Language Models for Fine-grained HRCT Report Generation](https://arxiv.org/abs/2603.12469) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [QualiTeacher: Quality-Conditioned Pseudo-Labeling for Real-World Image Restoration](https://arxiv.org/abs/2603.08030) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-07 | [Can Safety Emerge from Weak Supervision? A Systematic Analysis of Small Language Models](https://arxiv.org/abs/2603.07017) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-06 | [Property-driven Protein Inverse Folding With Multi-Objective Preference Alignment](https://arxiv.org/abs/2603.06748) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-05 | [When Weak LLMs Speak with Confidence, Preference Alignment Gets Stronger](https://arxiv.org/abs/2603.04968) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-05 | [LocalSUG: City-Preference-Enhanced LLM for Query Suggestion in Local-Life Services](https://arxiv.org/abs/2603.04946) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-04 | [From Local Corrections to Generalized Skills: Improving Neuro-Symbolic Policies with MEMO](https://arxiv.org/abs/2603.04560) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-04 | [Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing](https://arxiv.org/abs/2603.15647) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-03 | [The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?](https://arxiv.org/abs/2604.19749) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-30 | [Does Claude's Constitution Have a Culture?](https://arxiv.org/abs/2603.28123) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-30 | [Reward Hacking as Equilibrium under Finite Evaluation](https://arxiv.org/abs/2603.28063) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-29 | [Understanding Teacher Revisions of Large Language Model-Generated Feedback](https://arxiv.org/abs/2603.27806) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [Reliable Self-Improvement Training by Verifying Reasoning, Not Just Answers](https://arxiv.org/abs/2603.21558) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-22 | [AgentHER: Hindsight Experience Replay for LLM Agent Trajectory Relabeling](https://arxiv.org/abs/2603.21357) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [How Psychological Learning Paradigms Shaped and Constrained Artificial Intelligence](https://arxiv.org/abs/2603.18203) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [CentaurTA Studio: A Self-Improving Human-Agent Collaboration System for Thematic Analysis](https://arxiv.org/abs/2604.18589) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-15 | [An Industrial-Scale Insurance LLM Achieving Verifiable Domain Mastery and Hallucination Control without Competence Trade-offs](https://arxiv.org/abs/2603.14463) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [Reference-Free Image Quality Assessment for Virtual Try-On via Human Feedback](https://arxiv.org/abs/2603.13057) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [A2Z-10M+: Geometric Deep Learning with A-to-Z BRep Annotations for AI-Assisted CAD Modeling and Reverse Engineering](https://arxiv.org/abs/2603.12605) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [Beyond the Illusion of Consensus: From Surface Heuristics to Knowledge-Grounded Evaluation in LLM-as-a-Judge](https://arxiv.org/abs/2603.11027) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [Using Learning Progressions to Guide AI Feedback for Science Learning](https://arxiv.org/abs/2603.03249) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [Expected Reward Prediction, with Applications to Model Routing](https://arxiv.org/abs/2603.20217) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-19 | [HISR: Hindsight Information Modulated Segmental Process Rewards For Multi-turn Agentic Reinforcement Learning](https://arxiv.org/abs/2603.18683) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-03-17 | [VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment](https://arxiv.org/abs/2603.16271) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-03-10 | [GeoSolver: Scaling Test-Time Reasoning in Remote Sensing with Fine-Grained Process Supervision](https://arxiv.org/abs/2603.09551) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-03-23 | [SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation](https://arxiv.org/abs/2603.22228) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-03-17 | [Grounding the Score: Explicit Visual Premise Verification for Reliable Vision-Language Process Reward Models](https://arxiv.org/abs/2603.16253) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-03-16 | [SAGE: Multi-Agent Self-Evolution for LLM Reasoning](https://arxiv.org/abs/2603.15255) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-03-29 | [Wan-R1: Verifiable-Reinforcement Learning for Video Reasoning](https://arxiv.org/abs/2603.27866) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-26 | [MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning](https://arxiv.org/abs/2603.25108) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-19 | [Discounted Beta-Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2603.18444) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-11 | [Hindsight-Anchored Policy Optimization: Turning Failure into Feedback in Sparse Reward Settings](https://arxiv.org/abs/2603.11321) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-08 | [TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward](https://arxiv.org/abs/2603.07700) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-07 | [Post-Training with Policy Gradients: Optimality and the Base Model Barrier](https://arxiv.org/abs/2603.06957) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-05 | [SarcasmMiner: A Dual-Track Post-Training Framework for Robust Audio-Visual Sarcasm Reasoning](https://arxiv.org/abs/2603.05275) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-02 | [Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-23 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-23 | [Manifold-Aware Exploration for Reinforcement Learning in Video Generation](https://arxiv.org/abs/2603.21872) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-23 | [TAMTRL: Teacher-Aligned Reward Reshaping for Multi-Turn Reinforcement Learning in Long-Context Compression](https://arxiv.org/abs/2603.21663) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-22 | [WIST: Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement](https://arxiv.org/abs/2603.22352) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-21 | [Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction](https://arxiv.org/abs/2603.23550) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-18 | [EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards](https://arxiv.org/abs/2603.17808) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-13 | [ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning](https://arxiv.org/abs/2603.13019) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-13 | [Beyond Verifiable Rewards: Rubric-Based GRM for Reinforced Fine-Tuning SWE Agents](https://arxiv.org/abs/2604.16335) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-11 | [Reinforcement Learning with Conditional Expectation Reward](https://arxiv.org/abs/2603.10624) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-11 | [Graph-GRPO: Training Graph Flow Models with Reinforcement Learning](https://arxiv.org/abs/2603.10395) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-03 | [StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](https://arxiv.org/abs/2603.02637) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-03 | [Heterogeneous Agent Collaborative Reinforcement Learning](https://arxiv.org/abs/2603.02604) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-01 | [DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent](https://arxiv.org/abs/2603.01152) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-01 | [Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards](https://arxiv.org/abs/2603.00918) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-28 | [Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models](https://arxiv.org/abs/2603.27375) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-28 | [MotionRFT: Unified Reinforcement Fine-Tuning for Text-to-Motion Generation](https://arxiv.org/abs/2603.27185) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-25 | [MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination](https://arxiv.org/abs/2603.24579) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-25 | [AD-Reasoning: Multimodal Guideline-Guided Reasoning for Alzheimer's Disease Diagnosis](https://arxiv.org/abs/2603.24059) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-24 | [Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought](https://arxiv.org/abs/2603.22847) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-19 | [RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models](https://arxiv.org/abs/2603.18859) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-17 | [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://arxiv.org/abs/2603.17187) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-17 | [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](https://arxiv.org/abs/2603.17024) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-09 | [MAPLE: Elevating Medical Reasoning from Statistical Consensus to Process-Led Alignment](https://arxiv.org/abs/2603.08987) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-30 | [Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning](https://arxiv.org/abs/2603.28618) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-28 | [GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](https://arxiv.org/abs/2603.27448) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-28 | [Incentivizing Temporal-Awareness in Egocentric Video Understanding Models](https://arxiv.org/abs/2603.27184) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-27 | [Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR](https://arxiv.org/abs/2603.26126) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-26 | [Bridging Perception and Reasoning: Token Reweighting for RLVR in Multimodal LLMs](https://arxiv.org/abs/2603.25077) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-20 | [Leum-VL Technical Report](https://arxiv.org/abs/2603.20354) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-18 | [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](https://arxiv.org/abs/2603.17312) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-17 | [SQL-ASTRA: Alleviating Sparse Feedback in Agentic SQL via Column-Set Matching and Trajectory Aggregation](https://arxiv.org/abs/2603.16161) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-16 | [Gym-V: A Unified Vision Environment System for Agentic Vision Research](https://arxiv.org/abs/2603.15432) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-14 | [Diffusion Reinforcement Learning via Centered Reward Distillation](https://arxiv.org/abs/2603.14128) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-13 | [Thinking in Streaming Video](https://arxiv.org/abs/2603.12938) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-05 | [$\nabla$-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space](https://arxiv.org/abs/2603.04948) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-03 | [Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning](https://arxiv.org/abs/2603.03437) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-02 | [Expanding LLM Agent Boundaries with Strategy-Guided Exploration](https://arxiv.org/abs/2603.02045) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-02 | [LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models](https://arxiv.org/abs/2603.01563) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-31 | [SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes](https://arxiv.org/abs/2603.29798) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-31 | [Reinforced Reasoning for End-to-End Retrosynthetic Planning](https://arxiv.org/abs/2603.29723) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-30 | [$R_\text{dm}$: Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation](https://arxiv.org/abs/2603.28460) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-30 | [ERPO: Token-Level Entropy-Regulated Policy Optimization for Large Reasoning Models](https://arxiv.org/abs/2603.28204) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-29 | [RTLSeek: Boosting the LLM-Based RTL Generation with Multi-Stage Diversity-Oriented Reinforcement Learning](https://arxiv.org/abs/2603.27630) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-27 | [PAPO: Stabilizing Rubric Integration Training via Decoupled Advantage Normalization](https://arxiv.org/abs/2603.26535) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-26 | [Beyond Content Safety: Real-Time Monitoring for Reasoning Vulnerabilities in Large Language Models](https://arxiv.org/abs/2603.25412) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-26 | [Train at Moving Edge: Online-Verified Prompt Selection for Efficient RL Training of Large Reasoning Model](https://arxiv.org/abs/2603.25184) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-25 | [Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR](https://arxiv.org/abs/2603.24840) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-25 | [DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-25 | [Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization](https://arxiv.org/abs/2603.24093) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-23 | [Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs](https://arxiv.org/abs/2603.22446) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-23 | [TiCo: Time-Controllable Spoken Dialogue Model](https://arxiv.org/abs/2603.22267) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-23 | [Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement](https://arxiv.org/abs/2603.22187) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-23 | [On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation](https://arxiv.org/abs/2603.22117) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-23 | [P^2O: Joint Policy and Prompt Optimization](https://arxiv.org/abs/2603.21877) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-23 | [PRM-as-a-Judge: A Dense Evaluation Paradigm for Fine-Grained Robotic Auditing](https://arxiv.org/abs/2603.21669) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-21 | [RLVR Training of LLMs Does Not Improve Thinking Ability for General QA: Evaluation Method and a Simple Solution](https://arxiv.org/abs/2603.20799) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-19 | [VEPO: Variable Entropy Policy Optimization for Low-Resource Language Foundation Models](https://arxiv.org/abs/2603.19152) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-19 | [Context Bootstrapped Reinforcement Learning](https://arxiv.org/abs/2603.18953) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-19 | [Reasoning over mathematical objects: on-policy reward modeling and test time aggregation](https://arxiv.org/abs/2603.18886) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-18 | [Process Supervision for Chain-of-Thought Reasoning via Monte Carlo Net Information Gain](https://arxiv.org/abs/2603.17815) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-17 | [DyJR: Preserving Diversity in Reinforcement Learning with Verifiable Rewards via Dynamic Jensen-Shannon Replay](https://arxiv.org/abs/2603.16157) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-17 | [Noisy Data is Destructive to Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2603.16140) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-17 | [Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models](https://arxiv.org/abs/2603.16065) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-17 | [ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning](https://arxiv.org/abs/2603.16060) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-16 | [Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning](https://arxiv.org/abs/2603.15611) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-15 | [VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting](https://arxiv.org/abs/2603.14659) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-15 | [From $\log π$ to $π$: Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight](https://arxiv.org/abs/2603.14389) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-13 | [Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design](https://arxiv.org/abs/2603.12826) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-13 | [EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement Learning](https://arxiv.org/abs/2603.12698) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-12 | [DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning](https://arxiv.org/abs/2603.12257) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-11 | [$V_{0.5}$: Generalist Value Model as a Prior for Sparse RL Rollouts](https://arxiv.org/abs/2603.10848) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-11 | [Multilingual Reasoning Gym: Multilingual Scaling of Procedural Reasoning Environments](https://arxiv.org/abs/2603.10793) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-11 | [mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR](https://arxiv.org/abs/2603.10767) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-11 | [Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning](https://arxiv.org/abs/2603.10588) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-10 | [CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR](https://arxiv.org/abs/2603.10101) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-10 | [Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning](https://arxiv.org/abs/2603.09803) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-10 | [Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2603.09117) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-09 | [How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/abs/2603.08660) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-09 | [Not All Queries Need Deep Thought: CoFiCot for Adaptive Coarse-to-fine Stateful Refinement](https://arxiv.org/abs/2603.08251) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-09 | [DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](https://arxiv.org/abs/2603.08095) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-09 | [Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](https://arxiv.org/abs/2603.07887) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-07 | [AdaGen: Learning Adaptive Policy for Image Synthesis](https://arxiv.org/abs/2603.06993) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-06 | [From Entropy to Calibrated Uncertainty: Training Language Models to Reason About Uncertainty](https://arxiv.org/abs/2603.06317) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-05 | [KARL: Knowledge Agents via Reinforcement Learning](https://arxiv.org/abs/2603.05218) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-05 | [Breaking Contextual Inertia: Reinforcement Learning with Single-Turn Anchors for Stable Multi-Turn Interaction](https://arxiv.org/abs/2603.04783) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-04 | [BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning](https://arxiv.org/abs/2603.04124) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-03 | [Specificity-aware reinforcement learning for fine-grained open-world classification](https://arxiv.org/abs/2603.03197) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-03 | [PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference](https://arxiv.org/abs/2603.02479) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-02 | [LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards](https://arxiv.org/abs/2603.02146) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-02 | [CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework](https://arxiv.org/abs/2603.01607) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-31 | [Learning to Generate Formally Verifiable Step-by-Step Logic Reasoning via Structured Formal Intermediaries](https://arxiv.org/abs/2603.29500) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-23 | [Tiny Inference-Time Scaling with Latent Verifiers](https://arxiv.org/abs/2603.22492) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-23 | [Counterfactual Credit Policy Optimization for Multi-Agent Collaboration](https://arxiv.org/abs/2603.21563) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-20 | [Human-Level Text-to-SQL via Reinforcement Learning on Verified Data, Without Pipeline Engineering](https://arxiv.org/abs/2603.20004) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-20 | [Decomposable Reward Modeling and Realistic Environment Design for Reinforcement Learning-Based Forex Trading](https://arxiv.org/abs/2604.00031) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-19 | [VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models](https://arxiv.org/abs/2603.19370) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-18 | [MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models](https://arxiv.org/abs/2603.18256) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-18 | [CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via Generator-Verifier Co-Evolution](https://arxiv.org/abs/2603.17775) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-17 | [Rewarding DINO: Predicting Dense Rewards with Vision Foundation Models](https://arxiv.org/abs/2603.16978) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-15 | [HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task](https://arxiv.org/abs/2603.14367) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-14 | [LLM-Guided Reinforcement Learning for Audio-Visual Speech Enhancement](https://arxiv.org/abs/2603.13952) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-13 | [Long-form RewardBench: Evaluating Reward Models for Long-form Generation](https://arxiv.org/abs/2603.12963) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-12 | [Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation](https://arxiv.org/abs/2603.12247) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-12 | [Real-World Point Tracking with Verifier-Guided Pseudo-Labeling](https://arxiv.org/abs/2603.12217) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-10 | [Evaluate-as-Action: Self-Evaluated Process Rewards for Retrieval-Augmented Agents](https://arxiv.org/abs/2603.09203) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-10 | [VIVID-Med: LLM-Supervised Structured Pretraining for Deployable Medical ViTs](https://arxiv.org/abs/2603.09109) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-10 | [Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges](https://arxiv.org/abs/2603.09086) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-09 | [Toward Robust LLM-Based Judges: Taxonomic Bias Evaluation and Debiasing Optimization](https://arxiv.org/abs/2603.08091) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-08 | [ProgAgent:A Continual RL Agent with Progress-Aware Rewards](https://arxiv.org/abs/2603.07784) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-05 | [Boosting ASR Robustness via Test-Time Reinforcement Learning with Audio-Text Semantic Rewards](https://arxiv.org/abs/2603.05231) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-02 | [Tool Verification for Test-Time Reinforcement Learning](https://arxiv.org/abs/2603.02203) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-02 | [Learning from Synthetic Data Improves Multi-hop Reasoning](https://arxiv.org/abs/2603.02091) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-02 | [MIST-RL: Mutation-based Incremental Suite Testing via Reinforcement Learning](https://arxiv.org/abs/2603.01409) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-01 | [BeautyGRPO: Aesthetic Alignment for Face Retouching via Dynamic Path Guidance and Fine-Grained Preference Modeling](https://arxiv.org/abs/2603.01163) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-31 | [CASA: Classification Augmented with Safety Attention for Robust Multimodal Alignment](https://arxiv.org/abs/2604.00310) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-31 | [SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents](https://arxiv.org/abs/2603.29139) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-26 | [S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation](https://arxiv.org/abs/2603.25702) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-26 | [TopoPilot: Reliable Conversational Workflow Automation for Topological Data Analysis and Visualization](https://arxiv.org/abs/2603.25063) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-25 | [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://arxiv.org/abs/2603.24440) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-25 | [RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution](https://arxiv.org/abs/2603.24198) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-23 | [Tuning Real-World Image Restoration at Inference: A Test-Time Scaling Paradigm for Flow Matching Models](https://arxiv.org/abs/2603.22027) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-23 | [Probing How Scalable Table Data Enhances General Long-Context Reasoning](https://arxiv.org/abs/2603.21719) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-23 | [Cross-Context Verification: Hierarchical Detection of Benchmark Contamination through Session-Isolated Analysis](https://arxiv.org/abs/2603.21454) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-22 | [When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning](https://arxiv.org/abs/2603.21289) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-21 | [BenchBench: Benchmarking Automated Benchmark Generation](https://arxiv.org/abs/2603.20807) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-20 | [WorldAgents: Can Foundation Image Models be Agents for 3D World Models?](https://arxiv.org/abs/2603.19708) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://arxiv.org/abs/2603.19191) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding](https://arxiv.org/abs/2603.19146) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [Correlation-Weighted Multi-Reward Optimization for Compositional Generation](https://arxiv.org/abs/2603.18528) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [LGESynthNet: Controlled Scar Synthesis for Improved Scar Segmentation in Cardiac LGE-MRI Imaging](https://arxiv.org/abs/2603.18356) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [Text-to-Stage: Spatial Layouts from Long-form Narratives](https://arxiv.org/abs/2603.17832) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-17 | [Proactive Rejection and Grounded Execution: A Dual-Stage Intent Analysis Paradigm for Safe and Efficient AIoT Smart Homes](https://arxiv.org/abs/2603.16207) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-16 | [SDiaReward: Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness](https://arxiv.org/abs/2603.14889) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-15 | [LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion](https://arxiv.org/abs/2603.14526) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-15 | [Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models](https://arxiv.org/abs/2603.14504) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-15 | [Seeking Physics in Diffusion Noise](https://arxiv.org/abs/2603.14294) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-14 | [DeceptGuard :A Constitutional Oversight Framework For Detecting Deception in LLM Agents](https://arxiv.org/abs/2603.13791) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-13 | [Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation](https://arxiv.org/abs/2603.13099) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-12 | [Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](https://arxiv.org/abs/2603.12246) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-11 | [Continuous Diffusion Transformers for Designing Synthetic Regulatory Elements](https://arxiv.org/abs/2603.10885) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-11 | [HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation](https://arxiv.org/abs/2603.10814) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-11 | [OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](https://arxiv.org/abs/2603.10682) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-11 | [Safe and Scalable Web Agent Learning via Recreated Websites](https://arxiv.org/abs/2603.10505) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [Fish Audio S2 Technical Report](https://arxiv.org/abs/2603.08823) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-07 | [Unlocking Data Value in Finance: A Study on Distillation and Difficulty-Aware Training](https://arxiv.org/abs/2603.07223) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-06 | [Step-Level Visual Grounding Faithfulness Predicts Out-of-Distribution Generalization in Long-Horizon Vision-Language Models](https://arxiv.org/abs/2603.06828) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-05 | [Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation](https://arxiv.org/abs/2603.05485) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-03 | [Preventing Curriculum Collapse in Self-Evolving Reasoning Systems](https://arxiv.org/abs/2603.13309) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-02 | [Preference Score Distillation: Leveraging 2D Rewards to Align Text-to-3D Generation with Human Preference](https://arxiv.org/abs/2603.01594) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-02 | [Jailbreaking Embodied LLMs via Action-level Manipulation](https://arxiv.org/abs/2603.01414) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-31 | [VeriAct: Beyond Verifiability -- Agentic Synthesis of Correct and Complete Formal Specifications](https://arxiv.org/abs/2604.00280) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-31 | [FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration](https://arxiv.org/abs/2603.29557) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-31 | [Generalizable Dense Reward for Long-Horizon Robotic Tasks](https://arxiv.org/abs/2604.00055) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-30 | [ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining](https://arxiv.org/abs/2603.28737) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-30 | [Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design](https://arxiv.org/abs/2603.28376) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-29 | [Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3](https://arxiv.org/abs/2603.27844) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-29 | [Difference Feedback: Generating Multimodal Process-Level Supervision for VLM Reinforcement Learning](https://arxiv.org/abs/2603.27482) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-28 | [When Verification Hurts: Asymmetric Effects of Multi-Agent Feedback in Logic Proof Tutoring](https://arxiv.org/abs/2603.27076) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-27 | [From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents](https://arxiv.org/abs/2604.19775) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-27 | [RASPRef: Retrieval-Augmented Self-Supervised Prompt Refinement for Large Reasoning Models](https://arxiv.org/abs/2603.27008) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-27 | [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://arxiv.org/abs/2603.25810) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [Cross-Model Disagreement as a Label-Free Correctness Signal](https://arxiv.org/abs/2603.25450) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [On the Foundations of Trustworthy Artificial Intelligence](https://arxiv.org/abs/2603.24904) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-25 | [Towards Reward Modeling for AI Tutors in Math Mistake Remediation](https://arxiv.org/abs/2603.24375) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-25 | [From Pixels to Digital Agents: An Empirical Study on the Taxonomy and Technological Trends of Reinforcement Learning Environments](https://arxiv.org/abs/2603.23964) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [RelayS2S: A Dual-Path Speculative Generation for Real-Time Dialogue](https://arxiv.org/abs/2603.23346) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [When Models Learn to Ask Why: Adaptive Causal Reasoning for Trustworthy Medical Vision-Language Models](https://arxiv.org/abs/2603.23085) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents](https://arxiv.org/abs/2603.22386) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [Language-Conditioned World Modeling for Visual Navigation](https://arxiv.org/abs/2603.26741) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-21 | [AEGIS: From Clues to Verdicts -- Graph-Guided Deep Vulnerability Reasoning via Dialectics and Meta-Auditing](https://arxiv.org/abs/2603.20637) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-21 | [Bayesian Learning in Episodic Zero-Sum Games](https://arxiv.org/abs/2603.20604) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-20 | [ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](https://arxiv.org/abs/2603.19610) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-19 | [Speculative Policy Orchestration: A Latency-Resilient Framework for Cloud-Robotic Manipulation](https://arxiv.org/abs/2603.19418) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [Action Draft and Verify: A Self-Verifying Framework for Vision-Language-Action Model](https://arxiv.org/abs/2603.18091) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [Is Conformal Factuality for RAG-based LLMs Robust? Novel Metrics and Systematic Insights](https://arxiv.org/abs/2603.16817) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [Follow the Clues, Frame the Truth: Hybrid-evidential Deductive Reasoning in Open-Vocabulary Multimodal Emotion Recognition](https://arxiv.org/abs/2603.16463) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas](https://arxiv.org/abs/2603.16448) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [NanoZK: Privacy-Preserving Verifiable Inference for Large Language Models via Layerwise Zero-Knowledge Proofs](https://arxiv.org/abs/2603.18046) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-16 | [Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation](https://arxiv.org/abs/2603.15759) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-16 | [Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](https://arxiv.org/abs/2603.15510) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-16 | [Shopping Companion: Benchmarking and Training LLM Agents for Long-Horizon Preference-Grounded E-Commerce Tasks](https://arxiv.org/abs/2603.14864) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-16 | [GNNVerifier: Graph-based Verifier for LLM Task Planning](https://arxiv.org/abs/2603.14730) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-15 | [AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents](https://arxiv.org/abs/2603.14465) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [daVinci-Env: Open SWE Environment Synthesis at Scale](https://arxiv.org/abs/2603.13023) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [SteerRM: Debiasing Reward Models via Sparse Autoencoders](https://arxiv.org/abs/2603.12795) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs](https://arxiv.org/abs/2604.18587) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-12 | [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [RIE-Greedy: Regularization-Induced Exploration for Contextual Bandits](https://arxiv.org/abs/2603.11276) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [Repurposing Backdoors for Good: Ephemeral Intrinsic Proofs for Verifiable Aggregation in Cross-silo Federated Learning](https://arxiv.org/abs/2603.10692) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [Aligning Large Language Models with Searcher Preferences](https://arxiv.org/abs/2603.10473) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [Mitigating Translationese Bias in Multilingual LLM-as-a-Judge via Disentangled Information Bottleneck](https://arxiv.org/abs/2603.10351) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [Video-Based Reward Modeling for Computer-Use Agents](https://arxiv.org/abs/2603.10178) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [From Weighting to Modeling: A Nonparametric Estimator for Off-Policy Evaluation](https://arxiv.org/abs/2603.09436) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [Reward Prediction with Factorized World States](https://arxiv.org/abs/2603.09400) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [RubiCap: Rubric-Guided Reinforcement Learning for Dense Image Captioning](https://arxiv.org/abs/2603.09160) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [CDRRM: Contrast-Driven Rubric Generation for Reliable and Interpretable Reward Modeling](https://arxiv.org/abs/2603.08035) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-08 | [DualSpec: Accelerating Deep Research Agents via Dual-Process Action Speculation](https://arxiv.org/abs/2603.07416) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-08 | [Underwater Embodied Intelligence for Autonomous Robots: A Constraint-Coupled Perspective on Planning, Control, and Deployment](https://arxiv.org/abs/2603.07393) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment](https://arxiv.org/abs/2603.06797) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality](https://arxiv.org/abs/2603.05912) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [Revisiting the (Sub)Optimality of Best-of-N for Inference-Time Alignment](https://arxiv.org/abs/2603.05739) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering](https://arxiv.org/abs/2603.23512) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding](https://arxiv.org/abs/2603.04977) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [VRM: Teaching Reward Models to Understand Authentic Human Preferences](https://arxiv.org/abs/2603.04974) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [Causally Robust Reward Learning from Reason-Augmented Preference Feedback](https://arxiv.org/abs/2603.04861) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [Spatial Competence Benchmark](https://arxiv.org/abs/2604.09594) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-04 | [TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning](https://arxiv.org/abs/2603.04380) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-04 | [$V_1$: Unifying Generation and Self-Verification for Parallel Reasoners](https://arxiv.org/abs/2603.04304) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-04 | [Fast and Faithful: Real-Time Verification for Long-Document Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2603.23508) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-04 | [Invariance-Based Dynamic Regret Minimization](https://arxiv.org/abs/2603.03843) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [Online Learnability of Chain-of-Thought Verifiers: Soundness and Completeness Trade-offs](https://arxiv.org/abs/2603.03538) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [Parallel Test-Time Scaling with Multi-Sequence Verifiers](https://arxiv.org/abs/2603.03417) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [Form Follows Function: Recursive Stem Model](https://arxiv.org/abs/2603.15641) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [RIVA: Leveraging LLM Agents for Reliable Configuration Drift Detection](https://arxiv.org/abs/2603.02345) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [RealRoute: Dynamic Query Routing System via Retrieve-then-Verify Paradigm](https://arxiv.org/abs/2604.20860) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning](https://arxiv.org/abs/2603.02119) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons](https://arxiv.org/abs/2603.02115) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations](https://arxiv.org/abs/2603.01952) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [MVR: Multi-view Video Reward Shaping for Reinforcement Learning](https://arxiv.org/abs/2603.01694) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [RubricBench: Aligning Model-Generated Rubrics with Human Standards](https://arxiv.org/abs/2603.01562) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-01 | [MedCollab: IBIS-Guided Multi-Agent Collaboration with Hierarchical Disease Relation Chains for Clinical Diagnosis](https://arxiv.org/abs/2603.01131) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-01 | [One-Token Verification for Reasoning Correctness Estimation](https://arxiv.org/abs/2603.01025) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On](https://arxiv.org/abs/2603.05659) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-03-17 | [Execution-Grounded Credit Assignment for GRPO in Code Generation](https://arxiv.org/abs/2603.16158) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-03-10 | [Towards Unified Multimodal Interleaved Generation via Group Relative Policy Optimization](https://arxiv.org/abs/2603.09538) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-01 | [Can Thinking Models Think to Detect Hateful Memes?](https://arxiv.org/abs/2603.01225) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-18 | [EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection](https://arxiv.org/abs/2603.17343) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-06 | [Stabilizing Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2603.06743) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-04 | [LightningRL: Breaking the Accuracy-Parallelism Trade-off of Block-wise dLLMs via Reinforcement Learning](https://arxiv.org/abs/2603.13319) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-31 | [ShapE-GRPO: Shapley-Enhanced Reward Allocation for Multi-Candidate LLM Training](https://arxiv.org/abs/2603.29871) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-10 | [Calibration-Reasoning Framework for Descriptive Speech Quality Assessment](https://arxiv.org/abs/2603.10175) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-03 | [RAPO: Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization](https://arxiv.org/abs/2603.03078) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-27 | [VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward](https://arxiv.org/abs/2603.26599) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-20 | [One Model, Two Minds: Task-Conditioned Reasoning for Unified Image Quality and Aesthetic Assessment](https://arxiv.org/abs/2603.19779) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-09 | [RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://arxiv.org/abs/2603.08561) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-02 | [$π$-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs](https://arxiv.org/abs/2603.02083) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-31 | [Calibrated Confidence Expression for Radiology Report Generation](https://arxiv.org/abs/2603.29492) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [How Uncertainty Estimation Scales with Sampling in Reasoning Models](https://arxiv.org/abs/2603.19118) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [Are complicated loss functions necessary for teaching LLMs to reason?](https://arxiv.org/abs/2603.18756) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching](https://arxiv.org/abs/2603.18363) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-16 | [MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings](https://arxiv.org/abs/2603.15418) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-11 | [COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-10 | [MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data](https://arxiv.org/abs/2603.09206) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-30 | [$AutoDrive\text{-}P^3$: Unified Chain of Perception-Prediction-Planning Thought via Reinforcement Fine-Tuning](https://arxiv.org/abs/2603.28116) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [VideoTIR: Accurate Understanding for Long Videos with Efficient Tool-Integrated Reasoning](https://arxiv.org/abs/2603.25021) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models](https://arxiv.org/abs/2603.24984) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [VersualRL: Closed-Loop Verbal Reinforcement Learning with Visual Execution Feedback for Task-Level Robot Planning](https://arxiv.org/abs/2603.22169) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [Adaptive Robust Estimator for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2603.21574) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-19 | [Thinking with Constructions: A Benchmark and Policy Optimization for Visual-Text Interleaved Geometric Reasoning](https://arxiv.org/abs/2603.18662) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [SLEA-RL: Step-Level Experience Augmented Reinforcement Learning for Multi-Turn Agentic Training](https://arxiv.org/abs/2603.18079) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [Anticipatory Planning for Multimodal AI Agents](https://arxiv.org/abs/2603.16777) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2603.16189) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-14 | [Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2603.13765) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-12 | [LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning](https://arxiv.org/abs/2603.12166) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [TIPS: Turn-Level Information-Potential Reward Shaping for Search-Augmented LLMs](https://arxiv.org/abs/2603.22293) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [Language-Guided Token Compression with Reinforcement Learning in Large Vision-Language Models](https://arxiv.org/abs/2603.13394) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [From Imitation to Intuition: Intrinsic Reasoning for Open-Instance Video Classification](https://arxiv.org/abs/2603.10300) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models](https://arxiv.org/abs/2603.09542) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2603.09326) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-08 | [DocCogito: Aligning Layout Cognition and Step-Level Grounded Reasoning for Document Understanding](https://arxiv.org/abs/2603.07494) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [MICA: Multi-granularity Intertemporal Credit Assignment for Long-Horizon Emotional Support Dialogue](https://arxiv.org/abs/2603.06194) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning](https://arxiv.org/abs/2603.06024) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [CORE-Seg: Reasoning-Driven Segmentation for Complex Lesions via Reinforcement Learning](https://arxiv.org/abs/2603.05911) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting](https://arxiv.org/abs/2603.05134) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](https://arxiv.org/abs/2603.01928) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [FireRed-OCR Technical Report](https://arxiv.org/abs/2603.01840) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Harmonizing Dense and Sparse Signals in Multi-turn RL: Dual-Horizon Credit Assignment for Industrial Sales Agents](https://arxiv.org/abs/2603.01481) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-01 | [DIVA-GRPO: Enhancing Multimodal Reasoning through Difficulty-Adaptive Variant Advantage](https://arxiv.org/abs/2603.01106) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention](https://arxiv.org/abs/2603.01683) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-03-19 | [Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/abs/2603.19220) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-03-05 | [CRISP: Compressed Reasoning via Iterative Self-Policy Distillation](https://arxiv.org/abs/2603.05433) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-02 | [KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/abs/2603.01875) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-10 | [Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs](https://arxiv.org/abs/2603.09095) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-09 | [Agentic Critical Training](https://arxiv.org/abs/2603.08706) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-15 | [GoldenStart: Q-Guided Priors and Entropy Control for Distilling Flow Policies](https://arxiv.org/abs/2603.14245) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-11 | [PACED: Distillation and On-Policy Self-Distillation at the Frontier of Student Competence](https://arxiv.org/abs/2603.11178) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-04 | [Learning Hip Exoskeleton Control Policy via Predictive Neuromusculoskeletal Simulation](https://arxiv.org/abs/2603.04166) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-04 | [X-Loco: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation](https://arxiv.org/abs/2603.03733) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-31 | [Empirical Validation of the Classification-Verification Dichotomy for AI Safety Gates](https://arxiv.org/abs/2604.00072) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-18 | [VLM-AutoDrive: Post-Training Vision-Language Models for Safety-Critical Autonomous Driving Events](https://arxiv.org/abs/2603.18178) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-16 | [Meta-TTRL: A Metacognitive Framework for Self-Improving Test-Time Reinforcement Learning in Unified Multimodal Models](https://arxiv.org/abs/2603.15724) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-16 | [CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation in Vision Foundation Models](https://arxiv.org/abs/2603.14957) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-02 | [Dream2Learn: Structured Generative Dreaming for Continual Learning](https://arxiv.org/abs/2603.01935) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-20 | [Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs](https://arxiv.org/abs/2603.20046) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-12 | [Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously](https://arxiv.org/abs/2603.12262) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-08 | [Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers](https://arxiv.org/abs/2603.07670) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-31 | [Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?](https://arxiv.org/abs/2603.30036) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-27 | [Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification](https://arxiv.org/abs/2603.26348) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-25 | [Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?](https://arxiv.org/abs/2603.24472) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-16 | [GASP: Guided Asymmetric Self-Play For Coding LLMs](https://arxiv.org/abs/2603.15957) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-15 | [VLA-Thinker: Boosting Vision-Language-Action Models through Thinking-with-Image Reasoning](https://arxiv.org/abs/2603.14523) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-14 | [Amortizing Trajectory Diffusion with Keyed Drift Fields](https://arxiv.org/abs/2603.14056) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-12 | [Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning](https://arxiv.org/abs/2603.11653) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-10 | [Finding and Reactivating Post-Trained LLMs' Hidden Safety Mechanisms](https://arxiv.org/abs/2604.00012) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [SPIRAL: Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents](https://arxiv.org/abs/2603.08403) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-07 | [Agentic Planning with Reasoning for Image Styling via Offline RL](https://arxiv.org/abs/2603.07148) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-05 | [Online Self-Training for Co-Adaptation in Hierarchical Diffusion Policies](https://arxiv.org/abs/2603.05291) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-03 | [Tucano 2 Cool: Better Open Source LLMs for Portuguese](https://arxiv.org/abs/2603.03543) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-02 | [Let the Agent Search: Autonomous Exploration Beats Rigid Workflows in Temporal Question Answering](https://arxiv.org/abs/2603.01853) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-31 | [Heterogeneous Self-Play for Realistic Highway Traffic Simulation](https://arxiv.org/abs/2604.16406) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-30 | [Information-Theoretic Limits of Safety Verification for Self-Improving Systems](https://arxiv.org/abs/2603.28650) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-27 | [Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](https://arxiv.org/abs/2603.26211) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-25 | [Experiential Reflective Learning for Self-Improving LLM Agents](https://arxiv.org/abs/2603.24639) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [A Theory of LLM Information Susceptibility](https://arxiv.org/abs/2603.23626) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [Polaris: A Gödel Agent Framework for Small Language Models through Experience-Abstracted Policy Repair](https://arxiv.org/abs/2603.23129) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [Adaptive Dual-Teacher Distillation with Subnetwork Rectification for Bridging Semantic Gaps in Black-Box Domain Adaptation](https://arxiv.org/abs/2603.22908) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-22 | [ARYA: A Physics-Constrained Composable & Deterministic World Model Architecture](https://arxiv.org/abs/2603.21340) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-20 | [A Training-Free Regeneration Paradigm: Contrastive Reflection Memory Guided Self-Verification and Self-Improvement](https://arxiv.org/abs/2603.20441) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-19 | [Hyperagents](https://arxiv.org/abs/2603.19461) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-12 | [HCP-DCNet: A Hierarchical Causal Primitive Dynamic Composition Network for Self-Improving Causal Understanding](https://arxiv.org/abs/2603.12305) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [EPOCH: An Agentic Protocol for Multi-Round System Optimization](https://arxiv.org/abs/2603.09049) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [Dynin-Omni: Omnimodal Unified Large Diffusion Language Model](https://arxiv.org/abs/2604.00007) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [Scalable Identification and Prioritization of Requisition-Specific Personal Competencies Using Large Language Models](https://arxiv.org/abs/2604.00006) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [Seed2Scale: A Self-Evolving Data Engine for Embodied AI via Small to Large Model Synergy and Multimodal Evaluation](https://arxiv.org/abs/2603.08260) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement](https://arxiv.org/abs/2603.06333) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery](https://arxiv.org/abs/2603.05860) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Provable and Practical In-Context Policy Optimization for Self-Improvement](https://arxiv.org/abs/2603.01335) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [Improving Search Agent with One Line of Code](https://arxiv.org/abs/2603.10069) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-01 | [MM-DeepResearch: A Simple and Effective Multimodal Agentic Search Baseline](https://arxiv.org/abs/2603.01050) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-30 | [Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://arxiv.org/abs/2603.28767) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-30 | [Heddle: A Distributed Orchestration System for Agentic RL Rollout](https://arxiv.org/abs/2603.28101) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-24 | [SpecXMaster Technical Report](https://arxiv.org/abs/2603.23101) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-19 | [Mi:dm K 2.5 Pro](https://arxiv.org/abs/2603.18788) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-03 | [Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-24 | [CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models](https://arxiv.org/abs/2603.22846) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-17 | [IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-12 | [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](https://arxiv.org/abs/2603.12138) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-10 | [DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](https://arxiv.org/abs/2603.11076) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-03 | [VSearcher: Long-Horizon Multimodal Search Agent via Reinforcement Learning](https://arxiv.org/abs/2603.02795) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-31 | [Diffusion-Guided Cooperative Policy Learning for Target Tracking Based on Underwater Mobile Agent Networks](https://arxiv.org/abs/2603.29426) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [Multi-Agent Training-free Urban Food Delivery System using Resilient UMST Network](https://arxiv.org/abs/2604.03280) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe](https://arxiv.org/abs/2603.21972) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-20 | [CAMA: Exploring Collusive Adversarial Attacks in c-MARL](https://arxiv.org/abs/2603.20390) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [Learning to Present: Inverse Specification Rewards for Agentic Slide Generation](https://arxiv.org/abs/2603.16839) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [Reward-Zero: Language Embedding Driven Implicit Reward Mechanisms for Reinforcement Learning](https://arxiv.org/abs/2603.09331) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-08 | [SMAT: Staged Multi-Agent Training for Co-Adaptive Exoskeleton Control](https://arxiv.org/abs/2603.07618) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [ProtRLSearch: A Multi-Round Multimodal Protein Search Agent with Large Language Models Trained via Reinforcement Learning](https://arxiv.org/abs/2603.01464) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://arxiv.org/abs/2603.23500) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-19 | [MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model](https://arxiv.org/abs/2603.18892) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-03-05 | [Wiki-R1: Incentivizing Multimodal Reasoning for Knowledge-based VQA via Data and Sampling Curriculum](https://arxiv.org/abs/2603.05256) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-04 | [GIPO: Gaussian Importance Sampling Policy Optimization](https://arxiv.org/abs/2603.03955) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-26 | [AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization](https://arxiv.org/abs/2603.25118) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-22 | [RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models](https://arxiv.org/abs/2603.21341) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-31 | [Xuanwu: Evolving General Multimodal Models into an Industrial-Grade Foundation for Content Ecosystems](https://arxiv.org/abs/2603.29211) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-26 | [TIGFlow-GRPO: Trajectory Forecasting via Interaction-Aware Flow Matching and Reward-Guided Optimization](https://arxiv.org/abs/2603.24936) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-18 | [MALLES: A Multi-agent LLMs-based Economic Sandbox with Consumer Preference Alignment](https://arxiv.org/abs/2603.17694) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-09 | [Learning Multiple Utterance-Level Attribute Representations with a Unified Speech Encoder](https://arxiv.org/abs/2603.08312) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-21 | [Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models](https://arxiv.org/abs/2603.20607) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-19 | [To See or To Please: Uncovering Visual Sycophancy and Split Beliefs in VLMs](https://arxiv.org/abs/2603.18373) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-18 | [Flow Matching Policy Optimization with Mirror Descent and Entropy Constraints](https://arxiv.org/abs/2603.17685) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-14 | [Implicit Maximum Likelihood Estimation for Real-time Generative Model Predictive Control](https://arxiv.org/abs/2603.13733) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA](https://arxiv.org/abs/2603.08122) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-05 | [Diffusion Policy through Conditional Proximal Policy Optimization](https://arxiv.org/abs/2603.04790) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-30 | [MedLoc-R1: Performance-Aware Curriculum Reward Scheduling for GRPO-Based Medical Visual Grounding](https://arxiv.org/abs/2603.28120) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-28 | [SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning](https://arxiv.org/abs/2603.27437) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-28 | [Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision](https://arxiv.org/abs/2603.27179) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-27 | [Dynamic Token Compression for Efficient Video Understanding through Reinforcement Learning](https://arxiv.org/abs/2603.26365) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](https://arxiv.org/abs/2603.25720) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale](https://arxiv.org/abs/2603.25040) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [Learning to Select Visual In-Context Demonstrations](https://arxiv.org/abs/2603.26775) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [GEM: Guided Expectation-Maximization for Behavior-Normalized Candidate Action Selection in Offline RL](https://arxiv.org/abs/2603.23232) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models](https://arxiv.org/abs/2603.22782) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [Q-Tacit: Image Quality Assessment via Latent Visual Reasoning](https://arxiv.org/abs/2603.22641) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [CFMS: Towards Explainable and Fine-Grained Chinese Multimodal Sarcasm Detection Benchmark](https://arxiv.org/abs/2604.16372) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [MEVIUS2: Practical Open-Source Quadruped Robot with Sheet Metal Welding and Multimodal Perception](https://arxiv.org/abs/2603.22031) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [PPGL-Swarm: Integrated Multimodal Risk Stratification and Hereditary Syndrome Detection in Pheochromocytoma and Paraganglioma](https://arxiv.org/abs/2603.21700) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-23 | [VIGIL: Part-Grounded Structured Reasoning for Generalizable Deepfake Detection](https://arxiv.org/abs/2603.21526) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-21 | [Seed1.8 Model Card: Towards Generalized Real-World Agency](https://arxiv.org/abs/2603.20633) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-19 | [ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models](https://arxiv.org/abs/2603.19466) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-19 | [Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds](https://arxiv.org/abs/2603.18532) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [DriveVLM-RL: Neuroscience-Inspired Reinforcement Learning with Vision-Language Models for Safe and Deployable Autonomous Driving](https://arxiv.org/abs/2603.18315) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [Federated Distributional Reinforcement Learning with Distributional Critic Regularization](https://arxiv.org/abs/2603.17820) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [Interpreting Context-Aware Human Preferences for Multi-Objective Robot Navigation](https://arxiv.org/abs/2603.17510) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-18 | [Ruyi2.5 Technical Report](https://arxiv.org/abs/2603.17311) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [PaAgent: Portrait-Aware Image Restoration Agent via Subjective-Objective Reinforcement Learning](https://arxiv.org/abs/2603.17055) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-17 | [Visual Distraction Undermines Moral Reasoning in Vision-Language Models](https://arxiv.org/abs/2603.16445) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-12 | [Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge](https://arxiv.org/abs/2603.11665) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning](https://arxiv.org/abs/2603.11219) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [Learning Tree-Based Models with Gradient Descent](https://arxiv.org/abs/2603.11117) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments](https://arxiv.org/abs/2603.10616) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation](https://arxiv.org/abs/2603.08572) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://arxiv.org/abs/2603.08316) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [MJ1: Multimodal Judgment via Grounded Verification](https://arxiv.org/abs/2603.07990) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](https://arxiv.org/abs/2603.06043) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-04 | [Discriminative Perception via Anchored Description for Reasoning Segmentation](https://arxiv.org/abs/2603.04002) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation](https://arxiv.org/abs/2603.03279) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Cultivating Forensic Reasoning for Generalizable Multimodal Manipulation Detection](https://arxiv.org/abs/2603.01993) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents](https://arxiv.org/abs/2603.01416) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-01 | [MOSAIC: A Unified Platform for Cross-Paradigm Comparison and Evaluation of Homogeneous and Heterogeneous Multi-Agent RL, LLM, VLM, and Human Decision-Makers](https://arxiv.org/abs/2603.01260) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-01 | [ICPRL: Acquiring Physical Intuition from Interactive Control](https://arxiv.org/abs/2603.13295) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning](https://arxiv.org/abs/2603.25685) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-13 | [Finite Difference Flow Optimization for RL Post-Training of Text-to-Image Models](https://arxiv.org/abs/2603.12893) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-13 | [Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages](https://arxiv.org/abs/2603.12554) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-03-17 | [Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting](https://arxiv.org/abs/2603.16542) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-16 | [Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies](https://arxiv.org/abs/2603.15136) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-03 | [Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild](https://arxiv.org/abs/2603.02619) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-26 | [DiReCT: Disentangled Regularization of Contrastive Trajectories for Physics-Refined Video Generation](https://arxiv.org/abs/2603.25931) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [ImageEdit-R1: Boosting Multi-Agent Image Editing via Reinforcement Learning](https://arxiv.org/abs/2603.08059) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-31 | [Autonomous Adaptive Solver Selection for Chemistry Integration via Reinforcement Learning](https://arxiv.org/abs/2604.00264) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-30 | [Stepwise Credit Assignment for GRPO on Flow-Matching Models](https://arxiv.org/abs/2603.28718) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-24 | [Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards](https://arxiv.org/abs/2603.23086) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-16 | [ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior Priors](https://arxiv.org/abs/2603.15956) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-10 | [GeMPO: Generalized Measure Matching for Online Diffusion Reinforcement Learning](https://arxiv.org/abs/2603.10250) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-07 | [Diffusion Controller: Framework, Algorithms and Parameterization](https://arxiv.org/abs/2603.06981) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](https://arxiv.org/abs/2603.06397) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [Optimizing 3D Diffusion Models for Medical Imaging via Multi-Scale Reward Learning](https://arxiv.org/abs/2603.06173) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-05 | [Observing and Controlling Features in Vision-Language-Action Models](https://arxiv.org/abs/2603.05487) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-04 | [Fairness Begins with State: Purifying Latent Preferences for Hierarchical Reinforcement Learning in Interactive Recommendation](https://arxiv.org/abs/2603.03820) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks](https://arxiv.org/abs/2603.03045) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-11 | [FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model](https://arxiv.org/abs/2603.10712) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-03-17 | [Encoding Predictability and Legibility for Style-Conditioned Diffusion Policy](https://arxiv.org/abs/2603.16368) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-15 | [Tactile Modality Fusion for Vision-Language-Action Models](https://arxiv.org/abs/2603.14604) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-11 | [World2Act: Latent Action Post-Training from World Model Dynamics](https://arxiv.org/abs/2603.10422) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-10 | [DexHiL: A Human-in-the-Loop Framework for Vision-Language-Action Model Post-Training in Dexterous Manipulation](https://arxiv.org/abs/2603.09121) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-03-30 | [FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning](https://arxiv.org/abs/2603.28673) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-13 | [PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking](https://arxiv.org/abs/2603.19305) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-12 | [$Ψ_0$: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation](https://arxiv.org/abs/2603.12263) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-09 | [LAR-MoE: Latent-Aligned Routing for Mixture of Experts in Robotic Imitation Learning](https://arxiv.org/abs/2603.08476) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-03-31 | [Scaling Whole-Body Human Musculoskeletal Behavior Emulation for Specificity and Diversity](https://arxiv.org/abs/2603.29332) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-26 | [Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation](https://arxiv.org/abs/2603.25415) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-16 | [HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions](https://arxiv.org/abs/2603.15612) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [FLUX: Accelerating Cross-Embodiment Generative Navigation Policies via Rectified Flow and Static-to-Dynamic Learning](https://arxiv.org/abs/2603.12806) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-13 | [TacVLA: Contact-Aware Tactile Fusion for Robust Vision-Language-Action Manipulation](https://arxiv.org/abs/2603.12665) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model](https://arxiv.org/abs/2603.08862) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-09 | [HMR-1: Hierarchical Massage Robot with Vision-Language-Model for Embodied Healthcare](https://arxiv.org/abs/2603.08817) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-06 | [Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning](https://arxiv.org/abs/2603.06084) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-03 | [LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics](https://arxiv.org/abs/2603.03380) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-03-02 | [Temporal Representations for Exploration: Learning Complex Exploratory Behavior without Extrinsic Rewards](https://arxiv.org/abs/2603.02008) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [Reinforcement Learning from Human Feedback: A Statistical Perspective](https://arxiv.org/abs/2604.02507) | arxiv-monthly-backfill | 21 | `needs-review` |
+| 2026-04-23 | [ProcessThinker: Enhancing Multi-modal Large Language Models Reasoning via Rollout-based Process Reward](https://arxiv.org/abs/2606.11209) | arxiv-monthly-backfill | 19 | `needs-review` |
+| 2026-04-30 | [Leveraging Verifier-Based Reinforcement Learning in Image Editing](https://arxiv.org/abs/2604.27505) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-04-17 | [S-GRPO: Unified Post-Training for Large Vision-Language Models](https://arxiv.org/abs/2604.16557) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-04-12 | [Advancing Polish Language Modeling through Tokenizer Optimization in the Bielik v3 7B and 11B Series](https://arxiv.org/abs/2604.10799) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-04-17 | [ACE: Self-Evolving LLM Coding Framework via Adversarial Unit Test Generation and Preference Optimization](https://arxiv.org/abs/2605.16299) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-04-09 | [Large Language Model Post-Training: A Unified View of Off-Policy and On-Policy Learning](https://arxiv.org/abs/2604.07941) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-04-28 | [Evaluating Risks in Weak-to-Strong Alignment: A Bias-Variance Perspective](https://arxiv.org/abs/2604.25077) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-04-14 | [Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation](https://arxiv.org/abs/2604.13010) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-04-29 | [PAINT: Partial-Solution Adaptive Interpolated Training for Self-Distilled Reasoners](https://arxiv.org/abs/2604.26573) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-04-05 | [DARE: Diffusion Large Language Models Alignment and Reinforcement Executor](https://arxiv.org/abs/2604.04215) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-04-28 | [A Systematic Post-Train Framework for Video Generation](https://arxiv.org/abs/2604.25427) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-04-14 | [SOAR: Self-Correction for Optimal Alignment and Refinement in Diffusion Models](https://arxiv.org/abs/2604.12617) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-04-03 | [Correct Answers from Sound Reasoning: Verifiable Process Supervision for Language Models](https://arxiv.org/abs/2605.12519) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-04-03 | [Random Is Hard to Beat: Active Selection in online DPO with Modern LLMs](https://arxiv.org/abs/2604.02766) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-04-01 | [Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-04-09 | [The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training](https://arxiv.org/abs/2604.07754) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-06 | [OpsLLM: Construction of Large Language Model for Software Operations with Multi-stage Learning](https://arxiv.org/abs/2605.02906) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-02 | [Mitigating LLM biases toward spurious social contexts using direct preference optimization](https://arxiv.org/abs/2604.02585) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-30 | [LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](https://arxiv.org/abs/2604.28192) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-22 | [SAKE: Self-aware Knowledge Exploitation-Exploration for Grounded Multimodal Named Entity Recognition](https://arxiv.org/abs/2604.20146) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-21 | [Bootstrapping Post-training Signals for Open-ended Tasks via Rubric-based Self-play on Pre-training Text](https://arxiv.org/abs/2604.20051) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-13 | [Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language](https://arxiv.org/abs/2604.11600) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-03 | [JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency](https://arxiv.org/abs/2604.03044) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-30 | [Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training](https://arxiv.org/abs/2606.26102) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-30 | [CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting](https://arxiv.org/abs/2604.27840) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-27 | [Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models](https://arxiv.org/abs/2604.25011) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-27 | [Compute Aligned Training: Optimizing for Test Time Inference](https://arxiv.org/abs/2604.24957) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-27 | [Omni-o3: Deep Nested Omnimodal Deduction for Deliberative Audio-Visual Reasoning](https://arxiv.org/abs/2604.24191) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-26 | [LegalDrill: Diagnosis-Driven Synthesis for Legal Reasoning in Small Language Models](https://arxiv.org/abs/2604.23809) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-24 | [Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought](https://arxiv.org/abs/2604.22709) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-24 | [TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction](https://arxiv.org/abs/2604.22880) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-21 | [DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data](https://arxiv.org/abs/2604.19859) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-21 | [TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only](https://arxiv.org/abs/2604.19070) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-20 | [When Can LLMs Learn to Reason with Weak Supervision?](https://arxiv.org/abs/2604.18574) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-20 | [Different Paths to Harmful Compliance: Behavioral Side Effects and Mechanistic Divergence Across LLM Jailbreaks](https://arxiv.org/abs/2604.18510) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-19 | [PoliLegalLM: A Technical Report on a Large Language Model for Political and Legal Affairs](https://arxiv.org/abs/2604.17543) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-15 | [GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification](https://arxiv.org/abs/2604.14258) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-15 | [MUSE: Multi-Domain Chinese User Simulation via Self-Evolving Profiles and Rubric-Guided Alignment](https://arxiv.org/abs/2604.13828) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-15 | [Towards Fine-grained Temporal Perception: Post-Training Large Audio-Language Models with Audio-Side Time Prompt](https://arxiv.org/abs/2604.13715) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-14 | [ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance](https://arxiv.org/abs/2604.12378) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-14 | [Rater State Bias in RLHF Preference Data: An Audit Framework](https://arxiv.org/abs/2607.16195) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-11 | [SVSR: A Self-Verification and Self-Rectification Paradigm for Multimodal Reasoning](https://arxiv.org/abs/2604.10228) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-10 | [Controllable and Verifiable Tool-Use Data Synthesis for Agentic Reinforcement Learning](https://arxiv.org/abs/2604.09813) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-10 | [Bridging SFT and RL: Dynamic Policy Optimization for Robust Reasoning](https://arxiv.org/abs/2604.08926) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-06 | [How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess](https://arxiv.org/abs/2604.05134) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-30 | [GUI Agents with Reinforcement Learning: Toward Digital Inhabitants](https://arxiv.org/abs/2604.27955) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-29 | [ClawGym: A Scalable Framework for Building Effective Claw Agents](https://arxiv.org/abs/2604.26904) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-25 | [Breaking Lock-In: Preserving Steerability under Low-Data VLA Post-Training](https://arxiv.org/abs/2604.23121) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-22 | [AFRILANGTUTOR: Advancing Language Tutoring and Culture Education in Low-Resource Languages with Large Language Models](https://arxiv.org/abs/2604.20996) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-22 | [Compatibility-Aware Dynamic Fine-Tuning for Large Language Models](https://arxiv.org/abs/2606.11206) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-15 | [Reward Design for Physical Reasoning in Vision-Language Models](https://arxiv.org/abs/2604.13993) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-15 | [Synthesizing Instruction-Tuning Datasets with Contrastive Decoding](https://arxiv.org/abs/2604.13538) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-12 | [Calibration Collapse Under Sycophancy Fine-Tuning: How Reward Hacking Breaks Uncertainty Quantification in LLMs](https://arxiv.org/abs/2604.10585) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-09 | [EditCaption: Human-Refined SFT and HAE-DPO for Image Editing Instruction Synthesis](https://arxiv.org/abs/2604.08213) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-07 | [UniCreative: Unifying Long-form Logic and Short-form Sparkle via Reference-Free Reinforcement Learning](https://arxiv.org/abs/2604.05517) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-03 | [Fine-tuning DeepSeek-OCR-2 for Molecular Structure Recognition](https://arxiv.org/abs/2604.03476) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-02 | [DEFT: Distribution-guided Efficient Fine-Tuning for Human Alignment](https://arxiv.org/abs/2604.01787) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-02 | [Care-Conditioned Neuromodulation for Autonomy-Preserving Supportive Dialogue Agents](https://arxiv.org/abs/2604.01576) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-29 | [MoRFI: Monotonic Sparse Autoencoder Feature Identification](https://arxiv.org/abs/2604.26866) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-21 | [Self-Improving Tabular Language Models via Iterative Reward-Guided Post-Training](https://arxiv.org/abs/2604.18966) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [Aligning Language Models for Lyric-to-Melody Generation with Rule-Based Musical Constraints](https://arxiv.org/abs/2604.18489) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [Re$^2$MoGen: Open-Vocabulary Motion Generation via LLM Reasoning and Physics-Aware Refinement](https://arxiv.org/abs/2604.17807) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-17 | [Where does output diversity collapse in post-training?](https://arxiv.org/abs/2604.16027) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-16 | [SPAGBias: Uncovering and Tracing Structured Spatial Gender Bias in Large Language Models](https://arxiv.org/abs/2604.14672) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-15 | [(How) Learning Rates Regulate Catastrophic Overtraining](https://arxiv.org/abs/2604.13627) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-15 | [SFT-GRPO Data Overlap as a Post-Training Hyperparameter for Autoformalization](https://arxiv.org/abs/2604.13515) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-14 | [English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training](https://arxiv.org/abs/2604.13286) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-14 | [From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation](https://arxiv.org/abs/2604.12666) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-13 | [BITS Pilani at SemEval-2026 Task 9: Structured Supervised Fine-Tuning with DPO Refinement for Polarization Detection](https://arxiv.org/abs/2604.11121) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-12 | [Teaching Language Models How to Code Like Learners: Conversational Serialization for Student Simulation](https://arxiv.org/abs/2604.10720) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-12 | [Agent^2 RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?](https://arxiv.org/abs/2604.10547) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-12 | [CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation](https://arxiv.org/abs/2604.10504) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-11 | [Why Supervised Fine-Tuning Fails to Learn: A Systematic Study of Incomplete Learning in Large Language Models](https://arxiv.org/abs/2604.10079) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-11 | [FinTrace: Holistic Trajectory-Level Evaluation of LLM Tool Calling for Long-Horizon Financial Tasks](https://arxiv.org/abs/2604.10015) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-10 | [Improving Medical VQA through Trajectory-Aware Process Supervision](https://arxiv.org/abs/2605.04064) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-10 | [Learning Vision-Language-Action World Models for Autonomous Driving](https://arxiv.org/abs/2604.09059) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-09 | [HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation](https://arxiv.org/abs/2604.08232) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-02 | [MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction](https://arxiv.org/abs/2604.01600) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-01 | [From Baselines to Preferences: A Comparative Study of LoRA/QLoRA and Preference Optimization for Mental Health Text Classification](https://arxiv.org/abs/2604.00773) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-01 | [STAR: Mitigating Cascading Errors in Spatial Reasoning via Turn-point Alignment and Segment-level DPO](https://arxiv.org/abs/2604.00558) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-01 | [A Reasoning-Enabled Vision-Language Foundation Model for Chest X-ray Interpretation](https://arxiv.org/abs/2604.00493) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-27 | [DeepTaxon: An Interpretable Retrieval-Augmented Multimodal Framework for Unified Species Identification and Discovery](https://arxiv.org/abs/2604.24029) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-23 | [Job Skill Extraction via LLM-Centric Multi-Module Framework](https://arxiv.org/abs/2604.21525) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-22 | [HyLaR: Hybrid Latent Reasoning with Decoupled Policy Optimization](https://arxiv.org/abs/2604.20328) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-19 | [PBSBench: A Multi-Level Vision-Language Framework and Benchmark for Hematopathology Whole Slide Image Interpretation](https://arxiv.org/abs/2604.17570) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-17 | [AVRT: Audio-Visual Reasoning Transfer through Single-Modality Teachers](https://arxiv.org/abs/2604.16617) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-15 | [Towards Scalable Lightweight GUI Agents via Multi-role Orchestration](https://arxiv.org/abs/2604.13488) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-14 | [Boosting Visual Instruction Tuning with Self-Supervised Guidance](https://arxiv.org/abs/2604.12966) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-13 | [OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video](https://arxiv.org/abs/2604.11102) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-08 | [Multi-Turn Reasoning LLMs for Task Offloading in Mobile Edge Computing](https://arxiv.org/abs/2604.07148) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-06 | [CLEAR: Unlocking Generative Potential for Degraded Image Understanding in Unified Multimodal Models](https://arxiv.org/abs/2604.04780) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-02 | [Captioning Daily Activity Images in Early Childhood Education: Benchmark and Algorithm](https://arxiv.org/abs/2604.01941) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-01 | [MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2604.00513) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-30 | [PhyCo: Learning Controllable Physical Priors for Generative Motion](https://arxiv.org/abs/2604.28169) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-30 | [XekRung Technical Report](https://arxiv.org/abs/2605.00072) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-29 | [EXPO-SQL: Execution-based Clause-level Policy Optimization for Text-to-SQL](https://arxiv.org/abs/2606.23693) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-29 | [Delineating Knowledge Boundaries for Honest Large Vision-Language Models](https://arxiv.org/abs/2604.26419) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-28 | [QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding](https://arxiv.org/abs/2604.25884) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-28 | [Benchmarking and Improving GUI Agents in High-Dynamic Environments](https://arxiv.org/abs/2604.25380) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-27 | [DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents](https://arxiv.org/abs/2604.24320) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-27 | [IRIS: Interleaved Reinforcement with Incremental Staged Curriculum for Cross-Lingual Mathematical Reasoning](https://arxiv.org/abs/2604.24114) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-26 | [DLM: Unified Decision Language Models for Offline Multi-Agent Sequential Decision Making](https://arxiv.org/abs/2604.23557) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-23 | [Removing Sandbagging in LLMs by Training with Weak Supervision](https://arxiv.org/abs/2604.22082) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-22 | [Video-ToC: Video Tree-of-Cue Reasoning](https://arxiv.org/abs/2604.20473) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-21 | [Reasoning-Aware AIGC Detection via Alignment and Reinforcement](https://arxiv.org/abs/2604.19172) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-21 | [Reinforcement Learning Improves LLM Accuracy and Reasoning in Disease Classification from Radiology Reports](https://arxiv.org/abs/2604.19060) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-21 | [Fine-Tuning Small Reasoning Models for Quantum Field Theory](https://arxiv.org/abs/2604.18936) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-20 | [Training and Agentic Inference Strategies for LLM-based Manim Animation Generation](https://arxiv.org/abs/2604.18364) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-20 | [Medical Image Understanding Improves Survival Prediction via Visual Instruction Tuning](https://arxiv.org/abs/2604.18250) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-20 | [Neural Garbage Collection: Learning to Forget while Learning to Reason](https://arxiv.org/abs/2604.18002) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-19 | [Characterizing Model-Native Skills](https://arxiv.org/abs/2604.17614) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-18 | [Small Model as Master Orchestrator: Learning Unified Agent-Tool Orchestration with Parallel Subtask Decomposition](https://arxiv.org/abs/2604.17009) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-16 | [Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis](https://arxiv.org/abs/2604.14877) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-15 | [FoodSense: A Multisensory Food Dataset and Benchmark for Predicting Taste, Smell, Texture, and Sound from Images](https://arxiv.org/abs/2604.14388) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-15 | [MAny: Merge Anything for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2604.14016) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-14 | [CSRP: Chain-of-Thought Reasoning for Chinese Text Correction via Reinforcement Learning with Efficiency-Aware Rewards](https://arxiv.org/abs/2606.00020) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-13 | [Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach](https://arxiv.org/abs/2604.11547) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-12 | [TInR: Exploring Tool-Internalized Reasoning in Large Language Models](https://arxiv.org/abs/2604.10788) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-12 | [Beyond Compliance: A Resistance-Informed Motivation Reasoning Framework for Challenging Psychological Client Simulation](https://arxiv.org/abs/2604.10507) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-10 | [PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos](https://arxiv.org/abs/2604.08991) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-10 | [Training Language Models for Bilateral Trade with Private Information](https://arxiv.org/abs/2604.16472) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [ExecTune: Effective Steering of Black-Box LLMs with Guide Models](https://arxiv.org/abs/2604.09741) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment](https://arxiv.org/abs/2604.08212) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [Multimodal Latent Reasoning via Predictive Embeddings](https://arxiv.org/abs/2604.08065) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [AnomalyAgent: Agentic Industrial Anomaly Synthesis via Tool-Augmented Reinforcement Learning](https://arxiv.org/abs/2604.07900) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [Data Selection for Multi-turn Dialogue Instruction Tuning](https://arxiv.org/abs/2604.07892) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-08 | [CLEAR: Context Augmentation from Contrastive Learning of Experience via Agentic Reflection](https://arxiv.org/abs/2604.07487) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-08 | [STRIDE-ED: A Strategy-Grounded Stepwise Reasoning Framework for Empathetic Dialogue Systems](https://arxiv.org/abs/2604.07100) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-08 | [From Context Shift to Stylistic Collapse: Why Training Objectives Matter More Than Scale](https://arxiv.org/abs/2605.28826) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-07 | [Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning](https://arxiv.org/abs/2604.06385) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-07 | [Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment](https://arxiv.org/abs/2604.05614) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-06 | [QED-Nano: Teaching a Tiny Model to Prove Hard Theorems](https://arxiv.org/abs/2604.04898) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-06 | [Synthetic Sandbox for Training Machine Learning Engineering Agents](https://arxiv.org/abs/2604.04872) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-06 | [Long-Context Reasoning Through Proxy-Based Chain-of-Thought Tuning](https://arxiv.org/abs/2605.20201) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-06 | [DeonticBench: A Benchmark for Reasoning over Rules](https://arxiv.org/abs/2604.04443) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-05 | [Evaluation of Embedding-Based and Generative Methods for LLM-Driven Document Classification: Opportunities and Challenges](https://arxiv.org/abs/2604.04997) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-04 | [Structural Rigidity and the 57-Token Predictive Window: A Physical Framework for Inference-Layer Governability in Large Language Models](https://arxiv.org/abs/2604.03524) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-01 | [Optimsyn: Influence-Guided Rubrics Optimization for Synthetic Data Generation](https://arxiv.org/abs/2604.00536) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-30 | [Attention Is Where You Attack](https://arxiv.org/abs/2605.00236) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-30 | [Why Does Grounding Hurt Medical VQA? Benchmarking, Diagnosis, and Fine-Tuning of Vision-Language Models](https://arxiv.org/abs/2604.27720) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-28 | [What Makes Good Instruction-Tuning Data? An In-Context Learning Perspective](https://arxiv.org/abs/2604.25132) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-27 | [Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases](https://arxiv.org/abs/2604.24972) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [TTS-PRISM: A Perceptual Reasoning and Interpretable Speech Model for Fine-Grained Diagnosis](https://arxiv.org/abs/2604.22225) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [Zero-Shot Detection of LLM-Generated Text via Implicit Reward Model](https://arxiv.org/abs/2604.21223) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [Serialisation Strategy Matters: How FHIR Data Format Affects LLM Medication Reconciliation](https://arxiv.org/abs/2604.21076) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech](https://arxiv.org/abs/2604.21045) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [Location Not Found: Exposing Implicit Local and Global Biases in Multilingual LLMs](https://arxiv.org/abs/2604.19292) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [$R^2$-dLLM: Accelerating Diffusion Large Language Models via Spatio-Temporal Redundancy Reduction](https://arxiv.org/abs/2604.18995) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [Efficient Low-Resource Language Adaptation via Multi-Source Dynamic Logit Fusion](https://arxiv.org/abs/2604.18106) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-19 | [Rethinking Data Curation in LLM Training: Online Reweighting Offers Better Generalization than Offline Methods](https://arxiv.org/abs/2605.05227) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-17 | [Beyond a Single Frame: Multi-Frame Spatially Grounded Reasoning Across Volumetric MRI](https://arxiv.org/abs/2604.15808) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [DharmaOCR: Specialized Small Language Models for Structured OCR that outperform Open-Source and Commercial Baselines](https://arxiv.org/abs/2604.14314) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://arxiv.org/abs/2604.14149) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution](https://arxiv.org/abs/2604.13787) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness](https://arxiv.org/abs/2604.13006) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding](https://arxiv.org/abs/2604.12812) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://arxiv.org/abs/2604.12374) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-12 | [Instruction Data Selection via Answer Divergence](https://arxiv.org/abs/2604.10448) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-11 | [Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion](https://arxiv.org/abs/2604.10326) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-11 | [FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data](https://arxiv.org/abs/2604.10297) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [SemEnrich: Self-Supervised Semantic Enrichment of Radiology Reports for Vision-Language Learning](https://arxiv.org/abs/2604.09887) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [Low-Data Supervised Adaptation Outperforms Prompting for Cloud Segmentation Under Domain Shift](https://arxiv.org/abs/2604.08956) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [GRASP: Grounded CoT Reasoning with Dual-Stage Optimization for Multimodal Sarcasm Target Identification](https://arxiv.org/abs/2604.08879) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [RightNow-Arabic-0.5B-Turbo: An Open Sub-1B Arabic Language Model via Vocabulary Injection and Edge-First Deployment](https://arxiv.org/abs/2605.28827) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [FORGE: Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://arxiv.org/abs/2604.07413) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Toward a universal foundation model for graph-structured data](https://arxiv.org/abs/2604.06391) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [How LLMs Follow Instructions: Skillful Coordination, Not a Universal Mechanism](https://arxiv.org/abs/2604.06015) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-06 | [A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models](https://arxiv.org/abs/2604.04488) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-05 | [Extracting and Steering Emotion Representations in Small Language Models: A Methodological Comparison](https://arxiv.org/abs/2604.04064) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason](https://arxiv.org/abs/2604.15350) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [Where Does Robustness Live? Neuron-Guided Adaptation for Retrieval-Augmented Language Models](https://arxiv.org/abs/2604.02194) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models](https://arxiv.org/abs/2604.01404) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [Reasoning Shift: How Context Silently Shortens LLM Reasoning](https://arxiv.org/abs/2604.01161) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [The Overlooked Repetitive Lengthening Form in Sentiment Analysis](https://arxiv.org/abs/2604.01268) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks](https://arxiv.org/abs/2604.00778) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [TRIMS: Trajectory-Ranked Instruction Masked Supervision for Diffusion Language Models](https://arxiv.org/abs/2604.00666) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis](https://arxiv.org/abs/2604.07361) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-16 | [WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training](https://arxiv.org/abs/2604.14932) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-04-28 | [When Errors Can Be Beneficial: A Categorization of Imperfect Rewards for Policy Gradient](https://arxiv.org/abs/2604.25872) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-04-14 | [Nucleus-Image: Sparse MoE for Image Generation](https://arxiv.org/abs/2604.12163) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-04-30 | [TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization](https://arxiv.org/abs/2605.00224) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-28 | [Backtranslation Augmented Direct Preference Optimization for Neural Machine Translation](https://arxiv.org/abs/2604.25702) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-21 | [HP-Edit: A Human-Preference Post-Training Framework for Image Editing](https://arxiv.org/abs/2604.19406) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-02 | [VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation](https://arxiv.org/abs/2604.02467) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-30 | [Wasserstein Distributionally Robust Regret Optimization for Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2605.00155) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-19 | [OPSDL: On-Policy Self-Distillation for Long-Context Language Models](https://arxiv.org/abs/2604.17535) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-30 | [Learning from Disagreement: Clinician Overrides as Implicit Preference Signals for Clinical AI in Value-Based Care](https://arxiv.org/abs/2604.28010) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-29 | [Uncertainty-Aware Reward Discounting for Mitigating Reward Hacking](https://arxiv.org/abs/2604.26360) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-27 | [Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization](https://arxiv.org/abs/2604.24952) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-24 | [CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation](https://arxiv.org/abs/2604.22274) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-21 | [Policy Gradient Primal-Dual Method for Safe Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2604.19024) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-20 | [ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System](https://arxiv.org/abs/2604.18789) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-14 | [Visual Preference Optimization with Rubric Rewards](https://arxiv.org/abs/2604.13029) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-13 | [OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2604.11477) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-09 | [Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling](https://arxiv.org/abs/2604.08178) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-08 | [Raon-Speech Technical Report](https://arxiv.org/abs/2605.23912) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-08 | [ReflectRM: Boosting Generative Reward Models via Self-Reflection within a Unified Judgment Framework](https://arxiv.org/abs/2604.07506) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-08 | [VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis](https://arxiv.org/abs/2604.07210) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-03 | [Mitigating Reward Hacking in RLHF via Advantage Sign Robustness](https://arxiv.org/abs/2604.02986) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-03 | [Beyond Semantic Manipulation: Token-Space Attacks on Reward Models](https://arxiv.org/abs/2604.02686) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-27 | [Hindsight Preference Optimization for Financial Time Series Advisory](https://arxiv.org/abs/2604.23988) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-20 | [PARM: Pipeline-Adapted Reward Model](https://arxiv.org/abs/2604.18327) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-13 | [GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses](https://arxiv.org/abs/2604.11924) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-09 | [Self-Debias: Self-correcting for Debiasing Large Language Models](https://arxiv.org/abs/2604.08243) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-02 | [ThinknCheck: Grounded Claim Verification with Compact, Reasoning-Driven, and Interpretable Models](https://arxiv.org/abs/2604.01652) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-30 | [FiLMMeD: Feature-wise Linear Modulation for Cross-Problem Multi-Depot Vehicle Routing](https://arxiv.org/abs/2604.28102) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-22 | [Where Reasoning Breaks: Logic-Aware Path Selection by Controlling Logical Connectives in LLMs Reasoning Chains](https://arxiv.org/abs/2604.20564) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-21 | [The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models](https://arxiv.org/abs/2604.19139) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [PRISMA: Preference-Reinforced Self-Training Approach for Interpretable Emotionally Intelligent Negotiation Dialogues](https://arxiv.org/abs/2604.18354) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-19 | [Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier](https://arxiv.org/abs/2604.17573) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-19 | [Guardrails in Logit Space: Safety Token Regularization for LLM Alignment](https://arxiv.org/abs/2604.17210) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-15 | [Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges](https://arxiv.org/abs/2604.13602) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-14 | [Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization](https://arxiv.org/abs/2604.13175) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-06 | [MolDA: Molecular Understanding and Generation via Large Language Diffusion Model](https://arxiv.org/abs/2604.04403) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-03 | [SDVDiag: Using Context-Aware Causality Mining for the Diagnosis of Connected Vehicle Functions](https://arxiv.org/abs/2604.03391) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-02 | [Optimizing RAG Rerankers with LLM Feedback via Reinforcement Learning](https://arxiv.org/abs/2604.02091) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-28 | [Three Models of RLHF Annotation: Extension, Evidence, and Authority](https://arxiv.org/abs/2604.25895) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-27 | [ViPO: Visual Preference Optimization at Scale](https://arxiv.org/abs/2604.24953) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-27 | [Leveraging Human Feedback for Semantically-Relevant Skill Discovery](https://arxiv.org/abs/2604.24127) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-26 | [Structural Enforcement of Goal Integrity in AI Agents via Separation-of-Powers Architecture](https://arxiv.org/abs/2604.23646) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-23 | [When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](https://arxiv.org/abs/2604.21911) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-23 | [Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models](https://arxiv.org/abs/2604.21896) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-23 | [Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning](https://arxiv.org/abs/2604.21249) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-22 | [MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment](https://arxiv.org/abs/2604.20685) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-20 | [S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models](https://arxiv.org/abs/2604.18512) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-20 | [Mitigating Multimodal Hallucination via Phase-wise Self-reward](https://arxiv.org/abs/2604.17982) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-20 | [Reverse Constitutional AI: A Framework for Controllable Toxic Data Generation via Probability-Clamped RLAIF](https://arxiv.org/abs/2604.17769) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-20 | [Efficient Federated RLHF via Zeroth-Order Policy Optimization](https://arxiv.org/abs/2604.17747) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-16 | [The Possibility of Artificial Intelligence Becoming a Subject and the Alignment Problem](https://arxiv.org/abs/2604.14990) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-16 | [RaTA-Tool: Retrieval-based Tool Selection with Multimodal Large Language Models](https://arxiv.org/abs/2604.14951) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-15 | [On Cost-Effective LLM-as-a-Judge Improvement Techniques](https://arxiv.org/abs/2604.13717) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-13 | [Utilizing and Calibrating Hindsight Process Rewards via Reinforcement with Mutual Information Self-Evaluation](https://arxiv.org/abs/2604.11611) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-13 | [Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization](https://arxiv.org/abs/2604.11259) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-12 | [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](https://arxiv.org/abs/2604.10727) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-08 | [The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence](https://arxiv.org/abs/2604.06621) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-06 | [SenseAI: A Human-in-the-Loop Dataset for RLHF-Aligned Financial Sentiment Reasoning](https://arxiv.org/abs/2604.05135) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-06 | [One Model for All: Multi-Objective Controllable Language Models](https://arxiv.org/abs/2604.04497) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-05 | [APPA: Adaptive Preference Pluralistic Alignment for Fair Federated RLHF of LLMs](https://arxiv.org/abs/2604.04261) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-05 | [SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress](https://arxiv.org/abs/2604.03941) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-03 | [Generalization Limits of Reinforcement Learning Alignment](https://arxiv.org/abs/2604.02652) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-29 | [Translating Under Pressure: Domain-Aware LLMs for Crisis Communication](https://arxiv.org/abs/2604.26597) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-28 | [Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas](https://arxiv.org/abs/2604.26120) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-27 | [Intrinsic Mutual Information as a Modulator for Preference Optimization](https://arxiv.org/abs/2604.24804) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-24 | [Multilingual Refusal Alignment for Safer Large Language Models](https://arxiv.org/abs/2606.07535) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-22 | [HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs](https://arxiv.org/abs/2604.20140) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-21 | [DT2IT-MRM: Debiased Preference Construction and Iterative Training for Multimodal Reward Modeling](https://arxiv.org/abs/2604.19544) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-21 | [HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing](https://arxiv.org/abs/2604.19274) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-20 | [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](https://arxiv.org/abs/2604.18239) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-19 | [HeadRank: Decoding-Free Passage Reranking via Preference-Aligned Attention Heads](https://arxiv.org/abs/2604.17237) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-17 | [CiPO: Counterfactual Unlearning for Large Reasoning Models through Iterative Preference Optimization](https://arxiv.org/abs/2604.15847) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-17 | [Towards Robust Endogenous Reasoning: Unifying Drift Adaptation in Non-Stationary Tuning](https://arxiv.org/abs/2604.15705) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-17 | [GroupDPO: Memory efficient Group-wise Direct Preference Optimization](https://arxiv.org/abs/2604.15602) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-15 | [Don't Let the Video Speak: Audio-Contrastive Preference Optimization for Audio-Visual Language Models](https://arxiv.org/abs/2604.14129) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-15 | [Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate](https://arxiv.org/abs/2604.13551) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-10 | [Think Less, Know More: State-Aware Reasoning Compression with Knowledge Guidance for Efficient Reasoning](https://arxiv.org/abs/2604.09150) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [Decomposing the Delta: What Do Models Actually Learn from Preference Pairs?](https://arxiv.org/abs/2604.08723) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-08 | [Multi-Faceted Self-Consistent Preference Alignment for Query Rewriting in Conversational Search](https://arxiv.org/abs/2604.06771) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-07 | [Limits of Difficulty Scaling: Hard Samples Yield Diminishing Returns in GRPO-Tuned SLMs](https://arxiv.org/abs/2604.06298) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-07 | [JD-BP: A Joint-Decision Generative Framework for Auto-Bidding and Pricing](https://arxiv.org/abs/2604.05845) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-07 | [Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning](https://arxiv.org/abs/2604.05756) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-07 | [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](https://arxiv.org/abs/2604.05445) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-06 | [Offline RL for Adaptive Policy Retrieval in Prior Authorization](https://arxiv.org/abs/2604.05125) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-05 | [Shorter, but Still Trustworthy? An Empirical Study of Chain-of-Thought Compression](https://arxiv.org/abs/2604.04120) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-03 | [XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis](https://arxiv.org/abs/2604.02695) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-02 | [OpenGo: An OpenClaw-Based Robotic Dog with Real-Time Skill Switching](https://arxiv.org/abs/2604.01708) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-30 | [Mind the Gap: Structure-Aware Consistency in Preference Learning](https://arxiv.org/abs/2604.27733) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-29 | [LATTICE: Evaluating Decision Support Utility of Crypto Agents](https://arxiv.org/abs/2604.26235) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-28 | [reward-lens: A Mechanistic Interpretability Library for Reward Models](https://arxiv.org/abs/2604.26130) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [Reward Models Are Secretly Value Functions: Temporally Coherent Reward Modeling](https://arxiv.org/abs/2604.22981) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [Large Language Models Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure](https://arxiv.org/abs/2604.20652) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [Building a Precise Video Language with Human-AI Oversight](https://arxiv.org/abs/2604.21718) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch](https://arxiv.org/abs/2605.15204) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-19 | [AIRA: AI-Induced Risk Audit: A Structured Inspection Framework for AI-Generated Code](https://arxiv.org/abs/2604.17587) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [$π$-Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data](https://arxiv.org/abs/2604.14054) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [Relational Preference Encoding in Looped Transformer Internal States](https://arxiv.org/abs/2604.09870) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [The Accountability Horizon: An Impossibility Theorem for Governing Human-Agent Collectives](https://arxiv.org/abs/2604.07778) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [CoFi-PGMA: Counterfactual Policy Gradients under Filtered Feedback for Multi-Agent LLMs](https://arxiv.org/abs/2604.22785) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [Preferential Bayesian Optimization with Crash Feedback](https://arxiv.org/abs/2604.01776) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [Self-Distilled RLVR](https://arxiv.org/abs/2604.03128) | arxiv-monthly-backfill | 19 | `needs-review` |
+| 2026-04-08 | [Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning](https://arxiv.org/abs/2605.02913) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-04-27 | [Improving Vision-language Models with Perception-centric Process Reward Models](https://arxiv.org/abs/2604.24583) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-04-23 | [Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning](https://arxiv.org/abs/2604.22074) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-04-20 | [Prioritizing the Best: Incentivizing Reliable Multimodal Reasoning by Rewarding Beyond Answer Correctness](https://arxiv.org/abs/2604.18892) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-04-09 | [An Imperfect Verifier is Good Enough: Learning with Noisy Rewards](https://arxiv.org/abs/2604.07666) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-04-25 | [Hidden States Know Where Reasoning Diverges: Credit Assignment via Span-Level Wasserstein Distance](https://arxiv.org/abs/2604.23318) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-04-27 | [Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](https://arxiv.org/abs/2604.24198) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-04-25 | [V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think](https://arxiv.org/abs/2604.23380) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-04-22 | [SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models](https://arxiv.org/abs/2604.20705) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-04-13 | [Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision](https://arxiv.org/abs/2604.12002) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-04-09 | [Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data](https://arxiv.org/abs/2604.08322) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-04-30 | [AesRM: Improving Video Aesthetics with Expert-Level Feedback](https://arxiv.org/abs/2604.28078) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-22 | [V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization](https://arxiv.org/abs/2604.20755) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-21 | [Learning to Credit the Right Steps: Objective-aware Process Optimization for Visual Generation](https://arxiv.org/abs/2604.19234) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-14 | [PubSwap: Public-Data Off-Policy Coordination for Federated RLVR](https://arxiv.org/abs/2604.12160) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-10 | [Aryabhata 2: Scaling Reinforcement Learning for Advanced STEM Reasoning](https://arxiv.org/abs/2605.28829) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-06 | [Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems](https://arxiv.org/abs/2604.04767) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-02 | [Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing](https://arxiv.org/abs/2604.02288) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-02 | [Apriel-1.5-OpenReasoner: RL Post-Training for General-Purpose and Efficient Reasoning](https://arxiv.org/abs/2604.02007) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-28 | [Granularity-Regulated Adaptive Computational Efficiency for Optimal Verification in Test-Time Scaling](https://arxiv.org/abs/2606.19354) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-28 | [JURY-RL: Votes Propose, Proofs Dispose for Label-Free RLVR](https://arxiv.org/abs/2604.25419) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-22 | [GRPO-VPS: Enhancing Group Relative Policy Optimization with Verifiable Process Supervision for Effective Reasoning](https://arxiv.org/abs/2604.20659) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-20 | [OGER: A Robust Offline-Guided Exploration Reward for Hybrid Reinforcement Learning](https://arxiv.org/abs/2604.18530) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-20 | [QuantumQA: Enhancing Scientific Reasoning via Physics-Consistent Dataset and Verification-Aware Reinforcement Learning](https://arxiv.org/abs/2604.18176) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-19 | [MedPRMBench: A Fine-grained Benchmark for Process Reward Models in Medical Reasoning](https://arxiv.org/abs/2604.17282) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-17 | [AgentV-RL: Scaling Reward Modeling with Agentic Verifier](https://arxiv.org/abs/2604.16004) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-16 | [LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking](https://arxiv.org/abs/2604.15149) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-12 | [Efficient Process Reward Modeling via Contrastive Mutual Information](https://arxiv.org/abs/2604.10660) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-10 | [Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward](https://arxiv.org/abs/2604.09748) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-06 | [Teaching Language Models to Forecast Research Success Through Comparative Idea Evaluation](https://arxiv.org/abs/2605.21491) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-06 | [Delay, Plateau, or Collapse: Evaluating the Impact of Systematic Verification Error on RLVR](https://arxiv.org/abs/2605.02909) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-04 | [OASES: Outcome-Aligned Search-Evaluation Co-Training for Agentic Search](https://arxiv.org/abs/2604.03675) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-01 | [Execution-Verified Reinforcement Learning for Optimization Modeling](https://arxiv.org/abs/2604.00442) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-27 | [DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Discrete Diffusion Models](https://arxiv.org/abs/2604.24357) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-25 | [Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA](https://arxiv.org/abs/2604.23336) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-18 | [EasyVideoR1: Easier RL for Video Understanding](https://arxiv.org/abs/2604.16893) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-14 | [Peer-Predictive Self-Training for Language Model Reasoning](https://arxiv.org/abs/2604.13356) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-10 | [Visually-Guided Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2604.09349) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-08 | [Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions](https://arxiv.org/abs/2604.07277) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-08 | [SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval](https://arxiv.org/abs/2604.07415) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-02 | [Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models](https://arxiv.org/abs/2604.01840) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-30 | [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://arxiv.org/abs/2604.28185) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-27 | [Stabilizing Efficient Reasoning with Step-Level Advantage Selection](https://arxiv.org/abs/2604.24003) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-23 | [Reinforcing 3D Understanding in Point-VLMs via Geometric Reward Credit Assignment](https://arxiv.org/abs/2604.21160) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-21 | [Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic](https://arxiv.org/abs/2604.19567) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-15 | [AsymmetryZero: A Framework for Operationalizing Human Expert Preferences as Semantic Evals](https://arxiv.org/abs/2605.04083) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-15 | [From Prediction to Justification: Aligning Sentiment Reasoning with Human Rationale via Reinforcement Learning](https://arxiv.org/abs/2604.13398) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-13 | [You Only Judge Once: Multi-response Reward Modeling in a Single Forward Pass](https://arxiv.org/abs/2604.10966) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-10 | [ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning](https://arxiv.org/abs/2604.08990) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-09 | [Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization](https://arxiv.org/abs/2604.08476) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-02 | [Do We Need Frontier Models to Verify Mathematical Proofs?](https://arxiv.org/abs/2604.02450) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-02 | [Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models](https://arxiv.org/abs/2604.02315) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-30 | [ANCORA: Learning to Question via Manifold-Anchored Self-Play for Verifiable Reasoning](https://arxiv.org/abs/2604.27644) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-29 | [AdvDMD: Adversarial Reward Meets DMD For High-Quality Few-Step Generation](https://arxiv.org/abs/2604.28126) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-29 | [FutureWorld: A Live Reinforcement Learning Environment for Predictive Agents with Real-World Outcome Rewards](https://arxiv.org/abs/2604.26733) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-24 | [CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution](https://arxiv.org/abs/2604.22192) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-24 | [Behavioral Canaries: Auditing Private Retrieved Context Usage in RL Fine-Tuning](https://arxiv.org/abs/2604.22191) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-21 | [Rethinking Reinforcement Fine-Tuning in LVLM: Convergence, Reward Decomposition, and Generalization](https://arxiv.org/abs/2604.19857) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-21 | [AeSlides: Incentivizing Aesthetic Layout in LLM-Based Slide Generation via Verifiable Rewards](https://arxiv.org/abs/2604.22840) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-21 | [Guiding Distribution Matching Distillation with Gradient-Based Reinforcement Learning](https://arxiv.org/abs/2604.19009) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [FUSE: Ensembling Verifiers with Zero Labeled Data](https://arxiv.org/abs/2604.18547) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [Learning from Less: Measuring the Effectiveness of RLVR in Low Data and Compute Regimes](https://arxiv.org/abs/2604.18381) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [Process Reward Models Meet Planning: Generating Precise and Scalable Datasets for Step-Level Rewards](https://arxiv.org/abs/2604.17957) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection](https://arxiv.org/abs/2604.17949) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [HEALing Entropy Collapse: Enhancing Exploration in Few-Shot RLVR via Hybrid-Domain Entropy Dynamics Alignment](https://arxiv.org/abs/2604.17928) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-19 | [TinyJudge: Unverifiable Constraint Alignment via Lightweight Specialist Ensembles](https://arxiv.org/abs/2606.07520) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-18 | [MCPO: Mastery-Consolidated Policy Optimization for Large Reasoning Models](https://arxiv.org/abs/2604.16972) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-18 | [Incentivizing Parametric Knowledge via Reinforcement Learning with Verifiable Rewards for Cross-Cultural Entity Translation](https://arxiv.org/abs/2604.16881) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-18 | [AutoOR: Scalably Post-training LLMs to Autoformulate Operations Research Problems](https://arxiv.org/abs/2604.16804) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-17 | [Detecting and Suppressing Reward Hacking with Gradient Fingerprints](https://arxiv.org/abs/2604.16242) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-17 | [Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO](https://arxiv.org/abs/2606.05174) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-16 | [SCATR: Simple Calibrated Test-Time Ranking](https://arxiv.org/abs/2604.16535) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-16 | [Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models](https://arxiv.org/abs/2604.14920) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-15 | [From $P(y\|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space](https://arxiv.org/abs/2604.14142) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-15 | [DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off](https://arxiv.org/abs/2604.13902) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-15 | [C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences](https://arxiv.org/abs/2604.13618) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-14 | [Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization](https://arxiv.org/abs/2604.13197) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-14 | [PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning](https://arxiv.org/abs/2604.12652) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-14 | [Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO](https://arxiv.org/abs/2605.04077) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-13 | [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://arxiv.org/abs/2604.11784) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-13 | [Triviality Corrected Endogenous Reward](https://arxiv.org/abs/2604.11522) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-13 | [Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration](https://arxiv.org/abs/2604.11446) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-13 | [Where Hindsight Credit Can Reside: A Signed-Capacity View of Token Updates in RLVR](https://arxiv.org/abs/2604.11056) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-11 | [ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents](https://arxiv.org/abs/2604.10096) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-11 | [Adapt to Thrive! Adaptive Power-Mean Policy Optimization for Improved LLM Reasoning](https://arxiv.org/abs/2605.04066) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-11 | [AI Achieves a Perfect LSAT Score](https://arxiv.org/abs/2604.10034) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-10 | [Instructing LLMs to Negotiate using Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2604.09855) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-10 | [Process Reward Agents for Steering Knowledge-Intensive Reasoning](https://arxiv.org/abs/2604.09482) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-10 | [PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment](https://arxiv.org/abs/2604.08986) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-09 | [SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions](https://arxiv.org/abs/2604.08477) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-09 | [TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis](https://arxiv.org/abs/2604.08468) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-09 | [SAT: Balancing Reasoning Accuracy and Efficiency with Stepwise Adaptive Thinking](https://arxiv.org/abs/2604.07922) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-09 | [SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents](https://arxiv.org/abs/2604.07791) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-09 | [Mitigating Distribution Sharpening in Math RLVR via Distribution-Aligned Hint Synthesis and Backward Hint Annealing](https://arxiv.org/abs/2604.07747) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-08 | [Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://arxiv.org/abs/2604.06628) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-07 | [Multi-Granularity Reasoning for Image Quality Assessment via Attribute-Aware Reinforcement Learning to Rank](https://arxiv.org/abs/2604.09704) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-07 | [PRISM-MCTS: Learning from Reasoning Trajectories with Metacognitive Reflection](https://arxiv.org/abs/2604.05424) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-06 | [Asymmetric Advantage Modulation Calibrates Entropy Dynamics in RLVR](https://arxiv.org/abs/2604.04894) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-05 | [Can LLMs Learn to Reason Robustly under Noisy Supervision?](https://arxiv.org/abs/2604.03993) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-03 | [Reinforcement Learning-based Semi-supervised Knowledge Distillation with LLM-as-a-Judge](https://arxiv.org/abs/2604.02621) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-01 | [Policy Improvement Reinforcement Learning](https://arxiv.org/abs/2604.00860) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-01 | [Learning to Hint for Reinforcement Learning](https://arxiv.org/abs/2604.00698) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-30 | [From Coarse to Fine: Benchmarking and Reward Modeling for Writing-Centric Generation Tasks](https://arxiv.org/abs/2604.27453) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-28 | [How Can Reinforcement Learning Achieve Expert-level Placement?](https://arxiv.org/abs/2604.25191) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-25 | [Process Supervision of Confidence Margin for Calibrated LLM Reasoning](https://arxiv.org/abs/2604.23333) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-21 | [Lost in Translation: Do LVLM Judges Generalize Across Languages?](https://arxiv.org/abs/2604.19405) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-20 | [Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence](https://arxiv.org/abs/2604.18292) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-20 | [AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation](https://arxiv.org/abs/2604.18240) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-20 | [Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models](https://arxiv.org/abs/2604.18107) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-20 | [Learning to Correct: Calibrated Reinforcement Learning for Multi-Attempt Chain-of-Thought](https://arxiv.org/abs/2604.17912) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-18 | [Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning](https://arxiv.org/abs/2604.16966) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-16 | [GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation](https://arxiv.org/abs/2604.14878) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-15 | [Enhancing LLM-based Search Agents via Contribution Weighted Group Relative Policy Optimization](https://arxiv.org/abs/2604.14267) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-13 | [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](https://arxiv.org/abs/2604.11626) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-09 | [ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection](https://arxiv.org/abs/2604.08326) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-08 | [ConsistRM: Improving Generative Reward Models via Consistency-Aware Self-Training](https://arxiv.org/abs/2604.07484) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-07 | [Can Large Language Models Reinvent Foundational Algorithms?](https://arxiv.org/abs/2604.05716) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-07 | [TRACE: Capability-Targeted Agentic Training](https://arxiv.org/abs/2604.05336) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-06 | [Is a Picture Worth a Thousand Words? Adaptive Multimodal Fact-Checking with Visual Evidence Necessity](https://arxiv.org/abs/2604.04692) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-03 | [TABQAWORLD: Optimizing Multimodal Reasoning for Multi-Turn Table Question Answering](https://arxiv.org/abs/2604.03393) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-03 | [ARM: Advantage Reward Modeling for Long-Horizon Manipulation](https://arxiv.org/abs/2604.03037) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-03 | [R2-Write: Reflection and Revision for Open-Ended Writing with Deep Reasoning](https://arxiv.org/abs/2604.03004) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-03 | [Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA](https://arxiv.org/abs/2604.02965) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-01 | [ReinDriveGen: Reinforcement Post-Training for Out-of-Distribution Driving Scene Generation](https://arxiv.org/abs/2604.01129) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-28 | [HIVE: Hidden-Evidence Verification for Hallucination Detection in Diffusion Large Language Models](https://arxiv.org/abs/2604.26139) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-27 | [Agentic AI for Remote Sensing: Technical Challenges and Research Directions](https://arxiv.org/abs/2604.24919) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-22 | [WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning](https://arxiv.org/abs/2604.20398) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-20 | [HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation](https://arxiv.org/abs/2604.18791) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-20 | [EVE: Verifiable Self-Evolution of MLLMs via Executable Visual Transformations](https://arxiv.org/abs/2604.18320) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-19 | [Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?](https://arxiv.org/abs/2604.17338) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-18 | [Abstain-R1: Calibrated Abstention and Post-Refusal Clarification via Verifiable RL](https://arxiv.org/abs/2604.17073) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-17 | [VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects](https://arxiv.org/abs/2604.16272) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-17 | [UniEditBench: A Unified and Cost-Effective Benchmark for Image and Video Editing via Distilled MLLMs](https://arxiv.org/abs/2604.15871) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-14 | [CompliBench: Benchmarking LLM Judges for Compliance Violation Detection in Dialogue Systems](https://arxiv.org/abs/2604.12312) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-10 | [SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2604.08865) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [SPARD: Self-Paced Curriculum for RL Alignment via Integrating Reward Dynamics and Data Utility](https://arxiv.org/abs/2604.07837) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-09 | [Squeeze Evolve: Unified Multi-Model Orchestration for Verifier-Free Evolution](https://arxiv.org/abs/2604.07725) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-07 | [$S^3$: Stratified Scaling Search for Test-Time in Diffusion Language Models](https://arxiv.org/abs/2604.06260) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-06 | [DualDiffusion: A Speculative Decoding Strategy for Masked Diffusion Models](https://arxiv.org/abs/2604.05250) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-06 | [Justified or Just Convincing? Error Verifiability as a Dimension of LLM Quality](https://arxiv.org/abs/2604.04418) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-30 | [Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation](https://arxiv.org/abs/2604.28011) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-30 | [WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning](https://arxiv.org/abs/2604.27629) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-30 | [Debiasing Reward Models via Causally Motivated Inference-Time Intervention](https://arxiv.org/abs/2604.27495) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-28 | [Entropy Centroids as Intrinsic Rewards for Test-Time Scaling](https://arxiv.org/abs/2604.26173) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-28 | [QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Beyond Quantum Circuits](https://arxiv.org/abs/2605.30358) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-28 | [SAFEdit: Does Multi-Agent Decomposition Resolve the Reliability Challenges of Instructed Code Editing?](https://arxiv.org/abs/2604.25737) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-28 | [The Surprising Universality of LLM Outputs: A Real-Time Verification Primitive](https://arxiv.org/abs/2604.25634) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-28 | [Making AI-Assisted Grant Evaluation Auditable without Exposing the Model](https://arxiv.org/abs/2604.25200) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-27 | [Agentic Witnessing: Pragmatic and Scalable TEE-Enabled Privacy-Preserving Auditing](https://arxiv.org/abs/2604.24203) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-27 | [Explanation Quality Assessment as Ranking with Listwise Rewards](https://arxiv.org/abs/2604.24176) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-25 | [Bridging Reasoning and Action: Hybrid LLM-RL Framework for Efficient Cross-Domain Task-Oriented Dialogue](https://arxiv.org/abs/2604.23345) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [AutoPyVerifier: Learning Compact Executable Verifiers for Large Language Model Outputs](https://arxiv.org/abs/2604.22937) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning](https://arxiv.org/abs/2604.22558) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [Measuring and Mitigating Persona Distortions from AI Writing Assistance](https://arxiv.org/abs/2604.22503) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [The Coin Flip Judge? Reliability and Bias in LLM-as-a-Judge Evaluation](https://arxiv.org/abs/2606.13685) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [MathDuels: A Self-Play Benchmark That Grows](https://arxiv.org/abs/2604.21916) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [SemanticAgent: A Semantics-Aware Framework for Text-to-SQL Data Synthesis](https://arxiv.org/abs/2604.21414) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection](https://arxiv.org/abs/2604.21282) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [CyberCertBench: Evaluating LLMs in Cybersecurity Certification Knowledge](https://arxiv.org/abs/2604.20389) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [ActuBench: A Multi-Agent LLM Pipeline for Generation and Evaluation of Actuarial Reasoning Tasks](https://arxiv.org/abs/2604.20273) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [Human-Guided Harm Recovery for Computer Use Agents](https://arxiv.org/abs/2604.18847) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs](https://arxiv.org/abs/2604.18179) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [Towards Human Motion World Models via Executable Behaviour Representations](https://arxiv.org/abs/2604.18064) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [Owner-Harm: A Missing Threat Model for AI Agent Safety](https://arxiv.org/abs/2604.18658) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-19 | [Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories](https://arxiv.org/abs/2604.17596) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-19 | [A Multi-Agent Approach for Claim Verification from Tabular Data Documents](https://arxiv.org/abs/2604.17225) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-17 | [Certified Program Synthesis with a Multi-Modal Verifier](https://arxiv.org/abs/2604.16584) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-16 | [(1D) Ordered Tokens Enable Efficient Test-Time Search](https://arxiv.org/abs/2604.15453) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-16 | [From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning](https://arxiv.org/abs/2604.15244) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [Robust Reward Modeling for Large Language Models via Causal Decomposition](https://arxiv.org/abs/2604.13833) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [QuantileMark: A Message-Symmetric Multi-bit Watermark for LLMs](https://arxiv.org/abs/2604.13786) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [Bias at the End of the Score](https://arxiv.org/abs/2604.13305) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [A Two-Stage LLM Framework for Accessible and Verified XAI Explanations](https://arxiv.org/abs/2604.12543) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering Tasks with Generative Optimization](https://arxiv.org/abs/2604.12290) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [ARGen: Affect-Reinforced Generative Augmentation towards Vision-based Dynamic Emotion Perception](https://arxiv.org/abs/2604.12255) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [TRUST Agents: A Collaborative Multi-Agent Framework for Fake News Detection, Explainable Verification, and Logic-Aware Claim Reasoning](https://arxiv.org/abs/2604.12184) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-13 | [Towards Autonomous Mechanistic Reasoning in Virtual Cells](https://arxiv.org/abs/2604.11661) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-13 | [FM-Agent: Scaling Formal Methods to Large Systems via LLM-Based Hoare-Style Reasoning](https://arxiv.org/abs/2604.11556) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-13 | [ADD for Multi-Bit Image Watermarking](https://arxiv.org/abs/2604.11491) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-11 | [Adaptive Multi-Expert Reasoning via Difficulty-Aware Routing and Uncertainty-Guided Aggregation](https://arxiv.org/abs/2604.10335) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-11 | [Reason Only When Needed: Efficient Generative Reward Modeling via Model-Internal Uncertainty](https://arxiv.org/abs/2604.10072) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision](https://arxiv.org/abs/2604.09537) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [Don't Overthink It: Inter-Rollout Action Agreement as a Free Adaptive-Compute Signal for LLM Agents](https://arxiv.org/abs/2604.08369) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [Imperfect Visual Verification for Code Edition : A Case Study on TikZ](https://arxiv.org/abs/2606.15693) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [AtomEval: Validity-Aware Atomic Evaluation of Adversarial Claim Rewriting in Fact Verification](https://arxiv.org/abs/2604.07967) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [Capture-Quiet Decomposition: A Verification Theorem for Chess Endgame Tablebases](https://arxiv.org/abs/2604.07907) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [A Statistical Framework for Auditing Behavioral Dependence and Induced Bias in LLM Judges](https://arxiv.org/abs/2604.07650) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification](https://arxiv.org/abs/2604.07622) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization](https://arxiv.org/abs/2604.07343) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [Personalizing Text-to-Image Generation to Individual Taste](https://arxiv.org/abs/2604.07427) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [Self-Preference Bias in Rubric-Based Evaluation of Large Language Models](https://arxiv.org/abs/2604.06996) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [Riemann-Bench: A Benchmark for Moonshot Mathematics](https://arxiv.org/abs/2604.06802) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Inference-Time Code Selection via Symbolic Equivalence Partitioning](https://arxiv.org/abs/2604.06485) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Evidence-Based Actor-Verifier Reasoning for Echocardiographic Agents](https://arxiv.org/abs/2604.06347) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [FinReporting: An Agentic Workflow for Localized Reporting of Cross-Jurisdiction Financial Disclosures](https://arxiv.org/abs/2604.05966) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Context-Value-Action Architecture for Value-Driven Large Language Model Agents](https://arxiv.org/abs/2604.05939) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Adversarial Robustness of Time-Series Classification for Crystal Collimator Alignment](https://arxiv.org/abs/2604.06289) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation](https://arxiv.org/abs/2604.06269) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition](https://arxiv.org/abs/2604.05279) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-06 | [IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents](https://arxiv.org/abs/2604.05157) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-06 | [Incompleteness of AI Safety Verification via Kolmogorov Complexity](https://arxiv.org/abs/2604.04876) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-06 | [From Curiosity to Caution: Mitigating Reward Hacking for Best-of-N with Pessimism](https://arxiv.org/abs/2604.04648) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-06 | [Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning](https://arxiv.org/abs/2604.04379) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-05 | [Profile-Then-Reason: Bounded Semantic Complexity for Tool-Augmented Language Agents](https://arxiv.org/abs/2604.04131) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-05 | [Cactus: Accelerating Auto-Regressive Decoding with Constrained Acceptance Speculative Sampling](https://arxiv.org/abs/2604.04987) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding](https://arxiv.org/abs/2604.03201) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [Co-Evolution of Policy and Internal Reward for Language Agents](https://arxiv.org/abs/2604.03098) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [Multi-Turn Reinforcement Learning for Tool-Calling Agents with Iterative Reward Calibration](https://arxiv.org/abs/2604.02869) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [AutoVerifier: An Agentic Automated Verification Framework Using Large Language Models](https://arxiv.org/abs/2604.02617) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [SAFE: An LLM-as-Verifier Framework for Evidence-Grounded Multi-Hop Reasoning](https://arxiv.org/abs/2604.01993) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry](https://arxiv.org/abs/2604.01985) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [What Do Claim Verification Datasets Actually Test? A Reasoning Trace Analysis](https://arxiv.org/abs/2604.01657) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [Moiré Video Authentication: A Physical Signature Against AI Video Generation](https://arxiv.org/abs/2604.01654) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [GRAZE: Grounded Refinement and Motion-Aware Zero-Shot Event Localization](https://arxiv.org/abs/2604.01383) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [Preference learning in shades of gray: Interpretable and bias-aware reward modeling for human preferences](https://arxiv.org/abs/2604.01312) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [Near-Future Policy Optimization](https://arxiv.org/abs/2604.20733) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-21 | [Infection-Reasoner: A Compact Vision-Language Model for Wound Infection Classification with Evidence-Grounded Clinical Reasoning](https://arxiv.org/abs/2604.19937) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-18 | [Freshness-Aware Prioritized Experience Replay for LLM/VLM Reinforcement Learning](https://arxiv.org/abs/2604.16918) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-29 | [Co-Evolving Policy Distillation](https://arxiv.org/abs/2604.27083) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-13 | [CSPO: Alleviating Reward Ambiguity for Structured Table-to-LaTeX Generation](https://arxiv.org/abs/2604.10918) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-19 | [Poly-EPO: Training Exploratory Reasoning Models](https://arxiv.org/abs/2604.17654) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-17 | [Debate as Reward: A Multi-Agent Reward System for Scientific Ideation via RL Post-Training](https://arxiv.org/abs/2604.16723) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [SELF-EMO: Emotional Self-Evolution from Recognition to Consistent Expression](https://arxiv.org/abs/2604.18003) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-11 | [Free Energy-Driven Reinforcement Learning with Adaptive Advantage Shaping for Unsupervised Reasoning in LLMs](https://arxiv.org/abs/2605.04065) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-28 | [How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum](https://arxiv.org/abs/2604.25907) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-13 | [Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games](https://arxiv.org/abs/2604.11741) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-12 | [SignReasoner: Compositional Reasoning for Complex Traffic Sign Understanding via Functional Structure Units](https://arxiv.org/abs/2604.10436) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-11 | [FAITH: Factuality Alignment through Integrating Trustworthiness and Honestness](https://arxiv.org/abs/2604.10189) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-08 | [Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization](https://arxiv.org/abs/2604.07165) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-08 | [Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization](https://arxiv.org/abs/2604.06777) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-04 | [Drift-Based Policy Optimization: Native One-Step Policy Learning for Online Robot Control](https://arxiv.org/abs/2604.03540) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-29 | [Distributional Alignment Games for Answer-Level Fine-Tuning](https://arxiv.org/abs/2604.27166) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-27 | [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/abs/2604.24764) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-27 | [AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation](https://arxiv.org/abs/2604.24086) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference](https://arxiv.org/abs/2604.20289) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [CAPO: Critic-Guided Action-Aligned Policy Optimization for Advancing LLM Agent Capabilities](https://arxiv.org/abs/2604.18401) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-19 | [Think before Go: Hierarchical Reasoning for Image-goal Navigation](https://arxiv.org/abs/2604.17407) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-16 | [UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards](https://arxiv.org/abs/2604.14967) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-16 | [Mean Flow Policy Optimization](https://arxiv.org/abs/2604.14698) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-16 | [Targeted Exploration via Unified Entropy Control for Reinforcement Learning](https://arxiv.org/abs/2604.14646) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [FiRe: Fine-grained Multimodal Reasoning for Enhanced Image Generation](https://arxiv.org/abs/2604.13491) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](https://arxiv.org/abs/2604.09508) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [E3-TIR: Enhanced Experience Exploitation for Tool-Integrated Reasoning](https://arxiv.org/abs/2604.09455) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](https://arxiv.org/abs/2604.08539) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-06 | [ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration](https://arxiv.org/abs/2604.04664) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [All Roads Lead to Rome: Incentivizing Divergent Thinking in Vision-Language Models](https://arxiv.org/abs/2604.00479) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents](https://arxiv.org/abs/2604.07430) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-04-18 | [The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation](https://arxiv.org/abs/2604.16830) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-04-12 | [SCOPE: Signal-Calibrated On-Policy Distillation Enhancement with Dual-Path Adaptive Weighting](https://arxiv.org/abs/2604.10688) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-09 | [On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning](https://arxiv.org/abs/2604.07944) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-15 | [TIP: Token Importance in On-Policy Distillation](https://arxiv.org/abs/2604.14084) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-12 | [Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents](https://arxiv.org/abs/2604.10674) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-09 | [Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models](https://arxiv.org/abs/2604.08527) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-06 | [DP-OPD: Differentially Private On-Policy Distillation for Language Models](https://arxiv.org/abs/2604.04461) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-04 | [SODA: Semi On-Policy Black-Box Distillation for Large Language Models](https://arxiv.org/abs/2604.03873) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-11 | [Device-Conditioned Neural Architecture Search for Efficient Robotic Manipulation](https://arxiv.org/abs/2604.10170) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-09 | [Less Approximates More: Harmonizing Performance and Confidence Faithfulness via Hybrid Post-Training for High-Stakes Tasks](https://arxiv.org/abs/2604.08454) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-07 | [Precise Aggressive Aerial Maneuvers with Sensorimotor Policies](https://arxiv.org/abs/2604.05828) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-28 | [Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers](https://arxiv.org/abs/2604.25891) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-22 | [Hybrid Policy Distillation for LLMs](https://arxiv.org/abs/2604.20244) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-30 | [Synthetic Computers at Scale for Long-Horizon Productivity Simulation](https://arxiv.org/abs/2604.28181) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-04-19 | [Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning](https://arxiv.org/abs/2604.18639) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-14 | [MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization](https://arxiv.org/abs/2604.12237) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-09 | [TOOLCAD: Exploring Tool-Using Large Language Models in Text-to-CAD Generation with Reinforcement Learning](https://arxiv.org/abs/2604.07960) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-06 | [STEER: Structured Event Evidence for Video Reasoning via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2604.04415) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-17 | [Majority Voting for Code Generation](https://arxiv.org/abs/2604.15618) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-15 | [Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning](https://arxiv.org/abs/2604.13598) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-08 | [Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning](https://arxiv.org/abs/2604.06725) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-23 | [S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images](https://arxiv.org/abs/2604.21409) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-19 | [Jupiter-N Technical Report](https://arxiv.org/abs/2604.17429) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-18 | [Step-GRPO: Internalizing Dynamic Early Exit for Efficient Reasoning](https://arxiv.org/abs/2604.16890) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-13 | [Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music](https://arxiv.org/abs/2604.10905) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-28 | [OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding](https://arxiv.org/abs/2604.25276) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-27 | [Frontier Coding Agents Can Now Implement an AlphaZero Self-Play Machine Learning Pipeline For Connect Four That Performs Comparably to an External Solver](https://arxiv.org/abs/2604.25067) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [The Essence of Balance for Self-Improving Agents in Vision-and-Language Navigation](https://arxiv.org/abs/2604.19064) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-18 | [Q-DeepSight: Incentivizing Thinking with Images for Image Quality Assessment and Refinement](https://arxiv.org/abs/2604.16858) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-18 | [Federation over Text: Insight Sharing for Multi-Agent Reasoning](https://arxiv.org/abs/2604.16778) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-17 | [AdaExplore: Failure-Driven Adaptation and Diversity-Preserving Search for Efficient Kernel Generation](https://arxiv.org/abs/2604.16625) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-16 | [Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement](https://arxiv.org/abs/2604.14989) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [Character Beyond Speech: Leveraging Role-Playing Evaluation in Audio Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2604.13804) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [EE-MCP: Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning](https://arxiv.org/abs/2604.09815) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [The Computational Boundary of Inference: Capability Internalization, Training, and the Turing Jump](https://arxiv.org/abs/2605.27381) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [Self-Improving 4D Perception via Self-Distillation](https://arxiv.org/abs/2604.08532) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [PRIME: Training Free Proactive Reasoning via Iterative Memory Evolution for User-Centric Agent](https://arxiv.org/abs/2604.07645) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-06 | [A mathematical theory of evolution for self-designing AIs](https://arxiv.org/abs/2604.05142) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges](https://arxiv.org/abs/2604.02211) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning](https://arxiv.org/abs/2604.02721) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-04-13 | [Relax: An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale](https://arxiv.org/abs/2604.11554) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-09 | [MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning](https://arxiv.org/abs/2604.08203) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-03 | [CharTool: Tool-Integrated Visual Reasoning for Chart Understanding](https://arxiv.org/abs/2604.02794) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-02 | [SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://arxiv.org/abs/2604.02268) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-30 | [Rethinking Agentic Reinforcement Learning In Large Language Models](https://arxiv.org/abs/2604.27859) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts](https://arxiv.org/abs/2604.18473) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-15 | [RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management](https://arxiv.org/abs/2604.13531) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-13 | [RTMC: Step-Level Credit Assignment via Rollout Trees](https://arxiv.org/abs/2604.11037) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-14 | [Cycle-Consistent Search: Question Reconstructability as a Proxy Reward for Search Agent Training](https://arxiv.org/abs/2604.12967) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-07 | [COSMO-Agent: Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration](https://arxiv.org/abs/2604.05547) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-01 | [Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration](https://arxiv.org/abs/2605.20190) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-16 | [Layered Mutability: Continuity and Governance in Persistent Self-Modifying Agents](https://arxiv.org/abs/2604.14717) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-07 | [Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming](https://arxiv.org/abs/2604.05595) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-02 | [ProCeedRL: Process Critic with Exploratory Demonstration Reinforcement Learning for LLM Agentic Reasoning](https://arxiv.org/abs/2604.02006) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-29 | [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-28 | [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-25 | [CODA: Coordination via On-Policy Diffusion for Multi-Agent Offline Reinforcement Learning](https://arxiv.org/abs/2604.23308) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [ProMMSearchAgent: A Generalizable Multimodal Search Agent Trained with Process-Oriented Rewards](https://arxiv.org/abs/2604.20486) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [Visual Reasoning through Tool-supervised Reinforcement Learning](https://arxiv.org/abs/2604.19945) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [Pause or Fabricate? Training Language Models for Grounded Reasoning](https://arxiv.org/abs/2604.19656) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution](https://arxiv.org/abs/2604.18982) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [MM-Doc-R1: Training Agents for Long Document Visual Question Answering through Multi-turn Reinforcement Learning](https://arxiv.org/abs/2604.13579) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-13 | [Escaping the Context Bottleneck: Active Context Curation for LLM Agents via Reinforcement Learning](https://arxiv.org/abs/2604.11462) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models](https://arxiv.org/abs/2604.08545) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2604.08174) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems](https://arxiv.org/abs/2604.06914) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [Design First, Code Later: Aesthetically Pleasing Template-Free Slides Generation](https://arxiv.org/abs/2605.26451) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [Train-Small Deploy-Large: Leveraging Diffusion-Based Multi-Robot Planning](https://arxiv.org/abs/2604.06598) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Can We Trust a Black-box LLM? LLM Untrustworthy Boundary Detection via Bias-Diffusion and Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2604.05483) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-05 | [The Art of Building Verifiers for Computer Use Agents](https://arxiv.org/abs/2604.06240) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-13 | [SCORP: Scene-Consistent Multi-agent Diffusion Planning with Stable Online Reinforcement Post-Training for Cooperative Driving](https://arxiv.org/abs/2604.11734) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-04-30 | [VeraRetouch: A Lightweight Fully Differentiable Framework for Multi-Task Reasoning Photo Retouching](https://arxiv.org/abs/2604.27375) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-19 | [RS-HyRe-R1: A Hybrid Reward Mechanism to Overcome Perceptual Inertia for Remote Sensing Images Understanding](https://arxiv.org/abs/2604.17504) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-13 | [MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models](https://arxiv.org/abs/2604.10971) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-03 | [Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](https://arxiv.org/abs/2604.03179) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-13 | [Back to the Barn with LLAMAs: Evolving Pretrained LLM Backbones in Finetuning Vision Language Models](https://arxiv.org/abs/2604.10985) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-09 | [RoboAgent: Chaining Basic Capabilities for Embodied Task Planning](https://arxiv.org/abs/2604.07774) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-04-20 | [OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL](https://arxiv.org/abs/2604.17706) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-19 | [Waking Up Blind: Cold-Start Optimization of Supervision-Free Agentic Trajectories for Grounded Visual Perception](https://arxiv.org/abs/2604.17475) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-13 | [Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models](https://arxiv.org/abs/2604.12119) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-30 | [PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations](https://arxiv.org/abs/2604.27472) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-27 | [See Further, Think Deeper: Advancing VLM's Reasoning Ability with Low-level Visual Cues and Reflection](https://arxiv.org/abs/2604.24339) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-16 | [RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework](https://arxiv.org/abs/2604.15308) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-15 | [Scouting By Reward: VLM-TO-IRL-Driven Player Selection For Esports](https://arxiv.org/abs/2604.14474) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-15 | [Vision-Language-Action Jump-Starting for Reinforcement Learning Robotic Agents](https://arxiv.org/abs/2604.13733) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-10 | [VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning](https://arxiv.org/abs/2604.09529) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-10 | [Truncated Rectified Flow Policy for Reinforcement Learning with One-Step Sampling](https://arxiv.org/abs/2604.09159) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-08 | [BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment](https://arxiv.org/abs/2604.07201) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-06 | [Discovering Failure Modes in Vision-Language Models using RL](https://arxiv.org/abs/2604.04733) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-03 | [FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation](https://arxiv.org/abs/2604.03139) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-01 | [AceTone: Bridging Words and Colors for Conditional Image Grading](https://arxiv.org/abs/2604.00530) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-27 | [Grounding Before Generalizing: How AI Differs from Humans in Causal Transfer](https://arxiv.org/abs/2604.24062) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-26 | [Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](https://arxiv.org/abs/2604.23775) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines](https://arxiv.org/abs/2604.23001) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [Beyond Chain-of-Thought: Rewrite as a Universal Interface for Generative Multimodal Embeddings](https://arxiv.org/abs/2604.22280) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [Incentivizing Neuro-symbolic Language-based Reasoning in VLMs via Reinforcement Learning](https://arxiv.org/abs/2604.22062) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [KD-CVG: A Knowledge-Driven Approach for Creative Video Generation](https://arxiv.org/abs/2604.21362) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-23 | [ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures](https://arxiv.org/abs/2604.21232) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings](https://arxiv.org/abs/2604.19902) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [CXRMate-2: Structured Multimodal Temporal Embeddings and Tractable Reinforcement Learning for Clinically Acceptable Chest X-ray Radiology Report Generation](https://arxiv.org/abs/2604.18967) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [When Missing Becomes Structure: Intent-Preserving Policy Completion from Financial KOL Discourse](https://arxiv.org/abs/2604.14333) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [BARD: Bridging AutoRegressive and Diffusion Vision-Language Models Via Highly Efficient Progressive Block Merging and Stage-Wise Distillation](https://arxiv.org/abs/2604.16514) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models](https://arxiv.org/abs/2604.12371) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-13 | [Anthropogenic Regional Adaptation in Multimodal Vision-Language Model](https://arxiv.org/abs/2604.11490) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-11 | [STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations](https://arxiv.org/abs/2604.10055) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [RIRF: Reasoning Image Restoration Framework](https://arxiv.org/abs/2604.09511) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](https://arxiv.org/abs/2604.08475) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [ViVa: A Video-Generative Value Model for Robot Reinforcement Learning](https://arxiv.org/abs/2604.08168) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments](https://arxiv.org/abs/2604.07997) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-09 | [Automotive Engineering-Centric Agentic AI Workflow Framework](https://arxiv.org/abs/2604.07784) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control](https://arxiv.org/abs/2604.06156) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning](https://arxiv.org/abs/2604.06079) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-07 | [Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models](https://arxiv.org/abs/2604.05497) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-06 | [Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/abs/2604.04917) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-05 | [Belief-Aware VLM Model for Human-like Reasoning](https://arxiv.org/abs/2604.09686) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [Sim2Real-AD: A Modular Sim-to-Real Framework for Deploying VLM-Guided Reinforcement Learning in Real-World Autonomous Driving](https://arxiv.org/abs/2604.03497) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [MMPhysVideo: Physically Plausible Video Generation Through Joint RGB-Perception Modeling](https://arxiv.org/abs/2604.02817) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-02 | [STRIVE: Structured Spatiotemporal Exploration for Reinforcement Learning in Video Question Answering](https://arxiv.org/abs/2604.01824) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [Reinforcing Consistency in Video MLLMs with Structured Rewards](https://arxiv.org/abs/2604.01460) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [Query-Conditioned Evidential Keyframe Sampling for MLLM-Based Long-Form Video Understanding](https://arxiv.org/abs/2604.01002) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [Flow-based Policy With Distributional Reinforcement Learning in Trajectory Optimization](https://arxiv.org/abs/2604.00977) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [TTA-Vid: Generalized Test-Time Adaptation for Video Reasoning](https://arxiv.org/abs/2604.00696) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-22 | [ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control](https://arxiv.org/abs/2604.20816) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-04-28 | [Simple Self-Conditioning Adaptation for Masked Diffusion Models](https://arxiv.org/abs/2604.26985) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-14 | [FeaXDrive: Feasibility-aware Trajectory-Centric Diffusion Planning for End-to-End Autonomous Driving](https://arxiv.org/abs/2604.12656) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-10 | [A Tale of Two Temperatures: Simple, Efficient, and Diverse Sampling from Diffusion Language Models](https://arxiv.org/abs/2604.09921) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-13 | [Continuous Adversarial Flow Models](https://arxiv.org/abs/2604.11521) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-08 | [FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling](https://arxiv.org/abs/2604.06916) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-20 | [Discrete Tilt Matching](https://arxiv.org/abs/2604.18739) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-20 | [UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](https://arxiv.org/abs/2604.18518) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-19 | [Speculative Decoding for Autoregressive Video Generation](https://arxiv.org/abs/2604.17397) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-19 | [Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking](https://arxiv.org/abs/2604.17335) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [Step-level Denoising-time Diffusion Alignment with Multiple Objectives](https://arxiv.org/abs/2604.14379) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [NaP-Control: Navigating Diffusion Prior for Versatile and Fast Character Control](https://arxiv.org/abs/2605.20209) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers](https://arxiv.org/abs/2604.12509) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-13 | [CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation](https://arxiv.org/abs/2604.11483) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-10 | [Advantage-Guided Diffusion for Model-Based Reinforcement Learning](https://arxiv.org/abs/2604.09035) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-08 | [MAR-GRPO: Stabilized GRPO for AR-diffusion Hybrid Image Generation](https://arxiv.org/abs/2604.06966) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-04 | [HAD: Combining Hierarchical Diffusion with Metric-Decoupled RL for End-to-End Driving](https://arxiv.org/abs/2604.03581) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-03 | [ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving](https://arxiv.org/abs/2604.02714) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-01 | [DISCO-TAB: A Hierarchical Reinforcement Learning Framework for Privacy-Preserving Synthesis of Complex Clinical Data](https://arxiv.org/abs/2604.01481) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-21 | [SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model](https://arxiv.org/abs/2604.19710) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-04-23 | [Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training](https://arxiv.org/abs/2604.21741) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-04-30 | [Motubrain: An Advanced World Action Model for Robot Control](https://arxiv.org/abs/2604.27792) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-24 | [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](https://arxiv.org/abs/2604.23073) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-18 | [Web-Gewu: A Browser-Based Interactive Playground for Robot Reinforcement Learning](https://arxiv.org/abs/2604.17050) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-16 | [Model-Based Reinforcement Learning Exploits Passive Body Dynamics for High-Performance Biped Robot Locomotion](https://arxiv.org/abs/2604.14565) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-15 | [HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](https://arxiv.org/abs/2604.14125) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-14 | [Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots](https://arxiv.org/abs/2604.12909) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-04-13 | [ScoRe-Flow: Complete Distributional Control via Score-Based Reinforcement Learning for Flow Matching](https://arxiv.org/abs/2604.10962) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-23 | [Learning to Reason Efficiently with A* Post-Training](https://arxiv.org/abs/2605.24597) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-05-21 | [Post-Training is About States, Not Tokens: A State Distribution View of SFT, RL, and On-Policy Distillation](https://arxiv.org/abs/2605.22731) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-05-14 | [Orchard: An Open-Source Agentic Modeling Framework](https://arxiv.org/abs/2605.15040) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-05-16 | [Decoupling KL and Trajectories: A Unified Perspective for SFT, DAgger, Offline RL, and OPD in LLM Distillation](https://arxiv.org/abs/2605.16826) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-28 | [Rethinking Post-Training Recipes for Multimodal Time-Series Forecasting](https://arxiv.org/abs/2605.29401) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-27 | [Label-Free Reinforcement Learning via Cross-Model Entropy](https://arxiv.org/abs/2605.29009) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-13 | [Reward-Weighted On-Policy Distillation with an Open Property-Equivalence Verifier for NL-to-SVA Generation](https://arxiv.org/abs/2605.13501) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-13 | [Revisiting DAgger in the Era of LLM-Agents](https://arxiv.org/abs/2605.12913) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-08 | [LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning](https://arxiv.org/abs/2605.07505) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-31 | [OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification](https://arxiv.org/abs/2606.01476) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-30 | [SDR: Set-Distance Rewards for Radiology Report Generation](https://arxiv.org/abs/2606.00440) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-29 | [Distilling LLM Feedback for Lean Theorem Proving](https://arxiv.org/abs/2605.30861) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-28 | [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-27 | [Zipping the Thought: When and How Compressed Reasoning Data Works in LLM Post-Training](https://arxiv.org/abs/2605.28008) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-23 | [Distilling Game Code World Model Generation into Lightweight Large Language Models](https://arxiv.org/abs/2605.24375) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-18 | [SafeDiffusion-R1: Online Reward Steering for Safe Diffusion Post-Training](https://arxiv.org/abs/2605.18719) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-15 | [Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking](https://arxiv.org/abs/2605.16154) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-12 | [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-12 | [A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation](https://arxiv.org/abs/2605.12227) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-07 | [Near-Policy: Accelerating On-Policy Distillation via Asynchronous Generation and Selective Packing](https://arxiv.org/abs/2605.05940) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-02 | [SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning](https://arxiv.org/abs/2605.01489) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-13 | [Always Learning, Always Mixing: Efficient and Simple Data Mixing All The Time](https://arxiv.org/abs/2605.15220) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-04 | [Reference-Sampled Boltzmann Projection for KL-Regularized RLVR: Target-Matched Weighted SFT, Finite One-Shot Gaps, and Policy Mirror Descent](https://arxiv.org/abs/2605.02469) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-29 | [RAFT: Data Refinement and Adaptive Distillation for Domain Fine-Tuning with Alleviated Forgetting](https://arxiv.org/abs/2606.00147) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-29 | [Pairwise Reference Alignment as a Model-Level Ordinal Observable](https://arxiv.org/abs/2605.30758) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-28 | [Representation Collapse in Sequential Post-Training of Large Language Models](https://arxiv.org/abs/2605.30524) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-28 | [On-Policy Replay for Continual Supervised Fine-Tuning](https://arxiv.org/abs/2605.29495) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-28 | [Draft-OPD: On-Policy Distillation for Speculative Draft Models](https://arxiv.org/abs/2605.29343) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-27 | [Data-Efficient On-Policy Distillation for Automatic Speech Recognition](https://arxiv.org/abs/2605.28139) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-20 | [How Much Online RL is Enough? Informative Rollouts for Offline Preference Optimization in RLVR](https://arxiv.org/abs/2605.21266) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-19 | [DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs](https://arxiv.org/abs/2605.19294) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-17 | [ClaHF: A Human Feedback-inspired Reinforcement Learning Framework for Improving Classification Tasks](https://arxiv.org/abs/2605.17458) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-15 | [Learning How to Cube](https://arxiv.org/abs/2605.16632) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-12 | [SyncDPO: Enhancing Temporal Synchronization in Video-Audio Joint Generation via Preference Learning](https://arxiv.org/abs/2605.12179) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-12 | [SAGE: Scalable Automated Robustness Augmentation for LLM Knowledge Evaluation](https://arxiv.org/abs/2605.12022) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-12 | [Learn to Think: Improving Multimodal Reasoning through Vision-Aware Self-Improvement Training](https://arxiv.org/abs/2605.11931) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-05 | [Self-Prompting Small Language Models for Privacy-Sensitive Clinical Information Extraction](https://arxiv.org/abs/2605.04221) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-04 | [Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning](https://arxiv.org/abs/2605.02378) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-01 | [PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs](https://arxiv.org/abs/2605.01123) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-28 | [On Asymmetric Optimization of Reasoning and Perception in Vision-Language Model Post-Training](https://arxiv.org/abs/2605.29496) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-27 | [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://arxiv.org/abs/2605.28534) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-27 | [IRDS: Interpretable RLVR Data Selection via Verifier-Coupled Sparse Autoencoder Coverage](https://arxiv.org/abs/2605.28247) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-25 | [CroCo: Cross-Lingual Contrastive Preference Tuning on Self-Generations](https://arxiv.org/abs/2605.26293) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-25 | [AnE: Pushing the Reasoning Frontier of Multimodal LLMs via Anchor Evolution](https://arxiv.org/abs/2605.25571) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-24 | [Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation](https://arxiv.org/abs/2605.25036) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-14 | [Video Models Can Reason with Verifiable Rewards](https://arxiv.org/abs/2605.15458) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-10 | [GeoSym127K: Scalable Symbolically-verifiable Synthesis for Multimodal Geometric Reasoning](https://arxiv.org/abs/2605.16371) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-08 | [Goal-Conditioned Supervised Learning for LLM Fine-Tuning](https://arxiv.org/abs/2605.16345) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-06 | [D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models](https://arxiv.org/abs/2605.05204) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-30 | [Ryze: Evidence-Enriched Data Synthesis from Biomedical Papers](https://arxiv.org/abs/2606.00902) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-29 | [Unlocking Fine-Grained Translation Quality Estimation in LRMs through Mutually Boosting Implicit and Explicit Reasoning](https://arxiv.org/abs/2605.31378) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-28 | [How's it going? Reinforcement learning in language models recruits a functional welfare axis](https://arxiv.org/abs/2605.30232) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-28 | [Entropy-KL Divergence-based Token Masking: A Novel Approach for Selective Fine-tuning of Large Language Models](https://arxiv.org/abs/2605.29303) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-26 | [Learning to Adapt SFT Data for Better Reasoning Generalization](https://arxiv.org/abs/2605.26924) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-25 | [GAC: Noise-Aware Adaptive Mixing for Hybrid SFT-RL Post-Training](https://arxiv.org/abs/2605.26184) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-22 | [QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks](https://arxiv.org/abs/2605.24218) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-20 | [QwenSafe: Multimodal Content Rating Description Identification via Preference-Aligned VLMs](https://arxiv.org/abs/2605.20584) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-18 | [HydroAgent: Closing the Gap Between Frontier LLMs and Human Experts in Hydrologic Model Calibration via Simulator-Grounded RL](https://arxiv.org/abs/2605.17792) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-15 | [MAgSeg: Segmentation of Agricultural Landscapes in High-Resolution Satellite Imagery using Multimodal Large Language Models](https://arxiv.org/abs/2605.16179) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-14 | [Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model](https://arxiv.org/abs/2605.14723) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-12 | [CoT-Guard: Small Models for Strong Monitoring](https://arxiv.org/abs/2605.12746) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-12 | [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://arxiv.org/abs/2605.11887) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-12 | [CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating](https://arxiv.org/abs/2605.11723) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-11 | [Learning More from Less: Exploiting Counterfactuals for Data-Efficient Chart Understanding](https://arxiv.org/abs/2605.10855) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-08 | [On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective](https://arxiv.org/abs/2605.08368) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-07 | [Teaching Thinking Models to Reason with Tools: A Full-Pipeline Recipe for Tool-Integrated Reasoning](https://arxiv.org/abs/2605.06326) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-31 | [D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output Rewriting](https://arxiv.org/abs/2606.02640) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-28 | [LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents](https://arxiv.org/abs/2605.29559) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-28 | [Source-Grounded Semantic Reinforcement Learning for Low-Resource Target-Language Generation](https://arxiv.org/abs/2605.29502) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents](https://arxiv.org/abs/2605.28629) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [StoryLens: Preference-Aligned Story Rewriting via Context-Aware Narrative Enrichment](https://arxiv.org/abs/2605.28073) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-18 | [Alignment Dynamics in LLM Fine-Tuning](https://arxiv.org/abs/2605.18309) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-14 | [Reducing the Safety Tax in LLM Safety Alignment with On-Policy Self-Distillation](https://arxiv.org/abs/2605.15239) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-13 | [Multilingual OCR-Aware Fine-Tuning and Prompt-Guided Chain-of-Thought Reasoning for Multimodal Large Language Models](https://arxiv.org/abs/2605.16409) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-12 | [Multimodal Alignment and Preference Optimization for Zero-Shot Conditional RNA Generation](https://arxiv.org/abs/2605.23961) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-12 | [Self-Distilled Trajectory-Aware Boltzmann Modeling: Bridging the Training-Inference Discrepancy in Diffusion Language Models](https://arxiv.org/abs/2605.11854) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-09 | [BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-08 | [Teaching Language Models to Think in Code](https://arxiv.org/abs/2605.07237) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-31 | [HomeFlow: A Data Flywheel for Smart Home Agent Training with Verifiable Simulation](https://arxiv.org/abs/2606.01230) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-30 | [Score $\times$ Decoder: A Unified View of Unsupervised Inference-Time Scaling for Hallucination Mitigation](https://arxiv.org/abs/2606.00739) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-29 | [Sample-Efficient Post-Training for LEGO Spatial-Physics Reasoning](https://arxiv.org/abs/2606.07602) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [Human Label Variation as Stable Signal: Learning Annotator-Specific Explanation Behavior via Cross-Annotator Preference Optimization](https://arxiv.org/abs/2605.28802) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [Soft Specialists: $α$-Rényi Ensembles for Uncertainty-Aware LLM Post-Training](https://arxiv.org/abs/2605.27747) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [Why LLMs Fail at Causal Discovery and How Interventional Agents Escape](https://arxiv.org/abs/2605.27567) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [Towards Anatomically Plausible Human Image Generation via Synthetic Localized Preferences](https://arxiv.org/abs/2605.25759) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [Trait-Aware Policy Optimization for Autoregressive Multi-Trait Essay Scoring](https://arxiv.org/abs/2605.25731) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-18 | [GROW: Aligning GRPO with State-Action Modeling for Open-World VLM Agents](https://arxiv.org/abs/2605.20246) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-16 | [Learning-Zone Energy: Online Data Selection for Efficient RL Post-Training](https://arxiv.org/abs/2605.17003) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-14 | [Dynamic Latent Routing](https://arxiv.org/abs/2605.14323) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [DocAtlas: Multilingual Document Understanding Across 80+ Languages](https://arxiv.org/abs/2605.12623) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [Learning Agentic Policy from Action Guidance](https://arxiv.org/abs/2605.12004) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [Macro: Enhancing Multilingual Counterfactual Explanations through Alignment-as-Preference Optimization](https://arxiv.org/abs/2605.11632) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-11 | [MMVIAD: Multi-view Multi-task Video Understanding for Industrial Anomaly Detection](https://arxiv.org/abs/2605.10833) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-11 | [Annotations Mitigate Post-Training Mode Collapse](https://arxiv.org/abs/2605.09995) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-09 | [Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs](https://arxiv.org/abs/2605.10998) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-09 | [UserGPT Technical Report](https://arxiv.org/abs/2605.08766) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [Navigating by Old Maps: The Pitfalls of Static Mechanistic Localization in LLM Post-Training](https://arxiv.org/abs/2605.06076) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-06 | [ZAYA1-8B Technical Report](https://arxiv.org/abs/2605.05365) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-06 | [Stabilizing LLM Supervised Fine-Tuning via Explicit Distributional Control](https://arxiv.org/abs/2605.04468) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-05 | [JoyAI-Image: Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2605.04128) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-04 | [Strategy-Aware Optimization Modeling with Reasoning LLMs](https://arxiv.org/abs/2605.02545) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-01 | [Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning](https://arxiv.org/abs/2605.00347) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-29 | [DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization](https://arxiv.org/abs/2605.31455) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-27 | [ABot-OCR Technical Report](https://arxiv.org/abs/2605.27978) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-27 | [Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](https://arxiv.org/abs/2605.27900) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-26 | [FTibSuite: A Comprehensive Resource Suite for Tibetan Vision-Language Modeling](https://arxiv.org/abs/2605.26601) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-25 | [MAGIC: Multimodal Alignment & Grounding-aware Instruction Coreset for Vision-Language Models](https://arxiv.org/abs/2605.26004) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-25 | [When In-Distribution Gains Fail: Evaluating Weak-to-Strong Reward Models under Preference Shift](https://arxiv.org/abs/2605.25629) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-25 | [Adversarial Orthogonal Disentanglement for LVLM Hallucination Mitigation](https://arxiv.org/abs/2605.25377) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-23 | [EgoProx: Evaluating MLLMs on Egocentric 3D Proximity Reasoning Across a Cognitive Hierarchy](https://arxiv.org/abs/2605.24456) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-21 | [FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation](https://arxiv.org/abs/2607.19354) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-21 | [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://arxiv.org/abs/2605.21996) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-19 | [FuRA: Full-Rank Parameter-Efficient Fine-Tuning with Spectral Preconditioning](https://arxiv.org/abs/2605.22869) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-19 | [RECIPE: Procedural Planning via Grounding in Instructional Video](https://arxiv.org/abs/2605.19976) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-19 | [Mathematical Reasoning in Large Language Models: Benchmarks, Architectures, Evaluation, and Open Challenges](https://arxiv.org/abs/2605.19723) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-19 | [SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving](https://arxiv.org/abs/2605.19524) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-19 | [JUDO: A Juxtaposed Domain-Oriented Multimodal Reasoner for Industrial Anomaly QA](https://arxiv.org/abs/2605.20284) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving](https://arxiv.org/abs/2605.14201) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models](https://arxiv.org/abs/2605.13667) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-11 | [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](https://arxiv.org/abs/2605.10832) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-11 | [Uni-Synergy: Bridging Understanding and Generation for Personalized Reasoning via Co-operative Reinforcement Learning](https://arxiv.org/abs/2605.10445) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-11 | [TRACER: Verifiable Generative Provenance for Multimodal Tool-Using Agents](https://arxiv.org/abs/2605.09934) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-09 | [Preserving Foundational Capabilities in Flow-Matching VLAs through Conservative SFT](https://arxiv.org/abs/2605.08879) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-07 | [Pest-Thinker: Learning to Think and Reason like Entomologists via Reinforcement Learning](https://arxiv.org/abs/2605.06121) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-06 | [VTAgent: Agentic Keyframe Anchoring for Evidence-Aware Video TextVQA](https://arxiv.org/abs/2605.04870) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-05 | [MHPR: Multidimensional Human Perception and Reasoning Benchmark for Large Vision-Languate Models](https://arxiv.org/abs/2605.03485) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-02 | [Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](https://arxiv.org/abs/2605.01402) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-02 | [Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs](https://arxiv.org/abs/2605.01324) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-01 | [GaMMA: Towards Joint Global-Temporal Music Understanding in Large Multimodal Models](https://arxiv.org/abs/2605.00371) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-31 | [CAREAgent: Clinical Agent with Structured Reasoning and Tool-Integrated for Order Generation](https://arxiv.org/abs/2606.01094) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-31 | [MENTIS: What Belief Changes Under Alignment? Measuring Multi-Scale Latent Torsion in Language Models](https://arxiv.org/abs/2606.01060) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [Capability Self-Assessment: Teaching LLMs to Know Their Limits](https://arxiv.org/abs/2606.00251) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance](https://arxiv.org/abs/2608.12323) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [Reinforcement Learning Can Amplify Emergent Misalignment from Harmless Rewards](https://arxiv.org/abs/2605.31328) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [AdaptR1: Reinforcement Learning Based Adaptive Interleaved Thinking in Multi-hop Question Answering](https://arxiv.org/abs/2605.31062) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [Safe Equilibrium Policy Optimization for Strategic Agent Policies](https://arxiv.org/abs/2605.30854) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection](https://arxiv.org/abs/2605.30288) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [LLUMI: Improving LLM Writing Assistance for Mental Health Support with Online Community Feedback](https://arxiv.org/abs/2605.30273) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [Training Deliberative Monitors for Black-Box Scheming Detection](https://arxiv.org/abs/2605.29601) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [FinGuard: Detecting Financial Regulatory Non-Compliance in LLM Interactions](https://arxiv.org/abs/2605.29427) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-26 | [FSA-GRPO: Teaching Auditory LLMs to Use Few-Shot Demonstrations](https://arxiv.org/abs/2606.02615) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-26 | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-26 | [Once-For-All: A Train-Once and Select-Anytime Framework for Multimodal Instruction Tuning](https://arxiv.org/abs/2605.26761) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-26 | [MedVol-R1: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation](https://arxiv.org/abs/2605.26621) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-25 | [Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2605.26110) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-25 | [On-Policy Adversarial Flow Distillation for Autoregressive Video Generation](https://arxiv.org/abs/2605.26105) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-25 | [From Facts to Insights: A Persona-Driven Dual Memory Framework and Dataset for Role-Playing Agents](https://arxiv.org/abs/2605.25693) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-23 | [AgentFugue: Agent Scaling for Long-Horizon Tasks through Collective Reasoning](https://arxiv.org/abs/2605.24486) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-22 | [Geo-Align: Video Generation Alignment via Metric Geometry Reward](https://arxiv.org/abs/2605.23903) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-22 | [PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-22 | [ARES: Automated Rubric Synthesis for Scalable LLM Reinforcement Learning](https://arxiv.org/abs/2605.23454) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-22 | [CoReVAD: A Contextual Reasoning Framework for Training-Free Video Anomaly Detection](https://arxiv.org/abs/2605.23116) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-21 | [Mechanistic origins of catastrophic forgetting: why RL preserves circuits better than SFT?](https://arxiv.org/abs/2605.28860) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-21 | [Unified Data Selection for LLM Reasoning](https://arxiv.org/abs/2605.22389) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [Learning First Integrals via Backward-Generated Data and Guided Reinforcement Learning](https://arxiv.org/abs/2605.21160) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [Distribution-Aware Reward: Reinforcement Learning over Predictive Distributions for LLM Regression](https://arxiv.org/abs/2605.20740) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [REFLECTOR: Internalizing Step-wise Reflection against Indirect Jailbreak](https://arxiv.org/abs/2605.20654) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [Pareto-Enhanced Portrait Generation: Vision-Aligned Text Supervision for Alignment, Realism, and Aesthetics](https://arxiv.org/abs/2605.20640) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-15 | [Convex Dataset Valuation for Post-Training](https://arxiv.org/abs/2605.16704) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-15 | [Reference-Free Reinforcement Learning Fine-Tuning for MT: A Seq2Seq Perspective](https://arxiv.org/abs/2605.15976) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-15 | [DarkLLM: Learning Language-Driven Adversarial Attacks with Large Language Models](https://arxiv.org/abs/2605.18868) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-15 | [SEED: Targeted Data Selection by Weighted Independent Set](https://arxiv.org/abs/2605.15691) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-15 | [Peak-Detector: Explainable Peak Detection via Instruction-Tuned Large Language Models in Physiological Sign](https://arxiv.org/abs/2605.16452) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [Reinforcement Learning with Semantic Rewards Enables Low-Resource Language Expansion without Alignment Tax](https://arxiv.org/abs/2605.14366) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [Know When To Fold 'Em: Token-Efficient LLM Synthetic Data Generation via Multi-Stage In-Flight Rejection](https://arxiv.org/abs/2605.14062) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [PanoWorld: Towards Spatial Supersensing in 360$^\circ$ Panorama World](https://arxiv.org/abs/2605.13169) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [SLAP: Stratified Loss-based Pruning for On-Policy Data-Efficient Instruction Tuning](https://arxiv.org/abs/2605.23969) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Design Your Ad: Personalized Advertising Image and Text Generation with Unified Autoregressive Models](https://arxiv.org/abs/2605.12138) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization](https://arxiv.org/abs/2605.11974) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR](https://arxiv.org/abs/2605.10781) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [Dynamic Cross-Modal Prompt Generation for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2605.10765) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-10 | [K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](https://arxiv.org/abs/2605.09635) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-09 | [Internalizing Safety Understanding in Large Reasoning Models via Verification](https://arxiv.org/abs/2605.08930) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-09 | [UniShield: Unified Face Attack Detection via KG-Informed Multimodal Reasoning](https://arxiv.org/abs/2605.08709) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [Tool Calling is Linearly Readable and Steerable in Language Models](https://arxiv.org/abs/2605.07990) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [GeoDial: A Multimodal Conversational Tutoring Dataset for Geometry Problem-Solving with Visual Tutor Turns](https://arxiv.org/abs/2606.12419) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [WeatherSyn: An Instruction Tuning MLLM For Weather Forecasting Report Generation](https://arxiv.org/abs/2605.07522) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [When Gradient Importance Lies: Adaptive LoRA Rank Allocation Fails Under GRPO](https://arxiv.org/abs/2605.07366) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [Task-Oriented Communication for Human Action Understanding via Edge-Cloud Co-Inference](https://arxiv.org/abs/2605.07354) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [StrLoRA: Towards Streaming Continual Visual Instruction Tuning for MLLMs](https://arxiv.org/abs/2605.16353) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [The Convergence Gap: Instruction-Tuned Language Models Stabilize Later in the Forward Pass](https://arxiv.org/abs/2605.07282) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training](https://arxiv.org/abs/2605.07063) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-07 | [When2Speak: A Dataset for Temporal Participation and Turn-Taking in Multi-Party Conversations for Large Language Models](https://arxiv.org/abs/2605.05626) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-06 | [Reinforcement Learning for Compositional Generalization with Outcome-Level Optimization](https://arxiv.org/abs/2605.04920) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-05 | [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/abs/2605.04036) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-04 | [CECOR: Correction-oriented synthetic data construction for factual error correction](https://arxiv.org/abs/2605.02277) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-03 | [Enhancing Judgment Document Generation via Agentic Legal Information Collection and Rubric-Guided Optimization](https://arxiv.org/abs/2605.02011) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-31 | [Beyond Captions: Context-Grounded Reconstruction for Biomedical Multimodal Continued Pretraining](https://arxiv.org/abs/2606.01049) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-31 | [ProductWebGen: Benchmarking Multimodal Product Webpage Generation](https://arxiv.org/abs/2606.01022) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [Dynamic Proxy-Mixing: Transferring Replay Controllers from Small to Large Models for Continual Instruction Tuning](https://arxiv.org/abs/2606.00400) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation](https://arxiv.org/abs/2605.31564) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [MADS: Model-Aware Diverse Core Set Selection for Instruction Tuning](https://arxiv.org/abs/2605.30857) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Configurable Reward Model for Balanced Safety Alignment](https://arxiv.org/abs/2605.30487) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [OOD-GraphLLM: Graph Large Language Model for Out-of-Distribution Generalized Drug Synergy Prediction](https://arxiv.org/abs/2605.30247) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [FakeVLM-R1: Internalizing Physical Laws via CoT for Synthetic Image Detection](https://arxiv.org/abs/2605.30062) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [MEMENTO: Leveraging Web as a Learning Signal for Low-Data Domains](https://arxiv.org/abs/2605.29795) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Beyond Bilingual Transfer: Multilingual Code-Switching in Instruction Tuning](https://arxiv.org/abs/2605.29414) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [Evidence Absence Is Not Evidence Insufficiency: Diagnosing NEI Construction Artifacts in Fact Verification](https://arxiv.org/abs/2605.26663) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [SemiAdapt-Instruct: Extensible Instruction Tuning via Latent Domain-Specialised Adapters](https://arxiv.org/abs/2608.05161) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models](https://arxiv.org/abs/2605.26038) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [GeoMathCode: Understanding Interleaved Math-Code Reasoning for Geometry Problem Solving](https://arxiv.org/abs/2605.25384) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-24 | [Clarification Is Not Enough: Post-Clarification Answering Remains the Bottleneck in Multi-Turn QA](https://arxiv.org/abs/2605.25204) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-22 | [ETCHR: Editing To Clarify and Harness Reasoning](https://arxiv.org/abs/2605.23897) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-22 | [PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs](https://arxiv.org/abs/2607.20470) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs](https://arxiv.org/abs/2605.22823) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer](https://arxiv.org/abs/2605.22007) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-20 | [Correcting Stochastic Update Bias in Preconditioned Language Model Optimizers](https://arxiv.org/abs/2605.20756) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [Investigating Cross-Modal Skill Injection: Scenarios, Methods, and Hyperparameters](https://arxiv.org/abs/2605.19523) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [Base Models Look Human To AI Detectors](https://arxiv.org/abs/2605.19516) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [DocOS: Towards Proactive Document-Guided Actions in GUI Agents](https://arxiv.org/abs/2605.18048) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [Evaluating Chinese Ambiguity Understanding in Large Language Models](https://arxiv.org/abs/2605.15635) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [Beyond What to Select: A Plug-and-play Oscillatory Data-Volume Scheduling for Efficient Model Training](https://arxiv.org/abs/2605.14773) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [FIND: Toward Multimodal Financial Reasoning and Question Answering for Indic Languages](https://arxiv.org/abs/2605.13330) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [Controlling Logical Collapse in LLMs via Algebraic Ontology Projection over F2](https://arxiv.org/abs/2605.12968) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs](https://arxiv.org/abs/2605.12242) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [A Unified Graph Language Model for Multi-Domain Multi-Task Graph Alignment Instruction Tuning](https://arxiv.org/abs/2605.12197) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning](https://arxiv.org/abs/2605.10172) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-10 | [Learning Multi-Indicator Weights for Data Selection: A Joint Task-Model Adaptation Framework with Efficient Proxies](https://arxiv.org/abs/2605.09665) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-09 | [Can MLLMs Reason About Visual Persuasion? Evaluating the Efficacy and Faithfulness of Reasoning](https://arxiv.org/abs/2605.08965) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Attributions All the Way Down? The Metagame of Interpretability](https://arxiv.org/abs/2605.06295) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [More Aligned, Less Diverse? Analyzing the Grammar and Lexicon of Two Generations of LLMs](https://arxiv.org/abs/2605.06030) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Scaling Pretrained Representations Enables Label-Free Out-of-Distribution Detection Without Fine-Tuning](https://arxiv.org/abs/2605.05638) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-06 | [Misaligned by Reward: Socially Undesirable Preferences in LLMs](https://arxiv.org/abs/2605.05003) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-06 | [Open-Source Image Editing Models Are Zero-Shot Vision Learners](https://arxiv.org/abs/2605.04566) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-05 | [The Detector Teaches Itself: Lightweight Self-Supervised Adaptation for Open-Vocabulary Object Detection](https://arxiv.org/abs/2605.03642) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-05 | [Revisiting Graph-Tokenizing Large Language Models: A Systematic Evaluation of Graph Token Understanding](https://arxiv.org/abs/2605.03514) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-03 | [VIDA: A dataset for Visually Dependent Ambiguity in Multimodal Machine Translation](https://arxiv.org/abs/2605.02035) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-03 | [Act2See: Emergent Active Visual Perception for Video Reasoning](https://arxiv.org/abs/2605.01657) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [General Preference Reinforcement Learning](https://arxiv.org/abs/2605.18721) | arxiv-monthly-backfill | 20 | `needs-review` |
+| 2026-05-14 | [GRLO: Towards Generalizable Reinforcement Learning in Open-Ended Environments from Zero](https://arxiv.org/abs/2605.15464) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-05-08 | [Implicit Preference Alignment for Human Image Animation](https://arxiv.org/abs/2605.07545) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-07 | [Arena as Offline Reward: Efficient Fine-Grained Preference Optimization for Diffusion Models](https://arxiv.org/abs/2605.06070) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-06 | [Towards General Preference Alignment: Diffusion Models at Nash Equilibrium](https://arxiv.org/abs/2605.04494) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-04 | [Gradient-Gated DPO: Stabilizing Preference Optimization in Language Models](https://arxiv.org/abs/2605.02626) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-06 | [Threshold-Guided Optimization for Visual Generative Models](https://arxiv.org/abs/2605.04653) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-26 | [Beyond Pairwise Preferences: Listwise Reward-Aware Alignment for Diffusion Models](https://arxiv.org/abs/2605.26491) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-13 | [Grounded Post-Training with Hard Examples for Reducing Hallucination in Multimodal Large Language Models](https://arxiv.org/abs/2605.16411) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-11 | [Exploration-Driven Optimization for Test-Time Large Language Model Reasoning](https://arxiv.org/abs/2605.09853) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-08 | [Confidence-Aware Alignment Makes Reasoning LLMs More Reliable](https://arxiv.org/abs/2605.07353) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-22 | [Convex Optimization for Alignment and Preference Learning on a Single GPU](https://arxiv.org/abs/2605.23244) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-20 | [Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](https://arxiv.org/abs/2605.20834) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-20 | [Distributed Direct Preference Optimization](https://arxiv.org/abs/2605.20696) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-19 | [TextAlign: Preference Alignment for Text Rendering with Hierarchical Rewards](https://arxiv.org/abs/2605.19320) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-12 | [Semantic Reward Collapse and the Preservation of Epistemic Integrity in Adaptive AI Systems](https://arxiv.org/abs/2605.12406) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-11 | [Phoenix-VL 1.5 Medium Technical Report](https://arxiv.org/abs/2605.10391) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-09 | [$ξ$-DPO: Direct Preference Optimization via Ratio Reward Margin](https://arxiv.org/abs/2605.10981) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-08 | [Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph](https://arxiv.org/abs/2605.08037) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-07 | [$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](https://arxiv.org/abs/2605.06977) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-06 | [Data-dependent Exploration for Online Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2605.04477) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-04 | [Efficient Preference Poisoning Attack on Offline RLHF](https://arxiv.org/abs/2605.02495) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-04 | [Decoding-Time Debiasing via Process Reward Models: From Controlled Fill-in to Open-Ended Generation](https://arxiv.org/abs/2605.02348) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-03 | [Accelerating Long-Tail Generation in Synchronous RLHF Training via Adaptive Tensor Parallelism](https://arxiv.org/abs/2605.23945) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-28 | [In-Context Reward Adaptation for Robust Preference Modeling](https://arxiv.org/abs/2605.30323) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-26 | [Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases](https://arxiv.org/abs/2605.27355) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-20 | [Implicit Safety Alignment from Crowd Preferences](https://arxiv.org/abs/2605.21822) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-20 | [Towards Context-Invariant Safety Alignment for Large Language Models](https://arxiv.org/abs/2605.20994) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-19 | [PhyWorld: Physics-Faithful World Model for Video Generation](https://arxiv.org/abs/2605.19242) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-15 | [S2T-RLHF: Hierarchical Credit Assignment for Stable Preference-Based RLHF](https://arxiv.org/abs/2607.18258) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-13 | [Domyn-Small: A European 10B Reasoning Language Model](https://arxiv.org/abs/2607.20448) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-12 | [YFPO: A Preliminary Study of Yoked Feature Preference Optimization with Neuron-Guided Rewards for Mathematical Reasoning](https://arxiv.org/abs/2605.11906) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-12 | [Preference Tuning as Spectral Update Reorganization](https://arxiv.org/abs/2607.20438) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-08 | [Diffusion-APO: Trajectory-Aware Direct Preference Alignment for Video Diffusion Transformers](https://arxiv.org/abs/2605.07503) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-07 | [Mitigating Cognitive Bias in RLHF by Altering Rationality](https://arxiv.org/abs/2605.06895) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-07 | [Optimal Transport for LLM Reward Modeling from Noisy Preference](https://arxiv.org/abs/2605.06036) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-05 | [Explaining and Preventing Alignment Collapse in Iterative RLHF](https://arxiv.org/abs/2605.04266) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-03 | [RMGAP: Benchmarking the Generalization of Reward Models across Diverse Preferences](https://arxiv.org/abs/2605.01831) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-01 | [Iterative Finetuning is Mostly Idempotent](https://arxiv.org/abs/2605.01130) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-31 | [Efficient Exploration for Iterative Nash Preference Optimization](https://arxiv.org/abs/2606.01382) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-29 | [The Representation-Rationalizability Tradeoff in Reward Learning](https://arxiv.org/abs/2606.00291) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [AdaDPO: Self-Adaptive Direct Preference Optimization with Balanced Gradient Updates](https://arxiv.org/abs/2605.28440) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-25 | [CausalFlow: Causal Attribution and Counterfactual Repair for LLM Agent Failures](https://arxiv.org/abs/2605.25338) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-21 | [Token-weighted Direct Preference Optimization with Attention](https://arxiv.org/abs/2605.21883) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-15 | [R2V Agent: Teaching SLMs When to Ask for Help](https://arxiv.org/abs/2605.16604) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-13 | [Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://arxiv.org/abs/2605.13155) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-06 | [RLearner-LLM: Balancing Logical Grounding and Fluency in Large Language Models via Hybrid Direct Preference Optimization](https://arxiv.org/abs/2605.04539) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-05 | [Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-05 | [AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics](https://arxiv.org/abs/2605.03652) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-29 | [Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization](https://arxiv.org/abs/2605.31312) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [Reasoning Matters: Mitigate Hallucination in Multimodal Large Reasoning Models via Reasoning-Conditioned Preference Optimization](https://arxiv.org/abs/2605.27906) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [StepOPSD: Step-Aware Online Preference Self-Distillation for Agent Reinforcement Learning](https://arxiv.org/abs/2605.27140) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [Advancing Creative Physical Intelligence in Large Multimodal Models](https://arxiv.org/abs/2605.26396) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-23 | [AVBench: Human-Aligned and Automated Evaluation Benchmark for Audio-Video Generative Models](https://arxiv.org/abs/2605.24652) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-21 | [CLORE: Content-Level Optimization for Reasoning Efficiency](https://arxiv.org/abs/2605.22211) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [PREFINE: Preference-Based Implicit Reward and Cost Fine-Tuning for Safety Alignment](https://arxiv.org/abs/2605.21225) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-15 | [To Trust or Not to Trust: Authors' Response to AI-based Reviews](https://arxiv.org/abs/2605.16623) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-15 | [Embedding-perturbed Exploration Preference Optimization for Flow Models](https://arxiv.org/abs/2605.15803) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [BSO: Safety Alignment Is Density Ratio Matching](https://arxiv.org/abs/2605.12339) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-11 | [G-Zero: Self-Play for Open-Ended Generation from Zero Data](https://arxiv.org/abs/2605.09959) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [Interpreting Reinforcement Learning Agents with Susceptibilities](https://arxiv.org/abs/2605.08007) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment](https://arxiv.org/abs/2605.06850) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization](https://arxiv.org/abs/2605.06049) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-05 | [Natural Language Processing: A Comprehensive Practical Guide from Tokenisation to RLHF](https://arxiv.org/abs/2605.03799) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-01 | [Online Self-Calibration Against Hallucination in Vision-Language Models](https://arxiv.org/abs/2605.00323) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-29 | [Isolating LLM Lexical Bias: A Curation-Free Triangulated Metric for Preference-Stage Learning](https://arxiv.org/abs/2606.00334) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-27 | [Compositional Text-to-Image Generation Via Region-aware Bimodal Direct Preference Optimization](https://arxiv.org/abs/2605.28615) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-27 | [Training Stratigraphy: Persistent Behavioral Artifacts in Large Language Models Observed Through Longitudinal AI-Human Interaction](https://arxiv.org/abs/2605.28102) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-26 | [It's Not Always Sycophancy: Measuring LLM Conformity as a Function of Epistemic Uncertainty](https://arxiv.org/abs/2605.27288) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-24 | [Cultivating Machine Intelligence: The OMEGA Shift from Top-Down Optimization to Autopoietic Cognitive Ecologies](https://arxiv.org/abs/2605.25062) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-24 | [Catalyst Papers in Artificial Intelligence Research: A Landscape on ICLR from 2017 to 2025](https://arxiv.org/abs/2607.05401) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-22 | [Causality as the Statistical Conscience of Artificial Intelligence: From Pearl's Ladder to Trustworthy Machines](https://arxiv.org/abs/2605.24076) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-22 | [Learning Kernel-Based MDPs from Episodic Preferential Feedback](https://arxiv.org/abs/2605.23650) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-21 | [CrossVLA: Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2605.21854) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-20 | [Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models](https://arxiv.org/abs/2605.21123) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-19 | [Spectral Souping: A Unified Framework for Online Preference Alignment](https://arxiv.org/abs/2605.20408) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-19 | [VL-DPO: Vision-Language-Guided Finetuning for Preference-Aligned Autonomous Driving](https://arxiv.org/abs/2605.20082) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-18 | [LatentUMM: Dual Latent Alignment for Unified Multimodal Models](https://arxiv.org/abs/2605.17766) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-15 | [SeamCam: Quantifying Seamless Camouflage via Multi-Cue Visual Detectability](https://arxiv.org/abs/2605.16515) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-15 | [OHP-RL: Online Human Preference as Guidance in Reinforcement Learning for Robot Manipulation](https://arxiv.org/abs/2605.15971) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-12 | [ODRPO: Ordinal Decompositions of Discrete Rewards for Robust Policy Optimization](https://arxiv.org/abs/2605.12667) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-10 | [Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs](https://arxiv.org/abs/2605.09433) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-06 | [Uncertainty-Aware Exploratory Direct Preference Optimization for Multimodal Large Language Models](https://arxiv.org/abs/2605.04874) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-04 | [Anomaly-Preference Image Generation](https://arxiv.org/abs/2605.02439) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-29 | [From "Weak" Signals to Strong Models: Preference Delta Aggregation with LoRA Merging](https://arxiv.org/abs/2606.00357) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [Recovering Diversity Without Losing Alignment: A DPO Recipe for Post-Trained LLMs](https://arxiv.org/abs/2605.30021) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-27 | [Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization](https://arxiv.org/abs/2605.28810) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-27 | [Hallucination Detection-Guided Preference Optimization for Clinical Summarization](https://arxiv.org/abs/2605.28910) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-27 | [Narrative Flattening: How Post-Training Compresses Thematic, Affective, and Stylistic Variation in LLM Fiction](https://arxiv.org/abs/2605.27878) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-26 | [Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](https://arxiv.org/abs/2605.27772) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-25 | [BC Protocol: Structured Dual-Expert Dialogue for Eliciting High-Quality Chain-of-Thought Post-Training Data](https://arxiv.org/abs/2605.25549) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-25 | [ERNIE-Image Technical Report](https://arxiv.org/abs/2605.25347) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-23 | [Structure-Aware RAG: Structured Retrieval Augmented Generation from Noisy Data for Conversational Agents](https://arxiv.org/abs/2605.24366) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-22 | [Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](https://arxiv.org/abs/2605.23264) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems](https://arxiv.org/abs/2605.22876) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-18 | [The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration](https://arxiv.org/abs/2605.18372) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-17 | [AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering](https://arxiv.org/abs/2605.17352) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-17 | [Transitivity Meets Cyclicity: Explicit Preference Decomposition for Dynamic Large Language Model Alignment](https://arxiv.org/abs/2605.17342) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-16 | [Evaluation Drift in LLM Personality Induction: Are We Moving the Goalpost?](https://arxiv.org/abs/2605.16996) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [Direct Preference Optimization for English-Mandarin Code-Switching Speech Recognition in Audio LLMs](https://arxiv.org/abs/2605.23975) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization](https://arxiv.org/abs/2605.13229) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [The Growing Pains of Frontier Models: When Leaderboards Stop Separating and What to Measure Next](https://arxiv.org/abs/2605.18840) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Environment-Adaptive Preference Optimization for Wildfire Prediction](https://arxiv.org/abs/2605.12435) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](https://arxiv.org/abs/2605.12288) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [RoboBlockly Studio: Conversational Block Programming with Embodied Robot Feedback for Computational Thinking](https://arxiv.org/abs/2605.12059) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [StoicLLM: Preference Optimization for Philosophical Alignment in Small Language Models](https://arxiv.org/abs/2605.11483) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [Spurious Correlation Learning in Preference Optimization: Mechanisms, Consequences, and Mitigation via Tie Training](https://arxiv.org/abs/2605.11134) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [DGPO: Beyond Pairwise Preferences with Directional Consistent Groupwise Optimization](https://arxiv.org/abs/2605.10863) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [MASS-DPO: Multi-negative Active Sample Selection for Direct Policy Optimization](https://arxiv.org/abs/2605.10784) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-10 | [EvoPref: Multi-Objective Evolutionary Optimization Discovers Diverse LLM Alignments Beyond Gradient Descent](https://arxiv.org/abs/2605.09777) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-10 | [Moir: Let the Model Direct Its Own Story for Robust Cross-Domain Knowledge Editing](https://arxiv.org/abs/2607.20433) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-09 | [Mechanistic Analysis of Alignment Algorithms in Language Models](https://arxiv.org/abs/2606.09850) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-09 | [Post-hoc Selective Classification for Reliable Synthetic Image Detection](https://arxiv.org/abs/2605.08574) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria](https://arxiv.org/abs/2605.08354) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [EditRefiner: A Human-Aligned Agentic Framework for Image Editing Refinement](https://arxiv.org/abs/2605.07457) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [Topology-Enhanced Alignment for Large Language Models: Trajectory Topology Loss and Topological Preference Optimization](https://arxiv.org/abs/2605.07172) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-07 | [Dual-Agent Co-Training for Health Coaching via Implicit Adversarial Preference Optimization](https://arxiv.org/abs/2605.07011) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-06 | [Information Theoretic Adversarial Training of Large Language Models](https://arxiv.org/abs/2605.05415) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-01 | [DynamicPO: Dynamic Preference Optimization for Recommendation](https://arxiv.org/abs/2605.00327) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-31 | [COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space](https://arxiv.org/abs/2606.00950) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [The Flip Side of RLHF: On-Policy Feedback for Reward Model Self-Supervised Improvement](https://arxiv.org/abs/2605.30888) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences](https://arxiv.org/abs/2605.30873) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Calibrated Preference Learning: The Case of Label Ranking](https://arxiv.org/abs/2605.30447) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [PRAIB: Peer Review AI Benchmark of Behaviour of LLM-Assisted Reviewing](https://arxiv.org/abs/2605.29815) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [Reward Bias Substitution: Single-Axis Bias Mitigations Redirect Optimization Pressure](https://arxiv.org/abs/2605.27996) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-22 | [Human-AI Collaboration in Science at Scale: A Global Large-scale Randomized Field Experiment](https://arxiv.org/abs/2605.24180) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-22 | [Truthful Online Preference Aggregation for LLM Fine-Tuning in Mobile Crowdsourcing](https://arxiv.org/abs/2605.24052) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [Human-Centered Learning Mechanics: A Dynamical Framework for Entropy-Regulated Representation Learning](https://arxiv.org/abs/2605.22940) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [Diff-Instruct with Diffused Reward: Towards Principled One-step Generator RL](https://arxiv.org/abs/2605.24001) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing](https://arxiv.org/abs/2605.15625) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [Variance-aware Reward Modeling with Anchor Guidance](https://arxiv.org/abs/2605.11865) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-22 | [EDGE-OPD: Internalizing Privileged Context with Evidence Guided On-Policy Distillation](https://arxiv.org/abs/2605.23493) | arxiv-monthly-backfill | 20 | `needs-review` |
+| 2026-05-29 | [Are Full Rollouts Necessary for On-Policy Distillation?](https://arxiv.org/abs/2605.31490) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-05-13 | [Teacher-Guided Policy Optimization for On-Policy Reasoning Distillation under Large Policy Divergence](https://arxiv.org/abs/2605.13230) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-05-18 | [Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation](https://arxiv.org/abs/2605.18740) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-05-21 | [Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning](https://arxiv.org/abs/2605.22511) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-05-07 | [OPSD Compresses What RLVR Teaches: A Post-RL Compaction Stage for Reasoning Models](https://arxiv.org/abs/2605.06188) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-05-29 | [CAST: Non-Privileged Clipped Asymmetric Self-Teaching with Advantage Flipping for GRPO](https://arxiv.org/abs/2606.00172) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-26 | [Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation](https://arxiv.org/abs/2605.26844) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-21 | [OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning](https://arxiv.org/abs/2605.21851) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-18 | [AMR-SD: Asymmetric Meta-Reflective Self-Distillation for Token-Level Credit Assignment](https://arxiv.org/abs/2605.18529) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-14 | [Learning from Language Feedback via Variational Policy Distillation](https://arxiv.org/abs/2605.15113) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-11 | [Relative Score Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2605.10218) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-10 | [Cornerstones or Stumbling Blocks? Deciphering the Rock Tokens in On-Policy Distillation](https://arxiv.org/abs/2605.09253) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-24 | [Quantifying Empirical Compute-Supervision Tradeoffs in RLVR](https://arxiv.org/abs/2605.25252) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-16 | [PopuLoRA: Co-Evolving LLM Populations for Reasoning Self-Play](https://arxiv.org/abs/2605.16727) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-12 | [Reward Hacking in Rubric-Based Reinforcement Learning](https://arxiv.org/abs/2605.12474) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-11 | [Verifier-Free RL for LLMs via Intrinsic Gradient-Norm Reward](https://arxiv.org/abs/2605.09920) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-12 | [Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-11 | [Verifiable Process Rewards for Agentic Reasoning](https://arxiv.org/abs/2605.10325) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-30 | [Internalize the Temperature: On-Policy Self-Distillation as Policy Reheater for Reinforcement Learning](https://arxiv.org/abs/2606.00755) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-26 | [Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs](https://arxiv.org/abs/2605.27255) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-24 | [Better, Faster: Harnessing Self-Improvement in Large Reasoning Models](https://arxiv.org/abs/2605.24998) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-24 | [DUEL: Adversarial Self-Play for Multimodal Reasoning](https://arxiv.org/abs/2605.24794) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-19 | [Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR](https://arxiv.org/abs/2605.20164) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-19 | [GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](https://arxiv.org/abs/2605.19577) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-12 | [Multi-Rollout On-Policy Distillation via Peer Successes and Failures](https://arxiv.org/abs/2605.12652) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-11 | [TRACE: Distilling Where It Matters via Token-Routed Self On-Policy Alignment](https://arxiv.org/abs/2605.10194) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-11 | [Unsupervised Process Reward Models](https://arxiv.org/abs/2605.10158) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-08 | [From Synthetic to Real: Toward Identity-Consistent Makeup Transfer with Synthetic and Real Data](https://arxiv.org/abs/2605.07861) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-08 | [Structured Role-Aware Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2605.07274) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-29 | [EchoRL: Reinforcement Learning via Rollout Echoing](https://arxiv.org/abs/2605.31228) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-29 | [Automating Formal Verification with Reinforcement Learning and Recursive Inference](https://arxiv.org/abs/2605.30914) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-28 | [Reinforcement Learning with Robust Rubric Rewards](https://arxiv.org/abs/2605.30244) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-28 | [When RL Suppresses Its Own Vocabulary: Recovering Reasoning Diversity in Puzzle-to-Math Transfer](https://arxiv.org/abs/2605.29190) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-26 | [BASIS: Batchwise Advantage Estimation from Single-Rollout Information Sharing for LLM Reasoning](https://arxiv.org/abs/2605.27293) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-26 | [Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks](https://arxiv.org/abs/2605.26934) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-25 | [Not only where, But when: Temporal Scheduling for RLVR](https://arxiv.org/abs/2605.25381) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-19 | [Complementing reinforcement learning with SFT through logit averaging in the post training of LLMs](https://arxiv.org/abs/2605.20555) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-19 | [GeoX: Mastering Geospatial Reasoning Through Self-Play and Verifiable Rewards](https://arxiv.org/abs/2605.20006) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-13 | [Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective](https://arxiv.org/abs/2605.12969) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-12 | [Reinforcing VLAs in Task-Agnostic World Models](https://arxiv.org/abs/2605.12334) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-12 | [Hybrid-LoRA: Bridging Full Fine-Tuning and Low-Rank Adaptation for Post-Training](https://arxiv.org/abs/2605.18822) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-12 | [Evolutionary Task Discovery: Advancing Reasoning Frontiers via Skill Composition and Complexity Scaling](https://arxiv.org/abs/2605.11666) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-11 | [RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards](https://arxiv.org/abs/2605.10899) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-11 | [What should post-training optimize? A test-time scaling law perspective](https://arxiv.org/abs/2605.10716) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-08 | [Rethinking Importance Sampling in LLM Policy Optimization: A Cumulative Token Perspective](https://arxiv.org/abs/2605.07331) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-08 | [Implicit Compression Regularization: Concise Reasoning via Internal Shorter Distributions in RL Post-Training](https://arxiv.org/abs/2605.07316) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-07 | [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://arxiv.org/abs/2605.06139) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-07 | [Schedule-and-Calibrate: Utility-Guided Multi-Task Reinforcement Learning for Code LLMs](https://arxiv.org/abs/2605.06111) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-31 | [Before the Model Learns the Bug:Fuzzing RLVR Verifiers](https://arxiv.org/abs/2606.01066) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-30 | [CARE-RL: Capability-Aware Reinforcement Learning for Mitigating Cross-Domain Conflicts](https://arxiv.org/abs/2606.00609) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-30 | [Learning to Retrieve: Dual-Level Long-Term Memory for Text-to-SQL Agents](https://arxiv.org/abs/2606.00547) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-28 | [VeriGate: Verifier-Gated Step-Level Supervision for GRPO](https://arxiv.org/abs/2605.30451) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-28 | [Prompt-Level Reward Specifications for Open-Ended Post-Training](https://arxiv.org/abs/2605.29275) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-27 | [Soft-SVeRL: Self-Verified Reinforcement Learning with Soft Rewards](https://arxiv.org/abs/2605.28561) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-27 | [Where Rollouts Begin: Low-Load, High-Leverage First-Token Diversification for RLVR](https://arxiv.org/abs/2605.28295) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-27 | [GeneralThinker: Domain-General Reasoning through Likelihood-Guided Answer-Conditioned Optimization](https://arxiv.org/abs/2605.27934) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-24 | [Hide to Guide: Learning via Semantic Masking](https://arxiv.org/abs/2605.25198) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-22 | [From Correctness to Preference: A Framework for Personalized Agentic Reinforcement Learning](https://arxiv.org/abs/2605.23382) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-21 | [One-Way Policy Optimization for Self-Evolving LLMs](https://arxiv.org/abs/2605.22156) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-21 | [From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning](https://arxiv.org/abs/2605.22074) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-19 | [Rewarding Beliefs, Not Actions: Consistency-Guided Credit Assignment for Long-Horizon Agents](https://arxiv.org/abs/2605.20061) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-19 | [Introspective X Training: Feedback Conditioning Improves Scaling Across all LLM Training Stages](https://arxiv.org/abs/2605.20285) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-14 | [CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL](https://arxiv.org/abs/2605.14274) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-11 | [FormalRewardBench: A Benchmark for Formal Theorem Proving Reward Models](https://arxiv.org/abs/2605.10141) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-10 | [PiCA: Pivot-Based Credit Assignment for Search Agentic Reinforcement Learning](https://arxiv.org/abs/2605.09287) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-10 | [DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification](https://arxiv.org/abs/2605.09269) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-09 | [Forge: Quality-Aware Reinforcement Learning for NP-Hard Optimization in LLMs](https://arxiv.org/abs/2605.08905) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-07 | [A$^2$TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://arxiv.org/abs/2605.06200) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-31 | [Expected Value Alignment for Generative Reward Modeling in Formal Mathematics Verification](https://arxiv.org/abs/2606.01160) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-30 | [The Paradox of Outcome Optimization: A Causal Information-Theoretic Bound on Reasoning Shortcuts in LLMs](https://arxiv.org/abs/2606.00674) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-29 | [Not All Synthetic Data Is Yours to Learn From](https://arxiv.org/abs/2605.31126) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-29 | [Attend to Evidence: Evidence-Anchored Spatial Attention Supervision for Multimodal RLVR](https://arxiv.org/abs/2605.30912) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-28 | [Self-Trained Verification for Training- and Test-Time Self-Improvement](https://arxiv.org/abs/2605.30290) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-27 | [PRO-CUA: Process-Reward Optimization for Computer Use Agents](https://arxiv.org/abs/2605.29119) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-27 | [Skill-Conditioned Gated Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2605.28791) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-26 | [MAIGO: Mitigating Lost-in-Conversation with History-Cleaned On-Policy Self-Distillation](https://arxiv.org/abs/2605.27186) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-26 | [Less is More: Early Stopping Rollout for On-Policy Distillation](https://arxiv.org/abs/2605.27028) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-23 | [Understanding and Mitigating Premature Confidence for Better LLM Reasoning](https://arxiv.org/abs/2605.24396) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-21 | [Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators](https://arxiv.org/abs/2605.22717) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-19 | [Stitched Value Model for Diffusion Alignment](https://arxiv.org/abs/2605.19804) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-17 | [Self-Supervised On-Policy Distillation for Reasoning Language Models](https://arxiv.org/abs/2605.17497) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-17 | [Reasoning Portability: Guiding Continual Learning for MLLMs in the RLVR Era](https://arxiv.org/abs/2605.18903) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-13 | [AcquisitionSynthesis: Targeted Data Generation using Acquisition Functions](https://arxiv.org/abs/2605.13149) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-12 | [Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information](https://arxiv.org/abs/2605.11609) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-07 | [Policy-Guided Stepwise Model Routing for Cost-Effective Reasoning](https://arxiv.org/abs/2605.06116) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-29 | [Differentially Private Preference Data Synthesis for Large Language Model Alignment](https://arxiv.org/abs/2605.30808) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [RUBRIC-ARROW: Alternating Pointwise Rubric Reward Modeling for LLM Post-training in Non-verifiable Domains](https://arxiv.org/abs/2605.29156) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [CORE: Contrastive Reflection Enables Rapid Improvements in Reasoning](https://arxiv.org/abs/2605.28742) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [ZipRL: Adaptive Multi-Turn Context Compression with Hindsight Response Replay](https://arxiv.org/abs/2605.28069) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [The Missing Piece in Pre-trained Model Evaluation: Reward-Guided Decoding Unlocks Task-Oriented Behavior Without Parameter Updates](https://arxiv.org/abs/2605.28020) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [Mags-RL: Wearing Multimodal LLMs a Magnifying Glass via Agentic Reinforcement Learning For Complex Scene Reasoning](https://arxiv.org/abs/2605.27960) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-24 | [ScaleWoB: Guiding GUI Agents with Coding Agents via Large-Scale Environmental Synthesis](https://arxiv.org/abs/2605.25160) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-23 | [ECHO: Terminal Agents Learn World Models for Free](https://arxiv.org/abs/2605.24517) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-21 | [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](https://arxiv.org/abs/2605.22817) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-21 | [Faithful-MR1: Faithful Multimodal Reasoning via Anchoring and Reinforcing Visual Attention](https://arxiv.org/abs/2605.22072) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-19 | [CEPO: RLVR Self-Distillation using Contrastive Evidence Policy Optimization](https://arxiv.org/abs/2605.19436) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-19 | [Inference-Time Scaling in Diffusion Models through Iterative Partial Refinement](https://arxiv.org/abs/2605.19317) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-18 | [EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL](https://arxiv.org/abs/2605.18703) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-15 | [GRID: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction](https://arxiv.org/abs/2605.16714) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-13 | [Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](https://arxiv.org/abs/2605.14126) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-13 | [PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning](https://arxiv.org/abs/2605.13467) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-13 | [GRACE: Gradient-aligned Reasoning Data Curation for Efficient Post-training](https://arxiv.org/abs/2605.13130) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-09 | [Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery](https://arxiv.org/abs/2605.08956) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-09 | [RewardHarness: Self-Evolving Agentic Post-Training](https://arxiv.org/abs/2605.08703) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-08 | [MARLaaS: Multi-Tenant Asynchronous Reinforcement Learning as a Service](https://arxiv.org/abs/2605.08527) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-31 | [RLVR without Ineffective Samples: Group Prioritized Off-Policy Optimization for LLM Reasoning](https://arxiv.org/abs/2606.01281) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-30 | [Enhancing LLM Metacognition via Cognitive Pairwise Training](https://arxiv.org/abs/2606.00869) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-30 | [EST-PRM: Stress-Testing Process Reward Models Before They Become Load-Bearing](https://arxiv.org/abs/2606.00437) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-29 | [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](https://arxiv.org/abs/2605.31584) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-29 | [Combinatorial Synthesis: Scaling Code RLVR via Atomic Decomposition and Recombination](https://arxiv.org/abs/2605.31058) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-28 | [Improving Small Language Models for Code Generation with Reinforcement Learning from Verification Feedback](https://arxiv.org/abs/2605.30478) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-28 | [HPO: Hysteretic Policy Optimization for Stable and Efficient Training under Sparse-Reward Regime](https://arxiv.org/abs/2605.30201) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-28 | [RL2ML: Finite-Rollout Surrogate Objectives from Reinforcement Learning to Maximum Likelihood](https://arxiv.org/abs/2605.30154) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-28 | [PEARL: Training Socratic Tutors with Pedagogically Aligned Reinforcement Learning](https://arxiv.org/abs/2605.29582) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration](https://arxiv.org/abs/2605.28805) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection](https://arxiv.org/abs/2605.28631) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [Mechanistically Interpreting the Role of Sample Difficulty in RLVR for LLMs](https://arxiv.org/abs/2605.28388) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [Joint Training of Multi-Token Prediction in Reinforcement Learning via Optimal Coefficient Calibration](https://arxiv.org/abs/2605.28184) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [EAPO: Entropy-Driven Adaptive Positive-Negative Sample Weighting for Policy Optimization in Open-Ended QA](https://arxiv.org/abs/2605.27846) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [Playing with Words, Improving with Rewards: Training Language Models for Creative Association](https://arxiv.org/abs/2605.27832) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [RLVR Datasets and Where to Find Them: Tracing Data Lineage for Better Training Data](https://arxiv.org/abs/2605.26971) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [REVERSE: Reinforcing Evidence Verification and Search for Agentic Image geo-localization](https://arxiv.org/abs/2605.26861) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [UnityMAS-O: A General RL Optimization Framework for LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2605.26646) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [What Makes a Medical Checker Trainable? Diagnosing Signal Collapse and Reward Hacking in Checker-Guided RAG for Biomedical QA](https://arxiv.org/abs/2605.25988) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [When Self-Belief Misleads: Active Label Acquisition for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2605.25864) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [DRM: Diffusion-based Reward Model With Step-wise Guidance](https://arxiv.org/abs/2605.25661) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents](https://arxiv.org/abs/2605.25624) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [Credit Assignment with Resets in Language Model Reasoning](https://arxiv.org/abs/2605.25507) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [Does Seeing More Mean Knowing More? Mono-Anchored Advantage Normalization for Multi-Source Visual Reasoning](https://arxiv.org/abs/2605.25437) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-23 | [RL with Learnable Textual Feedback: A Bilevel Approach](https://arxiv.org/abs/2605.24547) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-22 | [From Demonstrations to Rewards: Test-Time Prompt Optimization for VLM Reward Models](https://arxiv.org/abs/2606.00083) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-22 | [CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test](https://arxiv.org/abs/2605.23491) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-22 | [Metacognition as Reward: Reinforcing LLM Reasoning via Knowledge and Regulation Signals](https://arxiv.org/abs/2605.23384) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-22 | [EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation](https://arxiv.org/abs/2605.23271) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-21 | [Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals](https://arxiv.org/abs/2605.22703) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-21 | [Two is better than one: A Collapse-free Multi-Reward RLIF Training Framework](https://arxiv.org/abs/2605.22620) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories](https://arxiv.org/abs/2605.21468) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2605.21467) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline](https://arxiv.org/abs/2605.26132) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [TimeSRL: Generalizable Time-Series Behavioral Modeling via Semantic RL-Tuned LLMs -- A Case Study in Mental Health](https://arxiv.org/abs/2605.21295) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [LamPO: A Lambda Style Policy Optimization for Reasoning Language Models](https://arxiv.org/abs/2605.21235) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation](https://arxiv.org/abs/2605.21125) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [Multi-Step Likelihood-Ratio Correction for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2605.20865) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [PlexRL: Cluster-Level Orchestration of Serviceized LLM Execution for RLVR](https://arxiv.org/abs/2605.20863) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-19 | [When to Stop Reusing: Dynamic Gradient Gating for Sample-Efficient RLVR](https://arxiv.org/abs/2605.19425) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-18 | [Conformal Selective Acting: Anytime-Valid Risk Control for RLVR-Trained LLMs](https://arxiv.org/abs/2605.20270) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-18 | [Knowledge-to-Verification: Exploring RLVR for LLMs in Knowledge-Intensive Domains](https://arxiv.org/abs/2605.18261) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-17 | [SAPO: Step-Aligned Policy Optimization for Reasoning-Based Generative Recommendation](https://arxiv.org/abs/2605.17648) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-17 | [Adaptive Generate-Rank-Verify: Inference-Time Search with Costly Verification](https://arxiv.org/abs/2605.17609) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-17 | [How Off-Policy Can GRPO Be? Mu-GRPO for Efficient LLM Reinforcement Learning](https://arxiv.org/abs/2605.17570) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-17 | [Leveraging Error Diversity in Group Rollouts for Reinforcement Learning](https://arxiv.org/abs/2605.17333) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-17 | [Step-wise Rubric Rewards for LLM Reasoning](https://arxiv.org/abs/2605.17291) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-16 | [The Unlearnability Phenomenon in RLVR for Language Models](https://arxiv.org/abs/2605.16787) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-15 | [Look Before You Leap: Autonomous Exploration for LLM Agents](https://arxiv.org/abs/2605.16143) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-15 | [Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR](https://arxiv.org/abs/2605.15726) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-15 | [SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs](https://arxiv.org/abs/2605.18864) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-15 | [Calibrating LLMs with Semantic-level Reward](https://arxiv.org/abs/2605.15588) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-15 | [Process Rewards with Learned Reliability](https://arxiv.org/abs/2605.15529) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-14 | [Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Few-Shot Guidance](https://arxiv.org/abs/2605.15012) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-14 | [Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards](https://arxiv.org/abs/2605.14539) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-14 | [Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis](https://arxiv.org/abs/2605.14392) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-13 | [Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2605.14117) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents](https://arxiv.org/abs/2605.12620) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](https://arxiv.org/abs/2605.12495) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control](https://arxiv.org/abs/2605.11775) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [CuSearch: Curriculum Rollout Sampling via Search Depth for Agentic RAG](https://arxiv.org/abs/2605.11611) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [Selective Off-Policy Reference Tuning with Plan Guidance](https://arxiv.org/abs/2605.11505) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [Understanding and Preventing Entropy Collapse in RLVR with On-Policy Entropy Flow Optimization](https://arxiv.org/abs/2605.11491) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [fg-expo: Frontier-guided exploration-prioritized policy optimization via adaptive kl and gaussian curriculum](https://arxiv.org/abs/2605.11403) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-11 | [How Mobile World Model Guides GUI Agents?](https://arxiv.org/abs/2605.10347) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-11 | [expo: Exploration-prioritized policy optimization via adaptive kl regulation and gaussian curriculum sampling](https://arxiv.org/abs/2605.09923) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-10 | [Skill-R1: Agent Skill Evolution via Reinforcement Learning](https://arxiv.org/abs/2605.09359) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-09 | [How You Begin is How You Reason: Driving Exploration in RLVR via Prefix-Tuned Priors](https://arxiv.org/abs/2605.08817) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [DUET: Optimize Token-Budget Allocation for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2605.08441) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [AIPO: Learning to Reason from Active Interaction](https://arxiv.org/abs/2605.08401) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [PPO-HSC: An Exploratory Reinforcement Learning Framework Based on Wide-Area Policy Coverage Optimization](https://arxiv.org/abs/2607.16206) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States](https://arxiv.org/abs/2605.07579) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [ReasonEdit: Towards Interpretable Image Editing Evaluation via Reinforcement Learning](https://arxiv.org/abs/2605.07477) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [HTPO: Towards Exploration-Exploitation Balanced Policy Optimization via Hierarchical Token-level Objective Control](https://arxiv.org/abs/2605.08283) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [Experience Sharing in Mutual Reinforcement Learning for Heterogeneous Language Models](https://arxiv.org/abs/2605.07244) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [Adaptive Negative Reinforcement for LLM Reasoning:Dynamically Balancing Correction and Diversity in RLVR](https://arxiv.org/abs/2605.07137) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [Where to Spend Rollouts: Hit-Utility Optimal Rollout Allocation for Group-Based RLVR](https://arxiv.org/abs/2605.07114) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [Distributional Process Reward Models: Calibrated Prediction of Future Rewards via Conditional Optimal Transport](https://arxiv.org/abs/2605.06785) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients](https://arxiv.org/abs/2605.06650) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [On the Implicit Reward Overfitting and the Low-rank Dynamics in RLVR](https://arxiv.org/abs/2605.06523) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [Operator-Guided Invariance Learning for Continuous Reinforcement Learning](https://arxiv.org/abs/2605.06500) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [It Takes 8 Tokens: Weak-to-Strong Off-Policy RL via Auxiliary Branches](https://arxiv.org/abs/2607.16205) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [VISD: Enhancing Video Reasoning via Structured Self-Distillation](https://arxiv.org/abs/2605.06094) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [Beyond Uniform Credit Assignment: Selective Eligibility Traces for RLVR](https://arxiv.org/abs/2605.05965) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-30 | [Sandboxed Coding Agents are Competitive Omni-modal Task Solvers](https://arxiv.org/abs/2606.00579) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-29 | [ARCA: Adapter-Residual Credit Assignment When Token Signals Degenerate](https://arxiv.org/abs/2606.00257) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-29 | [Task-Focused Memorization for Multimodal Agents](https://arxiv.org/abs/2605.31075) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-28 | [Reasoning with Sampling: Cutting at Decision Points](https://arxiv.org/abs/2605.30327) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-28 | [When Should Models Change Their Minds? Contextual Belief Management in Large Language Models](https://arxiv.org/abs/2605.30219) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-28 | [ESPO: Early-Stopping Proximal Policy Optimization](https://arxiv.org/abs/2605.29860) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-28 | [EvoRubric: Self-Evolving Rubric-Driven RL for Open-Ended Generation](https://arxiv.org/abs/2605.29847) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-28 | [DeepTool: Scaling Interleaved Deliberation in Tool-Integrated Reasoning via Process-Supervised Reinforcement Learning](https://arxiv.org/abs/2605.29568) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-28 | [Information-Directed Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2605.29405) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-28 | [Rubric-Guided Process Reward for Stepwise Model Routing](https://arxiv.org/abs/2605.29310) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-27 | [Beyond pass@k: Redundancy-Aware RLVR for Multi-Sample Code Generation](https://arxiv.org/abs/2605.28022) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-27 | [ROSD: Reflective On-Policy Self-Distillation for Language Model Reasoning across Domains](https://arxiv.org/abs/2605.28014) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-26 | [KARMA: Karma-Aligned Reward Model Adaptation](https://arxiv.org/abs/2605.26738) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-25 | [TapSampling: Inference-Time Sampling with a Task-Progress-Understanding Verifier for Robotic Manipulation](https://arxiv.org/abs/2605.25547) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-25 | [GeoSVG-RL: Geometry-Aware Reinforcement Learning for Layout-Constrained Text-to-SVG Diagram Generation](https://arxiv.org/abs/2605.25447) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-24 | [Knowledge Graph-Driven Expert-Level Reasoning for Neuroscience](https://arxiv.org/abs/2605.25183) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-21 | [VLD-RAG: Agentic Vision-Language Retrieval-Augmented Generation for Long, Visually-Rich Multi-Page Documents](https://arxiv.org/abs/2607.24748) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-21 | [Beyond Pixels: Learning Invariant Rewards for Real-World Robotics From a Few Demonstrations](https://arxiv.org/abs/2605.22123) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-18 | [Pairwise Preference Reward and Group-Based Diversity Enhancement for Superior Open-Ended Generation](https://arxiv.org/abs/2605.18191) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-18 | [Curriculum Group Policy Optimization: Adaptive Sampling for Unleashing the Potential of Text-to-Image Generation](https://arxiv.org/abs/2605.17807) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-18 | [Entropy-Gradient Inversion: Moving Toward Internal Mechanism of Large Reasoning Models](https://arxiv.org/abs/2605.17770) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-17 | [AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment](https://arxiv.org/abs/2605.17602) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-14 | [Improving Multi-turn Dialogue Consistency with Self-Recall Thinking](https://arxiv.org/abs/2605.15102) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-14 | [Do We Really Need External Tools to Mitigate Hallucinations? SIRA: Shared-Prefix Internal Reconstruction of Attribution](https://arxiv.org/abs/2605.14621) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-14 | [Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR](https://arxiv.org/abs/2607.18254) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [Temper and Tilt Lead to SLOP: Reward Hacking Mitigation with Inference-Time Alignment](https://arxiv.org/abs/2605.13537) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [HLS-Seek: QoR-Aware Code Generation for High-Level Synthesis via Proxy Comparative Reward Reinforcement Learning](https://arxiv.org/abs/2605.13536) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [Scaling Retrieval-Augmented Reasoning with Parallel Search and Explicit Merging](https://arxiv.org/abs/2605.13534) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [STRIDE: Learnable Stepwise Language Feedback for LLM Reasoning](https://arxiv.org/abs/2605.18851) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [ChipMATE: Multi-Agent Training via Reinforcement Learning for Enhanced RTL Generation](https://arxiv.org/abs/2605.12857) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-12 | [OGLS-SD: On-Policy Self-Distillation with Outcome-Guided Logit Steering for LLM Reasoning](https://arxiv.org/abs/2605.12400) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-12 | [Drop the Act: Probe-Filtered RL for Faithful Chain-of-Thought Reasoning](https://arxiv.org/abs/2605.11467) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-12 | [Breaking $\textit{Winner-Takes-All}$: Cooperative Policy Optimization Improves Diverse LLM Reasoning](https://arxiv.org/abs/2605.11461) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-11 | [Newton's Lantern: A Reinforcement Learning Framework for Finetuning AC Power Flow Warm Start Models](https://arxiv.org/abs/2605.11102) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-09 | [ProcVLM: Learning Procedure-Grounded Progress Rewards for Robotic Manipulation](https://arxiv.org/abs/2605.08774) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-08 | [SYNCR: A Cross-Video Reasoning Benchmark with Synthetic Grounding](https://arxiv.org/abs/2605.08412) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-08 | [POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles](https://arxiv.org/abs/2605.07775) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-08 | [Think-with-Rubrics: From External Evaluator to Internal Reasoning Guidance](https://arxiv.org/abs/2605.07461) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-07 | [On Training in Imagination](https://arxiv.org/abs/2605.06732) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-31 | [Temporal Evidence Routing with Structured Visual Evidence for TimeLogicQA](https://arxiv.org/abs/2606.01106) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-31 | [Position: Good Embodied Reward Models Need Bad Behavior Data](https://arxiv.org/abs/2606.01036) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation](https://arxiv.org/abs/2605.29861) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing](https://arxiv.org/abs/2605.29809) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models](https://arxiv.org/abs/2605.29585) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-26 | [Using Probabilistic Programs to Train Inductive Reasoning in Large Language Models](https://arxiv.org/abs/2606.09856) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-25 | [Step-TP: A Grounded, Step-Level Dataset with Chain-of-Thought Reasoning for LLM-Guided Tensor Program Optimization](https://arxiv.org/abs/2605.25954) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-24 | [PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](https://arxiv.org/abs/2605.24785) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://arxiv.org/abs/2605.20833) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards](https://arxiv.org/abs/2605.20758) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-19 | [Regulating Anatomy-Aware Rewards via Trajectory-Integral Feedback for Volumetric Computed Tomography Analysis](https://arxiv.org/abs/2605.20277) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-18 | [NEWTON: Agentic Planning for Physically Grounded Video Generation](https://arxiv.org/abs/2605.18396) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-18 | [PAIR: Prefix-Aware Internal Reward Model for Multi-Turn Agent Optimization](https://arxiv.org/abs/2605.17877) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-17 | [ContractBench: Can LLM Agents Preserve Observation Contracts?](https://arxiv.org/abs/2605.17281) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-16 | [TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward](https://arxiv.org/abs/2607.21606) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-15 | [PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control](https://arxiv.org/abs/2605.15963) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning](https://arxiv.org/abs/2605.14876) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [Editor's Choice: Evaluating Abstract Intent in Image Editing through Atomic Entity Analysis](https://arxiv.org/abs/2605.14842) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [From Table to Cell: Attention for Better Reasoning with TABALIGN](https://arxiv.org/abs/2605.14465) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [TeachArena: Are Language Agents Ready for Realistic Teaching Work?](https://arxiv.org/abs/2605.14322) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning](https://arxiv.org/abs/2605.14054) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [Physics-R1: An Audited Olympiad Corpus and Released Verifiers for Visual Physics Reasoning](https://arxiv.org/abs/2605.14040) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://arxiv.org/abs/2605.13301) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [ReTool-Video: Recursive Tool-Using Video Agents with Meta-Augmented Tool Grounding](https://arxiv.org/abs/2605.13228) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [TERMS-Bench: Diagnosing LLM Negotiation Agents Beyond Deal Rate](https://arxiv.org/abs/2605.13909) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?](https://arxiv.org/abs/2605.12684) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Seirênes: Adversarial Self-Play with Evolving Distractions for LLM Reasoning](https://arxiv.org/abs/2605.11636) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [Verification Mirage: Mapping the Reliability Boundary of Self-Verification in Medical VQA](https://arxiv.org/abs/2605.10850) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [RadThinking: A Dataset for Longitudinal Clinical Reasoning in Radiology](https://arxiv.org/abs/2605.10761) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [Progressive Photorealistic Simplification](https://arxiv.org/abs/2605.10409) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [Continual Harness: Online Adaptation for Self-Improving Foundation Agents](https://arxiv.org/abs/2605.09998) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-10 | [CLR-voyance: Reinforcing Open-Ended Reasoning for Inpatient Clinical Decision Support with Outcome-Aware Rubrics](https://arxiv.org/abs/2605.09584) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-10 | [Kintsugi: Learning Policies by Repairing Executable Knowledge Bases](https://arxiv.org/abs/2605.09487) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-09 | [CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models](https://arxiv.org/abs/2605.08735) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [Video Understanding Reward Modeling: A Robust Benchmark and Performant Reward Models](https://arxiv.org/abs/2605.07872) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-07 | [Response Time Enhances Alignment with Heterogeneous Preferences](https://arxiv.org/abs/2605.06987) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-07 | [Continuous-Time Distribution Matching for Few-Step Diffusion Distillation](https://arxiv.org/abs/2605.06376) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-31 | [Self-Revising Discovery Systems for Science: A Categorical Framework for Agentic Artificial Intelligence](https://arxiv.org/abs/2606.01444) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-31 | [Self-Healing Agentic Orchestrators for Reliable Tool-Augmented Large Language Model Systems](https://arxiv.org/abs/2606.01416) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-31 | [BenchEvolver: Frontier Task Synthesis via Solution-Centric Evolution](https://arxiv.org/abs/2606.01286) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-31 | ["Skill Issues'': Data-Centric Optimization of Lakehouse Agents](https://arxiv.org/abs/2606.01185) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-31 | [Diagnosing LLM Arbitration Behavior over Pre-evidence Epistemic States in RAG-based Fact-Checking](https://arxiv.org/abs/2606.01120) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-31 | [Deep Research as Rubric for Reinforcement Learning](https://arxiv.org/abs/2606.01091) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-30 | [From Empathy to Personalized Empathy: Adapting Empathetic Strategies to Individual Users](https://arxiv.org/abs/2606.00728) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-30 | [Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [Fine-grained Verification via Diagnostic Reasoning Supervision for Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2605.31446) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions](https://arxiv.org/abs/2605.31271) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [Codifying the Judge: Scalable Evaluation via Program Distillation](https://arxiv.org/abs/2607.22561) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Auditing LLM Benchmarks with Item Response Theory](https://arxiv.org/abs/2605.30504) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Specialize Roles, Mix Deployments: Pushing the Cost-Accuracy Frontier of LLM Agent Teams](https://arxiv.org/abs/2606.20629) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [MarginGate: Sparse Margin-Triggered Verification for Batch-Invariant LLM Inference](https://arxiv.org/abs/2605.30218) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Conformal Certification of Reasoning Trace Prefixes](https://arxiv.org/abs/2605.30085) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Beyond Trajectory Rewards: Step-level Credit Assignment for Agentic Search via Graph Modeling](https://arxiv.org/abs/2605.29697) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [GRASP: Gated Regression-Aware Skill Proposer for Self-Improving LLM Agents](https://arxiv.org/abs/2605.29668) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Opt-Verifier: Unleashing the Power of LLMs for Optimization Modeling via Dual-Side Verification](https://arxiv.org/abs/2605.29556) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [GUITestScape: Towards Open-set Evaluation on Exploratory GUI Testing](https://arxiv.org/abs/2605.29532) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [When Does Memory Help Multi-Trajectory Inference for Tool-Use LLM Agents?](https://arxiv.org/abs/2605.28224) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [Refining Multidimensional Video Reward Models via Disentangled Influence Functions](https://arxiv.org/abs/2605.28203) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [Unification and Optimization of Robust Supervised Learning](https://arxiv.org/abs/2605.28165) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [Confidence-Orchestrated Self-Evolution against Uncertain LLM Feedback](https://arxiv.org/abs/2605.28010) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [DecomposeRL: Learning to Ask Useful, Informative, and Diverse Questions for Semi-Supervised, Traceable Claim Verification](https://arxiv.org/abs/2605.27858) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [CiteCheck: Retrieval-Grounded Detection of LLM Citation Hallucinations in Scientific Text](https://arxiv.org/abs/2605.27700) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [The Future of Facts: Tracing the Factual Generation-Verification Gap](https://arxiv.org/abs/2605.27564) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [GrowLoop: Self-Evolving Conversation Evaluation Seeded by Human](https://arxiv.org/abs/2605.28882) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [In LLM Reasoning, there is Irrationality on top of Value Misalignment](https://arxiv.org/abs/2606.20624) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [ConVer: Using Contracts and Loop Invariant Synthesis for Scalable Formal Software Verification](https://arxiv.org/abs/2605.27051) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [Cast a Wider Net: Coordinated Pass@K Policy Optimization for Code Reasoning](https://arxiv.org/abs/2605.27000) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [The Need for an External Observer Formalizing the Sufficiency Gap: A Mathematical Extension of Mixture Identifiability and Contextual Grounding in Sequence Models](https://arxiv.org/abs/2605.26711) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [Verilog-Evolve: Feedback-Driven and Skill-Evolving Verilog Generation](https://arxiv.org/abs/2605.26498) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization](https://arxiv.org/abs/2605.26457) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [Anchor: Mitigating Artifact Drift in Agent Benchmark Generation](https://arxiv.org/abs/2605.26321) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [Causal methods for LLM development and evaluation](https://arxiv.org/abs/2605.25998) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [DyCoRM: Dynamic Criterion-Aware Reward Modeling for Text-to-Image Generation](https://arxiv.org/abs/2605.25876) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [Nonstationary Generalized Linear Bandits with Discounted Online Mirror Descent](https://arxiv.org/abs/2605.25590) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [MATO: Multi-objective Personalized Alignment with Test-time Optimization for Large Language Models](https://arxiv.org/abs/2605.25342) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-24 | [Trust but Verify: Prover-Verifier Deliberation for Selective LLM Prediction](https://arxiv.org/abs/2605.25133) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-23 | [How Neural Reward Models Learn Features for Policy Optimization: A Single-Index Analysis](https://arxiv.org/abs/2605.24749) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-23 | [Representation-Guided Discrete Molecular Graph Retrosynthesis](https://arxiv.org/abs/2605.24428) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-22 | [Faithfulness as Information Flow: Evaluating and Training Faithful Chain-of-Thought Reasoning](https://arxiv.org/abs/2605.24286) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-22 | [SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills](https://arxiv.org/abs/2605.24117) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning](https://arxiv.org/abs/2605.23074) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [EVE-Agent: Evidence-Verifiable Self-Evolving Agents](https://arxiv.org/abs/2605.22905) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-20 | [Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents](https://arxiv.org/abs/2605.21810) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-20 | [MM-Conv: A Multimodal Dataset and Benchmark for Context-Aware Grounding in 3D Dialogue](https://arxiv.org/abs/2605.21796) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-20 | [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](https://arxiv.org/abs/2605.21488) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-20 | [The Hidden Signal of Verifier Strictness: Controlling and Improving Step-Wise Verification via Selective Latent Steering](https://arxiv.org/abs/2605.20745) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-20 | [RMA: an Agentic System for Research-Level Mathematical Problems](https://arxiv.org/abs/2605.22875) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [CopT: Contrastive On-Policy Thinking with Continuous Spaces for General and Agentic Reasoning](https://arxiv.org/abs/2605.20075) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers](https://arxiv.org/abs/2607.16212) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [OpenComputer: Verifiable Software Worlds for Computer-Use Agents](https://arxiv.org/abs/2605.19769) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [Spectral Unforgetting: Post-Hoc Recovery of Damaged Capabilities Without Retraining](https://arxiv.org/abs/2605.20296) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [STAR-PólyaMath: Multi-Agent Reasoning under Persistent Meta-Strategic Supervision](https://arxiv.org/abs/2605.19338) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [SNLP: Layer-Parallel Inference via Structured Newton Corrections](https://arxiv.org/abs/2605.17842) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-17 | [Verifier-Guided Code Translation via Meta-Step Decoding](https://arxiv.org/abs/2605.17626) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-17 | [Generalization or Memorization? Brittleness Testing for Chess-Trained Language Models](https://arxiv.org/abs/2605.17565) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-17 | [Evaluating Deep Research Agents on Expert Consulting Work: A Benchmark with Verifiers, Rubrics, and Cognitive Traps](https://arxiv.org/abs/2605.17554) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-17 | [VerifyMAS: Hypothesis Verification for Failure Attribution in LLM Multi-Agent Systems](https://arxiv.org/abs/2605.17467) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-17 | [Don't Let Bandit Feedback Pull Continual LLM-Recommender Updates Off Target](https://arxiv.org/abs/2605.18899) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-17 | [NewsLens: A Multi-Agent Framework for Adversarial News Bias Navigation](https://arxiv.org/abs/2605.17364) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-17 | [Weak-to-Strong Elicitation via Mismatched Wrong Drafts](https://arxiv.org/abs/2605.17314) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-16 | [Stress-Testing Neural Network Verifiers with Provably Robust Instances](https://arxiv.org/abs/2605.17153) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-16 | [Confidence Geometry Reveals Trace-Level Correctness in Large Language Model Reasoning](https://arxiv.org/abs/2605.16824) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [Skim: Speculative Execution for Fast and Efficient Web Agents](https://arxiv.org/abs/2605.16565) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [Distributional Energy-Based Models for Uncertainty-Aware Structured LLM Reasoning](https://arxiv.org/abs/2605.18871) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [Response-Conditioned Parallel-to-Sequential Orchestration for Multi-Agent Systems](https://arxiv.org/abs/2605.15573) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [OpenDeepThink: Parallel Reasoning via Bradley-Terry Aggregation](https://arxiv.org/abs/2605.15177) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [An Interpretable Latency Model for Speculative Decoding in LLM Serving](https://arxiv.org/abs/2605.15051) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [Falkor-IRAC: Graph-Constrained Generation for Verified Legal Reasoning in Indian Judicial AI](https://arxiv.org/abs/2605.14665) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale](https://arxiv.org/abs/2605.14445) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [A3D: Agentic AI flow for autonomous Accelerator Design](https://arxiv.org/abs/2605.15237) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations](https://arxiv.org/abs/2605.14175) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [Agentic Systems as Boosting Weak Reasoning Models](https://arxiv.org/abs/2605.14163) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [Protocol-Driven Development: Governing Generated Software Through Invariants and Continuous Evidence](https://arxiv.org/abs/2605.12981) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [NOVA: Fundamental Limits of Knowledge Discovery Through AI](https://arxiv.org/abs/2605.15219) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [SkillSafetyBench: Evaluating Agent Safety under Skill-Facing Attack Surfaces](https://arxiv.org/abs/2605.12015) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [On the Limitations of Large Language Models for Conceptual Database Modeling](https://arxiv.org/abs/2605.11986) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment](https://arxiv.org/abs/2605.11882) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors](https://arxiv.org/abs/2605.10434) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [EGL-SCA: Structural Credit Assignment for Co-Evolving Instructions and Tools in Graph Reasoning Agents](https://arxiv.org/abs/2605.10366) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [Beyond Autonomy: A Dynamic Tiered AgentRunner Framework for Governable and Resilient Enterprise AI Execution](https://arxiv.org/abs/2605.10223) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [An Information-Theoretic Criterion for Efficient Data Synthesis](https://arxiv.org/abs/2605.16379) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-10 | [An Executable Benchmarking Suite for Tool-Using Agents](https://arxiv.org/abs/2605.11030) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-10 | [Calibrate, Don't Curate: Label-Efficient Estimation from Noisy LLM Judges](https://arxiv.org/abs/2605.09702) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-09 | [CauSim: Scaling Causal Reasoning with Increasingly Complex Causal Simulators](https://arxiv.org/abs/2605.09079) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-09 | [Test-Time Personalization: A Diagnostic Framework and Probabilistic Fix for Scaling Failures](https://arxiv.org/abs/2605.10991) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-09 | [EvoMAS: Learning Execution-Time Workflows for Multi-Agent Systems](https://arxiv.org/abs/2605.08769) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [Vertex-Softmax: Tight Transformer Verification via Exact Softmax Optimization](https://arxiv.org/abs/2605.10974) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [Is the Future Compatible? Diagnosing Dynamic Consistency in World Action Models](https://arxiv.org/abs/2605.07514) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [EnvSimBench: A Benchmark for Evaluating and Improving LLM-Based Environment Simulation](https://arxiv.org/abs/2605.07247) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [MathlibPR: Pull Request Merge-Readiness Benchmark for Formal Mathematical Libraries](https://arxiv.org/abs/2605.07147) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Verifier-Backed Hard Problem Generation for Mathematical Reasoning](https://arxiv.org/abs/2605.06660) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Preference Instability in Reward Models: Detection and Mitigation via Sparse Autoencoders](https://arxiv.org/abs/2605.16339) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Constraint Decay: The Fragility of LLM Agents in Backend Code Generation](https://arxiv.org/abs/2605.06445) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [When to Trust Imagination: Adaptive Action Execution for World Action Models](https://arxiv.org/abs/2605.06222) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Hallucination as an Anomaly: Dynamic Intervention via Probabilistic Circuits](https://arxiv.org/abs/2605.05953) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes](https://arxiv.org/abs/2605.11182) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-05-05 | [EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics](https://arxiv.org/abs/2605.03871) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-05-08 | [Flow-OPD: On-Policy Distillation for Flow Matching Models](https://arxiv.org/abs/2605.08063) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-05 | [Correct Is Not Enough: Training Reasoning Planners with Executor-Grounded Rewards](https://arxiv.org/abs/2605.03862) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-19 | [Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR](https://arxiv.org/abs/2605.19282) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-13 | [GAGPO: Generalized Advantage Grouped Policy Optimization](https://arxiv.org/abs/2605.13217) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-08 | [SOD: Step-wise On-policy Distillation for Small Language Model Agents](https://arxiv.org/abs/2605.07725) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-21 | [Tailoring Teaching to Aptitude: Direction-Adaptive Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2605.22263) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-12 | [Learning with Rare Success but Rich Feedback via Reflection-Enhanced Self-Distillation](https://arxiv.org/abs/2605.12741) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-06 | [EP-GRPO: Entropy-Progress Aligned Group Relative Policy Optimization with Implicit Process Guidance](https://arxiv.org/abs/2605.04960) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-05 | [Efficiently Aligning Language Models with Online Natural Language Feedback](https://arxiv.org/abs/2605.04356) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-07 | [SPARK: Self-Play with Asymmetric Reward from Knowledge Graphs](https://arxiv.org/abs/2605.05546) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-26 | [Escape the Language Prior: Mitigating Late-Stage Modality Collapse in Audio Reasoning via Modality-Aware Policy Optimization](https://arxiv.org/abs/2605.27741) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-26 | [Explicit Critic Guidance for Aligning Diffusion Models](https://arxiv.org/abs/2605.27736) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-14 | [Controllable Molecular Generative Foundation Models](https://arxiv.org/abs/2605.15354) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-14 | [Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy](https://arxiv.org/abs/2605.14558) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-12 | [Block-R1: Rethinking the Role of Block Size in Multi-domain Reinforcement Learning for Diffusion Large Language Models](https://arxiv.org/abs/2605.11726) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-10 | [Crosslingual On-Policy Self-Distillation for Multilingual Reasoning](https://arxiv.org/abs/2605.09548) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-05 | [GRPO-TTA: Test-Time Visual Tuning for Vision-Language Models via GRPO-Driven Reinforcement Learning](https://arxiv.org/abs/2605.03403) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-02 | [MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models](https://arxiv.org/abs/2605.01520) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-31 | [Where to Look: Can Foundation Models Reach a Target Viewpoint Through Active Exploration?](https://arxiv.org/abs/2606.01247) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-29 | [Annealed Softmax Greedy in Many-Armed Bayesian Bandits](https://arxiv.org/abs/2605.31034) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-28 | [Hista and Numca: Estimate State Value Effectively for LLM Reinforcement Learning](https://arxiv.org/abs/2605.29782) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [OISD: On-Policy Internal Self-Distillation of Language Models](https://arxiv.org/abs/2605.29089) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [Efficient Post-training of LLMs for Code Generation With Offline Reinforcement Learning](https://arxiv.org/abs/2605.28409) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders](https://arxiv.org/abs/2605.27354) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2605.26684) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [Spend Your Rollouts Where It Counts: Rollout Allocation for Group-Based RL Post-Training](https://arxiv.org/abs/2605.26606) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-21 | [Learning Spatiotemporal Sensitivity in Video LLMs via Counterfactual Reinforcement Learning](https://arxiv.org/abs/2605.21988) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-20 | [Value-Gradient Hypothesis of RL for LLMs](https://arxiv.org/abs/2605.21654) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-11 | [Omni-Persona: Systematic Benchmarking and Improving Omnimodal Personalization](https://arxiv.org/abs/2605.09996) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-09 | [Breaking the Impasse: Dual-Scale Evolutionary Policy Training for Social Language Agents](https://arxiv.org/abs/2605.08721) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-08 | [Gradient Starvation in Binary-Reward GRPO: Why Group-Mean Centering Fails and Why the Simplest Fix Works](https://arxiv.org/abs/2605.07689) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [AGPO: Asymmetric Group Policy Optimization for Verifiable Reasoning and Search Ads Relevance at JD](https://arxiv.org/abs/2605.05826) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-07 | [Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration](https://arxiv.org/abs/2605.05566) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-04 | [Binary Rewards and Reinforcement Learning: Fundamental Challenges](https://arxiv.org/abs/2605.02375) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-03 | [Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning](https://arxiv.org/abs/2605.02073) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-03 | [Selector-Guided Autonomous Curriculum for One-Shot Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2605.01823) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-01 | [Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory](https://arxiv.org/abs/2605.00702) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-01 | [Exploring Pass-Rate Reward in Reinforcement Learning for Code Generation](https://arxiv.org/abs/2605.02944) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-01 | [ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning](https://arxiv.org/abs/2605.00380) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-01 | [Uniform-Correct Policy Optimization: Breaking RLVR's Indifference to Diversity](https://arxiv.org/abs/2605.00365) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-25 | [Extreme Region Policy Distillation](https://arxiv.org/abs/2605.25582) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-18 | [Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency](https://arxiv.org/abs/2605.18162) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [ICRL: Learning to Internalize Self-Critique with Reinforcement Learning](https://arxiv.org/abs/2605.15224) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-29 | [Consolidating Rewarded Perturbations for LLM Post-Training](https://arxiv.org/abs/2605.31494) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [LEAF: Growing Trees Without Branching for Speech-Aware Large Language Model Post-Training](https://arxiv.org/abs/2606.07610) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [Why Semantic Entropy Fails: Geometry-Aware and Calibrated Uncertainty for Policy Optimization](https://arxiv.org/abs/2605.21801) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [EARL: Towards a Unified Analysis-Guided Reinforcement Learning Framework for Egocentric Interaction Reasoning and Pixel Grounding](https://arxiv.org/abs/2605.14742) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2605.13375) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Aligning Flow Map Policies with Optimal Q-Guidance](https://arxiv.org/abs/2605.12416) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation](https://arxiv.org/abs/2605.12034) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-10 | [dFlowGRPO: Rate-Aware Policy Optimization for Discrete Flow Models](https://arxiv.org/abs/2605.09291) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-09 | [Generative Actor-Critic with Soft Bridge Policies](https://arxiv.org/abs/2605.08733) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-07 | [Agentick: A Unified Benchmark for General Sequential Decision-Making Agents](https://arxiv.org/abs/2605.06869) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-06 | [Towards Robust LLM Post-Training: Automatic Failure Management for Reinforcement Fine-Tuning](https://arxiv.org/abs/2605.04431) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-05 | [Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models](https://arxiv.org/abs/2605.03426) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-01 | [Decouple before Integration: Test-time Synthesis of SFT and RLVR Task Vectors](https://arxiv.org/abs/2605.00610) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](https://arxiv.org/abs/2605.31145) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2605.30776) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Stable-Layers: Fine-Tuning Image Layer Decomposition Models with VLM-Scored Reinforcement Learning](https://arxiv.org/abs/2605.30257) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [Touch-R1: Reinforcing Touch Reasoning in MLLMs](https://arxiv.org/abs/2605.27154) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [WINDQuant: Weight-Informed Neural Decision-Making for Global Mixed-Precision LLM Quantization](https://arxiv.org/abs/2605.26660) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-22 | [B-GRTO: Bootstrapped Group Relative Tool Optimization for Referring Segmentation](https://arxiv.org/abs/2605.23500) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding](https://arxiv.org/abs/2605.22413) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [IVR-R1: Refining Trajectories through Iterative Visual-Grounded Reasoning in Reinforcement Learning](https://arxiv.org/abs/2605.23997) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-16 | [Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models](https://arxiv.org/abs/2605.16842) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding](https://arxiv.org/abs/2605.15951) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [REC-RL: Referring expression counting via Gaussian and range-based reward optimization](https://arxiv.org/abs/2605.16460) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO](https://arxiv.org/abs/2605.15190) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [AIS: Adaptive Importance Sampling for Quantized RL](https://arxiv.org/abs/2605.13907) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [Discrete Flow Matching for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2605.12379) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking](https://arxiv.org/abs/2605.11151) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-10 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://arxiv.org/abs/2605.09262) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models](https://arxiv.org/abs/2605.07701) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning](https://arxiv.org/abs/2605.07394) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models](https://arxiv.org/abs/2605.16342) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL](https://arxiv.org/abs/2607.16204) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-06 | [Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing](https://arxiv.org/abs/2605.04733) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-03 | [Chart-FR1: Visual Focus-Driven Fine-Grained Reasoning on Dense Charts](https://arxiv.org/abs/2605.01882) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/abs/2605.15155) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-05-06 | [Preference-Based Self-Distillation: Beyond KL Matching via Reward Regularization](https://arxiv.org/abs/2605.05040) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-05-27 | [From Fact Overwriting to Knowledge Evolution: Causal Editing via On-Policy Self-Distillation](https://arxiv.org/abs/2605.28303) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-12 | [Adaptive Teacher Exposure for Self-Distillation in LLM Reasoning](https://arxiv.org/abs/2605.11458) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-08 | [HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents](https://arxiv.org/abs/2605.07177) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-05 | [Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe](https://arxiv.org/abs/2605.03677) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-26 | [Counteraction-Aware Multi-Teacher On-Policy Distillation for General Capability Recovery with Domain Preservation](https://arxiv.org/abs/2605.27115) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-18 | [$\boldsymbol{f}$-OPD: Stabilizing Long-Horizon On-Policy Distillation with Freshness-Aware Control](https://arxiv.org/abs/2605.17862) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-11 | [ProteinOPD: Towards Effective and Efficient Preference Alignment for Protein Design](https://arxiv.org/abs/2605.10189) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-09 | [The Extrapolation Cliff in On-Policy Distillation of Near-Deterministic Structured Outputs](https://arxiv.org/abs/2605.08737) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-08 | [KL for a KL: On-Policy Distillation with Control Variate Baseline](https://arxiv.org/abs/2605.07865) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-05-14 | [DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models](https://arxiv.org/abs/2605.15055) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-01 | [Healthcare AI GYM for Medical Agents](https://arxiv.org/abs/2605.02943) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-05-31 | [OPD+: Rethinking the Advantage Design for On-Policy Distillation](https://arxiv.org/abs/2606.01039) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-30 | [Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](https://arxiv.org/abs/2606.00564) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-26 | [Adversarial Dual On-Policy Distillation from Expressive Teacher](https://arxiv.org/abs/2605.27095) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-15 | [DeltaPrompts: Escaping the Zero-Delta Trap in Multimodal Distillation](https://arxiv.org/abs/2605.15532) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-07 | [Asymmetric On-Policy Distillation: Bridging Exploitation and Imitation at the Token Level](https://arxiv.org/abs/2605.06387) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-07 | [Safactory: A Scalable Agentic Infrastructure for Training Trustworthy Autonomous Intelligence](https://arxiv.org/abs/2605.06230) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-28 | [Same Evidence, Different Answers: Canonical-Context On-Policy Distillation for Multi-Turn Language Models](https://arxiv.org/abs/2605.30251) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-28 | [A Predictive Law for On-Policy Self-Distillation From World Feedback](https://arxiv.org/abs/2605.30070) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-28 | [GAPD: Gold-Action Policy Distillation for Agentic Reinforcement Learning in Knowledge Base Question Answering](https://arxiv.org/abs/2605.29584) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-25 | [CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2605.25378) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-21 | [Visual-Advantage On-Policy Distillation for Vision-Language Models](https://arxiv.org/abs/2605.21924) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-13 | [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://arxiv.org/abs/2605.13724) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-12 | [From Generic Correlation to Input-Specific Credit in On-Policy Self Distillation](https://arxiv.org/abs/2605.11613) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-05-29 | [Bridging Reasoning Trajectories in On-Policy Distillation via Near-Future Guidance](https://arxiv.org/abs/2606.00305) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-29 | [Trust-Region Behavior Blending for On-Policy Distillation](https://arxiv.org/abs/2605.31159) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-29 | [Your Teacher Can't Help You Here: Combating Supervision Fidelity Decay in On-Policy Distillation](https://arxiv.org/abs/2605.30833) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-27 | [ADWIN: Adaptive Windows for Horizon-Aware On-Policy Distillation](https://arxiv.org/abs/2605.28396) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-19 | [Backtracking When It Strays: Mitigating Dual Exposure Biases in LLM Reasoning Distillation](https://arxiv.org/abs/2605.19433) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-18 | [MoASE++: Mixture of Activation Sparsity Experts with Domain-Adaptive On-policy Distillation for Continual Test Time Adaptation](https://arxiv.org/abs/2605.17743) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-13 | [Prefix Teach, Suffix Fade: Local Teachability Collapse in Strong-to-Weak On-Policy Distillation](https://arxiv.org/abs/2605.13643) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-12 | [Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer](https://arxiv.org/abs/2605.12798) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-11 | [Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why](https://arxiv.org/abs/2605.10889) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-09 | [Reasoning Compression with Mixed-Policy Distillation](https://arxiv.org/abs/2605.08776) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-08 | [Prune-OPD: Efficient and Reliable On-Policy Distillation for Long-Horizon Reasoning](https://arxiv.org/abs/2605.07804) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-08 | [SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation](https://arxiv.org/abs/2605.07711) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-08 | [Rubric-based On-policy Distillation](https://arxiv.org/abs/2605.07396) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-01 | [Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](https://arxiv.org/abs/2605.00642) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-27 | [Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning](https://arxiv.org/abs/2605.28424) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-30 | [Interpretable Policy Distillation for Power Grid Topology Control](https://arxiv.org/abs/2606.00561) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-23 | [MuGen: Multi-Skill Generative Locomotion Controller for Humanoid Robots](https://arxiv.org/abs/2605.24592) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-21 | [Unlocking Proactivity in Task-Oriented Dialogue](https://arxiv.org/abs/2605.22240) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-20 | [GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation](https://arxiv.org/abs/2605.21605) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [Robot Squid Game: Quadrupedal Locomotion for Traversing Narrow Tunnels](https://arxiv.org/abs/2605.13665) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [Respecting Self-Uncertainty in On-Policy Self-Distillation for Efficient LLM Reasoning](https://arxiv.org/abs/2605.13255) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-09 | [ORACLE: Anticipating Scams from Partial Trajectories in Streaming App Usage](https://arxiv.org/abs/2605.16363) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-30 | [Post-Training Recipe, More Than Model Family, Shapes Multi-Agent LLM Conversational Behavior](https://arxiv.org/abs/2606.20632) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-15 | [Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation](https://arxiv.org/abs/2605.16241) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-30 | [DeepLatent: Think with Images via Parallel Latent Visual Reasoning](https://arxiv.org/abs/2606.00562) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [Learning Terrain-Aware Whole-Body Control for Perceptive Legged Loco-Manipulation](https://arxiv.org/abs/2605.31343) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [Self-Policy Distillation via Capability-Selective Subspace Projection](https://arxiv.org/abs/2605.22675) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling](https://arxiv.org/abs/2605.05922) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-05-18 | [Harnessing LLM Agents with Skill Programs](https://arxiv.org/abs/2605.17734) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-16 | [OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics](https://arxiv.org/abs/2605.16962) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-20 | [RISE: Reliable Improvement in Self-Evolving Vision-Language Models](https://arxiv.org/abs/2605.20914) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-03 | [Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use](https://arxiv.org/abs/2605.02964) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-31 | [Revise, Don't Freeze: Sampler-Matched Training for Self-Correcting Masked Diffusion Language Models](https://arxiv.org/abs/2606.01026) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-27 | [Self-Improving Language Models with Bidirectional Evolutionary Search](https://arxiv.org/abs/2605.28814) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-26 | [Self-Improvement Imitation with Biologically Guided Search for Protein Design Under Oracle Budgets](https://arxiv.org/abs/2605.26690) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-25 | [DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](https://arxiv.org/abs/2605.25328) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-19 | [From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models](https://arxiv.org/abs/2605.20177) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-07 | [A$^2$RD: Agentic Autoregressive Diffusion for Long Video Consistency](https://arxiv.org/abs/2605.06924) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-06 | [RemoteZero: Geospatial Reasoning with Zero Labels](https://arxiv.org/abs/2605.04451) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-31 | [ANDES: Agent Native Data Evolving Synthesis Tool for Autonomous Instruction Alignment](https://arxiv.org/abs/2606.01279) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications](https://arxiv.org/abs/2606.00133) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-23 | [CP-Agent: A Calibrated Risk-Controlled Agent for Feedback-Driven Competitive Programming](https://arxiv.org/abs/2605.24693) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-21 | [MAVEN: A Multi-stage Agentic Annotation Pipeline for Video Reasoning Tasks](https://arxiv.org/abs/2605.21917) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [ASH: Agents that Self-Hone via Embodied Learning](https://arxiv.org/abs/2605.14211) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-13 | [JEDI: Joint Embedding Diffusion World Model for Online Model-Based Reinforcement Learning](https://arxiv.org/abs/2605.13013) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-10 | [SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-07 | [CXR-ContraBench: Benchmarking Negated-Option Attraction in Medical VLMs](https://arxiv.org/abs/2605.05810) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](https://arxiv.org/abs/2605.31096) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [ExpGraph: Model-Agnostic Experience Learning with Graph-Structured Memory for LLM Agents](https://arxiv.org/abs/2605.30712) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](https://arxiv.org/abs/2605.30621) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [SIGMA: Semantic-Difference Instruction-Grounding Mask Annotator for Text-Driven Image Manipulation Localization](https://arxiv.org/abs/2605.27924) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [Uni-LaViRA: Language-Vision-Robot Actions Translation for Unified Embodied Navigation](https://arxiv.org/abs/2605.27582) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [CyberEvolver: Structured Self-Evolution for Cybersecurity Agents On the Fly](https://arxiv.org/abs/2605.26195) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [ProSR: Process-Shaped Spatial Reasoning for Reliable Chain-of-Thought in VLMs](https://arxiv.org/abs/2605.25524) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [Training Language Agents to Learn from Experience](https://arxiv.org/abs/2605.20477) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-16 | [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](https://arxiv.org/abs/2605.16883) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP](https://arxiv.org/abs/2605.16205) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-15 | [Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design](https://arxiv.org/abs/2605.15871) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.14892) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2605.13632) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [The Agent Use of Agent Beings: Agent Cybernetics Is the Missing Science of Foundation Agents](https://arxiv.org/abs/2605.10754) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-09 | [OPT-BENCH: Evaluating the Iterative Self-Optimization of LLM Agents in Large-Scale Search Spaces](https://arxiv.org/abs/2605.08904) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [Interactive Critique-Revision Training for Reliable Structured LLM Generation](https://arxiv.org/abs/2605.08327) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-05 | [Self-Improvement for Fast, High-Quality Plan Generation](https://arxiv.org/abs/2605.03625) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-04 | [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://arxiv.org/abs/2605.03042) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-01 | [SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking](https://arxiv.org/abs/2605.00974) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-01 | [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2605.00425) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-05-06 | [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://arxiv.org/abs/2605.05185) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-09 | [AHD Agent: Agentic Reinforcement Learning for Automatic Heuristic Design](https://arxiv.org/abs/2605.08756) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-04 | [T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2605.02178) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-29 | [GUI-C$^2$: Coarse-to-Fine GUI Grounding via Difficulty-Aware Reinforcement Learning](https://arxiv.org/abs/2605.30884) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-27 | [SKILLC: Learning Autonomous Skill Internalization in LLM Agents via Contrastive Credit Assignment](https://arxiv.org/abs/2605.27899) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-26 | [Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement](https://arxiv.org/abs/2605.26952) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-12 | [GEAR: Granularity-Adaptive Advantage Reweighting for LLM Agents via Self-Distillation](https://arxiv.org/abs/2605.11853) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-11 | [Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning](https://arxiv.org/abs/2605.10923) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-06 | [Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime](https://arxiv.org/abs/2605.05112) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-06 | [Maximizing Rollout Informativeness under a Fixed Budget: A Submodular View of Tree Search for Tool-Use Agentic Reinforcement Learning](https://arxiv.org/abs/2605.05262) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-02 | [$S^3$-R1: Learning to Retrieve and Answer Step-by-Step with Synthetic Data](https://arxiv.org/abs/2605.01248) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-19 | [Differentiable Model Predictive Safety for Heterogeneous Mobility at Urban Intersections](https://arxiv.org/abs/2605.27418) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-18 | [HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents](https://arxiv.org/abs/2605.17873) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-29 | [DiTTo: Scalable Order-aware All-in-One Image Restoration Agent](https://arxiv.org/abs/2605.30915) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [Mem-$π$: Adaptive Memory through Learning When and What to Generate](https://arxiv.org/abs/2605.21463) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-19 | [ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning](https://arxiv.org/abs/2605.20342) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Classifier Context Rot: Monitor Performance Degrades with Context Length](https://arxiv.org/abs/2605.12366) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [The Position Curse: LLMs Struggle to Locate the Last Few Items in a List](https://arxiv.org/abs/2605.07127) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-30 | [Generative Multi-Robot Motion Planning via Diffusion Modeling with Multi-Agent Reinforcement Learning Guidance](https://arxiv.org/abs/2606.00933) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [DocArena: Turning Raw Documents into Controllable Training Environments for Document Search Agents](https://arxiv.org/abs/2606.26122) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [Converted, Not Equivalent: Benchmarking Codebase Conversion via Observational Equivalence](https://arxiv.org/abs/2605.29054) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents](https://arxiv.org/abs/2605.28775) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [TRACER: Turn-level Regret Matching with Inner Reinforcement Credit for Cooperative Multi-LLM Reasoning](https://arxiv.org/abs/2605.28699) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [Retrieval, Reward, and Training Protocols: What Matters in Training Search Agents?](https://arxiv.org/abs/2605.27881) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [You Only Align Once: Propagating Cooperative Behaviors in Multi-Agent Systems through Seed Agents](https://arxiv.org/abs/2605.27586) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [Learning to Act under Noise: Enhancing Agent Robustness via Noisy Environments](https://arxiv.org/abs/2605.27209) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [Adapting the Interface, Not the Model: Runtime Harness Adaptation for Deterministic LLM Agents](https://arxiv.org/abs/2605.22166) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents](https://arxiv.org/abs/2605.19447) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [Learning CLI Agents with Structured Action Credit under Selective Observation](https://arxiv.org/abs/2605.08013) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [Cross-Modal Navigation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.06595) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-04 | [The Conversations Beneath the Code: Triadic Data for Long-Horizon Software Engineering Agents](https://arxiv.org/abs/2605.02244) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-02 | [CoFlow: Coordinated Few-Step Flow for Offline Multi-Agent Decision Making](https://arxiv.org/abs/2605.01457) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-16 | [Ranking-Aware Calibration for Reliable Multimodal Reinforcement Learning](https://arxiv.org/abs/2605.16999) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-05 | [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-28 | [BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models](https://arxiv.org/abs/2605.30226) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-18 | [Leveraging Latent Visual Reasoning in Silence](https://arxiv.org/abs/2605.18641) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-14 | [COPRA: Conditional Parameter Adaptation with Reinforcement Learning for Video Anomaly Detection](https://arxiv.org/abs/2605.15325) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-10 | [Perception Without Engagement: Dissecting the Causal Discovery Deficit in LMMs](https://arxiv.org/abs/2605.09422) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-09 | [CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization](https://arxiv.org/abs/2605.08802) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-21 | [F-TIS: Harnessing Diverse Models in Collaborative GRPO](https://arxiv.org/abs/2605.22537) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-13 | [Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models](https://arxiv.org/abs/2605.13119) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-18 | [Semantic Generative Tuning for Unified Multimodal Models](https://arxiv.org/abs/2605.18714) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models](https://arxiv.org/abs/2605.13276) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-01 | [Jailbreaking Vision-Language Models Through the Visual Modality](https://arxiv.org/abs/2605.00583) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-28 | [Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance](https://arxiv.org/abs/2605.30056) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-28 | [KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-26 | [InterSketch: An Interleaved Reasoning Model with Self-correcting Visual Sketch and Stepwise Reward](https://arxiv.org/abs/2605.26520) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-20 | [ProCrit: Self-Elicited Multi-Perspective Reasoning with Critic-Guided Revision for Multimodal Sarcasm Detection](https://arxiv.org/abs/2605.20867) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-19 | [CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition](https://arxiv.org/abs/2605.19995) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-18 | [AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents](https://arxiv.org/abs/2605.17933) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [QuantFPFlow: Quantum Amplitude Estimation for Fokker--Planck Policy Optimisation in Continuous Reinforcement Learning](https://arxiv.org/abs/2605.16429) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation](https://arxiv.org/abs/2605.12480) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-12 | [Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies](https://arxiv.org/abs/2605.11387) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation](https://arxiv.org/abs/2605.10118) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-11 | [ViSRA: A Video-based Spatial Reasoning Agent for Multi-modal Large Language Models](https://arxiv.org/abs/2605.10106) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [CustomerSim: Benchmarking and Aligning Multimodal Language Models as Retail User Simulators](https://arxiv.org/abs/2605.08334) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-04 | [Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE](https://arxiv.org/abs/2605.02641) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [MindZero: Learning Online Mental Reasoning With Zero Annotations](https://arxiv.org/abs/2606.00240) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [RDGen: Demonstration Generation for High-Quality Robot Learning via Reinforcement Learning](https://arxiv.org/abs/2605.30957) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing](https://arxiv.org/abs/2605.30117) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [AgentCVR: Active Multi-Agent Cross-Video Reasoning via Script-Simulated Reinforcement Learning](https://arxiv.org/abs/2605.29643) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [ReasonLight: A Multimodal Foundation Model-Enhanced Reinforcement Learning Framework for Zero-Shot Traffic Signal Control](https://arxiv.org/abs/2605.29425) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [UniNote: A Unified Embedding Model for Multimodal Representation and Ranking](https://arxiv.org/abs/2605.29287) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [GAP3D: Generative Alignment of VLM Latents to Patch-Level Embeddings for 3D Generation](https://arxiv.org/abs/2605.28995) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-26 | [Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](https://arxiv.org/abs/2605.27134) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-23 | [Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems](https://arxiv.org/abs/2606.00090) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles](https://arxiv.org/abs/2605.22177) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-20 | [Stochastic MeanFlow Policies: One-Step Generative Control with Entropic Mirror Descent](https://arxiv.org/abs/2605.21282) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-20 | [IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools](https://arxiv.org/abs/2605.20682) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning](https://arxiv.org/abs/2605.19852) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-19 | [ClaimDiff-RL: Fine-Grained Caption Reinforcement Learning through Visual Claim Comparison](https://arxiv.org/abs/2605.20278) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [EgoBabyVLM: Benchmarking Cross-Modal Learning from Naturalistic Egocentric Video Data](https://arxiv.org/abs/2605.19130) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [Quantum Machine Learning-based 6G edge Network: Enabling Adaptive Communication and Model Aggregation](https://arxiv.org/abs/2605.27417) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [ISEP: Implicit Support Expansion for Offline Reinforcement Learning via Stochastic Policy Optimization](https://arxiv.org/abs/2605.18320) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-16 | [EVA01: Unified Native 3D Understanding and Generation via Mixture-of-Transformers](https://arxiv.org/abs/2605.16745) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [CRAFT: Clinical Reward-Aligned Finetuning for Medical Image Synthesis](https://arxiv.org/abs/2605.12650) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-11 | [SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation](https://arxiv.org/abs/2605.10376) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-08 | [GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization](https://arxiv.org/abs/2605.07399) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding](https://arxiv.org/abs/2605.05997) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-04 | [AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://arxiv.org/abs/2605.02630) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-21 | [SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-based Humanoid Control](https://arxiv.org/abs/2605.22894) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-05-22 | [Precise: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models](https://arxiv.org/abs/2605.23522) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-16 | [Beyond Execution: Static-Analysis Rewards and Hint-Conditioned Diffusion RL for Code Generation](https://arxiv.org/abs/2605.17174) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-10 | [Any2Any 3D Diffusion Models with Knowledge Transfer: A Radiotherapy Planning Study](https://arxiv.org/abs/2605.09622) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-07 | [MotionGRPO: Overcoming Low Intra-Group Diversity in GRPO-Based Egocentric Motion Recovery](https://arxiv.org/abs/2605.05680) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-14 | [PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation](https://arxiv.org/abs/2605.14269) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-28 | [Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models](https://arxiv.org/abs/2605.30038) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-27 | [World Models for Robotic Manipulation: A Survey](https://arxiv.org/abs/2606.00113) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-21 | [Learnability-Informed Fine-Tuning of Diffusion Language Models](https://arxiv.org/abs/2605.22939) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-20 | [RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution](https://arxiv.org/abs/2605.21195) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-18 | [Improved Baselines with Representation Autoencoders](https://arxiv.org/abs/2605.18324) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-13 | [Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models](https://arxiv.org/abs/2605.13935) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-11 | [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models](https://arxiv.org/abs/2605.10759) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-29 | [APE: Agentic Prompt Enhancer for Image Generation and Editing](https://arxiv.org/abs/2606.00204) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-14 | [Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video](https://arxiv.org/abs/2605.15182) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [Not All Tokens Learn Alike: Attention Entropy Reveals Heterogeneous Signals in RL Reasoning](https://arxiv.org/abs/2605.07660) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-05 | [Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation](https://arxiv.org/abs/2605.03849) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-31 | [Fine-Tuning Diffusion Models for Molecular Generation via Reinforcement Learning and Fast Sampling](https://arxiv.org/abs/2606.01220) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-29 | [Generating Graph-Like Logical Rules for Knowledge Graph Reasoning via Diffusion Models](https://arxiv.org/abs/2605.30747) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [Constrained Flow Optimization via Sequential Fine Tuning for Molecular Design](https://arxiv.org/abs/2605.30610) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models](https://arxiv.org/abs/2605.29398) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [Reinforcing Few-step Generators via Reward-Tilted Distribution Matching](https://arxiv.org/abs/2605.26108) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [AdvantageFlow: Advantage-Weighted Least Squares for RL in Flow Models](https://arxiv.org/abs/2605.26013) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [Reinforcement Learning from Denoising Feedback](https://arxiv.org/abs/2605.25638) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-24 | [Cross-Domain Energy-Guided Diffusion Generation for Off-Dynamics Reinforcement Learning](https://arxiv.org/abs/2605.24810) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-18 | [Generation Navigator: A State-Aware Agentic Framework for Image Generation](https://arxiv.org/abs/2605.17969) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-17 | [Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization](https://arxiv.org/abs/2605.17693) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-14 | [CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation](https://arxiv.org/abs/2605.14344) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [NavOL: Navigation Policy with Online Imitation Learning](https://arxiv.org/abs/2605.11762) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-09 | [Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion](https://arxiv.org/abs/2605.08804) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-09 | [TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment](https://arxiv.org/abs/2605.10983) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](https://arxiv.org/abs/2605.06507) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-06 | [ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving](https://arxiv.org/abs/2605.04647) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-04 | [Decoupled Guidance Diffusion for Adaptive Offline Safe Reinforcement Learning](https://arxiv.org/abs/2605.02777) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-03 | [Joint Energy Management and Coordinated AIGC Workload Scheduling for Distributed Data Centers: A Diffusion-Aided Reward Shaping Approach](https://arxiv.org/abs/2605.02965) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-01 | [Recovering Hidden Reward in Diffusion-Based Policies](https://arxiv.org/abs/2605.00623) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-01 | [Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-05-30 | [DriveAnchor: Progressive Anchor-based Flow Learning for Autonomous Driving Planning](https://arxiv.org/abs/2606.00519) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-19 | [Beyond Action Residuals: Real-World Robot Policy Steering via Bottleneck Latent Reinforcement Learning](https://arxiv.org/abs/2605.19919) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-15 | [NavRL++: A System-Level Framework for Improving Sim-to-Real Transfer in Reinforcement Learning-Based Robot Navigation](https://arxiv.org/abs/2605.15559) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-13 | [Safety-Constrained Reinforcement Learning with Post-Training Reachability Verification for Robot Navigation](https://arxiv.org/abs/2605.14174) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-05-29 | [Before Parc Fermé: RL-Time Pruning for Efficient Embodied LLMs in Autonomous Driving](https://arxiv.org/abs/2605.31256) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-16 | [How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning](https://arxiv.org/abs/2605.17077) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-10 | [SABER: A Scalable Action-Based Embodied Dataset for Real-World VLA Adaptation](https://arxiv.org/abs/2605.09613) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-06 | [The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences](https://arxiv.org/abs/2605.05080) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-06 | [CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies](https://arxiv.org/abs/2605.04470) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-05-31 | [Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies](https://arxiv.org/abs/2606.01151) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [Closed-Loop Neural Activation Control in Vision-Language-Action Models](https://arxiv.org/abs/2606.00269) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [Feat2Go: Visual Feature-Grounded Value Estimation for Embodied Reinforcement Learning](https://arxiv.org/abs/2605.30795) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-26 | [YOLO26-RipeLoc Lite: A lightweight architecture for tomato ripeness detection and picking point localization in greenhouse robotic harvesting](https://arxiv.org/abs/2605.27129) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-19 | [KappaPlace: Learning Hyperspherical Uncertainty for Visual Place Recognition via Prototype-Anchored Supervision](https://arxiv.org/abs/2605.19435) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-08 | [How to Utilize Failure Demo Data?: Effective Data Selection for Imitation Learning Using Distribution Differences in Attention Mechanism](https://arxiv.org/abs/2605.07560) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-05-29 | [Wall-OSS-0.5 Technical Report](https://arxiv.org/abs/2605.30877) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-28 | [SalsaAgent: A multimodal embodied language model for interactive dance generation](https://arxiv.org/abs/2605.29219) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-27 | [ProgVLA: Progress-Aware Robot Manipulation Skill Learning](https://arxiv.org/abs/2605.28231) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-25 | [EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models](https://arxiv.org/abs/2605.25477) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-24 | [X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models](https://arxiv.org/abs/2605.25044) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-24 | [Test-Time Deep Thinking to Explore Implicit Rules](https://arxiv.org/abs/2605.24828) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-13 | [What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://arxiv.org/abs/2605.13105) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [Driving Intents Amplify Planning-Oriented Reinforcement Learning](https://arxiv.org/abs/2605.12625) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning](https://arxiv.org/abs/2605.12236) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-12 | [OrbiSim: World Models as Differentiable Physics Engines for Embodied Intelligence](https://arxiv.org/abs/2605.16395) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-10 | [Neuromorphic Reinforcement Learning for Quadruped Locomotion Control on Uneven Terrain](https://arxiv.org/abs/2605.09595) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-05-07 | [TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation](https://arxiv.org/abs/2605.05714) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-30 | [GR2 Technical Report](https://arxiv.org/abs/2606.31984) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-06-03 | [Sequential Data Poisoning in LLM Post-Training](https://arxiv.org/abs/2606.04929) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-06-24 | [V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning](https://arxiv.org/abs/2606.25319) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-06-08 | [Stage-1 Controls the Entropy Regime, Not the Outcome](https://arxiv.org/abs/2606.09059) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-06-05 | [On the Geometry of On-Policy Distillation](https://arxiv.org/abs/2606.07082) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-06-29 | [When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon](https://arxiv.org/abs/2606.30445) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-06-08 | [Breaking the Tokenizer Barrier: On-Policy Distillation across Model Families](https://arxiv.org/abs/2606.09456) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-06-29 | [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://arxiv.org/abs/2606.30616) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-10 | [InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](https://arxiv.org/abs/2606.12195) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-08 | [From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning](https://arxiv.org/abs/2606.09092) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-26 | [RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning](https://arxiv.org/abs/2606.28266) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-26 | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety](https://arxiv.org/abs/2606.27632) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-16 | [Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging](https://arxiv.org/abs/2606.18521) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-15 | [The Value Axis: Language Models Encode Whether They're on the Right Track](https://arxiv.org/abs/2606.17056) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-08 | [Emergence of Context Characteristics Sensitivity in Large Language Models](https://arxiv.org/abs/2606.09525) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-26 | [Dockerless: Environment-Free Program Verifier for Coding Agents](https://arxiv.org/abs/2606.28436) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-26 | [Learning to Reason with Curriculum II: Compositional Generalization](https://arxiv.org/abs/2606.27721) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-25 | [AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing](https://arxiv.org/abs/2606.26787) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-25 | [NebulaExp-8B: An Empirical Post-Training Pipeline via Full-Scale Ablation Research](https://arxiv.org/abs/2606.26671) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-11 | [PolyAlign: Conditional Human-Distribution Alignment](https://arxiv.org/abs/2606.13227) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-10 | [Analyzing and Improving Fine-grained Preference Optimization in Medical LVLMs](https://arxiv.org/abs/2606.12590) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-09 | [The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](https://arxiv.org/abs/2606.11470) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-07 | [Ishigaki-IDS: An Open-Weight Verifier-Aware Model for Information Delivery Specification Drafting in Building Information Modeling](https://arxiv.org/abs/2606.08545) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-30 | [Xiaomi-GUI-0 Technical Report](https://arxiv.org/abs/2606.31410) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-29 | [Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback](https://arxiv.org/abs/2606.30923) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-14 | [OmniOPSD: Rationale-Privileged On-Policy Self-Distillation for Affective Computing](https://arxiv.org/abs/2606.15920) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-12 | [Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://arxiv.org/abs/2606.15007) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-08 | [CapRL++: Unified Reinforcement Learning with Verifiable Rewards for Dense Image and Video Captioning](https://arxiv.org/abs/2606.09393) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-02 | [Covert Influence Between Language Models](https://arxiv.org/abs/2606.04071) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-30 | [Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models](https://arxiv.org/abs/2606.31846) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-24 | [CRAFT: Learn the Schema, Execute the Plan](https://arxiv.org/abs/2607.22642) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-22 | [TelecomGPT-R1: A Unified Open-Source Reasoner for the Telecom Stack](https://arxiv.org/abs/2608.26126) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-17 | [AMALIA-VL: A Native European Portuguese Open-Source Vision and Language Model](https://arxiv.org/abs/2606.19100) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-16 | [See First, Answer Later: Visual Evidence Pre-Alignment via Sufficiency-Driven RL](https://arxiv.org/abs/2606.17678) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-15 | [How Post-Training Shapes Biological Reasoning Models](https://arxiv.org/abs/2606.16517) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-15 | [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-10 | [Beyond Fully Random Masking: Attention-Guided Denoising and Optimization for Diffusion Language Models](https://arxiv.org/abs/2606.12273) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-04 | [TLA-Prover: Verifiable TLA+ Specification Synthesis via Preference-Optimized Low-Rank Adaptation](https://arxiv.org/abs/2606.06133) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-30 | [Verifiable Rewards for Calibrated Probabilistic Forecasting](https://arxiv.org/abs/2607.00164) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-30 | [Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR](https://arxiv.org/abs/2606.31813) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-29 | [From Search to Synthesis: Training LLMs as Zero-Shot Workflow Generators](https://arxiv.org/abs/2606.30704) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-25 | [EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling](https://arxiv.org/abs/2606.26578) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-24 | [Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It](https://arxiv.org/abs/2606.26027) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-23 | [Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment](https://arxiv.org/abs/2606.24331) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-22 | [Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](https://arxiv.org/abs/2606.22938) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-20 | [L20-Edu-135M: An Auditable Single-GPU Study of Data-Efficient Small Language Modeling](https://arxiv.org/abs/2606.22189) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-20 | [Mat-Pref: Verifiable-Reward Training Improves Compositional Reasoning in Inorganic Materials](https://arxiv.org/abs/2606.21830) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-17 | [Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-16 | [From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning](https://arxiv.org/abs/2606.18089) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-15 | [VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models](https://arxiv.org/abs/2606.16140) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-12 | [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-12 | [CacheRL:Multi-Turn Tool-Calling Agents via Cached Rollouts and Hybrid Reward](https://arxiv.org/abs/2606.14179) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-11 | [Can Post-Training Turn LLMs into Good Medical Coders? An Empirical Study of Generative ICD Coding](https://arxiv.org/abs/2606.13940) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-09 | [Pushing the Limits of LLM Tool Calling via Experiential Knowledge Integration and Activation](https://arxiv.org/abs/2606.10875) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-07 | [When RL Fails after SFT: Rejuvenating Model Plasticity for Robust SFT-to-RL Handoff](https://arxiv.org/abs/2606.09932) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-03 | [Food-R1: A Unified Multi-Task Food Vision-Language Model with Reinforcement Learning](https://arxiv.org/abs/2606.04986) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-25 | [Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization](https://arxiv.org/abs/2606.27025) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-24 | [Reason Before You Retrieve: Agentic Planning for Multi-modal RAG](https://arxiv.org/abs/2607.22643) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-15 | [Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment](https://arxiv.org/abs/2607.19371) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-10 | [The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning](https://arxiv.org/abs/2606.11918) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-08 | [AliyunConsoleAgent: Training Web Agents in Real-World Cloud Environments via Distillation and Reinforcement Learning](https://arxiv.org/abs/2606.09447) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-04 | [Better Literary Translation: A Multi-Aspect Data Generation and LLM Training Approach](https://arxiv.org/abs/2606.05924) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-02 | [Large Language Models Are Overconfident in Their Own Responses](https://arxiv.org/abs/2606.03437) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-02 | [Pretraining Language Models on Historical Text](https://arxiv.org/abs/2606.02991) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-30 | [Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation](https://arxiv.org/abs/2606.30248) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [Toward Secure and Reliable PDDL Formalization of Large Language Models with Planner-in-the-Loop Feedback](https://arxiv.org/abs/2606.29700) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-22 | [E-MRL: Cross-view Aligned Evidence-driven Multimodal Reinforcement Learning for Reliable 3D Tumor Analysis](https://arxiv.org/abs/2606.23888) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-22 | [dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion Vision-Language-Action Models](https://arxiv.org/abs/2606.23623) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-22 | [Understanding Knowledge Distillation in Post-Training: When It Helps and When It Fails](https://arxiv.org/abs/2606.22942) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-20 | [Fine-Tuning Large Language Models for Quantum Reasoning](https://arxiv.org/abs/2606.21974) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-19 | [Towards Pedagogically Aligned LLM Tutors for Math Mistake Remediation](https://arxiv.org/abs/2606.21502) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-17 | [Learning When to Reason for Text-to-SQL via SFT and DPO](https://arxiv.org/abs/2607.22622) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-15 | [Adaptive and Explicit safe: Triggering Latent Safety Awareness in Large Reasoning Models](https://arxiv.org/abs/2606.16808) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-15 | [PACT: Privileged Trace Co-Training for Multi-Turn Tool-Use Agents](https://arxiv.org/abs/2606.16215) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-15 | [PVminerLLM2: Improving Structured Extraction of Patient Voice via Preference Optimization](https://arxiv.org/abs/2606.16074) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-12 | [AudioDER: A Deduplication-Enhanced Reasoning Dataset for Post-Training Large Audio-Language Models](https://arxiv.org/abs/2606.14591) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-12 | [Optimality-Preserving Decomposition for Scalable QAOA in Natural-Language-Guided Multi-Drone Assignment](https://arxiv.org/abs/2606.14252) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-10 | [World Model Self-Distillation: Training World Models to Solve General Tasks](https://arxiv.org/abs/2606.12072) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-09 | [Does Reasoning Preserve Alignment? On the Trustworthiness of Large Reasoning Models](https://arxiv.org/abs/2606.11046) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-08 | [Pareto-Guided Teacher Alignment for Fair Personalized Text Generation](https://arxiv.org/abs/2606.10126) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-08 | [A Finetuned SpeechLLM for Joint Multi-Granular L2 Assessment and Natural-Language Rationales](https://arxiv.org/abs/2606.09470) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-04 | [PolyFact: Comparing Consistency-Driven Post-training Methods for Cross-Lingual Factual Recall](https://arxiv.org/abs/2606.06586) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-04 | [DisasterBench: A Multimodal Benchmark for UAV-Based Disaster Response in Complex Environments](https://arxiv.org/abs/2606.06217) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-03 | [Selective-Advantage Entropy-Adaptive Horizon GRPO: Asymmetric Token-Level Discounting for Efficient Reinforcement Learning of Language Models](https://arxiv.org/abs/2606.05434) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-03 | [Synthetic Contrastive Reasoning for Multi-Table Q&A](https://arxiv.org/abs/2606.05382) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-03 | [Smart Picks in the Dark: Towards Efficient RLVR for Reasoning via Tracing Metacognitive Pivots](https://arxiv.org/abs/2606.04503) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning](https://arxiv.org/abs/2607.28647) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://arxiv.org/abs/2606.03264) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-30 | [UniCoder: Unified Visual-to-Code Generation via Symbolic Rewards and Reference-Guided Code Optimization](https://arxiv.org/abs/2606.31732) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-30 | [Think in English, Answer in Korean: Efficient Adaptation of Multilingual Tool-Using Agents](https://arxiv.org/abs/2606.31648) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-27 | [NEXT: Reasoning-Driven Video Recommendation via a Vision-Language Model](https://arxiv.org/abs/2607.24789) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-26 | [HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech](https://arxiv.org/abs/2606.28249) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-26 | [TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL](https://arxiv.org/abs/2606.28016) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-24 | [Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data](https://arxiv.org/abs/2606.25894) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-23 | [Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety](https://arxiv.org/abs/2606.25034) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-23 | [CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning](https://arxiv.org/abs/2606.24636) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-23 | [ViTexQA: A Multi-Frame Temporal Perception Dataset for Video Text Question Answering](https://arxiv.org/abs/2606.24602) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-22 | [BiliVLA: Scene-Aware Vision-Language-Action Model with Reinforcement Learning for Autonomous Biliary Endoscopic Navigation](https://arxiv.org/abs/2606.23531) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-22 | [BoxCtrl: 3D-Aware Visual Prompting for Geometric Image Editing](https://arxiv.org/abs/2606.23270) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-17 | [Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA](https://arxiv.org/abs/2606.19266) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-15 | [GeoDisaster: Benchmarking Orchestrated Agents for Operational Disaster Geo-Intelligence](https://arxiv.org/abs/2606.17246) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-15 | [DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-10 | [Speculative Rollback Correction for Quality-Diverse Web Agent Imitation](https://arxiv.org/abs/2606.12485) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-09 | [Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans](https://arxiv.org/abs/2606.10953) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-06 | [Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?](https://arxiv.org/abs/2606.08063) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-03 | [Imbuing Large Language Models with Bidirectional Logic for Robust Chain Repair](https://arxiv.org/abs/2606.05030) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [Visual Instruction Tuning Aligns Modalities through Abstraction](https://arxiv.org/abs/2606.03871) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [MAGNIFIED: RL Fine-tuning of Multimodal Large Language Models for Motion Planning](https://arxiv.org/abs/2606.20641) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [Multi$^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments](https://arxiv.org/abs/2606.03698) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-01 | [ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2606.02576) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-01 | [CRAM: Centroid-Routing and Adaptive MoE for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2606.02502) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-01 | [Policy and World Modeling Co-Training for Language Agents](https://arxiv.org/abs/2606.02388) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-01 | [Towards Precise Intent-Aligned VLA Aerial Navigation via Expert-Guided GRPO](https://arxiv.org/abs/2606.02313) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-01 | [Community-Aware Assessment of Social Textual Engagement and Resonance: A Human-Centric Perspective on User-Generated Content Evaluation](https://arxiv.org/abs/2606.01897) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-30 | [What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States](https://arxiv.org/abs/2606.31612) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-30 | [ReGRPO: Reflection-Augmented Policy Optimization for Tool-Using Agents](https://arxiv.org/abs/2606.31392) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [OmniCoT: A Benchmark for Global and Multi-Step Panoramic Reasoning](https://arxiv.org/abs/2606.30378) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-28 | [MIThinker: A Plug-and-Play Policy-Optimized Thinker For Motivational Interviewing Counseling](https://arxiv.org/abs/2606.29265) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-27 | [Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation](https://arxiv.org/abs/2606.28998) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-27 | [An AI agent for treatment reasoning over a biomedical tool universe](https://arxiv.org/abs/2606.28692) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-25 | [Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes](https://arxiv.org/abs/2606.27210) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-25 | [TraMP-LLaMA: Generative Interpretability with Decoupled Instruction Tuning for Facial Expression Quality Assessment](https://arxiv.org/abs/2606.26942) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-24 | [WinDOM: Self-Family Distillation for Small-Model GUI Grounding](https://arxiv.org/abs/2606.25964) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-24 | [FeVOS: Foresight Expression Video Object Segmentation](https://arxiv.org/abs/2606.25585) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-23 | [PointVG-R: Internalizing Geometric Reasoning in MLLMs for Precise Pointing Localization via Visual Chain of Thought](https://arxiv.org/abs/2606.24539) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-23 | [video-SALMONN-R$^3$: Learning to ReWatch, ReAsk, and ReAnswer for Efficient Video Understanding](https://arxiv.org/abs/2606.24477) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration](https://arxiv.org/abs/2606.23537) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-21 | [Reinforcement learning to improve large language model-based automated code compliance systems](https://arxiv.org/abs/2606.22402) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-21 | [First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers](https://arxiv.org/abs/2606.22361) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-18 | [CogniRoute: Learning to Route Social Evidence in Omni-Modal Models](https://arxiv.org/abs/2606.20970) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-17 | [ProductConsistency: Improving Product Identity Preservation in Instruction-Based Image Editing via SFT and RL](https://arxiv.org/abs/2606.19103) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-17 | [PragReST: Self-Reinforcing Counterfactual Reasoning for Pragmatic Language Understanding](https://arxiv.org/abs/2606.18624) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-16 | [VoidPadding: Let [VOID] Handle Padding in Masked Diffusion Language Models so that [EOS] Can Focus on Semantic Termination](https://arxiv.org/abs/2606.17999) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-16 | [Reinforcing Dual-Path Reasoning in Spatial Vision Language Models](https://arxiv.org/abs/2606.17539) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-15 | [Pareto LoRA: Mitigating Modality Imbalance in Unified Multimodal Models via Pareto-Optimal Gradient Integration](https://arxiv.org/abs/2606.17296) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-15 | [ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining](https://arxiv.org/abs/2606.17200) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-15 | [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](https://arxiv.org/abs/2606.16934) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-14 | [The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages](https://arxiv.org/abs/2606.15821) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-11 | [From Passive Generation to Investigation: A Proactive Scientific Peer Review Agent](https://arxiv.org/abs/2606.13349) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-11 | [Localizing Anchoring Pathways in Language Models](https://arxiv.org/abs/2606.12818) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-10 | [OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models](https://arxiv.org/abs/2606.12169) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-10 | [UniReason-Med: A Shared Grounded Reasoning Interface for 2D-to-3D Transfer in Medical VQA](https://arxiv.org/abs/2606.11740) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-10 | [Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning](https://arxiv.org/abs/2606.11634) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-08 | [ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation](https://arxiv.org/abs/2606.28357) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-08 | [PriFT: Prior-Support Guided Supervised Fine-Tuning](https://arxiv.org/abs/2606.09396) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-05 | [SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating](https://arxiv.org/abs/2606.07074) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-04 | [Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation](https://arxiv.org/abs/2606.06428) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-04 | [EDIT: Evidence-Diagnosed Intervention Training for Rule-Faithful LLM Grading](https://arxiv.org/abs/2606.06350) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [RL Excursions during Pre-Training: Re-examining Policy Optimization for LLM training](https://arxiv.org/abs/2606.04272) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [Exploring Adversarial Robustness and Safety Alignment in Multilingual Multi-Modal Large Language Models](https://arxiv.org/abs/2606.03793) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [Beyond the Literal: Decomposing Pragmatic Intent in Multimodal Meme Understanding](https://arxiv.org/abs/2606.03604) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](https://arxiv.org/abs/2606.03489) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [A unified multi-task framework enables interpretable chest radiograph analysis](https://arxiv.org/abs/2606.03417) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following](https://arxiv.org/abs/2606.03116) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression](https://arxiv.org/abs/2606.02559) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](https://arxiv.org/abs/2606.01717) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [Beyond Clean Text: Evaluating Encoder and Decoder Robustness for Bangla Event Detection in Noisy Text](https://arxiv.org/abs/2606.30914) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [Before Thinking, Learn to Decide: Proactive Routing for Efficient Visual Reasoning](https://arxiv.org/abs/2606.30217) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [Online Data Selection for Instruction Tuning via Gaussian Processes](https://arxiv.org/abs/2606.30077) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [Are Humans Evolved Instruction Followers? An Underlying Inductive Bias Enables Rapid Instructed Task Learning](https://arxiv.org/abs/2606.29792) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-27 | [DLR: Zero-Inference-Cost Latent Residuals for Low-Rank Pre-Training](https://arxiv.org/abs/2606.28932) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior](https://arxiv.org/abs/2606.28182) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography](https://arxiv.org/abs/2606.28164) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning](https://arxiv.org/abs/2606.27828) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-24 | [SARA: Unlocking Multilingual Knowledge in Mixture-of-Experts via Semantically Anchored Routing Alignment](https://arxiv.org/abs/2606.25821) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-24 | [Improved Large Language Diffusion Models](https://arxiv.org/abs/2606.25331) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-23 | [Perfect Detection, Failed Control: The Geometry of Knowing vs. Steering in Language Models](https://arxiv.org/abs/2606.24952) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [Evaluation Awareness Is Not One Capability: Evidence from Open Language Models](https://arxiv.org/abs/2606.23583) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [PepLLM: ESM-Guided Llama for Structured Protein-Peptide Binding Interface Analysis](https://arxiv.org/abs/2608.21367) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [Towards Scalable Customization and Deployment of Multi-Agent Systems for Enterprise Applications](https://arxiv.org/abs/2606.18502) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification](https://arxiv.org/abs/2606.18249) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling](https://arxiv.org/abs/2606.18023) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [Are you speaking my languages? On spoken language adherence in multimodal LLMs](https://arxiv.org/abs/2606.17281) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [3D Classification of Paramagnetic Rim Lesions in Multiple Sclerosis via Asymmetric QSM-FLAIR Modeling](https://arxiv.org/abs/2606.16756) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [Entropy-Gated Latent Recursion](https://arxiv.org/abs/2606.16620) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [Multimodal LLM-Empowered Re-Ranking for Generalizable Person Re-Identification](https://arxiv.org/abs/2606.16161) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-12 | [ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](https://arxiv.org/abs/2606.14697) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-12 | [VeriGeo: Controllable Geometry Question Generation with Numerical and Analytical Verification](https://arxiv.org/abs/2606.14176) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [When Sample Selection Bias Precipitates Model Collapse](https://arxiv.org/abs/2606.13732) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness](https://arxiv.org/abs/2606.12882) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-10 | [Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation](https://arxiv.org/abs/2606.12594) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-10 | [Lius: Translation Model Based Instructional Lingustic Using Continual Instruction Tuning In Kupang Malay](https://arxiv.org/abs/2606.11786) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [Which LoRA? An Empirical Study on the Effectiveness of LoRA Techniques During Multilingual Instruction Tuning](https://arxiv.org/abs/2606.10428) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [CRANE: Knowledge Editing for Reasoning MLLMs](https://arxiv.org/abs/2606.09033) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-07 | [Lost in the Flow with Code Talkers: Unveiling the Instruction-Tuning Tax of Large Language Models in Code Tasks](https://arxiv.org/abs/2606.08676) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-07 | [FiberTune: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning](https://arxiv.org/abs/2606.08653) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-07 | [More Yap Less Meaning: Uncovering Self-Improvement Behavior in SLMs](https://arxiv.org/abs/2606.08471) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models](https://arxiv.org/abs/2606.07877) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [From Vision to Text: A Compact Multimodal Approach for Robust, Cross-Domain Presentation Attack Detection on ID Cards](https://arxiv.org/abs/2606.06966) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-04 | [Anchored, Not Graded: Vision-Language Models Fail at Slant-from-Texture Perception](https://arxiv.org/abs/2606.06714) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-04 | [Decomposing Factual Sycophancy in Language Models: How Size and Instruction Tuning Shape Robustness](https://arxiv.org/abs/2606.06306) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-04 | [The Self-Correction Illusion: Role Relabeling Gates Explicit Error Flagging in Large Language Models](https://arxiv.org/abs/2606.05976) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk Decisions: Evidence from the St. Petersburg Game](https://arxiv.org/abs/2606.04978) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks](https://arxiv.org/abs/2606.02947) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [Attention-guided Fine-tuning of Multimodal Large Language Models Improves Chain-of-Thought Reasoning](https://arxiv.org/abs/2606.01558) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-25 | [Qwen-Image-2.0-RL Technical Report](https://arxiv.org/abs/2606.27608) | arxiv-monthly-backfill | 22 | `needs-review` |
+| 2026-06-08 | [A Regret Minimization Framework on Preference Learning in Large Language Models](https://arxiv.org/abs/2606.09124) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-06-26 | [STAIF: A Stage-wise Optimization for Complex Instruction Following](https://arxiv.org/abs/2607.22649) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-02 | [ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](https://arxiv.org/abs/2606.03503) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-24 | [Staying VIGILant: Mitigating Visual Laziness via Counterfactual Visual Alignment in MLLMs](https://arxiv.org/abs/2606.26387) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-16 | [STAR: SpatioTemporal Adaptive Reward Allocation for Text-to-Image RL Post-Training](https://arxiv.org/abs/2606.17979) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-10 | [Foresight: Iterative Reasoning About Clues that Matter for Navigation](https://arxiv.org/abs/2606.12550) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-10 | [Boosting Direct Preference Optimization with Penalization](https://arxiv.org/abs/2606.12505) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-03 | [FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization](https://arxiv.org/abs/2606.05468) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-25 | [Retroactive Advantage Correction: Closed-Form V-Trace Bias Correction for Delay-Aware RLHF](https://arxiv.org/abs/2606.27580) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-25 | [PEBS: Per-rater Empirical-Bayes Shrinkage for RLHF Reward-Model Calibration](https://arxiv.org/abs/2606.27578) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-25 | [Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN](https://arxiv.org/abs/2606.27305) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-25 | [Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search](https://arxiv.org/abs/2606.27291) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-24 | [OracleAnalyser: Analysing Implicit Semantics of Oracle Bone Scripts through MLLMs with Post-training](https://arxiv.org/abs/2606.25906) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-23 | [Themis: An explainable AI-enabled framework for Reinforcement Learning with Human Feedback](https://arxiv.org/abs/2606.24622) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-22 | [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-18 | [Uncertainty-Aware Reward Modeling for Stable RLHF](https://arxiv.org/abs/2606.19818) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-17 | [Which Pairs to Compare for LLM Post-Training?](https://arxiv.org/abs/2606.19607) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-11 | [Understanding helpfulness and harmless tension in reward models](https://arxiv.org/abs/2606.13209) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-09 | [ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations](https://arxiv.org/abs/2606.11188) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-09 | [Representation-Aware Advantage Estimation: Your Reward Model Provides More Than A Scalar Output](https://arxiv.org/abs/2606.10528) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-08 | [Alignment Defends LLMs from Property Inference Attacks](https://arxiv.org/abs/2606.10217) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-08 | [A Unifying Lens on Reward Uncertainty in RLHF](https://arxiv.org/abs/2606.09073) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-04 | [What Do People Actually Want From AI? Mapping Preference Plurality](https://arxiv.org/abs/2606.06674) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-02 | [Sparse Mixture-of-Experts Reward Models Learn Interpretable and Specialized Experts for Personalized Preference Modeling](https://arxiv.org/abs/2606.04284) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-02 | [P$^2$-DPO: Grounding Hallucination in Perceptual Processing via Calibration Direct Preference Optimization](https://arxiv.org/abs/2606.03376) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-02 | [Follow-Your-Preference++: Rethinking Preference Alignment for Image Inpainting](https://arxiv.org/abs/2606.03216) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-02 | [SketchSong: Hierarchical Song Generation with Sketch Planning and Fine-Grained Multi-Track Modeling](https://arxiv.org/abs/2606.03169) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-01 | [AlphaToken: Decoupling Adaptation and Stability for Path-Aware Response Token Valuation in LLM Post-Training](https://arxiv.org/abs/2606.01635) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-26 | [Normalized Rewards for Preference Optimization](https://arxiv.org/abs/2607.16240) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-18 | [Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users](https://arxiv.org/abs/2606.20482) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-17 | [Be Your Own Teacher: Steering Protein Language Models via Unsupervised Reward Optimization](https://arxiv.org/abs/2606.18961) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-17 | [Steerable Cultural Preference Optimization of Reward Models](https://arxiv.org/abs/2606.18606) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-17 | [DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models](https://arxiv.org/abs/2606.18557) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-16 | [MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model](https://arxiv.org/abs/2606.17800) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-03 | [BiasGRPO: Stabilizing Bias Mitigation in High-Variance Reward Landscapes via Group-Relative Policy Optimization](https://arxiv.org/abs/2606.04807) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-26 | [NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning](https://arxiv.org/abs/2606.27771) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-25 | [VoiceTTA: Enhancing Zero-Shot Text-to-Speech via Reinforcement Learning-Based Test-Time Adaptation](https://arxiv.org/abs/2606.26534) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-11 | [Direct Preference Optimization for Chatbot Fine-Tuning: An Empirical Study](https://arxiv.org/abs/2606.12881) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-04 | [When AI Says It Feels](https://arxiv.org/abs/2606.05734) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-03 | [GeoMin: Data-Efficient Semi-Supervised RLVR via Geometric Distribution Modeling](https://arxiv.org/abs/2606.04516) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training](https://arxiv.org/abs/2606.30642) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-29 | [Clearer Sight, Fewer Lies: Oriented Pickup Preference Optimization for Multimodal Hallucination Mitigation](https://arxiv.org/abs/2606.29805) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-29 | [PS-PPO: Prefix-Sampling PPO for Critic-Free RLHF](https://arxiv.org/abs/2606.29758) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-28 | [Reliability-Prioritized Fine-Grained Generation in Multimodal Large](https://arxiv.org/abs/2606.29573) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-25 | [Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-21 | [A Markov Chain Approach to Preference Alignment](https://arxiv.org/abs/2606.22652) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-17 | [Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs](https://arxiv.org/abs/2606.18747) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-15 | [Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](https://arxiv.org/abs/2606.16856) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-15 | [Teaching agentic AI to learn expert reasoning for rare disease diagnosis](https://arxiv.org/abs/2606.16149) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-12 | [PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion](https://arxiv.org/abs/2606.14510) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-12 | [CoRe: A Continuously Reward-Finetuned LLM Query Rewriter for Multi-Stage Context-Aware Relevance in Web-Scale Video Search](https://arxiv.org/abs/2606.14127) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-10 | [Decoding Multimodal Cues: Unveiling the Implicit Meaning Behind Hateful Videos](https://arxiv.org/abs/2606.11953) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-09 | [5% > 100%: Flatness Preference is All You Need for Multimodal Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2606.10488) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-08 | [The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model](https://arxiv.org/abs/2606.09735) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-08 | [MAVEN: A Macro-Societal Value Evaluation Framework of Multimodal Content with Compact Aligned Evaluators](https://arxiv.org/abs/2608.18096) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-08 | [Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions](https://arxiv.org/abs/2606.09150) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-08 | [Multilingual Sentiment Aware Text Summarization A Reinforcement Learning Approach for Consistency Maintenance](https://arxiv.org/abs/2606.08940) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-06 | [Variational Proximal Policy Optimization](https://arxiv.org/abs/2606.08032) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-03 | [VCIFBench: Evaluating Complex Instruction Following for Video Understanding](https://arxiv.org/abs/2606.04588) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs](https://arxiv.org/abs/2606.03647) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-29 | [Preference-based Antibody Expression Ranking: Scaling with Large-scale Weak Supervision](https://arxiv.org/abs/2607.16263) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-26 | [Developmental Trajectories of Situation Modeling and Mentalizing in Transformer Language Models](https://arxiv.org/abs/2606.28524) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-26 | [HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration](https://arxiv.org/abs/2606.28215) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-24 | [Cliff Tokens: Identifying Single-Token Failure Triggers in LLM Mathematical Reasoning](https://arxiv.org/abs/2606.25524) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-23 | [VA-DPO: Valence-Arousal Direct Preference Optimization for Controllable Emotion Generation in Language Models](https://arxiv.org/abs/2608.20374) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [Towards Spec Learning: Inference-Time Alignment from Preference Pairs](https://arxiv.org/abs/2606.24004) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [Self-Evolution for Multi-Turn Tool-Calling Agents via Divergence-Point Preference Learning](https://arxiv.org/abs/2606.23112) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-18 | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](https://arxiv.org/abs/2606.20508) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-18 | [BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models](https://arxiv.org/abs/2606.20241) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-18 | [Beyond Uniform Forgetting: A Study of Sequential Direct Preference Optimization Across Preference Settings](https://arxiv.org/abs/2606.19744) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-17 | [Emergent Alignment](https://arxiv.org/abs/2606.19527) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-17 | [Repeated post-training is not Self-improving: Diagnosing Scientific Amnesia in Continual DPO Pipelines](https://arxiv.org/abs/2606.21089) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-16 | [Reliable Neural-Codec Text-to-Speech by ASR Self-Verification and Distillation: Near-Zero Catastrophic Failures Across Models and Codecs](https://arxiv.org/abs/2606.18323) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-16 | [Temporal Preference Optimization for Unsupervised Retrieval](https://arxiv.org/abs/2606.17664) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-13 | [CHILLGuard: Towards Fine-Grained Chinese LLM Safety Guardrail with Scalable Data Construction and Model-aware Preference Alignment](https://arxiv.org/abs/2606.15396) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-12 | [S$^2$COPE: Self-Supervised Concept Discovery via Preference Learning](https://arxiv.org/abs/2606.14586) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-12 | [From Attacks to Curricula: Learnability-Guided Adversarial Training for Safe Autonomous Driving](https://arxiv.org/abs/2606.14032) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-10 | [Beyond the Golden Teacher: Enhancing Graph Learning through LLM-GNN Co-teaching](https://arxiv.org/abs/2606.11583) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [SAGE: Answer-Conditioned Uncertainty Targets for Verbal Uncertainty Alignment](https://arxiv.org/abs/2606.11512) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [Training LLMs to Enforce Multi-Level Instruction Hierarchies via Gravity-Weighted Direct Preference Optimization](https://arxiv.org/abs/2606.10860) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [FoA-SR: Faithful or Aesthetic? Profile-Aware Preference Optimization for Real-World Image Super-Resolution](https://arxiv.org/abs/2606.10275) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-08 | [Emergent alignment and the projectability of ethical personas](https://arxiv.org/abs/2606.09475) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-07 | [SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization](https://arxiv.org/abs/2606.08496) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-06 | [LCAM: A Framework for Diagnosing Interactional Alignment Failures in Con-versational AI](https://arxiv.org/abs/2606.08131) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [The Geometry of LLM-as-Judge: Why Inter-LLM Consensus Is Not Human Alignment](https://arxiv.org/abs/2606.03043) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [Drifting Preference Optimization for One-Step Generative Models](https://arxiv.org/abs/2606.02521) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [Reliability-Aware Sexism Detection: Combining DPO with Annotator Agreement and Token-Level Confidence Scoring](https://arxiv.org/abs/2608.12330) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | ["I've Seen How This Goes": Characterizing Diversity via Progressive Conditional Surprise](https://arxiv.org/abs/2606.01811) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [Pave-GRPO: Beyond Instantaneous Guidance through Principled Average Velocity Decomposition](https://arxiv.org/abs/2606.01636) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [S-SPPO: Semantic-Calibrated Self-Play Preference Optimization](https://arxiv.org/abs/2606.01561) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [How Human Feedback Shapes AI-generated Community Notes](https://arxiv.org/abs/2606.30905) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models](https://arxiv.org/abs/2606.30627) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-19 | [AI Alignment From Social Choice Perspectives](https://arxiv.org/abs/2606.21550) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-12 | [When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks](https://arxiv.org/abs/2606.14629) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [Hidden Consensus:Preference-Validity Compression in Human Feedback](https://arxiv.org/abs/2606.10569) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO](https://arxiv.org/abs/2606.09701) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-04 | [Towards Healthy Evolution: Exploring the Role and Mechanisms of Human-Agent Interaction in Self-Evolving Systems](https://arxiv.org/abs/2606.06114) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [EvalStop: Using World Feedback to Detect and Correct Reward Overoptimization in Multi-Tenant RLHF Platforms](https://arxiv.org/abs/2606.04145) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [Coherence Maximization Improves Pluralistic Alignment](https://arxiv.org/abs/2606.03110) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [Local Preferential Bayesian Optimization](https://arxiv.org/abs/2606.02351) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-17 | [Learning from Own Solutions: Self-Conditioned Credit Assignment for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2606.18810) | arxiv-monthly-backfill | 20 | `needs-review` |
+| 2026-06-14 | [Localizing Credit at the Divergence: Path-Conditioned Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2606.15576) | arxiv-monthly-backfill | 19 | `needs-review` |
+| 2026-06-08 | [Stabilizing On-Policy Distillation for MLLM Reasoning with Global Normalization](https://arxiv.org/abs/2606.09091) | arxiv-monthly-backfill | 19 | `needs-review` |
+| 2026-06-02 | [Constitutional On-Policy Safe Distillation](https://arxiv.org/abs/2606.03089) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-06-17 | [SAGE-OPD: Selective Agent-Guided Intervention for Multi-Turn On-Policy Distillation](https://arxiv.org/abs/2606.19659) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-06-17 | [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation](https://arxiv.org/abs/2606.19327) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-06-10 | [RLCSD: Reinforcement Learning with Contrastive On-Policy Self-Distillation](https://arxiv.org/abs/2606.11709) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-06-05 | [Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization](https://arxiv.org/abs/2606.07000) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-06-14 | [STRIDE: Strategic Trajectory Reasoning via Discriminative Estimation for Verifiable Reinforcement Learning](https://arxiv.org/abs/2606.15866) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-08 | [SG-OPD: Sign-Gated On-Policy Distillation via Sign-Consistency Gating and Phased Teacher Sampling](https://arxiv.org/abs/2606.09304) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-07 | [Towards Long-Horizon Vessel Trajectory and Destination Forecasting with Reasoning Large Language Models](https://arxiv.org/abs/2606.08633) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-30 | [TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.32017) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-24 | [Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](https://arxiv.org/abs/2606.26080) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-19 | [Discretizing Reward Models](https://arxiv.org/abs/2606.21795) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-06 | [CATPO: Critique-Augmented Tree Policy Optimization](https://arxiv.org/abs/2606.08346) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-03 | [GRAIL: Gradient-Reweighted Advantages for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2606.04889) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-02 | [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](https://arxiv.org/abs/2606.03980) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-06-17 | [STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability](https://arxiv.org/abs/2606.19236) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-12 | [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](https://arxiv.org/abs/2606.14691) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-09 | [TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning](https://arxiv.org/abs/2606.11119) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-01 | [SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment](https://arxiv.org/abs/2606.02530) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-30 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-25 | [RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning](https://arxiv.org/abs/2606.26997) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-23 | [Geo-Strat-RL: Learning Geological Event Reasoning from Verifiable Tasks](https://arxiv.org/abs/2606.25000) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-18 | [ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-07 | [Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery](https://arxiv.org/abs/2606.08728) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-04 | [On Advantage Estimates for Max@K Policy Gradients](https://arxiv.org/abs/2606.06080) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-03 | [MusaCoder: Native GPU Kernel Generation with Full-Stack Training on Moore Threads GPU](https://arxiv.org/abs/2606.04847) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-03 | [Rollout-Level Advantage-Prioritized Experience Replay for GRPO](https://arxiv.org/abs/2606.04560) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-03 | [TD-Grokking: Learning from Zero-Reward Problems by Training-Time Decomposition](https://arxiv.org/abs/2606.09883) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-02 | [Self-Distilled Policy Gradient](https://arxiv.org/abs/2606.04036) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-02 | [Predicting Inference-Time Scaling Gains from Labeled Validation-Set Output Statistics](https://arxiv.org/abs/2606.02981) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-01 | [TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL](https://arxiv.org/abs/2606.01599) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-27 | [BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards](https://arxiv.org/abs/2606.28707) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-25 | [Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards](https://arxiv.org/abs/2606.27376) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-18 | [Process-Verified Reinforcement Learning for Theorem Proving via Lean](https://arxiv.org/abs/2606.20068) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-17 | [Multilingual Verifier Bias in RLVR: Benchmark, Rollout Diagnosis, and the Cross-Lingual Selection Bottleneck](https://arxiv.org/abs/2608.20362) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-12 | [Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL](https://arxiv.org/abs/2606.14211) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-09 | [ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models](https://arxiv.org/abs/2606.10581) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-04 | [A Pre-Registered Causal Partition of Self-Consistency Elicitation and Reward Design in RLVR](https://arxiv.org/abs/2606.05932) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-04 | [SALT: When More Rollouts Don't Help in Group-Based Policy Optimization and How to Make Them Matter](https://arxiv.org/abs/2606.05800) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-03 | [Policy-Conditioned Counterfactual Credit for Verifiable Reinforcement Learning of Long-Horizon Language Agents](https://arxiv.org/abs/2606.05263) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-01 | [CAPF: Guiding Search-Agent Rollouts with Credit-Attenuated Privileged Feedback](https://arxiv.org/abs/2606.01830) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-28 | [Process Advantage Signal Shaping: A Paradigm-Agnostic Middleware for Process-Supervised RL in LLM Reasoners](https://arxiv.org/abs/2606.29296) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-20 | [When Does a Video-Language Model Stop Watching? Reward Strength Controls the Formation and Reversal of Visual Shortcuts in Multimodal RLVR](https://arxiv.org/abs/2606.22043) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-07 | [PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping](https://arxiv.org/abs/2606.08708) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-05 | [Self-evolving LLM agents with in-distribution Optimization](https://arxiv.org/abs/2606.07367) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-05 | [From Correctness to Utility: Gain-Based Prefix Evaluation for LLM Reasoning](https://arxiv.org/abs/2606.07190) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-05 | [StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents](https://arxiv.org/abs/2606.07027) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-03 | [SCI-PRM: A Tool Aware Process Reward Model for Scientific Reasoning Verification](https://arxiv.org/abs/2606.04579) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-29 | [Consistency as Inductive Bias: Learning Cross-View Invariance for Robust Multimodal Reasoning](https://arxiv.org/abs/2606.29812) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-27 | [Efficient Spatio-Temporal Grounding with Multimodal Large Models via Second-Level Tracking and RL Verification](https://arxiv.org/abs/2606.29023) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-24 | [OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents](https://arxiv.org/abs/2606.26350) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-23 | [The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation](https://arxiv.org/abs/2607.09709) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-23 | [VisCritic: Visual State Comparison as Process Reward for GUI Agents](https://arxiv.org/abs/2606.24525) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-22 | [CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2606.23206) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-17 | [Hard or Just Unreached? Diagnosing the Sampling Blind Spot in Math-Reasoning Difficulty Estimation](https://arxiv.org/abs/2606.19636) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-15 | [TuneJury: An Open Metric for Improving Music Generation Preference Alignment](https://arxiv.org/abs/2606.17006) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-10 | [Rubric-Guided Self-Distillation: Post-Training Without Rubric Verifiers](https://arxiv.org/abs/2606.12507) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-10 | [Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding](https://arxiv.org/abs/2606.11838) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-09 | [Provenance-Grounded Gating and Adaptive Recovery in Synthetic Post-Training Data Curation](https://arxiv.org/abs/2606.11127) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-08 | [Internalizing Geometric Law: Learning from Solver Residuals for Precision-Critical Generation](https://arxiv.org/abs/2606.09278) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-08 | [Z-Reward: Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions](https://arxiv.org/abs/2606.09076) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-07 | [Intrinsic Selection and Particle Resampling for Inference-Time Scaling Beyond Domain Verifiability](https://arxiv.org/abs/2606.08850) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-06 | [DyCo-RL: Dynamic Cross-Modal Coordination for Visual Reasoning](https://arxiv.org/abs/2606.08035) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-05 | [Improving Multimodal Reasoning via Worst Dimension Optimization](https://arxiv.org/abs/2606.07801) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-02 | [Entropy Is Not Enough: Unlocking Effective Reinforcement Learning for Visual Reasoning via Vision-Anchored Token Selection](https://arxiv.org/abs/2606.03937) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-02 | [Trading Human Curation for Synthetic Augmentation in RLVR](https://arxiv.org/abs/2606.03800) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-02 | [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](https://arxiv.org/abs/2606.03577) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-30 | [Which Tokens Matter? Adaptive Token Selection for RLVR with the Relative Surprisal Index](https://arxiv.org/abs/2606.31575) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [Test-Time Verification for Text-to-SQL via Outcome Reward Models](https://arxiv.org/abs/2606.30851) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [Experience Augmented Policy Optimization for LLM Reasoning](https://arxiv.org/abs/2606.30420) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [LatentRevise: Learning from Zero-Hit Reasoning](https://arxiv.org/abs/2606.29938) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [Towards Physical Intuitions for Alignment Dynamics: A Case Study With Randomness Crystallization](https://arxiv.org/abs/2606.29933) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [SEVA: Self-Evolving Verification Agent with Process Reward for Fact Attribution](https://arxiv.org/abs/2606.29713) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-26 | [Tandem Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2606.28166) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-26 | [The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment](https://arxiv.org/abs/2606.27739) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-25 | [When are likely answers right? On Sequence Probability and Correctness in LLMs](https://arxiv.org/abs/2606.27359) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-24 | [RMTL: Reinforced Micro-task Learning for Long-Horizon Manipulation with VLM Rewards](https://arxiv.org/abs/2606.26175) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-24 | [Efficient and Trainable Language Model Test-Time Scaling via Local Branch Routing](https://arxiv.org/abs/2606.25354) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-23 | [Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR](https://arxiv.org/abs/2606.25178) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-23 | [ExTra: Exploratory Trajectory Optimization for Language Model Reinforcement Learning](https://arxiv.org/abs/2606.24994) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-22 | [VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct](https://arxiv.org/abs/2606.23543) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-22 | [TEXEDO : Test Time Scaling for Controller-aware Language-conditioned Humanoid Motion Generation](https://arxiv.org/abs/2606.22998) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-21 | [What are Key Factors for Updates in RL for LLM Reasoning?](https://arxiv.org/abs/2606.22570) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-21 | [Curriculum Reinforcement Learning Can Incentivize Reasoning Capacity in LLMs Beyond the Base Model](https://arxiv.org/abs/2606.22317) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-20 | [A Verifiable Search Is Not a Learnable Chain-of-Thought](https://arxiv.org/abs/2606.21884) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-18 | [When Do Intrinsic Rewards Work for Code Reasoning? A Comprehensive Study](https://arxiv.org/abs/2606.20881) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-18 | [VIMPO: Value-Implicit Policy Optimization for LLMs](https://arxiv.org/abs/2606.20008) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-18 | [Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning](https://arxiv.org/abs/2606.19771) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-17 | [VeriBound: PAC-Bayesian Generalization Bounds for Process Reward Models Trained with Formal Verification Tools](https://arxiv.org/abs/2606.20740) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-17 | [GraphPO: Graph-based Policy Optimization for Reasoning Models](https://arxiv.org/abs/2606.18954) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-16 | [Dynamic Rollout Editing for Reducing Overthinking in RL-Trained Reasoning Models](https://arxiv.org/abs/2606.17890) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-16 | [EnvRL: Learn from Environment Dynamics in Agentic Reinforcement Learning](https://arxiv.org/abs/2606.17680) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-15 | [A Gradient Perspective on RLVR Stability and Winner Advantage Policy Optimization](https://arxiv.org/abs/2606.16154) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-14 | [BALTO: Balanced Token-Level Policy Optimization for Hallucination Mitigation](https://arxiv.org/abs/2606.15893) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-14 | [RoboPIN: Grounded Embodied Reasoning via Pinned Chain-of-Thought](https://arxiv.org/abs/2606.15753) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-13 | [Understanding Diversity Collapse in RLVR via the Lens of Overtraining](https://arxiv.org/abs/2606.15455) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-12 | [HPSv3++: Scaling Reward Models Across the Full Spectrum of Diffusion Model Capabilities](https://arxiv.org/abs/2606.14657) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-11 | [ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning](https://arxiv.org/abs/2606.13316) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-09 | [Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2606.10968) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-09 | [Divide and Cooperate: Role-Decomposed Multi-Agent LLM Training with Cross-Agent Learning Signals](https://arxiv.org/abs/2606.10684) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-09 | [HIPIF: Hierarchical Planning and Information Folding for Long-Horizon LLM Agent Learning](https://arxiv.org/abs/2606.10507) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-09 | [SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation](https://arxiv.org/abs/2606.10305) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-08 | [Reasoning Arena: Trace Tournaments When Verifiable Rewards Fall Short](https://arxiv.org/abs/2606.09380) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-08 | [The Hidden Bias of Process Reward Models:PRISM for Rewarding the Right Reasoning](https://arxiv.org/abs/2606.09078) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-07 | [sGPO: Trading Inference FLOPs for Training Efficiency in RLVR](https://arxiv.org/abs/2606.08854) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-07 | [Momentum for Reasoning: Dense Intrinsic Signals in Policy Optimization](https://arxiv.org/abs/2606.08815) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-07 | [PAEC: Position-Aware Entropy Calibration for LLM Reasoning in RLVR](https://arxiv.org/abs/2606.08543) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-07 | [DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving](https://arxiv.org/abs/2606.08525) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-07 | [Back on Track: Aligning Rewards and States for Reasoning in Diffusion Large Language Models](https://arxiv.org/abs/2606.08501) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-07 | [Sparrow: Sparse Rollout for Stable and Efficient Long-context RL of Large Language Models](https://arxiv.org/abs/2606.08446) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-06 | [ConSteer-RL: Steering Reasoning Capabilities in Large Language Models via Confidence-Aware Reinforcement Learning](https://arxiv.org/abs/2606.08088) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-06 | [Customer-Agent: Overcoming Context Limitations in Ultra-Long Shopping Trajectories via Tool-Augmented Agents and RLVR](https://arxiv.org/abs/2606.07995) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-04 | [Self-Commitment Latency: A Reward-Free Probe for Prompted Implicit Hacking](https://arxiv.org/abs/2606.05625) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-03 | [Reinforcement Learning from Rich Feedback with Distributional DAgger](https://arxiv.org/abs/2606.05152) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis](https://arxiv.org/abs/2606.04246) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards](https://arxiv.org/abs/2606.03968) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning](https://arxiv.org/abs/2606.03603) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [ARBOR: Online Process Rewards via a Reusable Rubric Buffer for Search Agents](https://arxiv.org/abs/2606.03239) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [Right Makes Might: Aligning Verified Hidden States Empowers RL Reasoning](https://arxiv.org/abs/2606.03234) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [From Long News to Accurate Forecast: Importance-Aware Fusion and PRM-Guided Reflection for Time Series Forecasting](https://arxiv.org/abs/2606.03097) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [Learning to Solve, Forgetting to Retain: Correct-Set Turnover in RLVR](https://arxiv.org/abs/2606.03087) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [Hint-Guided Diversified Policy Optimization for LLM Reasoning](https://arxiv.org/abs/2606.03021) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-01 | [SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning](https://arxiv.org/abs/2606.01991) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-30 | [Addressing Over-Refusal in LLMs with Competing Rewards](https://arxiv.org/abs/2606.31748) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-30 | [Stage-Transition Dense Reward Modeling for Reinforcement Learning](https://arxiv.org/abs/2606.31377) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-29 | [Vision-Language Procedural Reasoning for Context-Aware Reward Modeling of Robotic Endovascular Guidewire Navigation](https://arxiv.org/abs/2606.30698) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-28 | [To Reason or to Fabricate: Reasoning Without Shortcuts via Hint-Anchored Pairwise Aggregation](https://arxiv.org/abs/2606.29481) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-28 | [PHF: Privileged Hidden Flow for On-Policy Self-Distillation](https://arxiv.org/abs/2606.29340) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-27 | [Modification-Considering Value Learning for Reward Hacking Mitigation in RL](https://arxiv.org/abs/2606.28955) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-27 | [CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis](https://arxiv.org/abs/2608.28599) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-26 | [PerturbCellRL: Verifier-Guided Reinforcement Learning for Single-Cell Perturbation Prediction](https://arxiv.org/abs/2606.27752) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-25 | [E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://arxiv.org/abs/2606.27268) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-25 | [GEOALIGN: Geometric Rollout Curation for Robust LLM Reinforcement Learning](https://arxiv.org/abs/2606.26917) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-25 | [SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing](https://arxiv.org/abs/2606.26872) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-25 | [From Hallucination to Grounding: Diagnosing Visual Spatial Intelligence via CRISP](https://arxiv.org/abs/2606.26535) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-24 | [OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based Reinforcement Learning](https://arxiv.org/abs/2606.25757) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-24 | [CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2606.28397) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-23 | [TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory](https://arxiv.org/abs/2606.25161) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-23 | [Reward-Conditioned Attention: How Reward Design Shapes What Autonomous Driving Agents See](https://arxiv.org/abs/2606.25127) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-22 | [Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views](https://arxiv.org/abs/2606.23557) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-22 | [EvoRubrics: Dynamic Rubrics as Rewards via Adversarial Co-Evolution for LLM Reinforcement Learning](https://arxiv.org/abs/2606.23038) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-22 | [RoboGaze: Evaluating Robot World Models via Structured Vision-Language Analysis](https://arxiv.org/abs/2606.28385) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-20 | [RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation](https://arxiv.org/abs/2606.22027) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-19 | [CalVerT: Augmenting Agents with Calibrated Verifier Telemetry Improves Action and Learning in Knowledge-Intensive Tasks](https://arxiv.org/abs/2606.21777) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-19 | [Depth-Entropy Guided Sampling for Training-Free LLM Reasoning](https://arxiv.org/abs/2607.09693) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-19 | [MEDLAYXPLAIN: Benchmarking the Expert-Lay Gap in Medical Vision-Language Models](https://arxiv.org/abs/2606.21194) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-18 | [HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining](https://arxiv.org/abs/2606.20521) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-17 | [UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning](https://arxiv.org/abs/2606.19328) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-16 | [When Does Trajectory-Level Supervision Permit Efficient Offline Reinforcement Learning?](https://arxiv.org/abs/2606.18531) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-15 | [GEOPHYS: The Geometry of Physical Plausibility](https://arxiv.org/abs/2606.20707) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-15 | [The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning](https://arxiv.org/abs/2606.16152) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-12 | [Inference-time Policy Steering via Vision and Touch](https://arxiv.org/abs/2606.14981) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-12 | [From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI](https://arxiv.org/abs/2606.14502) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-11 | [ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance](https://arxiv.org/abs/2606.13304) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-10 | [Keep Policy Gradient in Charge: Sibling-Guided Credit Distillation for Long-Horizon Tool-Use Agents](https://arxiv.org/abs/2606.12634) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-08 | [$τ$-Rec: A Verifiable Benchmark for Agentic Recommender Systems](https://arxiv.org/abs/2606.10156) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-08 | [Gradient-Guided Reward Optimization for Inference-time Alignment](https://arxiv.org/abs/2606.09635) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-07 | [Thinking Without Images: Internalizing Visual Manipulation with On-Policy Self-Distillation](https://arxiv.org/abs/2606.08719) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-07 | [From Holistic Evaluation to Structured Criteria: Rubrics Across the Evolving LLM Landscape](https://arxiv.org/abs/2606.08625) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-07 | [Adaptive Loss Balancing for Noise-Robust GRPO in Generative Recommendation](https://arxiv.org/abs/2606.08480) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-05 | [Teacher-Free Self-Training Amplifies but Does Not Compound: A Pass@$K$ Crossover on a Free-Verifier Domain](https://arxiv.org/abs/2606.07856) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-03 | [Learning While Acting: A Skill-Enhanced Test-Time Co-Evolution Framework for Online Lifelong Learning Agents](https://arxiv.org/abs/2606.04815) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [SaliMory: Orchestrating Cognitive Memory for Conversational Agents](https://arxiv.org/abs/2606.04120) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning](https://arxiv.org/abs/2606.03962) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [Exploiting Verification-Generation Gap: Test-Time Reinforcement Learning with Confidence-Conditioned Verification](https://arxiv.org/abs/2606.03608) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [Reinforcement Learning from Cross-domain Videos with Video Prediction Model](https://arxiv.org/abs/2606.03201) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-01 | [FLARE: Diffusion for Hybrid Language Model](https://arxiv.org/abs/2606.01774) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-30 | [Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision](https://arxiv.org/abs/2606.31800) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-30 | [Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents](https://arxiv.org/abs/2606.31270) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-30 | [Plan Right, Then Plan Tight: Symbolic RL for Efficient Embodied Reasoning](https://arxiv.org/abs/2606.31260) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [REAR: Test-time Preference Realignment through Reward Decomposition](https://arxiv.org/abs/2606.30339) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-27 | [HKVLM: Faithful Query--Region Binding for Frozen-Detector Visual Grounding](https://arxiv.org/abs/2606.28862) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-26 | [Detecting Clinical Hallucinations in LVLMs via Counterfactual Visual Grounding Uncertainty](https://arxiv.org/abs/2606.28520) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-26 | [VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing](https://arxiv.org/abs/2606.28301) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-25 | [Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models](https://arxiv.org/abs/2606.27373) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-24 | [Agentic System as Compressor: Quantifying System Intelligence in Bits](https://arxiv.org/abs/2606.25960) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [DiT-Reward: Generative Representations for Text-to-Image Reward Modeling](https://arxiv.org/abs/2606.23626) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [A Watermark for Vision-Language-Action and World Action Models](https://arxiv.org/abs/2606.23574) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [Attacking the Trusted Imagination: Oracle-Level Integrity Attacks on Imagine-then-Act World Models](https://arxiv.org/abs/2606.22966) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-21 | [Grounded Scaling: Why Agentic AI Needs Deterministic Environments](https://arxiv.org/abs/2606.22495) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-20 | [Improving Reasoning in Vision-Language Models via Perception Verified Self-Training](https://arxiv.org/abs/2606.22158) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-19 | [VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing](https://arxiv.org/abs/2607.22632) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-18 | [Fara-1.5: Scalable Learning Environments for Computer Use Agents](https://arxiv.org/abs/2606.20785) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-18 | [Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models](https://arxiv.org/abs/2606.20310) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-17 | [From Bounding Boxes to Visual Reasoning: An On-Policy Data Annotation Tool for Vision-Language Models](https://arxiv.org/abs/2606.18846) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-16 | [CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework](https://arxiv.org/abs/2606.18385) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-13 | [Reward Transport: Property Control in Flow Matching via Noise-Space Alignment](https://arxiv.org/abs/2607.08781) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-11 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](https://arxiv.org/abs/2606.13680) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-10 | [IntElicit: Eliciting and Assessing Contextualized Creativity via Dialogue Policy Optimization](https://arxiv.org/abs/2606.12086) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-10 | [Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds](https://arxiv.org/abs/2606.12050) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-10 | [MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning](https://arxiv.org/abs/2606.11537) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [What Fits (Into Few Tokens) Doesn't Overfit: Compression and Generalization in ML Research Agents](https://arxiv.org/abs/2606.11045) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [VeriSpace: Spatially Grounded Action Verification for Vision-Language-Action Models](https://arxiv.org/abs/2606.10568) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-08 | [SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://arxiv.org/abs/2606.09669) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-08 | [End-to-End Training for Discrete Token LLM based TTS System](https://arxiv.org/abs/2606.09234) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-08 | [Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care](https://arxiv.org/abs/2606.08982) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-07 | [Active Flow Expansion for Out-of-Distribution Discovery: from Theory to Molecules](https://arxiv.org/abs/2606.08802) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-06 | [Expert-validated STEM QA](https://arxiv.org/abs/2608.28591) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-06 | [The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning](https://arxiv.org/abs/2606.07950) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-04 | [Robots Need More than VLA and World Models](https://arxiv.org/abs/2606.06556) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-03 | [Step-by-Step Optimization-like Reasoning in LLMs over Expanding Search Spaces](https://arxiv.org/abs/2606.05464) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-03 | [Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation](https://arxiv.org/abs/2606.05403) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [Inference-Time Scaling for Joint Audio-Video Generation](https://arxiv.org/abs/2606.03183) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [MUSE: A Unified Agentic Harness for MLLMs](https://arxiv.org/abs/2606.03005) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](https://arxiv.org/abs/2606.02578) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [COMAP: Co-Evolving World Models and Agent Policies for LLM Agents](https://arxiv.org/abs/2606.02372) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [BlockGen: Flexible Blockwise Sequence Modeling with Hybrid Samplers](https://arxiv.org/abs/2606.02241) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [A Primer in Post-Training Reasoning Data: What We Know About How It Works](https://arxiv.org/abs/2606.02113) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [CRePE: Convolution-aware Relative Importance in Post-training Pruning with Efficient Search](https://arxiv.org/abs/2606.01544) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-30 | [Freeform Preference Learning for Robotic Manipulation](https://arxiv.org/abs/2606.32027) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-30 | [AxDafny: Agentic Verified Code Generation in Dafny](https://arxiv.org/abs/2606.32007) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-30 | [Improving Certified Robustness via Adversarial Distillation](https://arxiv.org/abs/2606.31653) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-30 | [Calibration, Not Compilation: Detecting and Repairing Misspecified Probabilistic Programs Written by Language Models](https://arxiv.org/abs/2606.31630) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-30 | [DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation](https://arxiv.org/abs/2606.31537) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-30 | [Certified Speculative Execution for Untrusted AI Agents](https://arxiv.org/abs/2606.31023) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [Memory Reward Inflation in Self-Improving LLM Agents](https://arxiv.org/abs/2608.00017) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [H-GRPO: Permutation-Invariant Reinforcement Learning for Grounded Visual Reasoning](https://arxiv.org/abs/2606.29915) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-28 | [PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents](https://arxiv.org/abs/2606.29225) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-27 | [LAMP: Lean-based Agentic framework with MCP and Proof Repair](https://arxiv.org/abs/2606.28841) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation](https://arxiv.org/abs/2606.28320) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [LeanFlow: A Case Study in Workflow-Driven Lean Autoformalization](https://arxiv.org/abs/2607.20503) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing](https://arxiv.org/abs/2606.27926) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding](https://arxiv.org/abs/2606.27922) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework](https://arxiv.org/abs/2606.27757) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-25 | [Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents](https://arxiv.org/abs/2606.27472) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-25 | [Don't Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance](https://arxiv.org/abs/2606.27371) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-25 | [Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement](https://arxiv.org/abs/2606.27226) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-25 | [Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement](https://arxiv.org/abs/2606.27409) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-25 | [Evidence-Driven LLM Agent for C-to-Synthesizable-C Conversion and Verification](https://arxiv.org/abs/2606.28409) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-25 | [An Empirical Study of LLM-Generated Specifications for VeriFast](https://arxiv.org/abs/2606.26490) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-24 | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://arxiv.org/abs/2606.26300) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-24 | [Reliability-Asymmetric Spacecraft Autonomy: Co-Designing a Capable Learned GNC Stack with a Verified, Adaptation-Aware Runtime Shield](https://arxiv.org/abs/2606.25366) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-23 | [Certification of Machine Learning Models via Directional Sharpness](https://arxiv.org/abs/2606.25004) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-23 | [Cycle-Consistent Neural Explanation of Formal Verification Certificates](https://arxiv.org/abs/2606.24414) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-23 | [T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph](https://arxiv.org/abs/2606.24145) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-23 | [VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification](https://arxiv.org/abs/2606.24124) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [Maestro Order: A Model-Agnostic Orchestration Harness](https://arxiv.org/abs/2606.23983) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [A Comparative Study of Bayesian Contextual Bandits for Real-Time Warehouse Sorter Optimization](https://arxiv.org/abs/2606.23977) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [Flow-Corrected Thompson Sampling for Non-Stationary Contextual Bandits](https://arxiv.org/abs/2606.23933) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [Are Safety Guarantees in Neural Networks Safe? How to Compute Trustworthy Robustness Certifications](https://arxiv.org/abs/2606.23858) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents](https://arxiv.org/abs/2606.24551) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [Tmax: A simple recipe for terminal agents](https://arxiv.org/abs/2606.23321) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [Agent-as-a-Router: Agentic Model Routing for Coding Tasks](https://arxiv.org/abs/2606.22902) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [Does the Same Token Mean the Same State? MoE Routing as Signal for Reasoning Control](https://arxiv.org/abs/2606.22798) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-19 | [Denoising Iterative Self-Correction: Structured Verification Loops for Reliable LLM Reasoning](https://arxiv.org/abs/2606.21724) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-19 | [PrivacyAlign: Contextual Privacy Alignment for LLM Agents](https://arxiv.org/abs/2606.21710) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-19 | [Decodable but Not Faithful: Coupling Natural-Language Rationales to Programmatic Verifiers](https://arxiv.org/abs/2606.21678) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-19 | [Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows](https://arxiv.org/abs/2606.21565) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-19 | [Recipes for Steering and Scaling LLMs via Sampling](https://arxiv.org/abs/2608.26120) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [Process-Reward Tactic Evolution for Long-Horizon Bioinformatics Workflows](https://arxiv.org/abs/2606.20839) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining](https://arxiv.org/abs/2606.20363) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [Self-Preference Is Weak or Absent in Verifiable Instruction-Following Revision: A Four-Model Test Under Genuine Authorship](https://arxiv.org/abs/2606.20093) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [Think Again or Think Longer? Selective Verification for Budget-Aware Reasoning](https://arxiv.org/abs/2606.19808) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [AgentFinVQA: A Deployable Multi-Agent Pipeline for Auditable Financial Chart QA](https://arxiv.org/abs/2606.19782) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-17 | [Self-Speculation for Faster Reasoning Models](https://arxiv.org/abs/2608.20359) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-17 | [Skill-Guided Continuation Distillation for GUI Agents](https://arxiv.org/abs/2606.18890) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-17 | [URDF Synthesis from RGB-D Sequences via Differentiable Joint Inference and Energy-Consistent Verification](https://arxiv.org/abs/2606.18861) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](https://arxiv.org/abs/2606.18037) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [A Neuro-Symbolic Approach to Strategy Synthesis for Strategic Logics](https://arxiv.org/abs/2606.17962) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [Scaling LLM Reasoning from Minimal Labels: A Semi-Supervised Framework with a Lightweight Verifier](https://arxiv.org/abs/2606.16811) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [Thinking with Visual Grounding](https://arxiv.org/abs/2606.16122) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-14 | [A Large-Scale Multi-Dimensional Empirical Study of LLMs for Conversation Summarization](https://arxiv.org/abs/2606.15974) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-13 | [ESBMC-PLC: Formal Verification of IEC 61131-3 Ladder Diagram Programs Using SMT-Based Model Checking](https://arxiv.org/abs/2606.15461) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-13 | [Adaptive Inference-Time Scaling via Early-Step Latent Verification for Image Editing](https://arxiv.org/abs/2606.15188) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-13 | [VGPT-RSI for RH-Adjacent Formal Progress: Boundary Certificates, Verified Finite Lagarias Inequalities, and Explicit Failure Localization](https://arxiv.org/abs/2606.15096) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-12 | [Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit](https://arxiv.org/abs/2606.14688) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-12 | [Graph Structured Combinatorial Semi-Bandit with Nonlinear Reward Associations through Separable Signals](https://arxiv.org/abs/2606.14650) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [Reward Modeling for Multi-Agent Orchestration](https://arxiv.org/abs/2606.13598) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](https://arxiv.org/abs/2606.13473) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [EV-WM: Event-Verified World Models for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2606.13053) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-10 | [VIA-SD: Verification via Intra-Model Routing for Speculative Decoding](https://arxiv.org/abs/2606.12243) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-10 | [SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning](https://arxiv.org/abs/2606.11770) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-10 | [TacCoRL: Integrating Tactile Feedback into VLA via Simulation](https://arxiv.org/abs/2606.11743) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-10 | [SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior](https://arxiv.org/abs/2606.11543) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [Search Discipline for Long-Horizon Research Agents](https://arxiv.org/abs/2606.11522) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [Counterexample Guided Learning in the Large using Reasoning Agents](https://arxiv.org/abs/2606.11521) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation](https://arxiv.org/abs/2606.11416) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution](https://arxiv.org/abs/2606.10917) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [RedAct: Redacting Agent Capability Traces for Procedural Skill Protection](https://arxiv.org/abs/2606.10813) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [ScoutVLA: UAV-Centric Active Perception via a Dual-Expert VLA Model for Open-World Embodied Question Answering](https://arxiv.org/abs/2606.14772) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-09 | [Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries](https://arxiv.org/abs/2606.10402) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [From 0-to-1 to 1-to-N: Reproducible Engineering Evidence for MetaAI Recursive Self-Design](https://arxiv.org/abs/2606.09663) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [UXBench: Benchmarking User Experience in AI Assistants](https://arxiv.org/abs/2606.09570) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [AI Scientists Are Only as Good as Their Evidence: A Stratified Ablation of Proprietary Data and Reasoning Skills in Drug-Asset Valuation](https://arxiv.org/abs/2606.09556) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [What Should a Skill Remember? Quality--Cost Trade-offs in Cost-Aware Skill Rewriting for Language Model Agents](https://arxiv.org/abs/2606.09421) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [Precision Is Not Faithfulness: Coverage-Aware Evaluation of Grounded Generation with a Complete Oracle](https://arxiv.org/abs/2606.09376) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment](https://arxiv.org/abs/2606.09348) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [DynaCF: Mitigating Shortcut Learning in Reward Models via Dynamic Counterfactual Sensitivity](https://arxiv.org/abs/2606.09043) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops](https://arxiv.org/abs/2606.08960) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models](https://arxiv.org/abs/2606.08952) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-07 | [Sample Where You Struggle: Sharpening Base Model Reasoning via Entropy-Guided Power Sampling](https://arxiv.org/abs/2606.09926) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-06 | [Contemporary AI lacks the imagination to diverge or negate in science](https://arxiv.org/abs/2606.08251) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-06 | [SciTrace: Trajectory-Aware Safety Reasoning for Scientific Discovery Agents](https://arxiv.org/abs/2606.08234) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-06 | [Biological Reasoning-Informed Regression for Interpretable Regulatory DNA Activity Prediction](https://arxiv.org/abs/2606.08147) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-06 | [Support Vector Rubrics: Closing the Gap Between Self-Generated and Human Rubrics](https://arxiv.org/abs/2606.08077) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-06 | [Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](https://arxiv.org/abs/2606.08048) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-06 | [PAFO: Pareto Fairness Optimization for Personalized Reward Modeling](https://arxiv.org/abs/2606.07988) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-06 | [Poise: Position-Aware One-Instruction Skill Injection for Silent Execution on LLM Agents](https://arxiv.org/abs/2606.07943) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [Beyond Rubrics: Exploration-Guided Evaluation Skills for Reward Modeling](https://arxiv.org/abs/2606.07040) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning](https://arxiv.org/abs/2606.06915) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-04 | [OpenSkill: Open-World Self-Evolution for LLM Agents](https://arxiv.org/abs/2606.06741) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-04 | [Re-Centering Humans in LLM Personalization](https://arxiv.org/abs/2606.06614) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-04 | [Unsupervised Skill Discovery for Agentic Data Analysis](https://arxiv.org/abs/2606.06416) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair](https://arxiv.org/abs/2606.06531) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [Aggregating LLM-Based Weak Verifiers for Spatial Layout Generation](https://arxiv.org/abs/2606.05268) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin](https://arxiv.org/abs/2606.05050) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems](https://arxiv.org/abs/2606.04816) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [Read the Trace, Steer the Path: Trajectory-Aware Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2606.04396) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching](https://arxiv.org/abs/2606.03911) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [Synthesize and Reward -- Reinforcement Learning for Multi-Step Tool Use in Live Environments](https://arxiv.org/abs/2606.03892) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [TreeFlash: Parallel AR-Approximation for Faster Speculative Decoding](https://arxiv.org/abs/2606.03819) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [RIZZ: Routing Interactions to Near Zero-Interference Zones for Continual Adaptation of Black-Box Agents](https://arxiv.org/abs/2606.20638) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models](https://arxiv.org/abs/2606.03660) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [CAPER: Clause-Aligned Process Supervision for Text-to-SQL](https://arxiv.org/abs/2606.03327) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [HARVE: Hacking-Aware Reward-Head Vector Editing for Robust Reward Models](https://arxiv.org/abs/2606.03131) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection](https://arxiv.org/abs/2606.02812) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [LL-Bench: Rethinking Low-Level Vision Evaluation in the Era of Large-Scale Generative Models](https://arxiv.org/abs/2606.02535) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning](https://arxiv.org/abs/2606.01682) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [ATOD: Annealed Turn-Aware On-Policy Distillation for Multi-Turn Agentic Tasks](https://arxiv.org/abs/2606.27814) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-06-16 | [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://arxiv.org/abs/2606.18216) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-16 | [Learning from the Self-future: On-policy Self-distillation for dLLMs](https://arxiv.org/abs/2606.18195) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-24 | [Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors](https://arxiv.org/abs/2606.25527) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-13 | [Adapting Reinforcement Learning with Chain-of-Thought Supervision for Explainable Detection of Hateful and Propagandistic Memes](https://arxiv.org/abs/2606.15307) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-22 | [Closing the Loop: Formally Verified Law as a Reward Signal for Self-Improving Legal AI](https://arxiv.org/abs/2606.23913) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-22 | [Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2606.22995) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-17 | [REVES: REvision and VErification--Augmented Training for Test-Time Scaling](https://arxiv.org/abs/2606.18910) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-10 | [APPO: Agentic Procedural Policy Optimization](https://arxiv.org/abs/2606.12384) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-28 | [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](https://arxiv.org/abs/2606.29526) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-25 | [Reinforcement Learning without Ground-Truth Solutions can Improve LLMs](https://arxiv.org/abs/2606.27369) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-22 | [SPIRAL: Learning to Search and Aggregate](https://arxiv.org/abs/2606.23595) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-21 | [Learning at the Right Pace: Adaptive Data Scheduling Improves LLM Reinforcement Learning](https://arxiv.org/abs/2606.22305) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-15 | [Rethinking Groups in Critic-Free RLVR](https://arxiv.org/abs/2606.17250) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-11 | [Mental-R1: Aligning LLM Reasoning for Mental Health Assessment](https://arxiv.org/abs/2606.13176) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-10 | [Orchestra-o1: Omnimodal Agent Orchestration](https://arxiv.org/abs/2606.13707) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-08 | [Rethinking the Divergence Regularization in LLM RL](https://arxiv.org/abs/2606.09821) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-04 | [MDP-GRPO: Stabilized Group Relative Policy Optimization for Multi-Constraint Instruction Following](https://arxiv.org/abs/2606.06058) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [Taiji: Pareto Optimal Policy Optimization with Semantics-IDs Trade-off for Industrial LLM-Enhanced Recommendation](https://arxiv.org/abs/2606.03866) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [Tool-Aware Optimization with Entropy Guidance for Efficient Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03762) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [Local Guidance, Global Impact: Gaussian-Reshaped Trust Region Unlocks Behavior Transitions](https://arxiv.org/abs/2606.03382) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [ASymPO: Asymmetric-Scale Policy Optimization for Asynchronous LLM Post-Training Without Behavior Information](https://arxiv.org/abs/2606.03070) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-29 | [DRIFT: Difficulty Routing Self-DIstillation with Rhythm-Gated Exploration and Success BuFfer Training](https://arxiv.org/abs/2606.30345) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-28 | [From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training](https://arxiv.org/abs/2607.16257) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-11 | [DiPOD: Diffusion Policy Optimization without Drifting Apart](https://arxiv.org/abs/2606.13795) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-09 | [Do Vision-Language Models See or Guess? Measuring and Reducing Textual-Prior Reliance with a Phrasing-Controlled Benchmark](https://arxiv.org/abs/2606.10400) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-08 | [Bittensor Agent Arenas as a Trajectory Primitive: Distilling a Shopping Agent from ShoppingBench Subnet Traces](https://arxiv.org/abs/2606.10064) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-19 | [Post-Training Speech Enhancement Language Models with Perceptual Rewards](https://arxiv.org/abs/2606.21458) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-15 | [SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model](https://arxiv.org/abs/2606.20698) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [Dynamic Execution Horizon Prediction for Chunk-based Robot Policies](https://arxiv.org/abs/2606.11408) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [It Takes One to Bias Them All: Breaking Bad with One-Shot GRPO](https://arxiv.org/abs/2606.10931) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [FlowAWR: Online Adaptive Flow Reinforcement via Advantage-Weighted Rectification](https://arxiv.org/abs/2606.30376) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-24 | [FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation](https://arxiv.org/abs/2606.26006) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-23 | [Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation](https://arxiv.org/abs/2606.24515) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-17 | [ThinkDeception: A Progressive Reinforcement Learning Framework for Interpretable Multimodal Deception Detection](https://arxiv.org/abs/2606.18988) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [Reasoning as Intersection: Consensus-Frame Alignment for Visual Focus in Video-MLLMs](https://arxiv.org/abs/2606.18441) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [StepGuard: Guarding Web Navigation via Single-Step Calibration](https://arxiv.org/abs/2606.17871) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [DifferAD-R1: A Difference-Guided IndustrialAnomaly Localization with Multimodal LargeLanguage Models](https://arxiv.org/abs/2606.16601) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-14 | [Self-Questioning Vision-Language Models: Reinforcement Learning for Compositional Visual Reasoning](https://arxiv.org/abs/2606.15651) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-10 | [IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents](https://arxiv.org/abs/2606.11652) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [3SPO: State-Score-Supervised Policy Optimization for LLM Agents](https://arxiv.org/abs/2606.09961) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2606.09337) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-07 | [From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory](https://arxiv.org/abs/2606.08656) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-07 | [Reinforcement Learning for Flow-Matching Policies with Density Transport](https://arxiv.org/abs/2606.08602) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-07 | [Trajectory-Refined Distillation](https://arxiv.org/abs/2606.08432) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-06-22 | [A Formula-Driven Survey and Research Agenda for On-Policy Distillation](https://arxiv.org/abs/2606.22793) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-06-29 | [MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training](https://arxiv.org/abs/2606.30406) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-06-23 | [AsyncOPD: How Stale Can On-Policy Distillation Be?](https://arxiv.org/abs/2606.24143) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-06-04 | [ViCuR: Visual Cues as Recoverable Privilege for Multimodal On-Policy Distillation](https://arxiv.org/abs/2606.05718) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-06-30 | [One Student, Many Teachers: Multi-Task On-Policy Distillation via Soft-Prompt Privileged Context](https://arxiv.org/abs/2607.18293) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-11 | [Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation](https://arxiv.org/abs/2606.13657) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-04 | [Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation](https://arxiv.org/abs/2606.06712) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-02 | [Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-06-17 | [Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resilient Multimodal On-Policy Self-Distillation](https://arxiv.org/abs/2606.19120) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-22 | [ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation](https://arxiv.org/abs/2606.23104) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-21 | [On the Position Bias of On-Policy Distillation](https://arxiv.org/abs/2606.22600) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-16 | [Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding](https://arxiv.org/abs/2606.18101) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-29 | [DOPD: Dual On-policy Distillation](https://arxiv.org/abs/2606.30626) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-09 | [Kwai Keye-VL-2.0 Technical Report](https://arxiv.org/abs/2606.10651) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-29 | [Building Multi-Task Agentic LLMs via Two-Phase Distillation](https://arxiv.org/abs/2606.30044) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-26 | [SEAD: Competence-Aware On-Policy Distillation via Entropy-Guided Supervision](https://arxiv.org/abs/2606.28562) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-23 | [Blockwise Policy-Drift Gating for On-Policy Distillation](https://arxiv.org/abs/2606.24084) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-22 | [Finding the Evidence: Discovering Decision-Supporting Tokens for On-Policy Reasoning Distillation](https://arxiv.org/abs/2606.22830) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-20 | [Prefix-Guided On-Policy Distillation: Mining Golden Trajectories from Rollouts](https://arxiv.org/abs/2606.21994) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-17 | [Scaling Self-Play for End-to-End Driving](https://arxiv.org/abs/2606.19641) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-15 | [PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation](https://arxiv.org/abs/2606.17199) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-13 | [GeoStream: Toward Precise Camera Controlled Streaming Video Generation](https://arxiv.org/abs/2606.15162) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-10 | [When Context Returns: Toward Robust Internalization in On-Policy Distillation](https://arxiv.org/abs/2606.11627) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-10 | [HERO: Hindsight-Enhanced Reflection from Environment Observations for Agentic Self-Distillation](https://arxiv.org/abs/2606.11559) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-09 | [Beyond Absolute Imitation: Anchored Residual Guidance for Privileged On-Policy Distillation](https://arxiv.org/abs/2606.10385) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-08 | [Escaping the KL Agreement Trap in On-Policy Distillation](https://arxiv.org/abs/2606.09471) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-04 | [OPRD: On-Policy Representation Distillation](https://arxiv.org/abs/2606.06021) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-02 | [When Should the Teacher Move? Temporal Coupling and Stability in Self On-Policy Distillation](https://arxiv.org/abs/2606.03532) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-01 | [Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation](https://arxiv.org/abs/2606.02684) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-24 | [On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity](https://arxiv.org/abs/2606.26091) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-17 | [Visual-OPSD: Cross-Modal On-Policy Self-Distillation for Efficient Unified Multimodal Reasoning](https://arxiv.org/abs/2606.18974) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-04 | [Learning Visual Spatial Planning from Symbolic State via Modality-Gap-Aware Self-Distillation](https://arxiv.org/abs/2606.06076) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-09 | [Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning](https://arxiv.org/abs/2606.10613) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-24 | [PolicyAlign: Direct Policy-Based Safety Alignment for Large Language Models](https://arxiv.org/abs/2606.25442) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-26 | [Let the Data Decide: Supervision Analysis, Capability Trade-offs, and Adaptive Objective Routing in Continued Pre-Training via Off-Policy Distillation](https://arxiv.org/abs/2607.16246) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-06-17 | [Self-Improvement Can Self-Regress: The Rise-and-Collapse Failure Mode of LLM Self-Training](https://arxiv.org/abs/2606.21090) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-13 | [Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](https://arxiv.org/abs/2606.15079) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-04 | [Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-02 | [EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management](https://arxiv.org/abs/2606.03841) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-06-28 | [UCOB: Learning to Utilize and Evolve Agentic Skills via Credit-Aware On-Policy Bidirectional Self-Distillation](https://arxiv.org/abs/2606.29502) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-28 | [Hierarchical Experimentalist Agents](https://arxiv.org/abs/2606.29315) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-13 | [CausalDrive: Real-time Causal World Models for Autonomous Driving](https://arxiv.org/abs/2606.15341) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-09 | [A-Evolve-Training: Autonomous Post-Training of a 30B Model](https://arxiv.org/abs/2606.20657) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-02 | [AgenticRL: Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigation](https://arxiv.org/abs/2606.03963) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-28 | [SHAPE of Chain-of-Thought in Math Reasoning](https://arxiv.org/abs/2608.28600) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-24 | [The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators](https://arxiv.org/abs/2606.26294) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-17 | [Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement](https://arxiv.org/abs/2606.18953) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-15 | [Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models](https://arxiv.org/abs/2606.16700) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-10 | [Generalization Hacking: Models Can Game Reinforcement Learning by Preventing Behavioral Generalization](https://arxiv.org/abs/2606.12016) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-08 | [Dropout-GRPO: Variational Stochasticity for Continuous Latent Reasoning](https://arxiv.org/abs/2606.10184) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-07 | [Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy](https://arxiv.org/abs/2606.08779) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-07 | [PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](https://arxiv.org/abs/2606.08414) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-16 | [Continual Self-Improvement with Lightweight Experiential Latent Memories](https://arxiv.org/abs/2606.17803) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [Agentic Safety is an Epistemic Property, Not a Behavioral One](https://arxiv.org/abs/2606.28347) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-29 | [Be Faithful When Response: Returning Fluent and Grounded Answers for Vision-Language Models Reinforcement Learning](https://arxiv.org/abs/2606.29984) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [NeuReasoner: Theory-grounded Mapping of Reasoning Elicitation Boundaries](https://arxiv.org/abs/2606.29971) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-25 | [Perception, Verdict, and Evolution: Hindsight-Driven Self-Refining Forensics Agent for AI-Generated Image Detection](https://arxiv.org/abs/2606.26552) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-19 | [Robot Self-Improvement via Human-Video Dynamics Models](https://arxiv.org/abs/2606.21406) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-17 | [Bridging Creative Intent and Visual Quality: Creator-Driven Recurrent Video Generation with Agentic Feedback Loops](https://arxiv.org/abs/2606.18591) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-05 | [Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning](https://arxiv.org/abs/2606.07436) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-05 | [dots.tts Technical Report](https://arxiv.org/abs/2606.07080) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-03 | [ReasoningFlow: Discourse Structures for Understanding LLM Reasoning Traces](https://arxiv.org/abs/2606.05402) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-03 | [Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)](https://arxiv.org/abs/2606.05145) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-03 | [Learning What to Learn: Stage-Specific Data Sets for SFT-then-RL in Small Language Model Reasoning](https://arxiv.org/abs/2606.04466) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [A Theoretical Framework for Self-Play Theorem Proving Algorithms](https://arxiv.org/abs/2606.01861) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision](https://arxiv.org/abs/2606.30552) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs](https://arxiv.org/abs/2606.19927) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-17 | [Learning to Annotate Delayed and False AEB Events: A Practical System for Extreme Class Imbalance and Asymmetric Label Noise](https://arxiv.org/abs/2606.19186) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-13 | [APEX: Adaptive Principle EXtraction A Three-Layer Self-Evolution Framework for Production AI Agents](https://arxiv.org/abs/2606.15363) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [(Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs](https://arxiv.org/abs/2606.09674) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [Rosetta Memory: Adaptive Memory for Cross-LLM Agents](https://arxiv.org/abs/2606.07711) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?](https://arxiv.org/abs/2606.04455) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [SAGE: A Quantitative Evaluation of Socialized Evolution in Agent Ecosystems](https://arxiv.org/abs/2606.03544) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-02 | [FederatedSkill: Federated Learning for Agentic Skill Evolution](https://arxiv.org/abs/2606.03143) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [MT-EditFlow: Reinforcement Learning for Multi-Turn Image Editing with Flow Matching](https://arxiv.org/abs/2606.01985) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams](https://arxiv.org/abs/2606.01770) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [MobEvolve: An Agentic Self-Evolving Heuristic System for Interpretable Human Mobility Generation](https://arxiv.org/abs/2606.01640) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [Self-Improving Small Object Grounding in LVLMs](https://arxiv.org/abs/2606.01612) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [Claw-R1: A Step-Level Data Middleware System for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.09138) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-06-01 | [OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-05 | [Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning](https://arxiv.org/abs/2606.06976) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-03 | [AgentJet: A Distributed Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-28 | [CRAFT: Counterfactual Credit Assignment from Free Sibling Rollouts for Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/abs/2606.29476) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-25 | [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](https://arxiv.org/abs/2606.27483) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-11 | [From Verdict to Process: Agentic Reinforcement Learning for Multi-Stage Fact Verification](https://arxiv.org/abs/2606.13262) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-04 | [QueryAgent-R1: Bridging Query Generation and Product Retrieval for E-Commerce Query Recommendation](https://arxiv.org/abs/2606.05671) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-02 | [EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03108) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-01 | [Learning When Not to Act: Mitigating Tool Abuse in Agentic Reinforcement Learning](https://arxiv.org/abs/2606.02132) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-01 | [ReSkill: Reconciling Skill Creation with Policy Optimization in Agentic RL](https://arxiv.org/abs/2606.01619) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-18 | [MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments](https://arxiv.org/abs/2606.19893) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-12 | [Retrospective Progress-Aware Self-Refinement for LLM Agent Training](https://arxiv.org/abs/2606.14302) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-04 | [When Denser Credit Is Not Enough: Evidence-Calibrated Policy Optimization for Long-Horizon LLM Agent Training](https://arxiv.org/abs/2606.05885) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-01 | [SIRI: Self-Internalizing Reinforcement Learning with Intrinsic Skills for LLM Agent Training](https://arxiv.org/abs/2606.02355) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-30 | [A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems](https://arxiv.org/abs/2606.31639) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-30 | [ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies](https://arxiv.org/abs/2606.31132) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-20 | [Drowning in Routine: Signal Dilution in Multi-Turn Agent Training](https://arxiv.org/abs/2606.22164) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-18 | [When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents](https://arxiv.org/abs/2606.20023) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-16 | [Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?](https://arxiv.org/abs/2606.19388) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [What Makes Interaction Trajectories Effective for Training Terminal Agents?](https://arxiv.org/abs/2606.03461) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [WRIT: Write-Read Intensive Trajectory Synthesis for Multi-Turn User-Facing Agents](https://arxiv.org/abs/2606.02908) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [Guava: An Effective and Universal Harness for Embodied Manipulation](https://arxiv.org/abs/2606.18363) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [SENTINEL: Failure-Driven Reinforcement Learning for Training Tool-Using Language Model Agents](https://arxiv.org/abs/2606.12908) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-10 | [Individual Control Barrier Functions-Guided Diffusion Model for Safe Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2606.12640) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [Progress-SQL: Improving Reinforcement Learning for Text-to-SQL via Progressive Rewards](https://arxiv.org/abs/2606.06825) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](https://arxiv.org/abs/2606.06819) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?](https://arxiv.org/abs/2606.07682) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-04 | [AsyncWebRL: Efficient Asynchronous Reinforcement Learning for Multi-Step Visual Web Agents](https://arxiv.org/abs/2606.05597) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [Efficient Reinforcement for Visual-Textual Thinking with Discrete Diffusion Model](https://arxiv.org/abs/2606.14792) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-06-19 | [DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams](https://arxiv.org/abs/2606.21337) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-06-30 | [Harnessing Textual Refusal Directions for Multimodal Safety](https://arxiv.org/abs/2606.31876) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-11 | [Topical Phase Transitions in Artificial Intelligence Research: Large-Scale Evidence and an Early-Warning Signature for Emerging Topics](https://arxiv.org/abs/2606.12828) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-30 | [Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](https://arxiv.org/abs/2606.31599) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [Dual-Flow Reinforcement Learning with State-Aware Exploration](https://arxiv.org/abs/2606.29820) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-26 | [RS-Diffuser: Risk-Sensitive Diffusion Planning with Distributional Value Guidance](https://arxiv.org/abs/2606.27766) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-23 | [NoContactNoWorries: Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation](https://arxiv.org/abs/2606.24450) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-17 | [DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](https://arxiv.org/abs/2606.19656) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-17 | [Generative-Model Predictive Planning for Navigation in Partially Observable Environments](https://arxiv.org/abs/2606.18888) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-16 | [Embodiment Shapes Rolling Behavior in a Multimodal Infant Model](https://arxiv.org/abs/2606.17456) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-11 | [IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing](https://arxiv.org/abs/2606.13368) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-09 | [AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning](https://arxiv.org/abs/2606.10927) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-07 | [Guided Discovery of New Behaviors using Diffusion Policies](https://arxiv.org/abs/2606.08743) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-04 | [TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-04 | [L-SDPPO: Policy Optimization of Spiking Diffusion Policy for Intra-vehicular Robotic Manipulation](https://arxiv.org/abs/2606.06049) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-01 | [Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design](https://arxiv.org/abs/2606.02507) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-30 | [CoDex: Learning Compositional Dexterous Functional Manipulation without Demonstrations](https://arxiv.org/abs/2606.31909) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-30 | [Robust Autonomous UAV Landing on Maritime Platforms via Multimodal Agentic AI and Active Wave Compensation](https://arxiv.org/abs/2606.31613) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [StrucTab: A Structured Optimization Framework for Table Parsing](https://arxiv.org/abs/2606.29905) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [CARE: Causally-Aligned Reasoning Exploration for Medical Large Language Models](https://arxiv.org/abs/2608.26147) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-27 | [Keypose Exploration: Efficient Automatic Trajectory Labelling and Cross-Embodiment Policy Transfer](https://arxiv.org/abs/2606.29028) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [AirGroundBench: Probing Spatial Intelligence in Multimodal Large Models under Heterogeneous Multi-View Embodied Collaboration](https://arxiv.org/abs/2606.28049) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [AdaThinking-E: One-Token Entropy Regulation for Adaptive Thinking](https://arxiv.org/abs/2608.26141) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-26 | [MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy](https://arxiv.org/abs/2606.27652) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-25 | [PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation](https://arxiv.org/abs/2606.26741) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-24 | [Omni-Perception Policy Optimization for Multimodal Emotion Reasoning](https://arxiv.org/abs/2606.25325) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-23 | [An LMM for Precisely Grounding Elements in Documents](https://arxiv.org/abs/2606.24118) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [REALM: A Unified Red-Teaming Benchmark for Physical-World VLMs](https://arxiv.org/abs/2606.23892) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [Dynamic multi-agent deep reinforcement learning-based pricing and incentivization approach in multimodal transportation networks](https://arxiv.org/abs/2606.23257) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [READ More than What You See: Reinforcement Learning for Accurate and Coherent Audio Description Generations](https://arxiv.org/abs/2606.22766) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-18 | [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](https://arxiv.org/abs/2606.19914) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-16 | [Enhancing Pathological VLMs with Cross-scale Reasoning](https://arxiv.org/abs/2606.17412) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [Graphical conditional generative modeling for digital twin modeling](https://arxiv.org/abs/2606.16219) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-13 | [Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities](https://arxiv.org/abs/2606.15514) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-13 | [DLWM: Diverse Latent World Models for Efficient Multimodal Reasoning](https://arxiv.org/abs/2606.15160) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [Improving Robotic Generalist Policies via Flow Reversal Steering](https://arxiv.org/abs/2606.13675) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach](https://arxiv.org/abs/2606.13192) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-11 | [Bridging Modal Isolation in Interleaved Thinking: Supervising Modality Transitions via Stepwise Reinforcement](https://arxiv.org/abs/2606.12886) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-08 | [Personalization Meets Safety:Mechanisms,Risks,and Mitigations in Personalized LLMs](https://arxiv.org/abs/2606.09038) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-07 | [Self-Evolving Scientific Agent Designs Physically-Reasoned Whitebox Fluid Control](https://arxiv.org/abs/2606.08405) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-05 | [GenPO++: Generative Policy Optimization with Jacobian-free Likelihood Ratios](https://arxiv.org/abs/2606.06967) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [Robust Scene Transfer for PointGoal Navigation via Privileged Sensor Guided Contrastive Learning](https://arxiv.org/abs/2606.05506) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-03 | [M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking](https://arxiv.org/abs/2606.04829) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://arxiv.org/abs/2606.02459) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-29 | [Diffusion Fine-tuning with Rewarded Moment Matching Distillation](https://arxiv.org/abs/2606.30414) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-17 | [Spotlight: Synergizing Seed Exploration and Spot GPUs for DiT RL Post-Training](https://arxiv.org/abs/2606.19004) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-28 | [Multi-Block Diffusion Language Models](https://arxiv.org/abs/2606.29215) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-19 | [OVIG: Optimistic Verification of AI Training Integrity via Gradient Signals](https://arxiv.org/abs/2606.21045) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-12 | [VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling](https://arxiv.org/abs/2606.14162) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-22 | [DivRL: Disentangled Self-Similarity Rewards for Diverse Subject-Driven Generation](https://arxiv.org/abs/2606.23950) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-30 | [SLIM-RL: Risk-Budgeted Random-Masking RL for Diffusion LLMs Without Trajectory Slicing](https://arxiv.org/abs/2607.00208) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-30 | [Diffusing Blame: Task-Dependent Credit Assignment in Biologically Plausible Dual-Stream Networks](https://arxiv.org/abs/2606.31700) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-27 | [$x$-Prediction Flow: Efficient Continuous Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2606.29066) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-24 | [DynaMOMA: Instantaneous Prediction of Grasp Poses for Mobile Manipulation of Dynamic Objects](https://arxiv.org/abs/2606.25295) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [Diffusion Offline Reinforcement Learning for Fair and Energy-Efficient UAV-Assisted Wireless Networks](https://arxiv.org/abs/2606.16331) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-13 | [Temporal Difference Learning for Diffusion Models](https://arxiv.org/abs/2606.15048) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-01 | [Physics-Informed Modeling and Control of Emergent Behaviors in Robot Swarms](https://arxiv.org/abs/2606.01597) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-21 | [PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models](https://arxiv.org/abs/2606.22540) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-06-30 | [ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving](https://arxiv.org/abs/2606.31226) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-30 | [Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving](https://arxiv.org/abs/2606.31160) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-16 | [PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation](https://arxiv.org/abs/2606.18375) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-11 | [RoboProcessBench: Benchmarking Process-Aware Understanding in Vision-Language Robotic Manipulation](https://arxiv.org/abs/2606.13040) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-09 | [Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models](https://arxiv.org/abs/2606.10495) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-09 | [A Practical Recipe Towards Improving Sim-and-Real Correlation for VLA Evaluation](https://arxiv.org/abs/2606.10366) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-05 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2606.07100) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-02 | [NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation](https://arxiv.org/abs/2606.03159) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-06-24 | [Learning Asynchronous Upper-body Task-space Trajectory Tracking Policy for Humanoid Robots](https://arxiv.org/abs/2606.25706) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-22 | [LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation](https://arxiv.org/abs/2606.23685) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-21 | [EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos](https://arxiv.org/abs/2607.09701) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-18 | [World Engine: Towards the Era of Post-Training for Autonomous Driving](https://arxiv.org/abs/2606.19836) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-15 | [RealityBridge: Bridging Editable 3D Gaussian Splatting Driving Simulations and Real-World Videos](https://arxiv.org/abs/2606.16278) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-13 | [Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](https://arxiv.org/abs/2606.15099) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-11 | [QPILOTS: Efficient Test-Time Q-Steering for Flow Policies](https://arxiv.org/abs/2606.14801) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-02 | [GeoAlign: Beyond Semantics with State-Guided Spatial Alignment in VLA Models](https://arxiv.org/abs/2606.03240) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-06-29 | [Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models](https://arxiv.org/abs/2606.29892) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-24 | [iFLYTEK-Embodied-Omni Technical Report](https://arxiv.org/abs/2607.02542) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-22 | [HiL-ResRL: A Model-Agnostic Finetuning Adapter via Human-in-the-loop Residual Reinforcement Learning](https://arxiv.org/abs/2606.22860) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-15 | [VENOM: Versatile Embodied Network for Omni-bodied Motion tracking](https://arxiv.org/abs/2606.16696) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-12 | [Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models](https://arxiv.org/abs/2606.14375) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-06-06 | [Q-VGM: Q-Value-Gradient Matching for Offline-to-Online Reinforcement Learning of Flow-Matching VLA](https://arxiv.org/abs/2606.08015) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-16 | [On-Policy Delta Distillation](https://arxiv.org/abs/2607.15161) | arxiv-monthly-backfill | 20 | `needs-review` |
+| 2026-07-27 | [Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT](https://arxiv.org/abs/2607.25063) | arxiv-monthly-backfill | 19 | `needs-review` |
+| 2026-07-18 | [Trace-Based On-Policy Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2607.16872) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-07-02 | [Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation](https://arxiv.org/abs/2607.02460) | arxiv-monthly-backfill | 17 | `needs-review` |
+| 2026-07-27 | [Inverse RL Helps Align AI by Imitating Humans](https://arxiv.org/abs/2607.24900) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-07-15 | [Post-Training Shifts Confidence: A Three-Stage Analysis of How SFT, RL, and OPD Shape CoT Calibration](https://arxiv.org/abs/2607.13753) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-07-06 | [Rethinking On-Policy Self-Distillation for Thinking Models](https://arxiv.org/abs/2607.05184) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-07-25 | [AgentOmnia: Scaling Agentic Models for Full-Scenario Applications](https://arxiv.org/abs/2607.23124) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-07-31 | [Scaling Properties of Text Conditioning in Visual Generation](https://arxiv.org/abs/2607.29679) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-21 | [ABOPD: Antibody CDR Design via On-Policy Distillation](https://arxiv.org/abs/2607.18835) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-05 | [dOPSD: On-Policy Self-Distillation for Diffusion Language Models](https://arxiv.org/abs/2607.04428) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-15 | [TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents](https://arxiv.org/abs/2607.13988) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-07-26 | [ZenGen: Social Mind for LLMs](https://arxiv.org/abs/2607.23740) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-24 | [Inference-Time Mitigation of Adversarial Political Bias in Large Language Models](https://arxiv.org/abs/2608.14629) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-17 | [Understanding Reasoning from Pretraining to Post-Training](https://arxiv.org/abs/2607.16097) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-15 | [OvisOCR2 Technical Report](https://arxiv.org/abs/2607.13639) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-10 | [How LLM Task-Adaptation Reshapes Alignment: A Multi-dimensional Study of Behavioral and Representational Drift](https://arxiv.org/abs/2607.22676) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-22 | [SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation](https://arxiv.org/abs/2607.19850) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-07-08 | [Online Data Selection Is Implicit Alignment](https://arxiv.org/abs/2607.07023) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-07-01 | [Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization](https://arxiv.org/abs/2607.00531) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-07-30 | [Lightning OPD 2.0: Mitigating Style Bias in Cross-Teacher On-Policy Distillation for Large Reasoning Models](https://arxiv.org/abs/2607.28449) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-26 | [LA-RL: Label-Aware Self-Reflection for Reinforcement Learning in Information Extraction](https://arxiv.org/abs/2607.23420) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-16 | [Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation](https://arxiv.org/abs/2607.14895) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-05 | [RL Forgets! Towards Continual Policy Optimization](https://arxiv.org/abs/2607.04364) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-04 | [Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models](https://arxiv.org/abs/2607.03751) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-02 | [Seek to Segment: Active Perception for Panoramic Referring Segmentation](https://arxiv.org/abs/2607.02497) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-30 | [RefineSVG: Visual Feedback-Driven Reinforcement Learning for Image-to-SVG Generation](https://arxiv.org/abs/2607.27699) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-30 | [Training Skills Like Parameters via Self-Supervised Semantic Diffusion](https://arxiv.org/abs/2607.27557) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-19 | [STBridge: Shared-Target Alignment for Bridging Understanding and Generation in UMMs](https://arxiv.org/abs/2607.17140) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-17 | [WeedExpert-R1: Incentivizing Botanical Reasoning in MLLMs with Reinforcement Learning for Precision Weed Grounding](https://arxiv.org/abs/2607.16492) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-16 | [Stop Thinking, Start Looking: Efficient Post-Training for Multimodal Document Question Answering via Reasoning-Free Alignment](https://arxiv.org/abs/2607.14682) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-05 | [CritiqueDriveVLM: From Verifier-Guided Reinforcement Learning to Latent Thought Distillation for Autonomous Driving](https://arxiv.org/abs/2607.04179) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-30 | [HARGO: Heterogeneity-Aware Reward-Guided Optimization for RL Post-Training of LLMs on HPC Tasks](https://arxiv.org/abs/2607.28301) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-23 | [How Many Bits Can an Adapter Write? Measuring the Capacity and Memorization of Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2607.21351) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-21 | [Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards](https://arxiv.org/abs/2607.19219) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-21 | [Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning](https://arxiv.org/abs/2607.19181) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-21 | [DobicVLM: Aligning Chest X-Ray Report Generation with Clinically-Grounded Programmatic Rewards via Group Relative Policy Optimization](https://arxiv.org/abs/2607.18988) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-17 | [Interactive Task Alignment as a POMDP](https://arxiv.org/abs/2607.16412) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-08 | [Selective Left-Shift: Turning Test-Time Compute and Difficulty-based Curation into Training Data for Low-Resource Code Generation](https://arxiv.org/abs/2607.07748) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-08 | [Large Behavior Model: A Promptable Digital Twin of the Retail Customer](https://arxiv.org/abs/2607.06993) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-07 | [CurateEvo: Data-Curation Evolving for Agentic Post-Training](https://arxiv.org/abs/2607.06140) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-06 | [Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs](https://arxiv.org/abs/2607.04631) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-03 | [Demonstrating Generalization Failures via Mixtures of Conditional Policies](https://arxiv.org/abs/2607.03478) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-02 | [Reinforcement Learning for Data-Efficient Code-Switched ASR](https://arxiv.org/abs/2607.02757) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-02 | [Enhancing Fitness Intelligence through Domain-Specific LLM Post-Training](https://arxiv.org/abs/2607.02118) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-02 | [Decomposer: Learning to Decompile Symbolic Music to Programs](https://arxiv.org/abs/2607.01849) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-30 | [Exact Action Values Are Not Enough: Rollout-Verified Reinforcement Fine-Tuning of a Reasoning Model for Multi-Zone VAV Control](https://arxiv.org/abs/2607.27914) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-28 | [Alignment Is All You Need: Instruction-Free Training for General Audio-Language Models](https://arxiv.org/abs/2608.18132) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-24 | [Filling Before Advancing: Capability-Gap-Driven Post-Training for Scenario-Specialized Remote Sensing MLLMs](https://arxiv.org/abs/2607.22205) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-23 | [Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On](https://arxiv.org/abs/2607.21694) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-20 | [RRPO: Reference-Relative Policy Optimization with Stratified Conditional Rollouts](https://arxiv.org/abs/2607.18470) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-07 | [Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models](https://arxiv.org/abs/2607.05716) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-31 | [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-29 | [DIRECT: Direct Decoding for Efficient and Aligned Sequence Labeling with Large Language Models](https://arxiv.org/abs/2607.26891) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-29 | [FAS-R1: A Unified Multi-Task MLLM for Reasoning Face Anti-Spoofing](https://arxiv.org/abs/2607.26432) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-28 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](https://arxiv.org/abs/2607.25956) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-26 | [ObsDriveBench: Benchmarking Multimodal Understanding under Adverse Weather with Observability Awareness](https://arxiv.org/abs/2607.23537) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-21 | [Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation](https://arxiv.org/abs/2607.19044) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-13 | [UMoE:Unlocking Every Expert in Domain-Specific Training](https://arxiv.org/abs/2607.11444) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-08 | [BUS: Brain-Inspired Unsupervised Self-Reflection via Backward Prediction for Multimodal Reasoning](https://arxiv.org/abs/2607.07361) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-07 | [When Should LLMs Search? Counterfactual Supervision for Search Routing](https://arxiv.org/abs/2607.05752) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-06 | [A Few Teacher Steps Go a Long Way: Cost-Efficient On-Policy Data Augmentation for Agent Post-Training](https://arxiv.org/abs/2607.04574) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-03 | [MentalThink: Shaping Thoughts in Mental SVG World](https://arxiv.org/abs/2607.03530) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-01 | [The Model Organism Lottery: Model Organism Interpretability Strongly Depends on Training Methodology](https://arxiv.org/abs/2607.01033) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-01 | [StochasT: Learning with Stochastic Turn Depth for Visual Instruction Tuning](https://arxiv.org/abs/2607.00465) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-31 | [Learning to Coordinate Symbolic Tools: LLM Agents for Verified Sum-of-Squares Certificates](https://arxiv.org/abs/2608.00326) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-26 | [PathScale-R1: Cross-scale Reasoning for Pathological Image Analysis](https://arxiv.org/abs/2607.23794) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-23 | [Sample-Efficient Learning from Agent Experience](https://arxiv.org/abs/2607.21051) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-20 | [ConsiSpace: Learning Geometric Consistency Matters for Video Spatial Reasoning](https://arxiv.org/abs/2607.17599) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-17 | [Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA](https://arxiv.org/abs/2607.16189) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-16 | [WorkDrive: Roadwork Chain of Causation for Autonomous Driving](https://arxiv.org/abs/2607.14727) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-15 | [ThinkBLOX: 3D Indoor Scene Generation with Progressive Reasoning](https://arxiv.org/abs/2607.13539) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-14 | [AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning](https://arxiv.org/abs/2607.12820) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-12 | [UNIBROWSE: A Data-to-Agent Framework for Multimodal BrowseComp](https://arxiv.org/abs/2607.10557) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-11 | [Empowering Long-form Omni-modal Understanding with Robust Audio Perception](https://arxiv.org/abs/2607.10299) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-10 | [From Direction to Magnitude: How Multimodal Instruction-Tuning Reorganizes the Geometric Encoding of Identity-Specifying Prompts in Transformer Hidden States](https://arxiv.org/abs/2607.09842) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-06 | [Leveraging Offline Supervision for Efficient and Generalizable Reinforcement Learning in Large-Scale Vision-Language-Action Models](https://arxiv.org/abs/2607.19399) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-04 | [TokAN: Accent Normalization Using Self-Supervised Speech Tokens](https://arxiv.org/abs/2607.03928) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-04 | [VFA: Empowering Multilingual MLLMs via Vision-Free Adaptation](https://arxiv.org/abs/2608.26155) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-01 | [Information-Regularized Attention for Visual-Centric Reasoning](https://arxiv.org/abs/2607.00434) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-31 | [RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning](https://arxiv.org/abs/2608.00335) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-31 | [Learning an Interior Layout Policy in a Domain Specific Language Action Space](https://arxiv.org/abs/2608.07547) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-30 | [GVR-Coder: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios](https://arxiv.org/abs/2607.28073) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-29 | [MedLLM: An Open Medical Language Model at the Sub-Billion Scale](https://arxiv.org/abs/2607.27490) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-29 | [Progressive Multimodal Alignment for Continual Instruction Tuning](https://arxiv.org/abs/2607.26947) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-29 | [Decoupled Visual Processing: Efficient Multimodal Adaptation via Modality-Specific Transformer Substitution](https://arxiv.org/abs/2607.26596) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-28 | [Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe](https://arxiv.org/abs/2607.25292) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-27 | [Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention](https://arxiv.org/abs/2607.23917) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-25 | [IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems](https://arxiv.org/abs/2607.23322) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-24 | [Not All LLM Reasoning is Visible in the Chain-of-Thought](https://arxiv.org/abs/2607.22925) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-24 | [Enough is as good as a feast: A Comprehensive Analysis of How Reinforcement Learning Mitigates Task Conflicts in LLMs](https://arxiv.org/abs/2607.22039) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-23 | [From Evaluation to Optimisation: Hierarchy-Aware Training Signals for CWE Prediction in Python](https://arxiv.org/abs/2607.21069) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-22 | [PercepCap: Video Captioner with Structured Spatio-Temporal Perception](https://arxiv.org/abs/2607.20389) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-20 | [Search-on-Graph-R1: Training Large Language Models to Search Knowledge Graphs with Reinforcement Learning](https://arxiv.org/abs/2607.18481) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-19 | [Robust Summarization of Doctor-Patient Conversations: TalTech Systems for the Beyond Transcription Challenge](https://arxiv.org/abs/2607.17230) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-17 | [LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory](https://arxiv.org/abs/2607.22690) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-16 | [Multi-LLM Collaborative MRI Report Generation for Visual Instruction Tuning in Brain Oncology](https://arxiv.org/abs/2607.14581) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-15 | [SLMs as Multi-Agent Routers: A Progressive SFT and Reinforcement Learning Approach](https://arxiv.org/abs/2608.00030) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-11 | [Generalize LMMs to Versatile Visual Modalities via Fabricated Modality Synthesis](https://arxiv.org/abs/2607.10308) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-11 | [REVA-PO: Stabilizing Reinforcement Learning for Chest X-ray Report Generation](https://arxiv.org/abs/2607.10147) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-09 | [When Synthetic Speech Is All You Have: Better Call GRPO](https://arxiv.org/abs/2607.08409) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-09 | [DrugGen 2: A disease-aware language model for enhancing drug discovery](https://arxiv.org/abs/2607.08404) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-09 | [Diarization-Guided Qwen-ASR Adaptation for Multilingual Two-Speaker Conversational Speech](https://arxiv.org/abs/2607.08208) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-08 | [DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment](https://arxiv.org/abs/2607.07820) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-07 | [MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation](https://arxiv.org/abs/2607.06552) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-07 | [Improving LLM-Generated Process Model Quality Through Reinforcement Learning: The Role of Reward Function Design](https://arxiv.org/abs/2607.06175) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-07 | [MLLM-DataEngine: Closing the Loop of Multimodal Instruction Tuning Data Generation](https://arxiv.org/abs/2607.15299) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-06 | [When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents](https://arxiv.org/abs/2607.05189) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-06 | [Beyond the Need for Speed: Energy-Aware Code Generation via Simulation-Guided Reinforcement Learning](https://arxiv.org/abs/2607.04577) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-05 | [SiGMA: Sign-Guided Merging and Adaptation for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2607.20511) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-03 | [Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models](https://arxiv.org/abs/2607.02914) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$](https://arxiv.org/abs/2607.02479) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories](https://arxiv.org/abs/2607.02010) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [TUDUM: A Turkish-Thinking Reasoning Pipeline for Qwen3.5-27B](https://arxiv.org/abs/2607.01927) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-01 | [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](https://arxiv.org/abs/2607.01084) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-01 | [EFlow: Learning Evidence Flow for Long-Video Reasoning with Adaptive Reflection](https://arxiv.org/abs/2607.00867) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-01 | [Efficient Multilingual Reasoning Transfer via Progressive Code-Switching](https://arxiv.org/abs/2607.00485) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-31 | [Outcome-Guided Distillation: A Teacher-Student Framework to Advance VLM Reasoning in Autonomous Driving](https://arxiv.org/abs/2607.29052) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [MMLDSum-LLM: Multimodal Long-Document Summarization with Visual-Alignment and Keyword-Aware](https://arxiv.org/abs/2607.28006) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [JigShape: Evaluating Visual-Geometric Reasoning in VLMs through Jigsaw Puzzles](https://arxiv.org/abs/2607.27670) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-29 | [Selecting Open-Weight Language Models for Zero-Shot Intent Classification: A Systematic Evaluation of 41 Models](https://arxiv.org/abs/2607.27421) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-28 | [Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2607.26326) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-28 | [Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](https://arxiv.org/abs/2607.26015) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [A Unified Moral-Value Dataset for Instruction Tuning](https://arxiv.org/abs/2607.21279) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [Improving Rare Medication Recommendation with Counterfactual Data Augmentation and Large Language Models](https://arxiv.org/abs/2607.24829) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-21 | [Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models](https://arxiv.org/abs/2607.19608) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-21 | [SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation](https://arxiv.org/abs/2607.19104) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-19 | [Learning from Synthetic Data without Model Collapse in Iterative Instruction Tuning](https://arxiv.org/abs/2607.17043) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning](https://arxiv.org/abs/2607.16090) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [IoU-PD: IoU-Aware Privileged Distillation for Visual Grounding with Multimodal Large Language Models](https://arxiv.org/abs/2607.15732) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [Beyond the Eye: Efficient Multimodal Reasoning via Self-Regulated Implicit Visual Tools](https://arxiv.org/abs/2607.11106) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-06 | [LP-SFT: Local-Preserving Supervised Fine-Tuning via Multimodal Entropy Structure](https://arxiv.org/abs/2607.04733) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-05 | [Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)](https://arxiv.org/abs/2607.04223) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-02 | [Unlocking Speech-Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](https://arxiv.org/abs/2607.02214) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-01 | [GeoSearcher: Anchor-Guided Progressive Reasoning for Remote Sensing Visual Grounding with Process Supervision](https://arxiv.org/abs/2607.01050) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-25 | [Self-Boosting Vision-Language Models with Noisy Student On-Policy Self-Distillation](https://arxiv.org/abs/2607.23125) | arxiv-monthly-backfill | 15 | `needs-review` |
+| 2026-07-30 | [Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion](https://arxiv.org/abs/2607.28058) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-29 | [DUET: Dual-Teacher On-Policy Distillation via Same-Weight Disagreement for Prohibition Compliance](https://arxiv.org/abs/2608.14644) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-08 | [Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops](https://arxiv.org/abs/2607.07663) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-03 | [Unbiased Alignment for Large Language Models with Noisy Preferences](https://arxiv.org/abs/2607.03248) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-08 | [Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF](https://arxiv.org/abs/2607.07693) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-07 | [Reliability-Aware LLM Alignment from Inconsistent Human Feedback](https://arxiv.org/abs/2607.20515) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-31 | [LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback](https://arxiv.org/abs/2607.29559) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-28 | [Meta-Learned Reward Shaping for Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2607.26094) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-08 | [Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator](https://arxiv.org/abs/2607.07993) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-08 | [DreamCharacter-1: From 3D Generative Foundation Models to Product-Ready Character Generation](https://arxiv.org/abs/2607.07817) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-04 | [Self-Improving Diffusion Classifiers with Minority Preference Optimization](https://arxiv.org/abs/2607.03770) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-20 | [OR Else: A Differentiable Trust Region for Policy Optimization](https://arxiv.org/abs/2607.18163) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-18 | [Learning from World Feedback: Why Model Uncertainty Fails as a Risk Signal in Model-Based RL](https://arxiv.org/abs/2607.16591) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-13 | [Enhancing LLMs through human feedback: a journey towards self-improvement](https://arxiv.org/abs/2607.11267) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-06 | [Attention Limited Reward Learning](https://arxiv.org/abs/2607.04590) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-31 | [Learning Latent Reasoning Traces for Scalar Reward Models End-to-End](https://arxiv.org/abs/2607.29185) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-30 | [Hypergradient-based Bilevel Reinforcement Learning with Improved Sample Complexity](https://arxiv.org/abs/2607.28849) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-27 | [Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis](https://arxiv.org/abs/2607.24430) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-22 | [Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design](https://arxiv.org/abs/2607.20057) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-20 | [A Geometric Perspective on Stabilizing Value Conflict Resolution](https://arxiv.org/abs/2607.17946) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-15 | [RENEW: Towards Learning World Models and Repairing Model Exploitation from Preferences](https://arxiv.org/abs/2607.14180) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-09 | [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://arxiv.org/abs/2607.08768) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-09 | [Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning](https://arxiv.org/abs/2607.08647) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-09 | [Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles](https://arxiv.org/abs/2607.08373) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-07 | [D2PO: Optimizing Diffusion Samplers via Dynamic Preference](https://arxiv.org/abs/2607.06609) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-03 | [Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making](https://arxiv.org/abs/2607.03025) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-01 | [Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm](https://arxiv.org/abs/2607.00926) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-01 | [Multi-Turn Agentic Scientific Literature Search via Workflow Induction](https://arxiv.org/abs/2607.00597) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-29 | [BridgeAlign: Bridging Preference Alignment for Humanities and Social Sciences](https://arxiv.org/abs/2607.27366) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-29 | [SDO: Structure-Aware Data Organization for Efficient LLM Post-Training](https://arxiv.org/abs/2607.27273) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-27 | [Less Data, Better Alignment: Data-Centric Multi-Evaluator Agreement for Preference Optimization](https://arxiv.org/abs/2607.25136) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-26 | [JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents](https://arxiv.org/abs/2607.23588) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-25 | [LARA: Lightweight Adapters in the Residual Stream for Composable Adaptation and Alignment](https://arxiv.org/abs/2607.28669) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-22 | [Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering](https://arxiv.org/abs/2607.20253) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-22 | [EvoThink: Evolving Thinking in Large Reasoning Models via Self-Pruning and Aha-Moment Preference Optimization](https://arxiv.org/abs/2607.19962) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-21 | [Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs](https://arxiv.org/abs/2607.19243) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-07 | [DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail](https://arxiv.org/abs/2607.06326) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-05 | [Spinning Straw into Gold: Relabeling LLM Agent Trajectories in Hindsight for Successful Demonstrations](https://arxiv.org/abs/2607.04235) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-03 | [PORTS: Preference-Optimized Retrievers for Tool Selection with Large Language Models](https://arxiv.org/abs/2607.05441) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [DRIFTLENS: Measuring Memory-Induced Reasoning Drift in Personalized Language Models](https://arxiv.org/abs/2607.02374) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [Distributionally Robust Listwise Preference Optimization](https://arxiv.org/abs/2607.01715) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-01 | [Multi-Objective Exploration and Preference Optimization via Mutual Information](https://arxiv.org/abs/2607.01392) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-01 | [CAT: Confidence-Adaptive Thinking for Efficient Reasoning of Large Reasoning Models](https://arxiv.org/abs/2607.00862) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-01 | [Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization](https://arxiv.org/abs/2607.00622) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-22 | [How Fast Can Reward Models Score? A Systems Study of C++ and PyTorch Inference Runtimes for RLHF](https://arxiv.org/abs/2607.19712) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [KeySI: An Interaction Framework for Tuning Text Embeddings Based on Human Feedback](https://arxiv.org/abs/2607.20556) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-16 | [Does Multi-Agent Debate Improve AI Feedback on Research Papers?](https://arxiv.org/abs/2607.14713) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [The Dynamic Verifiable Multi-Agent Human Agentic Loyalty Loop (DVM-HALL) Model and the Net Human-Agent Score (NHAS) in Autonomous Commerce](https://arxiv.org/abs/2607.13998) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-10 | [ProofCouncil: An LLM Agent for Solving Open Mathematical Problems](https://arxiv.org/abs/2607.09474) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-10 | [Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems](https://arxiv.org/abs/2607.09025) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-02 | [Out-of-Distribution Generalization of Risk Aversion in Language Models](https://arxiv.org/abs/2607.02755) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-01 | [RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules](https://arxiv.org/abs/2607.01293) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-21 | [ISO: An RLVR-Native Optimization Stack](https://arxiv.org/abs/2607.19331) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-07-06 | [Weak-to-Strong Generalization via Direct On-Policy Distillation](https://arxiv.org/abs/2607.05394) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-07-06 | [KAT-Coder-V2.5 Technical Report](https://arxiv.org/abs/2607.05471) | arxiv-monthly-backfill | 18 | `needs-review` |
+| 2026-07-30 | [Contrastive Reinforced Policy Optimization via Privileged Self-Distillation](https://arxiv.org/abs/2607.28026) | arxiv-monthly-backfill | 16 | `needs-review` |
+| 2026-07-31 | [SAF-OPD: Stable Advantage Fusion for On-Policy Distillation](https://arxiv.org/abs/2607.29209) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-30 | [Not All Tokens Deserve Equal Credit: Counterfactual Sensitivity Credit Reallocation for Long-CoT Reasoning](https://arxiv.org/abs/2607.27888) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-28 | [CAST: Game Solvers as Turn-Level Teachers for LLM Agents](https://arxiv.org/abs/2607.25308) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-16 | [Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization](https://arxiv.org/abs/2607.14614) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-12 | [When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion](https://arxiv.org/abs/2607.20543) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-01 | [H-OPD: Confidence Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation](https://arxiv.org/abs/2607.02592) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-30 | [Group-Reflective Self-Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.28076) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-07-11 | [Reinforcement Learning with Verifiable Physics: Post-training LLMs with Continuous Rewards](https://arxiv.org/abs/2607.10474) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-07-30 | [Flux-OPD: On-Policy Distillation with Evolving Contexts](https://arxiv.org/abs/2607.28022) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-29 | [Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-15 | [LOTAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning](https://arxiv.org/abs/2607.13501) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-03 | [Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG](https://arxiv.org/abs/2607.02966) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-16 | [Non-vacuous Generalization Bounds for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2607.14506) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-07-04 | [Reward-Gated On-Policy Distillation](https://arxiv.org/abs/2607.04037) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-07-03 | [Incentivizing Vision Language Models to Search for Long Video Question Answering](https://arxiv.org/abs/2607.02959) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-07-24 | [Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning](https://arxiv.org/abs/2607.21971) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-22 | [Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning](https://arxiv.org/abs/2607.19790) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-21 | [The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation](https://arxiv.org/abs/2607.19226) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-14 | [ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability](https://arxiv.org/abs/2607.14145) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-08 | [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.07508) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-31 | [Evaluation-Verification Reward for Consistent Multi-Reference Image Editing](https://arxiv.org/abs/2607.29025) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-30 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://arxiv.org/abs/2607.28609) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-21 | [AdaFlash: Adaptive Speculative Decoding via On-Policy Distilled Diffusion Drafters](https://arxiv.org/abs/2607.19223) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-14 | [Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control](https://arxiv.org/abs/2607.12856) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-11 | [LLMs as a Jury: Cross-Model Consensus Can Outperform Process Reward Models for LLM Reasoning](https://arxiv.org/abs/2607.10139) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-08 | [Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning](https://arxiv.org/abs/2607.07690) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-03 | [Reward Granularity in RLVR: Comparing Process and Outcome Reward Structures for Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2607.02869) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-02 | [Many Voices, One Reward: Multi-Role Rubric Generation for LLM Judging and Reward Modeling](https://arxiv.org/abs/2607.01830) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-01 | [Procedural Memory Distillation: Online Reflection for Self-Improving Language Models](https://arxiv.org/abs/2607.01480) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-01 | [ESC: Emotional Self-Correction for Reliable Vision-Language Models](https://arxiv.org/abs/2607.02089) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-23 | [X$^3$-OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment](https://arxiv.org/abs/2607.21550) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-22 | [Audio-Zero: Label-Free Self-Evolution for Fine-Grained Audio Reasoning](https://arxiv.org/abs/2607.20166) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-15 | [SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning](https://arxiv.org/abs/2607.13931) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-09 | [Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution](https://arxiv.org/abs/2607.08700) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-05 | [Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models](https://arxiv.org/abs/2607.04461) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-30 | [Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering](https://arxiv.org/abs/2607.28568) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-28 | [LaP-Forensics: Latent-Pixel Consistency Guided Multimodal Reasoning for Deepfake Detection](https://arxiv.org/abs/2607.25962) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-26 | [Learning Sampling Parameters for Diffusion Models](https://arxiv.org/abs/2607.23488) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-23 | [Multi-turn RL with Structural and Performance Aware Rewards for CUDA Kernel Generation](https://arxiv.org/abs/2607.20908) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-22 | [Co-Evolving LLM Evaluators and Policies via DynamicRubric](https://arxiv.org/abs/2607.20083) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-19 | [LenGuard-GPC: Length Guarding with Guided-Prompt Consistency for Spatial Reasoning Reinforce Learning](https://arxiv.org/abs/2607.17243) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-14 | [A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism](https://arxiv.org/abs/2607.12640) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-13 | [Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://arxiv.org/abs/2607.11886) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-13 | [From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence](https://arxiv.org/abs/2607.11689) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-07 | [SearchEyes: Towards Frontier Multimodal Deep Search Intelligence via Search World Simulation](https://arxiv.org/abs/2607.05943) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-06 | [On the Role of Citations in Preference Data](https://arxiv.org/abs/2608.21376) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-06 | [LLM-as-a-Verifier: A General-Purpose Verification Framework](https://arxiv.org/abs/2607.05391) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-02 | [DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation](https://arxiv.org/abs/2607.02220) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-01 | [VLM-AR3L: Vision-Language Models for Absolute and Relative Rewards in Reinforcement Learning](https://arxiv.org/abs/2607.00483) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-31 | [Cross-Benchmark Generalization in Long-Horizon Agents](https://arxiv.org/abs/2608.00181) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-31 | [DarwinX: Evolving Agent Harnesses Through Natural Selection](https://arxiv.org/abs/2608.07545) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [SVR: Self-Verifying Refinement via Joint Verdict-Confidence Reinforcement Learning for Adaptive Test-Time Compute](https://arxiv.org/abs/2607.28457) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [LEEPS: Latent-Guided Explore-Exploit Prompt Sampling for Efficient RLVR in Large Language Models](https://arxiv.org/abs/2607.28077) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [Beyond Binary Rewards: A Comparative Study of Reward Design for Reinforcement Unlearning](https://arxiv.org/abs/2607.27968) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [LoRA Scaffolded Policy Optimization (LSPO): A Sampling-Time Low-Rank Scaffold for Recovering Reinforcement-Learning Gradient on Zero-Reward Cliff Prompts](https://arxiv.org/abs/2607.27787) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-29 | [DHRCL:Training Code LLMs with Dense Hierarchical Rewards and Curriculum Learning](https://arxiv.org/abs/2607.26457) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-28 | [Early Verdicts, Better Budgets: Sequential Adaptive Rollout Allocation for Compute-Efficient RLVR](https://arxiv.org/abs/2607.26253) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-27 | [DS@GT ARC at CheckThat! 2026: LLM-Based Trace Ranking and Grouped Reward Modeling for Multilingual Numerical Claim Verification](https://arxiv.org/abs/2607.25069) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-27 | [RP-OPSD: Resolution-Privileged On-Policy Self-Distillation for Multimodal Large Language Models](https://arxiv.org/abs/2607.24447) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-23 | [AdaKP: Online Adaptive Knowledge-Point Selection for Reasoning-Oriented Reinforcement Learning](https://arxiv.org/abs/2607.24833) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-22 | [Rewarding Better Thinking for LLM Preference Alignment](https://arxiv.org/abs/2607.19824) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-22 | [SLPO: Scaling Latent Reasoning via a Surrogate Policy](https://arxiv.org/abs/2607.19691) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-21 | [Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information](https://arxiv.org/abs/2607.19313) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-21 | [H$^2$SD: Hybrid Hindsight Self-Distillation](https://arxiv.org/abs/2607.18955) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-20 | [LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks](https://arxiv.org/abs/2607.18110) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-20 | [Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-15 | [Where Should RL Post-Training Compute Go? Model Size, Search, Learning, and Feedback](https://arxiv.org/abs/2607.13389) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-14 | [DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-14 | [EVOQUANT: Self-Evolving Verifier-Guided Strategy Optimization for Robust Quantitative Trading](https://arxiv.org/abs/2607.12455) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-14 | [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-14 | [Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture](https://arxiv.org/abs/2607.12254) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-13 | [SCOPE-RL: Optimizing Reasoning Paths Before and After Success](https://arxiv.org/abs/2607.11506) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-13 | [SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL](https://arxiv.org/abs/2607.11185) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-10 | [Multimodal Reward Hacking in Reinforcement Learning](https://arxiv.org/abs/2607.09492) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-10 | [KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling](https://arxiv.org/abs/2607.09153) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-09 | [Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation](https://arxiv.org/abs/2607.08255) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-07 | [When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning](https://arxiv.org/abs/2607.06720) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-07 | [Progressive Reasoning with Primitive Correction for Compositional Zero-Shot Learning](https://arxiv.org/abs/2607.05911) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-07 | [Strategic Bargaining in Multi-Buyer Markets: Reinforcement Learning from Verifiable Rewards for LLM Negotiations](https://arxiv.org/abs/2607.05863) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-07 | [Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning](https://arxiv.org/abs/2607.05773) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-06 | [RSPO: Reward-Swap Policy Optimization for Multi-Turn LLM Agents](https://arxiv.org/abs/2607.04713) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-05 | [Forethought: Verifiable Reasoning from Neurosymbolic Primitive Programming](https://arxiv.org/abs/2607.04096) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-03 | [Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models](https://arxiv.org/abs/2607.02983) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-02 | [DecompRL: Solving Harder Problems by Learning Modular Code Generation](https://arxiv.org/abs/2607.02390) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-02 | [Rank-Then-Act: Reward-Free Control from Frame-Order Progress](https://arxiv.org/abs/2607.01897) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-01 | [Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows](https://arxiv.org/abs/2607.01465) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-01 | [PAPA: Online Personalized Active Preference Alignment](https://arxiv.org/abs/2607.00486) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [From Scoring to Acting: Outcome-Verified Comparative Self-Distillation for LLM Agents](https://arxiv.org/abs/2607.27937) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-29 | [SERPO: Self-Evolving Rubric Policy Optimization for Open-Ended Test-Time Reinforcement Learning](https://arxiv.org/abs/2607.26873) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-23 | [Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-21 | [Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency](https://arxiv.org/abs/2607.19194) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-21 | [Fishing Out Free Riders: Shapley-Based Reward Attribution for Parallel Reasoning via Reinforcement Learning](https://arxiv.org/abs/2607.18979) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-18 | [PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution](https://arxiv.org/abs/2607.16636) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-14 | [Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models](https://arxiv.org/abs/2607.13172) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-13 | [SVR-R1: Bootstrapping Multi-modal Reasoning with Self-verification in Reinforcement Learning](https://arxiv.org/abs/2607.10966) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-12 | [SETA: Scaling Environments for Terminal Agents](https://arxiv.org/abs/2607.10891) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-06 | [Claim-Level Rubric Rewards for Video Caption Reinforcement Learning](https://arxiv.org/abs/2607.05150) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-06 | [TimeThink: Reasoning with Time for Video LLMs](https://arxiv.org/abs/2607.05089) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-05 | [Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning](https://arxiv.org/abs/2607.05458) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-03 | [Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG](https://arxiv.org/abs/2607.05438) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-01 | [FaithMed: Training LLMs For Faithful Evidence-Based Medical Reasoning](https://arxiv.org/abs/2607.01440) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-31 | [Scaling Scientific Discovery Environments for Turn-Level Agentic RL](https://arxiv.org/abs/2607.28990) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-30 | [To Add Is Machine, To Delete Is Human: Measuring and Mitigating Deletion Avoidance in LLM Code Editing](https://arxiv.org/abs/2607.28887) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-30 | [EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses](https://arxiv.org/abs/2607.28788) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-30 | [Hallucinations Leave a Grounding Signature:Verifier-Guided Decoding for Selective Object Correction](https://arxiv.org/abs/2607.27823) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-30 | [Witness Evidence Portfolios: Single-Prefill Risk Detection for Closed Multimodal Answers](https://arxiv.org/abs/2607.27667) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-29 | [From Pixels to PCells: A Neurosymbolic Approach to Photonic Component Creation](https://arxiv.org/abs/2608.00084) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-29 | [From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence](https://arxiv.org/abs/2607.26903) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-29 | [PhysAgent: A Multi-Agent Framework for Reliable Remote Heart Rate Estimation](https://arxiv.org/abs/2608.00066) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-25 | [CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion](https://arxiv.org/abs/2607.23159) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-23 | [Best-of-Evidence: Best-of-N Selection under Partial Verification](https://arxiv.org/abs/2607.20950) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-22 | [SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD](https://arxiv.org/abs/2607.20145) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-17 | [Neuro-Symbolic AI for LEED compliance: Document-Centric Benchmarking, Deterministic Numeric Checking, and When Multimodal Hurts](https://arxiv.org/abs/2607.15647) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-14 | [FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation](https://arxiv.org/abs/2607.12982) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-14 | [Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models](https://arxiv.org/abs/2607.12463) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-14 | [Accepted Prefixes Are Not All You Need: A Negative Result on PEFT-Based Block-Diffusion Drafting](https://arxiv.org/abs/2607.12422) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-13 | [StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure](https://arxiv.org/abs/2607.11388) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-13 | [TIGER: Text-Conditioned Visual Gated Routing with Acceptance Alignment for Multimodal Speculative Decoding](https://arxiv.org/abs/2607.11131) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-09 | [DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding](https://arxiv.org/abs/2607.08642) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-07 | [EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents](https://arxiv.org/abs/2607.09773) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-06 | [Hierarchical Evidence-Driven Reasoning for Long Document Understanding](https://arxiv.org/abs/2607.04625) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-04 | [Reward Lightning: Fast Video Generation via Homologous Preference Distillation](https://arxiv.org/abs/2607.03960) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-04 | [NormWorlds-CF: Solver-Verified Counterfactual Normative Reasoning with Metamorphic-Relation GRPO](https://arxiv.org/abs/2607.03957) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-03 | [SafeGuard: A Multi-Agent Perception-Reasoning Framework for Social-Risk AI-Generated Video Detection](https://arxiv.org/abs/2607.03069) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification](https://arxiv.org/abs/2607.01793) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows](https://arxiv.org/abs/2607.01709) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-01 | [Right in the Right Way: LM Training with Verifiable Rewards and Human Demonstrations](https://arxiv.org/abs/2607.01181) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-31 | [Personalizing Large Language Model Agents with Small Policy Models](https://arxiv.org/abs/2608.00215) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-31 | [Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast](https://arxiv.org/abs/2608.06400) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-31 | [MolGVR: A Chemistry-Grounded Framework for Text-to-Molecule Generation](https://arxiv.org/abs/2607.29479) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-31 | [MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows](https://arxiv.org/abs/2608.02642) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-31 | [Instruction Stacking Collapse: A Benchmark and the Capability-Dependent Value of Prompt Compilation](https://arxiv.org/abs/2608.02639) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-31 | [Adjudicated Captioning: Multi-Agent Alignment Scoring and Consensus-Distilled Beam Arbitration for Strict Zero-Shot Image Captioning](https://arxiv.org/abs/2607.28986) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth](https://arxiv.org/abs/2607.28890) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [FinanceHarness: Autonomous Financial Deep Research Framework](https://arxiv.org/abs/2607.27853) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [Hierarchical Latent Reasoning for LLM-based Recommendation](https://arxiv.org/abs/2607.27760) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [Albilich: Steerable Proof-State Orchestration for LLM-Based Mathematical Research with CAS Integration](https://arxiv.org/abs/2607.27705) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-29 | [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://arxiv.org/abs/2607.27155) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-29 | [A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities](https://arxiv.org/abs/2607.26819) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-29 | [Beyond KV Reconstruction: Functional Reconstruction for MLA Draft Models in Speculative Decoding](https://arxiv.org/abs/2607.27269) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-28 | [A Reference-Free Score for Detecting Silent Reasoning Failures in Large Language Models](https://arxiv.org/abs/2607.26102) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-27 | [D-Score: A Spectral Hidden-State Signal for Hallucination Detection in Large Language Models](https://arxiv.org/abs/2607.24586) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-27 | [What do Reward Models Memorize?](https://arxiv.org/abs/2607.24484) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-26 | [DualityCert: Verifier-Gated Language-Model Repair of Broken Duality Claims in Quantum Field Theory](https://arxiv.org/abs/2607.23614) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-25 | [Reason Popper-ly: Patching In-Context Reasoning with Inductive Logic Programming](https://arxiv.org/abs/2607.23019) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-24 | [Ground Truth First: A Longitudinal Evaluation Instrument for Agent Memory, and the Tenure Crossover in Memory-Architecture Rankings](https://arxiv.org/abs/2607.21962) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [Adversarial Prompts for Acceptance Collapse in Speculative Decoding](https://arxiv.org/abs/2607.21804) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks](https://arxiv.org/abs/2607.21763) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [Agree on the Model, Verify the Inference: GKR Protocols for HND-Based Transformer Inference](https://arxiv.org/abs/2607.21162) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [CSPF: A Constrained Shared-Private Fusion Method for Non-Verifiable Preference Evaluation](https://arxiv.org/abs/2607.20862) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [Code Monitor Red Teaming for Public-Test-Passing Code](https://arxiv.org/abs/2607.20852) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-22 | [Learning to Detect UI Principle Violations via Reinforcement Learning](https://arxiv.org/abs/2607.20690) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-22 | [Progress Reward Modeling for Robotic Learning: A Comprehensive Survey](https://arxiv.org/abs/2607.21655) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-22 | [PIER: Physics-Informed Environmental Retrieval for Time-Series Modeling](https://arxiv.org/abs/2607.20230) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-22 | [Reference-Free Evaluation of Reasoning in Open-Ended Question Answering](https://arxiv.org/abs/2607.19678) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-22 | [PerfAgent: Profiler-Guided Iterative Refinement for Repository-Level Code Optimization](https://arxiv.org/abs/2607.19653) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-22 | [Anatomy of a Sound Neural Reasoner: One-Shot Amortization, First-Pass Poisoning, and Search Inertness in Clue-Rich Completion](https://arxiv.org/abs/2607.19635) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-21 | [They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface](https://arxiv.org/abs/2607.19267) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-21 | [CR-Refiner: An Object-Centric Optimal Transport Reranker for Edit-Conditioned 3D Scene Retrieval](https://arxiv.org/abs/2607.19115) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems](https://arxiv.org/abs/2607.19430) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design](https://arxiv.org/abs/2607.18181) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [HALLMARK: Diagnosing Three Failure Modes in LLM Citation Verifiers](https://arxiv.org/abs/2607.18360) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [Verify, Repair, Repeat, or Stop? Robust Stopping for Noisy Verify-Repair Loops in LLM Agents](https://arxiv.org/abs/2607.17641) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [Salience Induction against Multi-Hop RAG Agents: Threat and Defense](https://arxiv.org/abs/2607.17535) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [Oracle Gap and Signal Fidelity: A Fixed-Pool Diagnostic for Test-Time Collaboration](https://arxiv.org/abs/2607.17531) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-19 | [Grounded verification of chemical and materials reasoning: detection is the bottleneck](https://arxiv.org/abs/2607.17417) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-19 | [Self-Modifying Lean Proof Agents with Verifier-Grounded Benchmark Coevolution](https://arxiv.org/abs/2607.17352) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-19 | [OTAP: Structure-Aware Optimal Transport for Evaluating Planning and Execution in Agent Trajectories](https://arxiv.org/abs/2607.17082) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-19 | [Where Does Agent Reliability Come From? A Cross-Benchmark Decomposition of Verification Loops, Specialist Models, and Scaffolding in a Production Enterprise Agent](https://arxiv.org/abs/2607.17044) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-18 | [A Method for Learning Value Systems in Generative AI](https://arxiv.org/abs/2607.16903) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-18 | [SpecLA: Efficient Speculative Decoding for Linear-Attention Models](https://arxiv.org/abs/2607.16673) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [Binding Drift in Multi-Step Tool-Augmented Agents](https://arxiv.org/abs/2607.18316) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [Fantastic Adaptive Taxonomies and How to Use Them](https://arxiv.org/abs/2607.16387) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [Distribution-First Population Simulation: Collapse, Calibration, and Recall in Non-WEIRD LLM Persona Modeling](https://arxiv.org/abs/2607.18310) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [From Feasibility to Desirability: Plan, Learn, Adapt (PLA) Framework for Personalized On-Device Itinerary Generation](https://arxiv.org/abs/2607.15552) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-16 | [Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning](https://arxiv.org/abs/2607.15388) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-16 | [Lower-Resource, Higher Scores: Language Bias in LLM Evaluators](https://arxiv.org/abs/2607.14480) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling](https://arxiv.org/abs/2607.15313) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [Random Parameter Noise Does Not Make Exact ReLU Verification Easy](https://arxiv.org/abs/2607.14375) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [Partially Correlated Verifier Cascades in LLM Harnesses: Concave Log-Odds, Polynomial Reliability, and Blind-Spot Ceilings](https://arxiv.org/abs/2607.13918) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [Verifying formulas for interventional distributions](https://arxiv.org/abs/2607.13883) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System](https://arxiv.org/abs/2607.14178) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling](https://arxiv.org/abs/2607.13558) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [The Café in Amsterdam: When the Incumbent Becomes the Oracle](https://arxiv.org/abs/2607.13393) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-14 | [UniVR: Thinking in Visual Space for Unified Visual Reasoning](https://arxiv.org/abs/2607.12800) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-14 | [Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences](https://arxiv.org/abs/2607.12466) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration](https://arxiv.org/abs/2607.12058) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [Verifier-Guided Twelve-Tone Composition: A Generate-Verify-Repair Harness for Symbolic Music Generation](https://arxiv.org/abs/2607.11334) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [ASUMOT: Motion-Consistency-Based Asynchronous UAV Detection and Tracking with Event Cameras](https://arxiv.org/abs/2607.11303) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [TreeThink: A Modular Tree Search Library for Mathematical Reasoning with LLMs](https://arxiv.org/abs/2607.11258) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [Optimization Is Not All You Need](https://arxiv.org/abs/2607.11977) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [When the Reward Suite Is Leaky: A Preregistered Causal Contrast of Natural Verifier False Positives in RLVR](https://arxiv.org/abs/2607.11022) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-12 | [STEC: Evidence Compression for Deep Search in Open-domain Multi-Hop QA](https://arxiv.org/abs/2607.10795) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-11 | [Mirror Horizon: Viable Path Entropy as a Measure of Bounded Reflection](https://arxiv.org/abs/2607.11937) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-11 | [Dynamic Agent Skills: A Lifecycle Survey and Taxonomy of Evolving Skill Libraries](https://arxiv.org/abs/2607.10113) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-10 | [Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI](https://arxiv.org/abs/2607.09560) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-10 | [Evaluating and Guarding Citation Faithfulness in Agentic Scientific Synthesis](https://arxiv.org/abs/2607.20527) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-09 | [Spectral Origins of the Self-Correction Blind Spot in Autoregressive Generation](https://arxiv.org/abs/2607.09803) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-09 | [Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models](https://arxiv.org/abs/2607.08665) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-09 | [Detecting Ladder Logic Bombs in IEC 61131-3 PLC Programs using ESBMC-PLC+: A Formal Verification Approach with Trigger Synthesis](https://arxiv.org/abs/2607.08417) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-08 | [DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks](https://arxiv.org/abs/2607.07946) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-08 | [Infinity-Parser2 Technical Report](https://arxiv.org/abs/2607.07836) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-08 | [The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in Self-Evolving Agents](https://arxiv.org/abs/2607.07436) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-08 | [MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning](https://arxiv.org/abs/2607.07391) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-07 | [What Predicts Correctness in Text-to-SQL? A Selective-Prediction Study](https://arxiv.org/abs/2607.06799) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-07 | [Pitwall: Faithful Natural-Language Race-Strategy Briefings from a Calibrated Real-Time Monte Carlo Engine](https://arxiv.org/abs/2607.06495) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-07 | [Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory](https://arxiv.org/abs/2607.06447) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-06 | [A Coin Flip Per Token: Bernoulli Sparse Steering of Large Language Models](https://arxiv.org/abs/2607.05615) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-06 | [Selective Disclosure Watermarking for Large Language Models](https://arxiv.org/abs/2607.05353) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-06 | [Reason, Reward, Refine: Step-Level Errors Corrections with Structured Feedback for Physics Reasoning in Small Language Models](https://arxiv.org/abs/2607.05199) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-06 | [SPL: Orchestrating Workflows with Declarative Deterministic-Probabilistic Composition](https://arxiv.org/abs/2607.07727) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-04 | [CogRad: A Cognitively-Inspired Multi-Agent Framework for Radiology Report Generation](https://arxiv.org/abs/2607.03853) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-04 | [AutoCedar: An Agentic Framework for Verifier-Guided Access Control Policy Synthesis](https://arxiv.org/abs/2607.03656) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-03 | [Replicating Belief, Not Bits: Epistemic State Replication for Agentic Systems](https://arxiv.org/abs/2607.09748) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-03 | [How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://arxiv.org/abs/2607.03561) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-03 | [Best-of-Better-$N$: Generating Pre-Aligned Responses with In-Context Learning](https://arxiv.org/abs/2607.03453) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-03 | [Dynamic Regret for Non-Stationary Linear Bandits via Misspecification Reductions](https://arxiv.org/abs/2607.02891) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-02 | [Safe Inference-Time Alignment via Lagrangian Reward Augmentation](https://arxiv.org/abs/2607.02781) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-02 | [Online Safety Monitoring for LLMs](https://arxiv.org/abs/2607.02510) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-02 | [Spec-AUF: Accept-Until-Fail Training under Train-Inference Misalignment for Masked Block Drafters](https://arxiv.org/abs/2607.01893) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-02 | [SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use](https://arxiv.org/abs/2607.01874) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-01 | [Self-Evolving Agents with Anytime-Valid Certificates](https://arxiv.org/abs/2607.00871) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-01 | [Dynamic Bidirectional Pattern Memory: A Production-Scale Empirical Characterisation of Inference-Time Gating in Clinical NLP](https://arxiv.org/abs/2607.00870) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-01 | [A Task-State Representation for Long-Horizon Mobile GUI Agents](https://arxiv.org/abs/2607.00502) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-01 | [DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving](https://arxiv.org/abs/2607.00399) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-10 | [Mach-Mind-4-Flash Technical Report](https://arxiv.org/abs/2607.09375) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-27 | [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](https://arxiv.org/abs/2607.24720) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-07-02 | [Denser $\neq$ Better: Limits of On-Policy Self-Distillation for Continual Post-Training](https://arxiv.org/abs/2607.01763) | arxiv-monthly-backfill | 11 | `needs-review` |
+| 2026-07-30 | [$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](https://arxiv.org/abs/2607.28582) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-24 | [Deconstructing Off-Policy Ratios: Entropy-Scaled Trust Regions for Asynchronous Reinforcement Learning](https://arxiv.org/abs/2607.22186) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-16 | [A Continuous-Time Reinforcement Learning Framework for Fine-Tuning Discrete Diffusion Models](https://arxiv.org/abs/2607.14522) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-09 | [Switch-Reasoner: Learn When to Think in Multitask Mixtures via Reinforcement Learning](https://arxiv.org/abs/2607.08572) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-31 | [Don't Mix Rewards, Mix Policies: Policy Decomposition and Optimization for Multi-Reward RL](https://arxiv.org/abs/2607.29246) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [TAPO: Transition-Aware Policy Optimization for LLM Agents](https://arxiv.org/abs/2607.27973) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-29 | [ReCo: Reweighting GRPO Against Distributional Concentration](https://arxiv.org/abs/2607.26862) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-27 | [Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet](https://arxiv.org/abs/2608.11226) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-23 | [PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21419) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-08 | [RLVP: Penalize the Path, Reward the Outcome](https://arxiv.org/abs/2607.07435) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-08 | [Entropy Pacing Policy Optimization for Multi-Task Agentic Reinforcement Learning](https://arxiv.org/abs/2607.07178) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-05 | [Progress- and Reliability-Oriented Group Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.04242) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-01 | [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](https://arxiv.org/abs/2607.01232) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-06 | [Self-Review Reinforcement Learning (SRRL) with Cross-Episode Memory and Policy Distillation](https://arxiv.org/abs/2607.05541) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-06 | [STAPO: Selective Trajectory-Aware Policy Optimization for LLM Agent Training](https://arxiv.org/abs/2607.04963) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-03 | [CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training](https://arxiv.org/abs/2607.02998) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-02 | [DemoPSD: Disagreement-Modulated Policy Self-Distillation](https://arxiv.org/abs/2607.02502) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-19 | [AIGB-R1: Self-Evolving Generative Auto-Bidding via Hierarchical Planner-Executor Optimization](https://arxiv.org/abs/2607.17281) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-08 | [UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma](https://arxiv.org/abs/2607.06987) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-03 | [VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning](https://arxiv.org/abs/2607.02927) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-01 | [Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning](https://arxiv.org/abs/2607.01191) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-25 | [Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning](https://arxiv.org/abs/2607.22996) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-24 | [LayoutLite: Token-Level Implicit Layout Analysis for Efficient Document OCR](https://arxiv.org/abs/2607.22200) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [Be Consistent! Enhancing Robust Visual Reasoning in LVLMs with Consistency Constraints](https://arxiv.org/abs/2607.21722) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization](https://arxiv.org/abs/2607.21013) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [JAGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models](https://arxiv.org/abs/2607.17572) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [Reinforcement Learning: From Algorithms To Foundation Models](https://arxiv.org/abs/2607.17560) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-16 | [Reasoning-Guided Part-Level Visual Grounding via Reinforcement Learning](https://arxiv.org/abs/2607.15374) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [SD-MAR: Multi-image Analytical Reasoning via Synthetic Data and Reinforcement Learning](https://arxiv.org/abs/2607.14333) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [Actor as Its Own Critic: Unifying Region Understanding and Localization via CycleGRPO](https://arxiv.org/abs/2607.11581) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-07 | [Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn LLM Agents](https://arxiv.org/abs/2607.06223) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-03 | [From Trajectories to Prefixes: Reusing Teacher Trajectories via Replayed Prefixes and Online Continuation](https://arxiv.org/abs/2607.19395) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [SMOPD: Selective Token-Entropy Masking for Dirty-History Multi-Turn On-Policy Self-Distillation](https://arxiv.org/abs/2608.14647) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-21 | [Contrastive On-Policy Distillation](https://arxiv.org/abs/2607.19046) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-19 | [Distilled Reinforcement Learning for LLM Post-training](https://arxiv.org/abs/2607.17247) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-14 | [Med-OPD: Improving Medical Vision-Language Models via Evidence-Aware On-Policy Distillation](https://arxiv.org/abs/2607.16303) | arxiv-monthly-backfill | 14 | `needs-review` |
+| 2026-07-23 | [OPOD: On-Policy Omni Distillation](https://arxiv.org/abs/2607.20918) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-07-17 | [Better Starts, Better Ends: Bootstrapped Iterative Self-Reasoning Distillation for Compressed Reasoning](https://arxiv.org/abs/2607.15736) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-07-13 | [EasyOPD: An Easy-to-use On-Policy Distillation Framework for Large Language Models](https://arxiv.org/abs/2607.11012) | arxiv-monthly-backfill | 13 | `needs-review` |
+| 2026-07-27 | [FlowCTS: On-policy Continuous Trajectory Supervision of Flow Models](https://arxiv.org/abs/2607.24522) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-13 | [Proxy OPD: On-Policy Distillation with Transferable Relative Proxy Update](https://arxiv.org/abs/2607.11505) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-07 | [Geometric Self-Distillation for Reasoning Generalization](https://arxiv.org/abs/2607.06855) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-05 | [UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents](https://arxiv.org/abs/2607.04425) | arxiv-monthly-backfill | 12 | `needs-review` |
+| 2026-07-30 | [Beyond the Best Teacher: Expanding and Compressing the Reasoning Solution Manifold](https://arxiv.org/abs/2607.27770) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-09 | [OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/abs/2607.08766) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-07-31 | [DASH-OPD: Discrepancy-Aware Switching with Hysteresis for On-Policy Distillation](https://arxiv.org/abs/2607.29078) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-30 | [VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation](https://arxiv.org/abs/2607.28590) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-30 | [Correcting What You Cannot See: Credit Assignment for Perception Distillation in Multimodal Reasoners](https://arxiv.org/abs/2607.28336) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-27 | [Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation](https://arxiv.org/abs/2607.24731) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-12 | [Diagnosing and Mitigating Thinking Collapse in On-Policy Self-Distillation](https://arxiv.org/abs/2607.10805) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-10 | [MOSAIC: Adaptive Inter-layer Composition for Efficient Heterogeneous Vision-Language Models](https://arxiv.org/abs/2607.09029) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-06 | [Unified Audio Intelligence Without Regressing on Text Intelligence](https://arxiv.org/abs/2607.05196) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-06 | [Multi-Turn On-Policy Distillation with Prefix Replay](https://arxiv.org/abs/2607.04763) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-01 | [Diffusion-GR2: Diffusion Generative Reasoning Re-ranker](https://arxiv.org/abs/2607.01170) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-07-31 | [MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation](https://arxiv.org/abs/2607.29320) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-29 | [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](https://arxiv.org/abs/2607.27081) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-28 | [Weak-to-Strong On-Policy Distillation](https://arxiv.org/abs/2607.26246) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-28 | [Pass the Baton: Trajectory-Relayed On-Policy Distillation](https://arxiv.org/abs/2607.26057) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-26 | [Outcome-Confounded Local Supervision in On-Policy Distillation](https://arxiv.org/abs/2607.23731) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-24 | [Cross-Tokenizer On-Policy Distillation via Byte-Prefix Marginalization](https://arxiv.org/abs/2607.22334) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-22 | [Solar Open 2 Technical Report](https://arxiv.org/abs/2607.20062) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-18 | [CADENCE: Closing the Reasoning Gap via Coverage-Adaptive On-Policy Distillation](https://arxiv.org/abs/2607.16955) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-14 | [ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation](https://arxiv.org/abs/2607.13124) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-08 | [When Top-K Misses the Decision: Tool-Call Drift in Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2607.07050) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-06 | [Trust Region Policy Distillation](https://arxiv.org/abs/2607.04751) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-21 | [OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation](https://arxiv.org/abs/2607.18850) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-03 | [Exp2VLA: Enabling Vision-Language-Action for Drone Navigation from Expert Demonstrations](https://arxiv.org/abs/2607.03146) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations](https://arxiv.org/abs/2607.28826) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-27 | [Explainable Reinforcement Learning via Physics-Aware Policy Distillation](https://arxiv.org/abs/2607.24672) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-20 | [CriPO: Enhancing Rubric-based RL via Self-Distillation](https://arxiv.org/abs/2607.18082) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-20 | [Why Does Feedback-Augmented Self-Distillation Fail to Improve Retrieval-Interleaved Search Agents?](https://arxiv.org/abs/2607.17558) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-02 | [Purified OPSD: On-Policy Self-Distillation Without Losing How to Think](https://arxiv.org/abs/2607.02234) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-16 | [Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers](https://arxiv.org/abs/2607.15456) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-10 | [CoDiMAD: Diffusion-Based Privileged Distillation for Communication-Free Multi-Robot Coordination](https://arxiv.org/abs/2607.09587) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-21 | [Knowledge-Centric Self-Improvement](https://arxiv.org/abs/2607.19592) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-06 | [Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning](https://arxiv.org/abs/2607.04681) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-30 | [When Unlearning Fails: Reliable Data Deletion under Post-Training in Agent Networks](https://arxiv.org/abs/2607.28829) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-20 | [FlowBlock: Wavefront-Parallel Decoding for Self-Correcting Diffusion Language Models](https://arxiv.org/abs/2607.17652) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-21 | [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](https://arxiv.org/abs/2607.19321) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-14 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](https://arxiv.org/abs/2607.13162) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-13 | [SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning](https://arxiv.org/abs/2607.12042) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-06 | [Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation](https://arxiv.org/abs/2607.05382) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-05 | [ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI](https://arxiv.org/abs/2607.04426) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning](https://arxiv.org/abs/2607.02490) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-30 | [MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems](https://arxiv.org/abs/2607.28527) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [Recursive Harness Self-Improvement](https://arxiv.org/abs/2607.15524) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-16 | [Optimal Self-Distillation for Rectified Flow via Linear Probing](https://arxiv.org/abs/2607.14947) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [CatalogAgent: A Supervisor-mediated Self-Learning System Enabling Context Engineering for GenAI Models](https://arxiv.org/abs/2607.14396) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [Cura 1T: Specialized Model for Agentic Healthcare](https://arxiv.org/abs/2607.15314) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-14 | [KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill](https://arxiv.org/abs/2607.12625) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-14 | [Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-14 | [AutoMem: A Text-Gradient Recursive Self-Improvement Framework for Automated Memory Architectures Search](https://arxiv.org/abs/2608.14621) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-11 | [Falsifiable Release Gates for Self-Improving Systems: Standing Invariants at Scale](https://arxiv.org/abs/2607.13070) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-06 | [MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution](https://arxiv.org/abs/2607.05297) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-05 | [Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement](https://arxiv.org/abs/2607.04277) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-03 | [No Time Like the Present: Agentic Test-Time Training for LLM Agents](https://arxiv.org/abs/2607.03441) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-26 | [Hybrid Advantage Estimation with Unified Critic for VLM Agentic Reinforcement Learning](https://arxiv.org/abs/2607.23605) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-22 | [Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21653) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-15 | [NexForge: Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs](https://arxiv.org/abs/2607.14186) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-15 | [Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning](https://arxiv.org/abs/2607.13818) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-29 | [SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution](https://arxiv.org/abs/2607.26784) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-27 | [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-21 | [InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal](https://arxiv.org/abs/2608.28612) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-17 | [Process Reward Informed Tree Rollout for Effective Multi-Turn RL](https://arxiv.org/abs/2607.15610) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-01 | [The Rollout Infrastructure Tax in Coding-Agent Reinforcement Learning](https://arxiv.org/abs/2607.01415) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation](https://arxiv.org/abs/2607.27967) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-02 | [CLAP: Closed-Loop Training, Evaluation, and Release Control for Domain Agent Post-training](https://arxiv.org/abs/2607.01846) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-31 | [CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding](https://arxiv.org/abs/2607.29637) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [Beacon: Knowing When and How to Perform Agentic Visual Reasoning](https://arxiv.org/abs/2607.28595) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments](https://arxiv.org/abs/2607.28591) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [Meta-Task: Turning Terminal Task Synthesis into a Terminal Task for Scalable Agent Training](https://arxiv.org/abs/2607.27929) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-27 | [EviBack: Search-Agent Reinforcement Learning via Evidence-Constrained Teacher Backoff](https://arxiv.org/abs/2607.23955) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [SPyCE: Skill-Policy Co-evolution for Multimodal Agents](https://arxiv.org/abs/2607.13854) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-07 | [Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-23 | [MIRROR: Learning from the Other View for Multi-Modal Reasoning](https://arxiv.org/abs/2607.21552) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-07-31 | [WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning](https://arxiv.org/abs/2607.29613) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-29 | [RLMM-Flow: A Flow-based Mobile Manipulation Framework with Latent-Space Reinforcement Learning](https://arxiv.org/abs/2607.26460) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-22 | [EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness](https://arxiv.org/abs/2607.19880) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-18 | [FUSAR-R1: A Large-Scale Reasoning Model for Intelligent Interpretation of SAR Images](https://arxiv.org/abs/2607.16819) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-14 | [Beyond SBDD: Geometric Deep Learning in Polypharmacology and Multi-target Drug Design](https://arxiv.org/abs/2607.20550) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-09 | [Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing](https://arxiv.org/abs/2607.08497) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-08 | [Expressivity and Statistical Trade-offs in Diffusion Policy Learning](https://arxiv.org/abs/2607.07967) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-04 | [Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process](https://arxiv.org/abs/2607.03748) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-30 | [One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting](https://arxiv.org/abs/2607.27902) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-29 | [CG-World: A Large-Scale World-State Dataset and Protocol for World Models](https://arxiv.org/abs/2607.26452) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-29 | [CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games](https://arxiv.org/abs/2607.26393) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-27 | [Data Pyramid for Embodied Manipulation: A Survey](https://arxiv.org/abs/2607.24744) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-26 | [Offline-Online Curriculum RL for Multimodal Reasoning](https://arxiv.org/abs/2607.23700) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-26 | [Token-Region Guided Cross-Attention Fusion for Multimodal Affect Interpretation](https://arxiv.org/abs/2607.23493) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-20 | [PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model](https://arxiv.org/abs/2607.17806) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-17 | [More with Less: a Large Scale Remote Sensing VLM with a Simple Recipe](https://arxiv.org/abs/2607.15942) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [Unified Hallucination Fuzzing for Multimodal Large Language Models](https://arxiv.org/abs/2608.07525) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-15 | [RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination](https://arxiv.org/abs/2607.14187) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-14 | [Risk-Aware Decision-Making for Autonomous Overtaking: A World Model-Based Mixture-of-Experts Framework](https://arxiv.org/abs/2609.00385) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [Towards Predictive, Aligned, and Scalable Robot Learning](https://arxiv.org/abs/2607.11270) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-13 | [Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies](https://arxiv.org/abs/2607.10991) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-11 | [VINE: Taming Generative Control Policies for Reinforcement Learning](https://arxiv.org/abs/2607.10369) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-09 | [HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales](https://arxiv.org/abs/2607.08705) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-08 | [Scalable and Trustworthy Earth Observation Foundation Models](https://arxiv.org/abs/2607.07758) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-05 | [Aura: Consistent Multi-Subject Video Generation via VLM-Grounded Semantic Alignment](https://arxiv.org/abs/2607.04311) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-03 | [Overloading Large Vision-Language Models for Jailbreaking](https://arxiv.org/abs/2607.02961) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-03 | [CLEAR: Closed-Loop Reinforcement Learning at Scale for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.02841) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-02 | [CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](https://arxiv.org/abs/2607.01721) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-02 | [Scaling with Confidence: Calibrating Confidence of LLMs for Adaptive Test Time Scaling](https://arxiv.org/abs/2607.01612) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-01 | [Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition](https://arxiv.org/abs/2607.00535) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-30 | [RefCaptioner: Multi-Reference Image-Grounded Video Captioning](https://arxiv.org/abs/2607.28509) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-23 | [Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering](https://arxiv.org/abs/2607.21848) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-16 | [MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](https://arxiv.org/abs/2607.15273) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-16 | [Mask-Aware Policy Gradients for Diffusion Language Models](https://arxiv.org/abs/2607.15200) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-16 | [Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation](https://arxiv.org/abs/2607.14962) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-14 | [Steering Diffusion Models via Class-Contrastive Influence for Few-Shot Medical Classification](https://arxiv.org/abs/2607.12464) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-12 | [A Single Diffusion-Policy Controller for Multi-Task Block Pushing with Zero-Shot Sim-to-Real Transfer](https://arxiv.org/abs/2607.10892) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-04 | [CDCP: Conditional Diffusion Model with Contextual Prompts for Multi-task Offline Safe Reinforcement Learning](https://arxiv.org/abs/2607.03903) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-07-30 | [X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching](https://arxiv.org/abs/2607.28560) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-29 | [Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models](https://arxiv.org/abs/2607.26513) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-07-26 | [$N_0$-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://arxiv.org/abs/2607.23782) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-09 | [Post-Training in End-to-End Autonomous Driving](https://arxiv.org/abs/2607.08072) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-02 | [WorldSample: Closed-loop Real-robot RL with World Modelling](https://arxiv.org/abs/2607.02431) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-07-28 | [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/abs/2607.25895) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-22 | [Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids](https://arxiv.org/abs/2607.20345) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-15 | [M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming](https://arxiv.org/abs/2607.14005) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-09 | [FabriVLA: A Lightweight Vision-Language-Action Model with Conformal Action Chunk Uncertainty](https://arxiv.org/abs/2607.08575) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-06 | [DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation](https://arxiv.org/abs/2607.04927) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-03 | [TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training](https://arxiv.org/abs/2607.02840) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-02 | [GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation](https://arxiv.org/abs/2607.02642) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-01 | [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](https://arxiv.org/abs/2607.01067) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-07-08 | [HELP: Human-Efficient Large-Scale Robot Post-Training with Rollout Segmentation](https://arxiv.org/abs/2607.09776) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-07-05 | [VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models](https://arxiv.org/abs/2607.04517) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-08-31 | [Elite-Weighted Supervised Fine-tuning for Goal-Directed Molecular Optimization](https://arxiv.org/abs/2609.00189) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-08-31 | [Can LLMs Use Relational Transformer Embeddings?](https://arxiv.org/abs/2609.00457) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-08-31 | [Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-08-31 | [AI Should Not Only Be Helpful. It Should Be Contingent. Artificial Intimacy, Sycophancy, and the Future of Social Learning](https://arxiv.org/abs/2609.00211) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-08-31 | [Group Adaptive Clipping Policy Optimization](https://arxiv.org/abs/2609.00444) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-08-31 | [Uncovering and Mitigating Aggregation-Induced Reward Hacking in Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2609.00213) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-08-31 | [SAGE: State-Grounded, Abstention-Aware Evaluation of Task-Oriented Dialogue Agents](https://arxiv.org/abs/2609.00434) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-08-31 | [Recursive Criticality of AI Self-Improvement](https://arxiv.org/abs/2609.00137) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-08-30 | [Auditing Harness Tampering in Self-Improving Agents](https://arxiv.org/abs/2609.00069) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-08-30 | [AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes](https://arxiv.org/abs/2609.00052) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-08-30 | [ReNFT: Repairing Mode Collapse in Reward Post-Training via Internal Probability-Mass Recalibration](https://arxiv.org/abs/2609.00061) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-09-01 | [Instella-MoE Technical Report](https://arxiv.org/abs/2609.00791) | arxiv-monthly-backfill | 20 | `needs-review` |
+| 2026-09-01 | [Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs](https://arxiv.org/abs/2609.01573) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-09-01 | [Towards reliable multimodal disaster severity assessment through preference optimization and explainable vision-language reasoning](https://arxiv.org/abs/2609.00879) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-09-01 | [Same Semantics, Different Outcome: On the Modality Robustness of Multimodal LLMs under Knowledge Conflict](https://arxiv.org/abs/2609.00550) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-09-01 | [Post-Training Science for Supervised Fine-Tuning](https://arxiv.org/abs/2609.01244) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-09-01 | [It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning](https://arxiv.org/abs/2609.00638) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-09-01 | [SFAD: Speculative Factuality-Aware Decoding](https://arxiv.org/abs/2609.00796) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-09-01 | [CopyShield: A Cross-Level Benchmark of Copyright Defenses in LLMs](https://arxiv.org/abs/2609.01161) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-09-01 | [Context-Grounding Gains Are Mediated by Pre-existing Machinery: Auditing GRPO, SFT, and DPO](https://arxiv.org/abs/2609.00925) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-09-01 | [Feedback-Assisted Trust Propagation over Document Relation Graphs for Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00543) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [CARE: Contrastive Anchor-based Rubric Evolution for Large Language Model Post-Training](https://arxiv.org/abs/2609.00892) | arxiv-monthly-backfill | 10 | `needs-review` |
+| 2026-09-01 | [Where the Verifier Fails: A Category-Level Audit of Reward Signals in RLVR](https://arxiv.org/abs/2609.01354) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-09-01 | [From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix](https://arxiv.org/abs/2609.01572) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-09-01 | [VerTox: Verifiable Reward-Guided Corpus Poisoning Against Neural Ranking Models](https://arxiv.org/abs/2609.01325) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-09-01 | [From Base Rollouts to RL Reasoning: A Budgeted Search Perspective](https://arxiv.org/abs/2609.01274) | arxiv-monthly-backfill | 6 | `needs-review` |
+| 2026-09-01 | [StudentSim: Training LLM-based Student Simulators](https://arxiv.org/abs/2609.01591) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-09-01 | [IntroConformal: Conformal Factuality Guarantees for Large Vision-Language Models via Introspective Signals](https://arxiv.org/abs/2609.01375) | arxiv-monthly-backfill | 5 | `needs-review` |
+| 2026-09-01 | [Diffusion as a Training Curriculum for Timestep-Free Iterative Reasoning](https://arxiv.org/abs/2609.01449) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-09-01 | [Cheap Verifiers, Large Blind Spots: Measuring the Reliability Cost of Cost-Saving Cascades](https://arxiv.org/abs/2609.01345) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation](https://arxiv.org/abs/2609.01315) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation](https://arxiv.org/abs/2609.01246) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [MutMem-V2: Cryptographically Authorized Mutation in Persistent Agent Memory Portable Verification and Reproducible Evidence](https://arxiv.org/abs/2609.01235) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [VerNav: Verifier-First Low-Latency Vision-and-Language Navigation](https://arxiv.org/abs/2609.00920) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [Compile, Don't Memorize: A Context Compilation Architecture (CCA) for In-Context Learning](https://arxiv.org/abs/2609.00759) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [Patterning in Practice: Debiasing Reward Models with Susceptibilities](https://arxiv.org/abs/2609.00699) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [From Rollouts to Recipes: Self-Contained Post-Training for LLMs](https://arxiv.org/abs/2609.01422) | arxiv-monthly-backfill | 9 | `needs-review` |
+| 2026-09-01 | [Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall](https://arxiv.org/abs/2609.01532) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-09-01 | [EdiTikZ: Scientific Figure Editing from Revision Trajectories](https://arxiv.org/abs/2609.01409) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [Vision-Language-Guided Pseudo-Labels for Unsupervised Domain Adaptation in Semantic Segmentation for Waste Sorting](https://arxiv.org/abs/2609.00898) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://arxiv.org/abs/2609.01596) | arxiv-monthly-backfill | 8 | `needs-review` |
+| 2026-09-01 | [Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](https://arxiv.org/abs/2609.01567) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-09-01 | [Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching](https://arxiv.org/abs/2609.01404) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-08-31 | [PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2609.01658) | arxiv-monthly-backfill | 7 | `needs-review` |
+| 2026-08-24 | [DreamLedger: Where to Refuse World-Model Imagination Using Execution-Settled Credit](https://arxiv.org/abs/2608.23863) | arxiv-monthly-backfill | 3 | `needs-review` |
 
 Review checklist:
 

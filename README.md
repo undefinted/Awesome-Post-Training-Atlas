@@ -48,8 +48,8 @@ Each direction has its own chronological page. Counts include curated papers and
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
 | [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3330 | **3332** | 2026-09-01 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2726 | **2731** | 2026-09-01 |
-| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3004 | **3005** | 2026-09-01 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2727 | **2732** | 2026-09-01 |
+| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3005 | **3006** | 2026-09-01 |
 | [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 730 | **733** | 2026-09-01 |
 | [Distillation & Policy Transfer](directions/distillation.md) | 23 | 335 | **358** | 2026-09-01 |
 | [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 716 | **719** | 2026-09-01 |

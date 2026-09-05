@@ -36,7 +36,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 223 academic records · 158 eligible · checked 2026-09-02T04:46:31.066430+00:00.
+> **Audit status:** ✓ Complete · scanned 224 academic records · 158 eligible · checked 2026-09-05T04:54:43.364258+00:00.
 
 - 🔎 **[When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models](https://arxiv.org/abs/2608.31035)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  

@@ -41,7 +41,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 268 academic records · 120 eligible · checked 2026-09-02T04:47:08.030470+00:00.
+> **Audit status:** ✓ Complete · scanned 268 academic records · 120 eligible · checked 2026-09-05T04:55:04.293407+00:00.
 
 - 🔎 **[S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](https://arxiv.org/abs/2608.31100)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2731 papers**: 5 curated and 2726 academic discovery candidates.
+**2732 papers**: 5 curated and 2727 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓132 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓60 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓132 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓95 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -52,7 +52,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 112 academic records · 91 eligible · checked 2026-09-02T04:45:20.406374+00:00.
+> **Audit status:** ✓ Complete · scanned 113 academic records · 92 eligible · checked 2026-09-05T04:52:47.536648+00:00.
 
 - 🔎 **[Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence](https://arxiv.org/abs/2608.31075)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -90,6 +90,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLHF`  
   Authors: Scott Compton, Arjun Nagendran
+
+- 🔎 **[PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2609.01658)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `DPO` · `Preference Optimization` · `PRM` · `Reasoning`  
+  Authors: MinKeon Kim, Namjun Lee, Jaekwang Kim
 
 - 🔎 **[Arabic Safety Alignment as Selective Refusal: An Empirical Study of SFT, DPO, and Guard Calibration](https://arxiv.org/abs/2608.29378)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-29 · `academic-query-vote` · `arxiv-backfill`  

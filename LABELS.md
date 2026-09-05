@@ -8,10 +8,10 @@ Labels are extracted reproducibly from title, abstract, reviewed key idea, and e
 |---|---|---:|---|
 | algorithm | `GRPO` | 1468 | Group Relative Policy Optimization |
 | algorithm | `PPO` | 343 | Proximal Policy Optimization |
-| capability | `Reasoning` | 5235 | General and chain-of-thought reasoning |
-| component | `PRM` | 341 | Process reward model or process supervision |
+| capability | `Reasoning` | 5236 | General and chain-of-thought reasoning |
+| component | `PRM` | 342 | Process reward model or process supervision |
 | component | `Reward Model` | 2007 | Learned reward or preference model |
-| component | `Verifier` | 1464 | Verifier or judge used for feedback |
+| component | `Verifier` | 1465 | Verifier or judge used for feedback |
 | data | `Curriculum` | 389 | Curriculum or adaptive task generation |
 | data | `Synthetic Data` | 412 | Model-generated training data |
 | domain | `Autonomous Driving` | 176 | Driving policies and world models |
@@ -20,10 +20,10 @@ Labels are extracted reproducibly from title, abstract, reviewed key idea, and e
 | domain | `Robotics` | 655 | Robot policies and embodied control |
 | method | `Counterfactual` | 141 | Counterfactual data |
 | method | `Distillation` | 1288 | Knowledge or policy transfer from a teacher |
-| method | `DPO` | 1415 | Direct preference optimization and named variants |
+| method | `DPO` | 1416 | Direct preference optimization and named variants |
 | method | `OPD` | 319 | On-policy distillation |
 | method | `OPSD` | 130 | On-policy self-distillation |
-| method | `Preference Optimization` | 1943 | Learning directly from preference comparisons |
+| method | `Preference Optimization` | 1944 | Learning directly from preference comparisons |
 | method | `Rejection Sampling` | 93 | Rejection-sampling fine-tuning or data selection |
 | method | `RLAIF` | 156 | Reinforcement learning from AI feedback |
 | method | `RLHF` | 1069 | Reinforcement learning from human feedback |

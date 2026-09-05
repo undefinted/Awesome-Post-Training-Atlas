@@ -62,7 +62,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 284 academic records · 178 eligible · checked 2026-09-02T04:45:13.381576+00:00.
+> **Audit status:** ✓ Complete · scanned 284 academic records · 178 eligible · checked 2026-09-05T04:52:40.667346+00:00.
 
 - 🔎 **[Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS](https://arxiv.org/abs/2608.30325)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
