@@ -41,7 +41,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 394 academic records · 127 eligible · checked 2026-09-02T04:48:15.967061+00:00.
+> **Audit status:** ✓ Complete · scanned 395 academic records · 127 eligible · checked 2026-09-05T04:56:11.928750+00:00.
 
 - 🔎 **[DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://arxiv.org/abs/2608.31106)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  

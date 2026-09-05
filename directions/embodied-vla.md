@@ -36,7 +36,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 97 academic records · 49 eligible · checked 2026-09-02T04:48:37.579231+00:00.
+> **Audit status:** ✓ Complete · scanned 97 academic records · 49 eligible · checked 2026-09-05T04:56:45.222088+00:00.
 
 - 🔎 **[Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving](https://arxiv.org/abs/2608.29772)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-30 · `academic-query-vote` · `arxiv-backfill`  
