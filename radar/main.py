@@ -372,6 +372,14 @@ def discover(days: int) -> list[dict]:
             paper["direction"] = assessment["direction"]
             paper["key_idea"] = assessment["key_idea"]
             paper["tags"] = assessment["tags"]
+        elif paper.get("direction_hints"):
+            # Scheduled runs intentionally work without an LLM key. In that
+            # mode the query's reviewed taxonomy mapping is the deterministic
+            # fallback, so every candidate remains renderable and auditable.
+            paper["direction"] = paper["direction_hints"][0]
+        else:
+            # An auxiliary-only record has no defensible taxonomy assignment.
+            continue
         paper["abstract"] = paper["abstract"][: radar["filter"]["stored_abstract_characters"]].rstrip()
         paper["status"] = "candidate"
         output.append(paper)
