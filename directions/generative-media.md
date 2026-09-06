@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**399 papers**: 2 curated and 397 academic discovery candidates.
+**400 papers**: 2 curated and 398 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓2 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓3 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓17 · [Nov](#2025-11) ✓19 · [Oct](#2025-10) ✓26 · [Sep](#2025-09) ✓17 · [Aug](#2025-08) ✓12 · [Jul](#2025-07) ✓9 · [Jun](#2025-06) ✓15 · [May](#2025-05) ✓18 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓9 · [Sep](#2024-09) ✓4 · [Aug](#2024-08) ✓3 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓3 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓4 · [Feb](#2024-02) ✓8 · [Jan](#2024-01) ✓2
 - [2023](#2023) — [Nov](#2023-11) ◐1 · [May](#2023-05) ◐1
@@ -26,6 +26,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 10 academic records · 0 eligible · checked 2026-09-02T04:49:37.032946+00:00.
+
+- 🔎 **[Reconciling top-down and bottom-up conservation priorities with reinforcement learning from human feedback](https://doi.org/10.1088/1748-9326/aea2ab)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-04 · `query-hint` · `crossref`  
+  Labels: `RLHF`  
+  Authors: Daniele Silvestro, Stefano Goria, E-Ping Rau, Thomas Sterner, Alexandre Antonelli  
+  Venue: Environmental Research Letters
 
 - 🔎 **[ToPO: Token-Conditioned Preference Routing for Attention-Based Latent Diffusion Models](https://arxiv.org/abs/2609.03688)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-03 · `query-hint` · `arxiv`  
@@ -165,7 +171,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[CodecArena: Codec Quality Assessment via Visual Reinforcement Learning](https://arxiv.org/abs/2608.09139)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-10 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `GRPO` · `Video Generation` · `Reasoning` · `Code`  
-  Authors: Jiaye Fu, Weiqi Li, Qiankun Gao, Yanchen Zhao, Xiandong Meng, Jian Zhang, Siwei Ma, Jiaqi Zhang
+  Authors: Jiaye Fu, Weiqi Li, Qiankun Gao, Yanchen Zhao, Xiandong Meng, Jian Zhang, Siwei Ma, Jiaqi Zhang  
+  Institutions*: Peking University
 
 - 🔎 **[FlowErase-OPD: Multi-Concept Erasure via Anchored On-Policy Distillation in Flow Matching Models](https://arxiv.org/abs/2608.07620)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-07 · `academic-query-vote` · `arxiv-backfill`  
@@ -185,7 +192,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
-  Authors: Jinha Kim, Younghun Roh, Jaeyeon Kim
+  Authors: Jinha Kim, Younghun Roh, Jaeyeon Kim  
+  Institutions*: Harvard University
 
 - 🔎 **[Sample-Adaptive Latent Rewards for Uncertainty-Guided Diffusion Post-Training](https://arxiv.org/abs/2608.06125)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
@@ -210,7 +218,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://arxiv.org/abs/2608.04436)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `GRPO` · `Agent` · `Tool Use` · `Multimodal` · `Image Generation` · `Reasoning`  
-  Authors: Jiahao Zhao, Xiaomin Yu, Zhongxiang Sun, Fengwei Teng, Chengwei Qin, Xiaobin Hu, Jun Xu, Shuicheng Yan
+  Authors: Jiahao Zhao, Xiaomin Yu, Zhongxiang Sun, Fengwei Teng, Chengwei Qin, Xiaobin Hu, Jun Xu, Shuicheng Yan  
+  Institutions*: Renmin University of China
 
 - 🔎 **[GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model](https://arxiv.org/abs/2608.03215)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -979,7 +988,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Dichotomous Diffusion Policy Optimization](https://arxiv.org/abs/2601.00898)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLA` · `Autonomous Driving`  
-  Authors: Ruiming Liang, Yinan Zheng, Kexin Zheng, Tianyi Tan, Jianxiong Li, Liyuan Mao, Zhihao Wang, Guang Chen, et al.
+  Authors: Ruiming Liang, Yinan Zheng, Kexin Zheng, Tianyi Tan, Jianxiong Li, Liyuan Mao, Zhihao Wang, Guang Chen, et al.  
+  Institutions*: Institute for AI Industry Research; Institute for AI Industry Research (AIR), Tsinghua University
 
 - 🔎 **[ReDiF: Reinforced Distillation for Few Step Diffusion](https://arxiv.org/abs/2512.22802)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -989,7 +999,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[Parallel Diffusion Solver via Residual Dirichlet Policy Optimization](https://arxiv.org/abs/2512.22796)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Diffusion` · `Image Generation`  
-  Authors: Ruoyu Wang, Ziyu Li, Beier Zhu, Liangyu Yuan, Hanwang Zhang, Xun Yang, Xiaojun Chang, Chi Zhang
+  Authors: Ruoyu Wang, Ziyu Li, Beier Zhu, Liangyu Yuan, Hanwang Zhang, Xun Yang, Xiaojun Chang, Chi Zhang  
+  Institutions*: The Chinese University of Hong Kong  
+  Venue: [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://www.computer.org/tpami/)
 
 - 🔎 **[A Reinforcement Learning Approach to Synthetic Data Generation](https://arxiv.org/abs/2512.21395)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-24 · `direction-month-query` · `arxiv-monthly-backfill`  

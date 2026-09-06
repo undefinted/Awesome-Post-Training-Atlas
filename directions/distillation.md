@@ -352,7 +352,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Simple-OPD: Demystifying Warm-up for On-policy Distillation](https://arxiv.org/abs/2608.06802)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Reasoning`  
-  Authors: Tao Liu, Taiqiang Wu, Mao Zheng, Xuan Luo, Runming Yang, Xuewei Yang, Junjie Wang, Yujiu Yang
+  Authors: Tao Liu, Taiqiang Wu, Mao Zheng, Xuan Luo, Runming Yang, Xuewei Yang, Junjie Wang, Yujiu Yang  
+  Institutions*: The University of Hong Kong
 
 - **[AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.05987)** — Recursively aggregates teacher-student token evidence into turn-level Bayesian credit signals for long-horizon agent training without a separate critic or extra rollouts.  
   2026-08-06 · `on-policy-self-distillation` · `agentic-rl` · `temporal-credit` · `multi-turn` · [code](https://github.com/ZethWang/AgentOPSD)  
@@ -374,12 +375,14 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[On-Policy Delta Distillation for Multilingual Math Reasoning](https://arxiv.org/abs/2608.05802)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Reasoning` · `Math`  
-  Authors: Byeongho Heo, Jaehui Hwang, Sangdoo Yun, Dongyoon Han
+  Authors: Byeongho Heo, Jaehui Hwang, Sangdoo Yun, Dongyoon Han  
+  Institutions*: KAIST; NAVER AI LAB; NAVER AI Lab
 
 - 🔎 **[When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents](https://arxiv.org/abs/2608.05219)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Self-training` · `Multi-turn`  
-  Authors: Junzhuo Liu, Weiwei Li, Jun Ling, Peng Wang
+  Authors: Junzhuo Liu, Weiwei Li, Jun Ling, Peng Wang  
+  Institutions*: University of Electronic Science and Technology of China
 
 - 🔎 **[OPD-V: Visual On-Policy Self-Distillation with Modality Balance](https://arxiv.org/abs/2608.05131)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -507,7 +510,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Verifier-Induced Support Reshaping in On-Policy Optimization](https://arxiv.org/abs/2608.00220)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `OPD` · `Distillation` · `RLVR` · `On-policy` · `Verifier` · `Reasoning` · `Math`  
-  Authors: Shaohang Wei, Zikun Su, Feifan Song, Wen Luo, Wei Li, Guangyue Peng, Houfeng Wang
+  Authors: Shaohang Wei, Zikun Su, Feifan Song, Wen Luo, Wei Li, Guangyue Peng, Houfeng Wang  
+  Institutions*: Peking University
 
 - 🔎 **[DASH-OPD: Discrepancy-Aware Switching with Hysteresis for On-Policy Distillation](https://arxiv.org/abs/2607.29078)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-31 · `direction-month-query` · `arxiv-monthly-backfill`  

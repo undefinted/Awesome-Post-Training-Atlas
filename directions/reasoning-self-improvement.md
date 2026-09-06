@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**720 papers**: 3 curated and 717 academic discovery candidates.
+**721 papers**: 3 curated and 718 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓3 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓31 · [Nov](#2025-11) ✓28 · [Oct](#2025-10) ✓35 · [Sep](#2025-09) ✓29 · [Aug](#2025-08) ✓17 · [Jul](#2025-07) ✓18 · [Jun](#2025-06) ✓25 · [May](#2025-05) ✓25 · [Apr](#2025-04) ✓15 · [Mar](#2025-03) ✓13 · [Feb](#2025-02) ✓26 · [Jan](#2025-01) ✓8
 - [2024](#2024) — [Dec](#2024-12) ✓16 · [Nov](#2024-11) ✓8 · [Oct](#2024-10) ✓15 · [Sep](#2024-09) ✓8 · [Aug](#2024-08) ✓6 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓5 · [May](#2024-05) ✓11 · [Apr](#2024-04) ✓7 · [Mar](#2024-03) ✓13 · [Feb](#2024-02) ✓9 · [Jan](#2024-01) ✓1
 - [2022](#2022) — [Mar](#2022-03) ◐1
@@ -26,6 +26,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 10 academic records · 4 eligible · checked 2026-09-02T04:49:32.141699+00:00.
+
+- 🔎 **[Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement](https://doi.org/10.2139/ssrn.7395620)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-05 · `query-hint` · `crossref`  
+  Labels: `Self-improvement` · `Coding Agent` · `VLA`  
+  Authors: Loc Nguyen, Avi Deb Raha, Huy Le, Eui-Nam Huh, Dusit Niyato, Choong  Seon Hong
 
 - 🔎 **[Gradients Know What Outcomes Don't: Unlocking Reinforcement Learning for LLM Reasoning with Gradient-Aligned Rewards](https://arxiv.org/abs/2609.03342)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-03 · `query-hint` · `arxiv`  
@@ -312,7 +317,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation](https://arxiv.org/abs/2607.29287)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `SFT` · `Reasoning`  
-  Authors: Yongshi Ye, Biao Fu, Chongxuan Huang, Yidong Chen, Xiaodong Shi
+  Authors: Yongshi Ye, Biao Fu, Chongxuan Huang, Yidong Chen, Xiaodong Shi  
+  Institutions*: Xiamen University  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Can Vision-Language Models Reason about AI Edits in Images?](https://arxiv.org/abs/2607.28464)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-30 · `academic-query-vote` · `arxiv-backfill`  
@@ -342,7 +349,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[TELLER: Dual-Path Iterative Preference Optimization for Table Entity Linking](https://arxiv.org/abs/2607.28680)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-29 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization` · `Reasoning`  
-  Authors: Yixin Peng, Kehao Li, Stefan Decker
+  Authors: Yixin Peng, Kehao Li, Stefan Decker  
+  Institutions*: Adobe Research
 
 - 🔎 **[WhisperRec: Latent Reasoning for Efficient Foundation Recommendation Models](https://arxiv.org/abs/2607.26621)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-29 · `academic-query-vote` · `arxiv-backfill`  
@@ -352,7 +360,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[GPT-Red: Automated Red Teaming via Self-Play at Scale](https://arxiv.org/abs/2607.26115)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement` · `Self-play`  
-  Authors: Eric Wallace, Christopher A. Choquette-Choo, Nikhil Kandpal, Sam Toyer, Dylan Hunn, Stephanie Lin, Yuxin Wen, Xiangyu Qi, et al.
+  Authors: Eric Wallace, Christopher A. Choquette-Choo, Nikhil Kandpal, Sam Toyer, Dylan Hunn, Stephanie Lin, Yuxin Wen, Xiangyu Qi, et al.  
+  Institutions*: Google DeepMind
 
 - 🔎 **[RSIBench-Data: Benchmarking Data-Centric Research for Recursive Self-Improvement](https://arxiv.org/abs/2607.25886)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-28 · `academic-query-vote` · `arxiv-backfill`  
@@ -1815,7 +1824,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents](https://arxiv.org/abs/2512.24851)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Robotics` · `Reasoning`  
-  Authors: Xunyi Zhao, Gengze Zhou, Qi Wu
+  Authors: Xunyi Zhao, Gengze Zhou, Qi Wu  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning](https://arxiv.org/abs/2512.23412)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-29 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1825,7 +1835,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement](https://arxiv.org/abs/2512.21598)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-25 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Multimodal` · `Safety`  
-  Authors: Jian Lang, Rongpei Hong, Ting Zhong, Leiting Chen, Qiang Gao, Fan Zhou
+  Authors: Jian Lang, Rongpei Hong, Ting Zhong, Leiting Chen, Qiang Gao, Fan Zhou  
+  Venue: [Knowledge Discovery and Data Mining](http://www.acm.org/sigkdd/)
 
 - 🔎 **[Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis](https://arxiv.org/abs/2601.00828)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-24 · `direction-month-query` · `arxiv-monthly-backfill`  

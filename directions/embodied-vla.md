@@ -118,7 +118,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation](https://arxiv.org/abs/2608.05999)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon` · `VLM` · `VLA` · `Robotics`  
-  Authors: He Kong, Zengjue Chen, Qi Wang, Qianli Xing, Runliang Niu, Peidong Liu, Jiawei Li, Shiqi Wang, et al.
+  Authors: He Kong, Zengjue Chen, Qi Wang, Qianli Xing, Runliang Niu, Peidong Liu, Jiawei Li, Shiqi Wang, et al.  
+  Institutions*: Macquarie University, Department of Computing
 
 - 🔎 **[Toward Integrating Adaptive Experience Replay and Online Uncertainty Estimation in Safe Actor-Critic Optimal Control](https://arxiv.org/abs/2608.04732)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -229,7 +230,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://arxiv.org/abs/2607.14548)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-16 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Rejection Sampling` · `Long-horizon` · `Multimodal`  
-  Authors:  Hy Vision Team, Huawen Shen, Zhengyang Tang, Shangpin Peng, Liang Wu, Anran Zhang, Weinong Wang, Yiduo Guo, et al.
+  Authors:  Hy Vision Team, Huawen Shen, Zhengyang Tang, Shangpin Peng, Liang Wu, Anran Zhang, Weinong Wang, Yiduo Guo, et al.  
+  Institutions*: Harbin Institute of Technology, Shenzhen
 
 - 🔎 **[S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2607.13926)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-15 · `academic-query-vote` · `arxiv-backfill`  
@@ -239,7 +241,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Joint On-and-Off Policy Learning for Vision-and-Language Navigation](https://arxiv.org/abs/2607.13461)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-15 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `RLVR` · `On-policy` · `Off-policy` · `VLM` · `Robotics` · `Reasoning`  
-  Authors: Qingrong He, Lin Zhao, Kevin Zheng, Liang Lin
+  Authors: Qingrong He, Lin Zhao, Kevin Zheng, Liang Lin  
+  Institutions*: Brown university; University of Michigan, Ann Arbor
 
 - 🔎 **[M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming](https://arxiv.org/abs/2607.14005)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -259,7 +262,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Learning More from Less: Reinforcement Learning from Hindsight](https://arxiv.org/abs/2607.09042)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-10 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `VLM` · `VLA`  
-  Authors: Iris Xu, Sunshine Jiang, John Marangola, Nitish Dashora, Richard Li, Thomas Liu, Zexue He, Yuheng Zhi, et al.
+  Authors: Iris Xu, Sunshine Jiang, John Marangola, Nitish Dashora, Richard Li, Thomas Liu, Zexue He, Yuheng Zhi, et al.  
+  Institutions*: Berkeley AI Research; Redwood Center for Theoretical Neuroscience
 
 - 🔎 **[CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](https://arxiv.org/abs/2607.08974)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-09 · `academic-query-vote` · `arxiv-backfill`  
@@ -1001,7 +1005,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation](https://arxiv.org/abs/2512.24212)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `VLM`  
-  Authors: Ming-Ming Yu, Yi Chen, Börje F. Karlsson, Wenjun Wu
+  Authors: Ming-Ming Yu, Yi Chen, Börje F. Karlsson, Wenjun Wu  
+  Institutions*: Beijing Academy of Artificial Intelligence (BAAI)
 
 - 🔎 **[Clutter-Robust Vision-Language-Action Models through Object-Centric and Geometry Grounding](https://arxiv.org/abs/2512.22519)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-27 · `direction-month-query` · `arxiv-monthly-backfill`  
