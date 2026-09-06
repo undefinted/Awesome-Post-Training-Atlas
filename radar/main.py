@@ -303,15 +303,18 @@ def discover(days: int) -> list[dict]:
     directions = load_yaml(ROOT / "config" / "taxonomy.yaml")["directions"]
     known = existing_ids()
     cutoff = (dt.date.today() - dt.timedelta(days=days)).isoformat()
+    submitted_from = cutoff.replace("-", "") + "0000"
+    submitted_to = dt.date.today().isoformat().replace("-", "") + "2359"
     found: dict[str, dict] = {}
     for index, spec in enumerate(radar["arxiv"]["queries"]):
         if index:
             time.sleep(3)
         query = spec["query"] if isinstance(spec, dict) else spec
+        dated_query = f"({query}) AND submittedDate:[{submitted_from} TO {submitted_to}]"
         direction = spec.get("direction") if isinstance(spec, dict) else None
         try:
             query_papers = fetch_query(
-                query,
+                dated_query,
                 radar["arxiv"]["categories"],
                 radar["arxiv"]["max_results_per_query"],
                 radar["arxiv"].get("page_size", 100),
