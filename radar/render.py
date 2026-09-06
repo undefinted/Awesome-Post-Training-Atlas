@@ -187,10 +187,13 @@ def direction_page(direction: dict, records: list[dict]) -> str:
 
 
 def render_index(taxonomy: list[dict], records: list[dict]) -> str:
+    status = load_yaml(ROOT / "data" / "radar_status.yaml") or {}
+    synced = status.get("last_successful_discovery_at", "not recorded")
     lines = [
         "## Research directions",
         "",
         "Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.",
+        f"Radar last scanned academic sources: **{synced}** (China Standard Time). `Latest` below is the paper's first-publication date, not the scan date.",
         "",
         "| Direction | Curated | Discovery | Total | Latest |",
         "|---|---:|---:|---:|---:|",

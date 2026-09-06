@@ -432,6 +432,14 @@ def main() -> None:
     with path.open("w", encoding="utf-8", newline="\n") as handle:
         yaml.safe_dump({"papers": papers}, handle, sort_keys=False, allow_unicode=True, width=120)
     (ROOT / "data" / "CANDIDATES.md").write_text(render_candidate_digest(papers), encoding="utf-8", newline="\n")
+    checked_at = dt.datetime.now(dt.timezone.utc).astimezone(dt.timezone(dt.timedelta(hours=8))).replace(microsecond=0)
+    with (ROOT / "data" / "radar_status.yaml").open("w", encoding="utf-8", newline="\n") as handle:
+        yaml.safe_dump(
+            {"last_successful_discovery_at": checked_at.isoformat(), "timezone": "Asia/Shanghai"},
+            handle,
+            sort_keys=False,
+            allow_unicode=True,
+        )
     print(f"Candidates: {len(papers)}")
 
 
