@@ -12945,6 +12945,13 @@ Automated proposals only; inclusion requires human review.
 | 2026-09-03 | [Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992) | arxiv | 3 | `generative-media` |
 | 2026-09-03 | [A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI](https://arxiv.org/abs/2609.04086) | arxiv | 3 | `reward-verifiers` |
 | 2026-09-03 | [Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty](https://arxiv.org/abs/2609.03699) | arxiv | 3 | `distillation` |
+| 2026-09-05 | [Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement](https://doi.org/10.2139/ssrn.7395620) | crossref | 7 | `reasoning-self-improvement` |
+| 2026-09-04 | [Reconciling top-down and bottom-up conservation priorities with reinforcement learning from human feedback](https://doi.org/10.1088/1748-9326/aea2ab) | crossref | 5 | `generative-media` |
+| 2026-09-04 | [Multi-task and transfer learning for scheduling flexible job-shops: Combining imitation, reinforcement, and preference optimization](https://doi.org/10.2139/ssrn.7411820) | crossref | 4 | `agentic` |
+| 2026-09-04 | [Verifier Ecology Theory: Packetized Self-Verification Under Residual Accountability&amp;nbsp; &lt;div&gt; A Process Theory of Open-Ended Verifier Acceleration, Aperture Preservation, and Overclosure Control &lt;/div&gt;](https://doi.org/10.2139/ssrn.7386258) | crossref | 3 | `reward-verifiers` |
+| 2026-09-04 | [Deep reinforcement learning-enhanced autonomous monitoring for thunderstorm activity using multimodal remote sensing](https://doi.org/10.2139/ssrn.7411573) | crossref | 3 | `agentic` |
+| 2026-09-04 | [EdgeTwin-DRL: Real-Time Counter-UAS Detection and Response Optimization Using Edge-Assisted Digital Twins and Multi-Agent Deep Reinforcement Learning](https://doi.org/10.3390/s26175632) | crossref | 3 | `agentic` |
+| 2026-09-04 | [Privacy-preserving federated IoT intelligence for multimodal airway liberation decision support via offline reinforcement learning](https://doi.org/10.1007/s40747-026-02488-w) | crossref | 3 | `multimodal` |
 
 Review checklist:
 

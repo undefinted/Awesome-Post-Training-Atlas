@@ -312,7 +312,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation](https://arxiv.org/abs/2607.29287)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `SFT` · `Reasoning`  
-  Authors: Yongshi Ye, Biao Fu, Chongxuan Huang, Yidong Chen, Xiaodong Shi
+  Authors: Yongshi Ye, Biao Fu, Chongxuan Huang, Yidong Chen, Xiaodong Shi  
+  Institutions*: Xiamen University  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Can Vision-Language Models Reason about AI Edits in Images?](https://arxiv.org/abs/2607.28464)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-30 · `academic-query-vote` · `arxiv-backfill`  
@@ -342,7 +344,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[TELLER: Dual-Path Iterative Preference Optimization for Table Entity Linking](https://arxiv.org/abs/2607.28680)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-29 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization` · `Reasoning`  
-  Authors: Yixin Peng, Kehao Li, Stefan Decker
+  Authors: Yixin Peng, Kehao Li, Stefan Decker  
+  Institutions*: Adobe Research
 
 - 🔎 **[WhisperRec: Latent Reasoning for Efficient Foundation Recommendation Models](https://arxiv.org/abs/2607.26621)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-29 · `academic-query-vote` · `arxiv-backfill`  
@@ -352,7 +355,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[GPT-Red: Automated Red Teaming via Self-Play at Scale](https://arxiv.org/abs/2607.26115)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement` · `Self-play`  
-  Authors: Eric Wallace, Christopher A. Choquette-Choo, Nikhil Kandpal, Sam Toyer, Dylan Hunn, Stephanie Lin, Yuxin Wen, Xiangyu Qi, et al.
+  Authors: Eric Wallace, Christopher A. Choquette-Choo, Nikhil Kandpal, Sam Toyer, Dylan Hunn, Stephanie Lin, Yuxin Wen, Xiangyu Qi, et al.  
+  Institutions*: Google DeepMind
 
 - 🔎 **[RSIBench-Data: Benchmarking Data-Centric Research for Recursive Self-Improvement](https://arxiv.org/abs/2607.25886)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-28 · `academic-query-vote` · `arxiv-backfill`  
@@ -1815,7 +1819,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents](https://arxiv.org/abs/2512.24851)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Robotics` · `Reasoning`  
-  Authors: Xunyi Zhao, Gengze Zhou, Qi Wu
+  Authors: Xunyi Zhao, Gengze Zhou, Qi Wu  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning](https://arxiv.org/abs/2512.23412)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-29 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1825,7 +1830,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement](https://arxiv.org/abs/2512.21598)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-25 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Multimodal` · `Safety`  
-  Authors: Jian Lang, Rongpei Hong, Ting Zhong, Leiting Chen, Qiang Gao, Fan Zhou
+  Authors: Jian Lang, Rongpei Hong, Ting Zhong, Leiting Chen, Qiang Gao, Fan Zhou  
+  Venue: [Knowledge Discovery and Data Mining](http://www.acm.org/sigkdd/)
 
 - 🔎 **[Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis](https://arxiv.org/abs/2601.00828)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-24 · `direction-month-query` · `arxiv-monthly-backfill`  

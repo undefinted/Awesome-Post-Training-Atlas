@@ -44,7 +44,7 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-09-06T17:37:59+08:00** (China Standard Time). `Latest` below is the paper's first-publication date, not the scan date.
+Radar last scanned academic sources: **2026-09-06T20:07:08+08:00** (China Standard Time). `Latest` below is the paper's first-publication date, not the scan date.
 
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
@@ -57,7 +57,7 @@ Radar last scanned academic sources: **2026-09-06T17:37:59+08:00** (China Standa
 | [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 513 | **515** | 2026-09-03 |
 | [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 823 | **825** | 2026-09-03 |
 | [Generative Media Post-Training](directions/generative-media.md) | 2 | 397 | **399** | 2026-09-03 |
-| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 353 | **354** | 2026-09-03 |
+| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 354 | **355** | 2026-09-05 |
 <!-- PAPERS:END -->
 
 ## Paper Radar

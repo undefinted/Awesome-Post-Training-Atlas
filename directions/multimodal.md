@@ -403,7 +403,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems](https://arxiv.org/abs/2608.07565)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Verifier` · `Multi-turn` · `Multimodal`  
-  Authors: Zhijing Zhang, Jinpeng Yu, Xin Song, Bingnan Li, Chuyue Li, Changhui Du, Xiaolin Fang, Jiaming Liu, et al.
+  Authors: Zhijing Zhang, Jinpeng Yu, Xin Song, Bingnan Li, Chuyue Li, Changhui Du, Xiaolin Fang, Jiaming Liu, et al.  
+  Institutions*: UCSD
 
 - 🔎 **[DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimodal Agents](https://arxiv.org/abs/2608.01827)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -524,7 +525,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Direct Image-to-Modern Vietnamese Translation of Han-Nom Manuscripts via Multimodal RLHF Preference Alignment](https://arxiv.org/abs/2607.11434)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-13 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization` · `RLHF` · `PPO` · `Multimodal`  
-  Authors: Thi Kim Trang Vo, Nghia Hieu Nguyen, Ha Minh Tan
+  Authors: Thi Kim Trang Vo, Nghia Hieu Nguyen, Ha Minh Tan  
+  Institutions*: University of Information Technology, Vietnam National University, Ho Chi Minh city, Vietnam
 
 - 🔎 **[Towards Predictive, Aligned, and Scalable Robot Learning](https://arxiv.org/abs/2607.11270)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-13 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2232,7 +2234,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://arxiv.org/abs/2512.20618)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-23 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
-  Authors: Runtao Liu, Ziyi Liu, Jiaqi Tang, Yue Ma, Renjie Pi, Jipeng Zhang, Qifeng Chen
+  Authors: Runtao Liu, Ziyi Liu, Jiaqi Tang, Yue Ma, Renjie Pi, Jipeng Zhang, Qifeng Chen  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search](https://arxiv.org/abs/2512.18745)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-21 · `direction-month-query` · `arxiv-monthly-backfill`  

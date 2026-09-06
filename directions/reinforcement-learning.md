@@ -227,7 +227,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Evidence-RL: Towards Evidence-intensive Visual Reasoning](https://arxiv.org/abs/2608.08021)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-08 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Counterfactual` · `GRPO` · `VLM` · `Reasoning`  
-  Authors: Haojie Huang, Xinlei Yu, Chengming Xu, Zhangquan Chen, Cheng Yang, Qingdong He, Yu Yang, Jiangning Zhang, et al.
+  Authors: Haojie Huang, Xinlei Yu, Chengming Xu, Zhangquan Chen, Cheng Yang, Qingdong He, Yu Yang, Jiangning Zhang, et al.  
+  Institutions*: Tencent
 
 - 🔎 **[CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](https://arxiv.org/abs/2608.07460)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-07 · `academic-query-vote` · `arxiv-backfill`  
@@ -282,7 +283,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring](https://arxiv.org/abs/2608.03952)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-04 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `SFT` · `GRPO`  
-  Authors: Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, Zixin Chen
+  Authors: Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, Zixin Chen  
+  Institutions*: Shanghai Jiao Tong University
 
 - 🔎 **[Taming the Implicit: Dual-Channel Risk-Aware Reinforcement Fine-Tuning for Continual Multimodal Post-Training](https://arxiv.org/abs/2608.03660)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-04 · `academic-query-vote` · `arxiv-backfill`  
@@ -292,7 +294,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs](https://arxiv.org/abs/2608.03573)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-04 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `On-policy` · `Reasoning`  
-  Authors: Kejian Zhu, Zhuoran Jin, Shangqing Tu, Hongbang Yuan, Yushi Bai, Kang Liu, Juanzi Li, Jun Zhao
+  Authors: Kejian Zhu, Zhuoran Jin, Shangqing Tu, Hongbang Yuan, Yushi Bai, Kang Liu, Juanzi Li, Jun Zhao  
+  Institutions*: Tsinghua University
 
 - 🔎 **[DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning](https://arxiv.org/abs/2608.03292)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-04 · `academic-query-vote` · `arxiv-backfill`  
@@ -302,7 +305,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Cooperative Coevolution for Resource-Constrained Agentic LLM Post-Training](https://arxiv.org/abs/2608.02391)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-03 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `GRPO` · `Agent` · `Multi-turn`  
-  Authors: Zhiyuan Wang, Shengcai Liu, Jiahao Wu, Ning Lu, Hui Ouyang, Shaofeng Zhang, Haoze Lv, Ke Tang
+  Authors: Zhiyuan Wang, Shengcai Liu, Jiahao Wu, Ning Lu, Hui Ouyang, Shaofeng Zhang, Haoze Lv, Ke Tang  
+  Institutions*: Hong Kong University of Science and Technology; Southern University of Science and Technology
 
 - 🔎 **[Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories](https://arxiv.org/abs/2608.02276)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-03 · `academic-query-vote` · `arxiv-backfill`  
@@ -1618,12 +1622,15 @@ _No visible paper records in this cell yet._
 - 🔎 **[Agentic Physical AI toward a Domain-Specific Foundation Model for Energy Systems: A Case Study on Nuclear Reactor Control](https://arxiv.org/abs/2512.23292)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-29 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent` · `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Yoon Pyo Lee, Samrendra Roy, Kazuma Kobayashi, Sajedul Talukder, Diab Abueidda, Seid Koric, Souvik Chakraborty, Syed Bahauddin Alam
+  Authors: Yoon Pyo Lee, Samrendra Roy, Kazuma Kobayashi, Sajedul Talukder, Diab Abueidda, Seid Koric, Souvik Chakraborty, Syed Bahauddin Alam  
+  Institutions*: Edinboro University; Florida International University  
+  Venue: npj Artificial Intelligence
 
 - 🔎 **[CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal Reasoning](https://arxiv.org/abs/2512.19554)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-22 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLVR` · `GRPO` · `Verifier` · `Multimodal` · `Reasoning`  
-  Authors: Yongxin Wang, Zhicheng Yang, Meng Cao, Mingfei Han, Haokun Lin, Yingying Zhu, Xiaojun Chang, Xiaodan Liang
+  Authors: Yongxin Wang, Zhicheng Yang, Meng Cao, Mingfei Han, Haokun Lin, Yingying Zhu, Xiaojun Chang, Xiaodan Liang  
+  Institutions*: Sun Yat-Sen University
 
 - 🔎 **[SafeMed-R1: Adversarial Reinforcement Learning for Generalizable and Robust Medical Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.19317)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1633,7 +1640,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving](https://arxiv.org/abs/2512.19133)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-22 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Autonomous Driving`  
-  Authors: Pengxuan Yang, Ben Lu, Zhongpu Xia, Chao Han, Yinfeng Gao, Teng Zhang, Kun Zhan, XianPeng Lang, et al.
+  Authors: Pengxuan Yang, Ben Lu, Zhongpu Xia, Chao Han, Yinfeng Gao, Teng Zhang, Kun Zhan, XianPeng Lang, et al.  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[AWPO: Enhancing Tool-Use of Large Language Models through Adaptive Integration of Reasoning Rewards](https://arxiv.org/abs/2512.19126)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1643,7 +1651,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning](https://arxiv.org/abs/2512.18857)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-21 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `RLVR` · `GRPO` · `Verifier` · `Reasoning` · `Math`  
-  Authors: Zijun Gao, Zhikun Xu, Xiao Ye, Ben Zhou
+  Authors: Zijun Gao, Zhikun Xu, Xiao Ye, Ben Zhou  
+  Institutions*: Arizona State University
 
 - 🔎 **[MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation](https://arxiv.org/abs/2512.18766)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-21 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1668,12 +1677,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[Unbiased Visual Reasoning with Controlled Visual Inputs](https://arxiv.org/abs/2512.22183)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-19 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `VLM` · `Reasoning`  
-  Authors: Zhaonan Li, Shijie Lu, Fei Wang, Jacob Dineen, Xiao Ye, Zhikun Xu, Siyi Liu, Young Min Cho, et al.
+  Authors: Zhaonan Li, Shijie Lu, Fei Wang, Jacob Dineen, Xiao Ye, Zhikun Xu, Siyi Liu, Young Min Cho, et al.  
+  Institutions*: Arizona State University
 
 - 🔎 **[Deep But Reliable: Advancing Multi-turn Reasoning for Thinking with Images](https://arxiv.org/abs/2512.17306)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-19 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multi-turn` · `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Wenhao Yang, Yu Xia, Jinlong Huang, Shiyin Lu, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, et al.
+  Authors: Wenhao Yang, Yu Xia, Jinlong Huang, Shiyin Lu, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, et al.  
+  Institutions*: Zhejiang University
 
 - 🔎 **[MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation](https://arxiv.org/abs/2512.17194)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-19 · `direction-month-query` · `arxiv-monthly-backfill`  

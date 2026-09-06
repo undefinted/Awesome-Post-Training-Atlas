@@ -1,2 +1,13 @@
-papers: []
-
+papers:
+- id: doi:10.1088/1748-9326/aea2ab
+  reason: Domain-specific conservation planning application; not foundation-model post-training.
+- id: doi:10.2139/ssrn.7411820
+  reason: Operations-research scheduling policy; outside the atlas foundation-model scope.
+- id: doi:10.2139/ssrn.7386258
+  reason: Conceptual verifier process theory without a model post-training method.
+- id: doi:10.2139/ssrn.7411573
+  reason: Domain-specific sensor-tasking DRL application; not foundation-model post-training.
+- id: doi:10.3390/s26175632
+  reason: Counter-UAS multi-agent DRL application; outside the atlas foundation-model scope.
+- id: doi:10.1007/s40747-026-02488-w
+  reason: Domain-specific IoT decision-support RL application; not foundation-model post-training.

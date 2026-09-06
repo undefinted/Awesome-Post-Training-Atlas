@@ -165,7 +165,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[CodecArena: Codec Quality Assessment via Visual Reinforcement Learning](https://arxiv.org/abs/2608.09139)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-10 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `GRPO` · `Video Generation` · `Reasoning` · `Code`  
-  Authors: Jiaye Fu, Weiqi Li, Qiankun Gao, Yanchen Zhao, Xiandong Meng, Jian Zhang, Siwei Ma, Jiaqi Zhang
+  Authors: Jiaye Fu, Weiqi Li, Qiankun Gao, Yanchen Zhao, Xiandong Meng, Jian Zhang, Siwei Ma, Jiaqi Zhang  
+  Institutions*: Peking University
 
 - 🔎 **[FlowErase-OPD: Multi-Concept Erasure via Anchored On-Policy Distillation in Flow Matching Models](https://arxiv.org/abs/2608.07620)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-07 · `academic-query-vote` · `arxiv-backfill`  
@@ -185,7 +186,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
-  Authors: Jinha Kim, Younghun Roh, Jaeyeon Kim
+  Authors: Jinha Kim, Younghun Roh, Jaeyeon Kim  
+  Institutions*: Harvard University
 
 - 🔎 **[Sample-Adaptive Latent Rewards for Uncertainty-Guided Diffusion Post-Training](https://arxiv.org/abs/2608.06125)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
@@ -210,7 +212,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://arxiv.org/abs/2608.04436)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `GRPO` · `Agent` · `Tool Use` · `Multimodal` · `Image Generation` · `Reasoning`  
-  Authors: Jiahao Zhao, Xiaomin Yu, Zhongxiang Sun, Fengwei Teng, Chengwei Qin, Xiaobin Hu, Jun Xu, Shuicheng Yan
+  Authors: Jiahao Zhao, Xiaomin Yu, Zhongxiang Sun, Fengwei Teng, Chengwei Qin, Xiaobin Hu, Jun Xu, Shuicheng Yan  
+  Institutions*: Renmin University of China
 
 - 🔎 **[GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model](https://arxiv.org/abs/2608.03215)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -979,7 +982,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Dichotomous Diffusion Policy Optimization](https://arxiv.org/abs/2601.00898)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLA` · `Autonomous Driving`  
-  Authors: Ruiming Liang, Yinan Zheng, Kexin Zheng, Tianyi Tan, Jianxiong Li, Liyuan Mao, Zhihao Wang, Guang Chen, et al.
+  Authors: Ruiming Liang, Yinan Zheng, Kexin Zheng, Tianyi Tan, Jianxiong Li, Liyuan Mao, Zhihao Wang, Guang Chen, et al.  
+  Institutions*: Institute for AI Industry Research; Institute for AI Industry Research (AIR), Tsinghua University
 
 - 🔎 **[ReDiF: Reinforced Distillation for Few Step Diffusion](https://arxiv.org/abs/2512.22802)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -989,7 +993,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[Parallel Diffusion Solver via Residual Dirichlet Policy Optimization](https://arxiv.org/abs/2512.22796)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Diffusion` · `Image Generation`  
-  Authors: Ruoyu Wang, Ziyu Li, Beier Zhu, Liangyu Yuan, Hanwang Zhang, Xun Yang, Xiaojun Chang, Chi Zhang
+  Authors: Ruoyu Wang, Ziyu Li, Beier Zhu, Liangyu Yuan, Hanwang Zhang, Xun Yang, Xiaojun Chang, Chi Zhang  
+  Institutions*: The Chinese University of Hong Kong  
+  Venue: [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://www.computer.org/tpami/)
 
 - 🔎 **[A Reinforcement Learning Approach to Synthetic Data Generation](https://arxiv.org/abs/2512.21395)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-24 · `direction-month-query` · `arxiv-monthly-backfill`  

@@ -279,7 +279,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[How Much, Then Where: Credit-Conserving Action-to-Token Allocation for Multi-Turn Agent Reinforcement Learning](https://arxiv.org/abs/2608.07118)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-07 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Multi-turn`  
-  Authors: Lichao Ma, Yang Sun, Shuaitao Zhao, Yangyi Fang, Cong Qin, Xiaoliang Fu, Yuhang Tian, Yuchen Wei, et al.
+  Authors: Lichao Ma, Yang Sun, Shuaitao Zhao, Yangyi Fang, Cong Qin, Xiaoliang Fu, Yuhang Tian, Yuchen Wei, et al.  
+  Institutions*: Foundation Model, General Agent, Agentic RL; Fudan University
 
 - 🔎 **[EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.06197)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -415,7 +416,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-23 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement` · `Agent` · `Tool Use` · `Long-horizon` · `Reasoning`  
-  Authors: Shuqi Lu, Chaofan Li, Kun Luo, Zhang Zhang, Hui Wang, Hongwang Xiao, Lei Xiong, Jiahao Wang, et al.
+  Authors: Shuqi Lu, Chaofan Li, Kun Luo, Zhang Zhang, Hui Wang, Hongwang Xiao, Lei Xiong, Jiahao Wang, et al.  
+  Institutions*: GSAI; Renmin University of China
 
 - 🔎 **[Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21653)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -430,7 +432,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[OmniReasoner: Thinking with Long Audio-Video via Native Tool Use](https://arxiv.org/abs/2607.19339)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-21 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Tool Use` · `Reasoning`  
-  Authors: Yu Chen, Caorui Li, Ziyu Xiong, Yidong Wang, Mingqi Gao, Shuman Liu, Biao Liu, Chunfeng Yang, et al.
+  Authors: Yu Chen, Caorui Li, Ziyu Xiong, Yidong Wang, Mingqi Gao, Shuman Liu, Biao Liu, Chunfeng Yang, et al.  
+  Institutions*: University of Chinese Academy of Sciences
 
 - 🔎 **[A Self-Evolving Default Action for Cooperative Tasks with Continuous Action Space](https://arxiv.org/abs/2607.18597)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-21 · `academic-query-vote` · `arxiv-backfill`  
@@ -475,7 +478,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning](https://arxiv.org/abs/2607.16131)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-17 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `GRPO` · `Tool Use` · `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Binglin Zhou, Peng Shi, Ryo Kamoi, Nan Zhang, Rui Zhang
+  Authors: Binglin Zhou, Peng Shi, Ryo Kamoi, Nan Zhang, Rui Zhang  
+  Institutions*: Penn State University
 
 - 🔎 **[DSWorld: A Data Science World Model for Efficient Autonomous Agents](https://arxiv.org/abs/2607.15901)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-17 · `academic-query-vote` · `arxiv-backfill`  
@@ -485,7 +489,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.15660)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-17 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Agent` · `Tool Use` · `Long-horizon` · `Reasoning`  
-  Authors: Shuaiyu Zhou, Fengpeng Yue, Zengjie Hu, Yuanzhe Shen, Chenyang Zhang, feng hong, Cao Liu, Ke Zeng
+  Authors: Shuaiyu Zhou, Fengpeng Yue, Zengjie Hu, Yuanzhe Shen, Chenyang Zhang, feng hong, Cao Liu, Ke Zeng  
+  Institutions*: Tongji University
 
 - 🔎 **[Process Reward Informed Tree Rollout for Effective Multi-Turn RL](https://arxiv.org/abs/2607.15610)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1503,7 +1508,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[NVIDIA Nemotron 3: Efficient and Open Intelligence](https://arxiv.org/abs/2512.20856)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent` · `Tool Use` · `Reasoning`  
-  Authors:  NVIDIA,  :, Aaron Blakeman, Aaron Grattafiori, Aarti Basant, Abhibha Gupta, Abhinav Khattar, Adi Renduchintala, et al.
+  Authors:  NVIDIA,  :, Aaron Blakeman, Aaron Grattafiori, Aarti Basant, Abhibha Gupta, Abhinav Khattar, Adi Renduchintala, et al.  
+  Institutions*: Microsoft AI; NVIDIA; New York University; Stanford University; University of British Columbia
 
 - 🔎 **[MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization](https://arxiv.org/abs/2512.20135)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1513,7 +1519,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[From Word to World: Can Large Language Models be Implicit Text-based World Models?](https://arxiv.org/abs/2512.18832)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-21 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent`  
-  Authors: Yixia Li, Hongru Wang, Jiahao Qiu, Zhenfei Yin, Dongdong Zhang, Cheng Qian, Zeping Li, Pony Ma, et al.
+  Authors: Yixia Li, Hongru Wang, Jiahao Qiu, Zhenfei Yin, Dongdong Zhang, Cheng Qian, Zeping Li, Pony Ma, et al.  
+  Institutions*: Southern University of Science and Technology; The Chinese University of Hong Kong, University of Edinburgh  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Embedded Safety-Aligned Intelligence via Differentiable Internal Alignment Embeddings](https://arxiv.org/abs/2512.18309)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-20 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1523,7 +1531,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Seed-Prover 1.5: Mastering Undergraduate-Level Theorem Proving via Learning from Experience](https://arxiv.org/abs/2512.17260)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-19 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent` · `Reasoning` · `Math`  
-  Authors: Jiangjie Chen, Wenxiang Chen, Jiacheng Du, Jinyi Hu, Zhicheng Jiang, Allan Jie, Xiaoran Jin, Xing Jin, et al.
+  Authors: Jiangjie Chen, Wenxiang Chen, Jiacheng Du, Jinyi Hu, Zhicheng Jiang, Allan Jie, Xiaoran Jin, Xing Jin, et al.  
+  Institutions*: Carnegie Mellon University
 
 - 🔎 **[INTELLECT-3: Technical Report](https://arxiv.org/abs/2512.16144)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
