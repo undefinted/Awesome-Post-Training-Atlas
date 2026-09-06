@@ -63,7 +63,7 @@ def build_search(query: str, categories: list[str]) -> str:
     return f"({query}) AND ({category_clause})"
 
 
-def urlopen_with_retry(request: urllib.request.Request, timeout: int = 45, attempts: int = 5):
+def urlopen_with_retry(request: urllib.request.Request, timeout: int = 45, attempts: int = 3):
     error = None
     for attempt in range(attempts):
         try:
@@ -320,6 +320,9 @@ def discover(days: int) -> list[dict]:
             # Preserve useful results from other independent queries. A transient
             # failure must not discard the entire daily discovery run.
             print(f"Warning: skipping failed arXiv query {query!r}: {exc}", file=sys.stderr)
+            if isinstance(exc, HTTPError) and exc.code == 429:
+                print("Warning: arXiv is throttling this runner; continuing with other academic signals.", file=sys.stderr)
+                break
             continue
         for paper in query_papers:
             if direction:
