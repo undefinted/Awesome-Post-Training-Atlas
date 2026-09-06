@@ -1,9 +1,11 @@
 import unittest
+from unittest.mock import patch
+from urllib.error import HTTPError
 from pathlib import Path
 
 import yaml
 
-from radar.main import extract_project_page
+from radar.main import extract_project_page, urlopen_with_retry
 from radar.site import analytics
 
 
@@ -96,6 +98,16 @@ class PaperDataTests(unittest.TestCase):
             "https://example.org/demo/",
         )
         self.assertIsNone(extract_project_page("We cite https://example.org but provide no project page."))
+
+    def test_arxiv_429_uses_retry_after_and_recovers(self):
+        throttled = HTTPError("https://export.arxiv.org", 429, "rate limited", {"Retry-After": "7"}, None)
+        response = object()
+        with patch("radar.main.urllib.request.urlopen", side_effect=[throttled, response]) as mocked_open, patch(
+            "radar.main.time.sleep"
+        ) as mocked_sleep:
+            self.assertIs(urlopen_with_retry(object(), attempts=2), response)
+        self.assertEqual(mocked_open.call_count, 2)
+        mocked_sleep.assert_called_once_with(7)
 
     def test_label_ids_are_unique(self):
         labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))["labels"]

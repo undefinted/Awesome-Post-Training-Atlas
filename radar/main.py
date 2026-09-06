@@ -5,9 +5,11 @@ import datetime as dt
 import json
 import os
 import re
+import sys
 import time
 import urllib.parse
 import urllib.request
+from urllib.error import HTTPError
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
@@ -61,7 +63,7 @@ def build_search(query: str, categories: list[str]) -> str:
     return f"({query}) AND ({category_clause})"
 
 
-def urlopen_with_retry(request: urllib.request.Request, timeout: int = 45, attempts: int = 4):
+def urlopen_with_retry(request: urllib.request.Request, timeout: int = 45, attempts: int = 5):
     error = None
     for attempt in range(attempts):
         try:
@@ -69,7 +71,15 @@ def urlopen_with_retry(request: urllib.request.Request, timeout: int = 45, attem
         except Exception as exc:  # network services occasionally throttle or return 5xx
             error = exc
             if attempt + 1 < attempts:
-                time.sleep(2 ** attempt)
+                retry_after = 0
+                if isinstance(exc, HTTPError) and exc.code == 429:
+                    try:
+                        retry_after = int(exc.headers.get("Retry-After", "0"))
+                    except (TypeError, ValueError):
+                        retry_after = 0
+                # arXiv commonly needs a materially longer pause than a generic 5xx.
+                delay = retry_after or ((10 * (attempt + 1)) if isinstance(exc, HTTPError) and exc.code == 429 else 2 ** attempt)
+                time.sleep(min(delay, 45))
     raise error
 
 
@@ -299,12 +309,19 @@ def discover(days: int) -> list[dict]:
             time.sleep(3)
         query = spec["query"] if isinstance(spec, dict) else spec
         direction = spec.get("direction") if isinstance(spec, dict) else None
-        for paper in fetch_query(
-            query,
-            radar["arxiv"]["categories"],
-            radar["arxiv"]["max_results_per_query"],
-            radar["arxiv"].get("page_size", 100),
-        ):
+        try:
+            query_papers = fetch_query(
+                query,
+                radar["arxiv"]["categories"],
+                radar["arxiv"]["max_results_per_query"],
+                radar["arxiv"].get("page_size", 100),
+            )
+        except Exception as exc:
+            # Preserve useful results from other independent queries. A transient
+            # failure must not discard the entire daily discovery run.
+            print(f"Warning: skipping failed arXiv query {query!r}: {exc}", file=sys.stderr)
+            continue
+        for paper in query_papers:
             if direction:
                 paper["direction_hints"] = [direction]
             if paper["date"] >= cutoff and paper["id"] not in known:
