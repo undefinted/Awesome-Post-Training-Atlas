@@ -36,6 +36,7 @@ jobs:
           python -m radar.enrich --include-candidates --candidate-limit 500
           python -m radar.labels
           python -m radar.render
+          python -m radar.coverage
           python -m radar.site
           python -m unittest discover -s tests
           python -m radar.labels --check
