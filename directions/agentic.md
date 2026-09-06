@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**512 papers**: 2 curated and 510 academic discovery candidates.
+**515 papers**: 2 curated and 513 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓55 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓3 · [Aug](#2026-08) ✓55 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓20 · [Oct](#2025-10) ✓33 · [Sep](#2025-09) ✓33 · [Aug](#2025-08) ✓14 · [Jul](#2025-07) ✓11 · [Jun](#2025-06) ✓13 · [May](#2025-05) ✓16 · [Apr](#2025-04) ✓6 · [Mar](#2025-03) ✓8 · [Feb](#2025-02) ✓7 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓6 · [Nov](#2024-11) ✓4 · [Oct](#2024-10) ✓6 · [Sep](#2024-09) ✓2 · [Aug](#2024-08) ✓4 · [Jul](#2024-07) ✓0 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓7 · [Feb](#2024-02) ✓4 · [Jan](#2024-01) ✓3
 - [2023](#2023) — [Feb](#2023-02) ◐1
@@ -21,6 +21,27 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-09"></a>
+
+### September
+
+> **Audit status:** ✓ Complete · scanned 4 academic records · 0 eligible · checked 2026-09-02T04:49:33.693612+00:00.
+
+- 🔎 **[FiMI Banking: A Sovereign Model for Indian Retail Banking](https://arxiv.org/abs/2609.03960)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `Preference Optimization` · `RLVR` · `Tool Use` · `Multi-turn`  
+  Authors:  NPCI AI Research Team, Aman Kumar, Asit Desai, Chandra Bhushan, Harsh Sharma, Harshit Bhushan, Hrithik Kadam, Keyur Doshi, et al.
+
+- 🔎 **[DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](https://arxiv.org/abs/2609.04094)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `RLVR` · `GRPO` · `Verifier` · `Agent` · `Long-horizon`  
+  Authors: Shubham Gandhi, Saurabh Goyal, Kiran Kate, Yara Rizk
+
+- 🔎 **[Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://arxiv.org/abs/2609.04148)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `SFT`  
+  Authors: Jie Wu, Zhenru Zhang, Beichen Zhang, Xuwu Wang, Yuhui Su, Mouxiang Chen, Peng Wang, Zhihai Wang, et al.
 
 <a id="2026-08"></a>
 

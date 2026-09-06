@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**358 papers**: 23 curated and 335 academic discovery candidates.
+**362 papers**: 23 curated and 339 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓1 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
+- [2026](#2026) — [Sep](#2026-09) ✓5 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
 - [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · [Jan](#2025-01) ✓0
 - [2024](#2024) — [Dec](#2024-12) ✓3 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓3 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓1 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓0 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓3 · [Feb](#2024-02) ✓1 · [Jan](#2024-01) ✓1
 
@@ -25,6 +25,26 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 3 academic records · 3 eligible · checked 2026-09-02T04:49:28.867031+00:00.
+
+- 🔎 **[Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR](https://arxiv.org/abs/2609.04108)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `OPD` · `Distillation` · `SFT` · `RLVR` · `On-policy` · `Reasoning` · `Math`  
+  Authors: Boyan Li, Bingsen Chen, Chenghao Yang, Ping Nie, Chen Zhao, Xi Ye
+
+- 🔎 **[Rethinking On-Policy Distillation of Large Language Models II: One Training Example](https://arxiv.org/abs/2609.04172)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `OPD` · `Distillation` · `On-policy`  
+  Authors: Zixuan Fu, Bingxiang He, Yuxin Zuo, Haohuan Huang, Jinqian Zhang, Ruhang Xiao, Cheng Qian, Qinyu Luo, et al.
+
+- 🔎 **[FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://arxiv.org/abs/2609.03241)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `OPSD` · `On-policy` · `Verifier` · `Self-improvement` · `Reasoning` · `Math`  
+  Authors: Zixun Huang, Kishan Panaganti, Haitao Mi, Leowei Liang
+
+- 🔎 **[Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty](https://arxiv.org/abs/2609.03699)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `Distillation` · `Robotics`  
+  Authors: Vladimir Krsmanovic, Florian Kohn, Bernd Finkbeiner, Milan Simovic
 
 - 🔎 **[Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall](https://arxiv.org/abs/2609.01532)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
