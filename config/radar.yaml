@@ -39,6 +39,27 @@ huggingface_daily:
   enabled: true
   limit: 200
 
+# Public academic indexes complement arXiv. They are discovery/metadata
+# signals only; links are normalized to arXiv or DOI whenever possible.
+academic_indexes:
+  queries:
+    - {direction: supervised-adaptation, query: 'instruction tuning supervised fine tuning'}
+    - {direction: preference-alignment, query: 'preference optimization DPO RLHF'}
+    - {direction: reward-verifiers, query: 'reward model verifier process supervision'}
+    - {direction: reinforcement-learning, query: 'RLVR verifiable reward reinforcement learning'}
+    - {direction: distillation, query: 'on policy distillation reasoning distillation'}
+    - {direction: reasoning-self-improvement, query: 'self improvement self training reasoning'}
+    - {direction: agentic, query: 'agent training tool use reinforcement learning'}
+    - {direction: multimodal, query: 'multimodal VLM preference alignment reinforcement learning'}
+    - {direction: generative-media, query: 'diffusion preference optimization human feedback'}
+    - {direction: embodied-vla, query: 'vision language action robot autonomous driving post training'}
+  semantic_scholar:
+    enabled: true
+    limit_per_query: 40
+  crossref:
+    enabled: true
+    rows_per_query: 30
+
 filter:
   minimum_score: 3
   max_candidates_per_run: 180
@@ -80,4 +101,3 @@ llm:
   default_model: gpt-5.4-mini
   batch_size: 10
   minimum_relevance: 0.65
-

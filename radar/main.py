@@ -20,6 +20,8 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 ARXIV_API = "https://export.arxiv.org/api/query"
 HF_DAILY_API = "https://huggingface.co/api/daily_papers"
+S2_API = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
+CROSSREF_API = "https://api.crossref.org/works"
 ATOM = {"atom": "http://www.w3.org/2005/Atom"}
 
 
@@ -32,6 +34,41 @@ def normalize_arxiv_id(url: str) -> str:
     value = url.rstrip("/").split("/")[-1]
     value = re.sub(r"v\d+$", "", value)
     return f"arxiv:{value.lower()}"
+
+
+def normalize_doi(value: str) -> str:
+    value = re.sub(r"^https?://(?:dx\.)?doi\.org/", "", str(value).strip(), flags=re.IGNORECASE)
+    return f"doi:{value.lower()}"
+
+
+def canonical_id(external_ids: dict | None = None, fallback: str | None = None) -> str:
+    ids = external_ids or {}
+    arxiv = ids.get("ArXiv") or ids.get("arxiv")
+    if arxiv:
+        return normalize_arxiv_id(str(arxiv))
+    doi = ids.get("DOI") or ids.get("doi")
+    if doi:
+        return normalize_doi(str(doi))
+    if fallback:
+        return fallback.lower()
+    raise ValueError("No stable academic identifier")
+
+
+def strip_markup(value: str) -> str:
+    return " ".join(re.sub(r"<[^>]+>", " ", value or "").split())
+
+
+def date_from_parts(parts: list | None) -> str | None:
+    if not parts:
+        return None
+    values = list(parts[0])
+    if not values:
+        return None
+    values += [1] * (3 - len(values))
+    try:
+        return dt.date(int(values[0]), int(values[1]), int(values[2])).isoformat()
+    except (TypeError, ValueError):
+        return None
 
 
 def extract_project_page(text: str) -> str | None:
@@ -56,6 +93,32 @@ def existing_ids() -> set[str]:
         payload = load_yaml(ROOT / "data" / name) or {}
         ids.update(str(paper["id"]).lower() for paper in payload.get("papers", []))
     return ids
+
+
+def normalized_title(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", (value or "").lower())
+
+
+def record_identity_keys(paper: dict) -> set[str]:
+    keys = {str(paper["id"]).lower()}
+    title = normalized_title(paper.get("title", ""))
+    if title:
+        keys.add(f"title:{title}")
+    url = str(paper.get("url") or "")
+    if "arxiv.org/" in url:
+        keys.add(normalize_arxiv_id(url))
+    if "doi.org/" in url:
+        keys.add(normalize_doi(url))
+    return keys
+
+
+def existing_identity_keys() -> set[str]:
+    keys: set[str] = set()
+    for name in ("papers.yaml", "candidates.yaml", "rejected.yaml"):
+        payload = load_yaml(ROOT / "data" / name) or {}
+        for paper in payload.get("papers", []):
+            keys.update(record_identity_keys(paper))
+    return keys
 
 
 def build_search(query: str, categories: list[str]) -> str:
@@ -173,11 +236,113 @@ def fetch_huggingface_daily(days: int, limit: int) -> list[dict]:
     return papers
 
 
+def fetch_semantic_scholar(query: str, direction: str, start_date: str, end_date: str, limit: int) -> list[dict]:
+    params = urllib.parse.urlencode(
+        {
+            "query": query,
+            "publicationDateOrYear": f"{start_date}:{end_date}",
+            "fields": "title,abstract,authors,publicationDate,url,externalIds,openAccessPdf,venue",
+            "limit": limit,
+        }
+    )
+    headers = {"User-Agent": "Awesome-Post-Training-Atlas/0.1 (GitHub paper radar)"}
+    if os.getenv("SEMANTIC_SCHOLAR_API_KEY"):
+        headers["x-api-key"] = os.environ["SEMANTIC_SCHOLAR_API_KEY"]
+    request = urllib.request.Request(f"{S2_API}?{params}", headers=headers)
+    with urlopen_with_retry(request) as response:
+        payload = json.loads(response.read())
+    papers = []
+    for item in payload.get("data", [])[:limit]:
+        external = item.get("externalIds") or {}
+        paper_id = canonical_id(external, f"semantic-scholar:{item['paperId']}")
+        arxiv = external.get("ArXiv")
+        doi = external.get("DOI")
+        open_pdf = (item.get("openAccessPdf") or {}).get("url")
+        primary_url = (
+            f"https://arxiv.org/abs/{arxiv}" if arxiv else f"https://doi.org/{doi}" if doi else item.get("url")
+        )
+        date = item.get("publicationDate")
+        if not date or not primary_url or not item.get("authors"):
+            continue
+        papers.append(
+            {
+                "id": paper_id,
+                "title": item.get("title") or paper_id,
+                "date": date,
+                "updated": date,
+                "url": primary_url,
+                "abstract": item.get("abstract") or "",
+                "authors": [a.get("name", "") for a in item.get("authors", []) if a.get("name")],
+                "source_signals": ["semantic-scholar"],
+                "source_links": {"semantic_scholar": item.get("url")},
+                "direction_hints": [direction],
+                **({"open_access_pdf": open_pdf} if open_pdf else {}),
+                **({"venue": item.get("venue"), "venue_source": item.get("url")} if item.get("venue") else {}),
+            }
+        )
+    return papers
+
+
+def fetch_crossref(query: str, direction: str, start_date: str, end_date: str, rows: int) -> list[dict]:
+    params = urllib.parse.urlencode(
+        {
+            "query.bibliographic": query,
+            "filter": f"from-created-date:{start_date},until-created-date:{end_date}",
+            "rows": rows,
+            "select": "DOI,title,author,abstract,created,URL,published,container-title,type",
+        }
+    )
+    request = urllib.request.Request(
+        f"{CROSSREF_API}?{params}",
+        headers={"User-Agent": "Awesome-Post-Training-Atlas/0.1 (GitHub paper radar)"},
+    )
+    with urlopen_with_retry(request) as response:
+        payload = json.loads(response.read())
+    papers = []
+    for item in payload.get("message", {}).get("items", []):
+        doi = item.get("DOI")
+        created = str((item.get("created") or {}).get("date-time") or "")[:10]
+        published_parts = (item.get("published") or {}).get("date-parts")
+        published = date_from_parts(published_parts)
+        if published_parts and len(published_parts[0]) < 3:
+            published = None
+        # The deposit date is the observable public discovery date. Some
+        # publishers deposit records carrying a future or year-only date.
+        date = published if published and published <= end_date else created
+        titles = item.get("title") or []
+        if not doi or not date or not titles or not item.get("author"):
+            continue
+        authors = []
+        for author in item.get("author", []):
+            name = " ".join(part for part in (author.get("given"), author.get("family")) if part)
+            if name:
+                authors.append(name)
+        venue = (item.get("container-title") or [None])[0]
+        url = f"https://doi.org/{doi}"
+        papers.append(
+            {
+                "id": normalize_doi(doi),
+                "title": strip_markup(titles[0]),
+                "date": date,
+                "updated": created or date,
+                "url": url,
+                "abstract": strip_markup(item.get("abstract") or ""),
+                "authors": authors,
+                "source_signals": ["crossref"],
+                "source_links": {"crossref": item.get("URL") or url},
+                "direction_hints": [direction],
+                **({"venue": strip_markup(venue), "venue_source": url} if venue else {}),
+            }
+        )
+    return papers
+
+
 def merge_source_record(target: dict, incoming: dict) -> None:
     target["source_signals"] = sorted(set(target.get("source_signals", [])) | set(incoming.get("source_signals", [])))
     for key in ("huggingface", "code", "project_page"):
         if incoming.get(key):
             target[key] = incoming[key]
+    target["source_links"] = {**target.get("source_links", {}), **incoming.get("source_links", {})}
     target["direction_hints"] = sorted(
         set(target.get("direction_hints", [])) | set(incoming.get("direction_hints", []))
     )
@@ -301,11 +466,26 @@ def llm_triage(papers: list[dict], config: dict, directions: list[dict]) -> dict
 def discover(days: int) -> list[dict]:
     radar = load_yaml(ROOT / "config" / "radar.yaml")
     directions = load_yaml(ROOT / "config" / "taxonomy.yaml")["directions"]
-    known = existing_ids()
+    known = existing_identity_keys()
     cutoff = (dt.date.today() - dt.timedelta(days=days)).isoformat()
     submitted_from = cutoff.replace("-", "") + "0000"
     submitted_to = dt.date.today().isoformat().replace("-", "") + "2359"
     found: dict[str, dict] = {}
+    found_keys: dict[str, str] = {}
+
+    def store_found(paper: dict) -> None:
+        keys = record_identity_keys(paper)
+        if keys & known:
+            return
+        matched_id = next((found_keys[key] for key in keys if key in found_keys), None)
+        if matched_id:
+            merge_source_record(found[matched_id], paper)
+            for key in keys:
+                found_keys[key] = matched_id
+            return
+        found[paper["id"]] = paper
+        for key in keys:
+            found_keys[key] = paper["id"]
     for index, spec in enumerate(radar["arxiv"]["queries"]):
         if index:
             time.sleep(3)
@@ -330,11 +510,8 @@ def discover(days: int) -> list[dict]:
         for paper in query_papers:
             if direction:
                 paper["direction_hints"] = [direction]
-            if paper["date"] >= cutoff and paper["id"] not in known:
-                if paper["id"] in found:
-                    merge_source_record(found[paper["id"]], paper)
-                else:
-                    found[paper["id"]] = paper
+            if paper["date"] >= cutoff:
+                store_found(paper)
     if radar.get("huggingface_daily", {}).get("enabled"):
         try:
             daily_papers = fetch_huggingface_daily(days, radar["huggingface_daily"]["limit"])
@@ -344,12 +521,34 @@ def discover(days: int) -> list[dict]:
             print(f"Warning: skipping unavailable Hugging Face daily signal: {exc}", file=sys.stderr)
             daily_papers = []
         for paper in daily_papers:
-            if paper["id"] in known:
+            store_found(paper)
+    indexes = radar.get("academic_indexes", {})
+    for spec in indexes.get("queries", []):
+        sources = []
+        if indexes.get("semantic_scholar", {}).get("enabled"):
+            sources.append(
+                (
+                    "Semantic Scholar",
+                    fetch_semantic_scholar,
+                    (spec["query"], spec["direction"], cutoff, dt.date.today().isoformat(), indexes["semantic_scholar"]["limit_per_query"]),
+                )
+            )
+        if indexes.get("crossref", {}).get("enabled"):
+            sources.append(
+                (
+                    "Crossref",
+                    fetch_crossref,
+                    (spec["query"], spec["direction"], cutoff, dt.date.today().isoformat(), indexes["crossref"]["rows_per_query"]),
+                )
+            )
+        for source_name, fetcher, arguments in sources:
+            try:
+                indexed_papers = fetcher(*arguments)
+            except Exception as exc:
+                print(f"Warning: skipping unavailable {source_name} query {spec['query']!r}: {exc}", file=sys.stderr)
                 continue
-            if paper["id"] in found:
-                merge_source_record(found[paper["id"]], paper)
-            else:
-                found[paper["id"]] = paper
+            for paper in indexed_papers:
+                store_found(paper)
     shortlisted = []
     for paper in found.values():
         score, reasons = rule_score(paper, radar["filter"])

@@ -5,7 +5,7 @@ from pathlib import Path
 
 import yaml
 
-from radar.main import extract_project_page, urlopen_with_retry
+from radar.main import canonical_id, date_from_parts, extract_project_page, normalize_doi, record_identity_keys, strip_markup, urlopen_with_retry
 from radar.site import analytics
 
 
@@ -74,7 +74,9 @@ class PaperDataTests(unittest.TestCase):
         for paper in candidates:
             direction = paper.get("direction") or paper.get("suggested_direction")
             self.assertIn(direction, self.directions, paper["id"])
-            self.assertIn("arxiv", " ".join(paper.get("source_signals", [])).lower(), paper["id"])
+            allowed_sources = ("arxiv", "semantic-scholar", "crossref", "openreview")
+            signals = paper.get("source_signals", [])
+            self.assertTrue(any(signal.startswith(allowed_sources) for signal in signals), paper["id"])
             self.assertTrue(paper.get("authors"), paper["id"])
             self.assertFalse(set(paper.get("auto_labels", [])) - self.labels, paper["id"])
             if paper.get("institutions"):
@@ -108,6 +110,14 @@ class PaperDataTests(unittest.TestCase):
             self.assertIs(urlopen_with_retry(object(), attempts=2), response)
         self.assertEqual(mocked_open.call_count, 2)
         mocked_sleep.assert_called_once_with(7)
+
+    def test_public_index_identifier_normalization(self):
+        self.assertEqual(canonical_id({"ArXiv": "2609.00123v2", "DOI": "10.1/ABC"}), "arxiv:2609.00123")
+        self.assertEqual(canonical_id({"DOI": "https://doi.org/10.1/ABC"}), "doi:10.1/abc")
+        self.assertEqual(normalize_doi("https://dx.doi.org/10.2/XYZ"), "doi:10.2/xyz")
+        self.assertEqual(date_from_parts([[2026, 9]]), "2026-09-01")
+        self.assertEqual(strip_markup("<jats:p>A <b>paper</b>.</jats:p>"), "A paper .")
+        self.assertIn("title:samepaper", record_identity_keys({"id": "doi:10.1/a", "title": "Same Paper!"}))
 
     def test_label_ids_are_unique(self):
         labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))["labels"]

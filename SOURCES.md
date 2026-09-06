@@ -9,12 +9,17 @@ itself.
 | Source | Role | Target latency | Stored signal |
 |---|---|---:|---|
 | arXiv | Primary preprint discovery | 24–48 hours | ID, title, abstract, date, categories |
+| Semantic Scholar | Cross-repository discovery and identifier matching | 24–72 hours | arXiv/DOI IDs, abstract, open-access link, venue |
+| Crossref | DOI deposit and publisher metadata discovery | 24–72 hours | DOI, deposit/publication date, venue, publisher landing page |
 | Hugging Face Daily Papers | Community prioritization and code discovery | 24 hours | upvotes, discussion page, repository |
 | OpenReview | Conference submission and review signal | 1–7 days | forum, venue, decision/review state |
-| Semantic Scholar | Metadata enrichment and version matching | 1–7 days | DOI, venue, citations, external IDs |
 | GitHub | Implementation verification | 1–7 days | official repository and activity |
 
-The repository-native Daily Radar fetches arXiv and Hugging Face every day.
+The repository-native Daily Radar fetches arXiv, Semantic Scholar, Crossref,
+and Hugging Face every day. Records discovered through an index link to the
+original arXiv record or DOI landing page whenever one exists; the index URL is
+retained as provenance. A failure or rate limit in one source does not cancel
+results from the other sources.
 The Weekly Backfill Radar queries arXiv directly, walks older result pages with
 persistent per-query cursors, and records its exact date window, offsets, and
 result counts. OpenReview and Semantic Scholar are used to resolve conference
