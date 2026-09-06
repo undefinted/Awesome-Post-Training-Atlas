@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**821 papers**: 2 curated and 819 academic discovery candidates.
+**825 papers**: 2 curated and 823 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓2 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓6 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓36 · [Oct](#2025-10) ✓43 · [Sep](#2025-09) ✓37 · [Aug](#2025-08) ✓26 · [Jul](#2025-07) ✓26 · [Jun](#2025-06) ✓34 · [May](#2025-05) ✓35 · [Apr](#2025-04) ✓12 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓7
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
@@ -26,6 +26,26 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 13 academic records · 5 eligible · checked 2026-09-02T04:49:35.361284+00:00.
+
+- 🔎 **[WorldReward: Reward Modeling for Camera-Conditioned World Models](https://arxiv.org/abs/2609.03952)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `Reward Model` · `VLM` · `Reasoning`  
+  Authors: Yibin Wang, Zehan Wang, Junshu Tang, Zhimin Li, Yujie Zhou, Jiazi Bu, Pengyang Ling, Feng Han, et al.
+
+- 🔎 **[SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation](https://arxiv.org/abs/2609.03806)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `SFT` · `VLM`  
+  Authors: Marco Cipriano, Leonardo Zini, Alexandra Schild, Valentin Teutschbein, Afsana Mimi, Marcella Cornia, Lorenzo Baraldi, Gerard de Melo
+
+- 🔎 **[StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios](https://arxiv.org/abs/2609.03414)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `SFT` · `Multimodal` · `Reasoning`  
+  Authors: Chenglin Wu, Junjie Wu, Jinhang Chen, Mingyang Chen, Zixu Lin, Jiabian Chen, Xinghao Ding, Xiaotong Tu
+
+- 🔎 **[Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning](https://arxiv.org/abs/2609.03729)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Yijun Yang, Shenghe Zheng, Wenbo Li, Jianhui Liu, Haoze Sun, Yanbing Zhang, Jiaxiu Jiang, Lin Song, et al.
 
 - 🔎 **[Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://arxiv.org/abs/2609.01596)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  

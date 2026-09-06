@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**397 papers**: 2 curated and 395 academic discovery candidates.
+**399 papers**: 2 curated and 397 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓2 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓17 · [Nov](#2025-11) ✓19 · [Oct](#2025-10) ✓26 · [Sep](#2025-09) ✓17 · [Aug](#2025-08) ✓12 · [Jul](#2025-07) ✓9 · [Jun](#2025-06) ✓15 · [May](#2025-05) ✓18 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓9 · [Sep](#2024-09) ✓4 · [Aug](#2024-08) ✓3 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓3 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓4 · [Feb](#2024-02) ✓8 · [Jan](#2024-01) ✓2
 - [2023](#2023) — [Nov](#2023-11) ◐1 · [May](#2023-05) ◐1
@@ -20,6 +20,22 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-09"></a>
+
+### September
+
+> **Audit status:** ✓ Complete · scanned 10 academic records · 0 eligible · checked 2026-09-02T04:49:37.032946+00:00.
+
+- 🔎 **[ToPO: Token-Conditioned Preference Routing for Attention-Based Latent Diffusion Models](https://arxiv.org/abs/2609.03688)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `DPO` · `Preference Optimization` · `Reward Model` · `Diffusion`  
+  Authors: Juntao Xu, Shihong Li, Hoi Fan Au, Ning Zhu
+
+- 🔎 **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `SFT`  
+  Authors: Sanyuan Chen, Min-Jae Hwang, Sho Inoue, Anna Sun, Bokai Yu, David Kant, Dongmin Hyun, Dorian Desblancs, et al.
 
 <a id="2026-08"></a>
 

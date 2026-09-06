@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2731 papers**: 5 curated and 2726 academic discovery candidates.
+**2734 papers**: 5 curated and 2729 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓132 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Sep](#2026-09) ✓7 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓132 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓95 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -27,6 +27,21 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 7 academic records · 7 eligible · checked 2026-09-02T04:49:23.243243+00:00.
+
+- 🔎 **[Beyond Shallow Alignment: How Post-Training Methods Determine Refusal Circuits And Steering Robustness](https://arxiv.org/abs/2609.03887)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `SFT` · `Preference Optimization` · `Reasoning` · `Safety`  
+  Authors: Hoang Cuong Nguyen, Mark Dras, Usman Naseem
+
+- 🔎 **[Subspace Inference Enables Efficient Active Reward Learning from Preferences](https://arxiv.org/abs/2609.04066)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `Preference Optimization` · `RLHF` · `Reward Model`  
+  Authors: Yutai Zhou, Erdem Bıyık
+
+- 🔎 **[Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation](https://arxiv.org/abs/2609.03407)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `arxiv`  
+  Labels: `Preference Optimization` · `Multi-turn`  
+  Authors: Yuhe Wu, Guangyu Wang, Yujie Chen, Jiatong Zhang, Yuran Chen, Yutong Zhang, Xiyin Cheng, Wenpeng Cao, et al.
 
 - 🔎 **[SFAD: Speculative Factuality-Aware Decoding](https://arxiv.org/abs/2609.00796)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
