@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**518 papers**: 2 curated and 516 academic discovery candidates.
+**515 papers**: 2 curated and 513 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓6 · [Aug](#2026-08) ✓55 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓3 · [Aug](#2026-08) ✓55 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓20 · [Oct](#2025-10) ✓33 · [Sep](#2025-09) ✓33 · [Aug](#2025-08) ✓14 · [Jul](#2025-07) ✓11 · [Jun](#2025-06) ✓13 · [May](#2025-05) ✓16 · [Apr](#2025-04) ✓6 · [Mar](#2025-03) ✓8 · [Feb](#2025-02) ✓7 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓6 · [Nov](#2024-11) ✓4 · [Oct](#2024-10) ✓6 · [Sep](#2024-09) ✓2 · [Aug](#2024-08) ✓4 · [Jul](#2024-07) ✓0 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓7 · [Feb](#2024-02) ✓4 · [Jan](#2024-01) ✓3
 - [2023](#2023) — [Feb](#2023-02) ◐1
@@ -27,22 +27,6 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 4 academic records · 0 eligible · checked 2026-09-02T04:49:33.693612+00:00.
-
-- 🔎 **[Multi-task and transfer learning for scheduling flexible job-shops: Combining imitation, reinforcement, and preference optimization](https://doi.org/10.2139/ssrn.7411820)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-09-04 · `query-hint` · `crossref`  
-  Labels: `Preference Optimization`  
-  Authors: Alexandre Jesus, Paulo Nascimento, Samuel Moniz
-
-- 🔎 **[Deep reinforcement learning-enhanced autonomous monitoring for thunderstorm activity using multimodal remote sensing](https://doi.org/10.2139/ssrn.7411573)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-09-04 · `query-hint` · `crossref`  
-  Labels: `Multimodal`  
-  Authors: Xu Yang, Fa Zhu, Yudong Zhang, Qiaohang Guo, Witold Pedrycz
-
-- 🔎 **[EdgeTwin-DRL: Real-Time Counter-UAS Detection and Response Optimization Using Edge-Assisted Digital Twins and Multi-Agent Deep Reinforcement Learning](https://doi.org/10.3390/s26175632)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-09-04 · `query-hint` · `crossref`  
-  Labels: `Multimodal`  
-  Authors: Abdulrahman K. Alnaim, Ahmed M. Alwakeel  
-  Venue: Sensors
 
 - 🔎 **[FiMI Banking: A Sovereign Model for Indian Retail Banking](https://arxiv.org/abs/2609.03960)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-03 · `query-hint` · `arxiv`  
