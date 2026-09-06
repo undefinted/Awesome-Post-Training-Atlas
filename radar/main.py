@@ -336,7 +336,14 @@ def discover(days: int) -> list[dict]:
                 else:
                     found[paper["id"]] = paper
     if radar.get("huggingface_daily", {}).get("enabled"):
-        for paper in fetch_huggingface_daily(days, radar["huggingface_daily"]["limit"]):
+        try:
+            daily_papers = fetch_huggingface_daily(days, radar["huggingface_daily"]["limit"])
+        except Exception as exc:
+            # Hugging Face is an auxiliary discovery signal. Its API changing or
+            # being unavailable must not discard papers already found on arXiv.
+            print(f"Warning: skipping unavailable Hugging Face daily signal: {exc}", file=sys.stderr)
+            daily_papers = []
+        for paper in daily_papers:
             if paper["id"] in known:
                 continue
             if paper["id"] in found:
