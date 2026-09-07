@@ -4,6 +4,7 @@ import argparse
 import datetime as dt
 import json
 import os
+import sys
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -23,8 +24,14 @@ def fetch_arxiv_ids(ids: list[str]) -> dict[str, dict]:
         bare = [paper_id.split(":", 1)[1] for paper_id in ids[offset : offset + 40]]
         params = urllib.parse.urlencode({"id_list": ",".join(bare), "max_results": len(bare)})
         request = urllib.request.Request(f"{ARXIV_API}?{params}", headers={"User-Agent": "Awesome-Post-Training-Atlas/0.3"})
-        with urlopen_with_retry(request) as response:
-            root = ET.fromstring(response.read())
+        try:
+            with urlopen_with_retry(request) as response:
+                root = ET.fromstring(response.read())
+        except Exception as exc:
+            # Enrichment is optional and must not discard candidates already
+            # discovered through independent academic sources.
+            print(f"arXiv author enrichment skipped for batch {offset // 40 + 1}: {exc}", file=sys.stderr)
+            continue
         for entry in root.findall("atom:entry", ATOM):
             paper_id = normalize_arxiv_id(entry.findtext("atom:id", "", ATOM))
             output[paper_id] = {

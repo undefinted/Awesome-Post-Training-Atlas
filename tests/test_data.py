@@ -6,6 +6,7 @@ from pathlib import Path
 import yaml
 
 from radar.main import canonical_id, date_from_parts, extract_project_page, normalize_doi, record_identity_keys, strip_markup, urlopen_with_retry
+from radar.enrich import fetch_arxiv_ids
 from radar.site import analytics
 
 
@@ -110,6 +111,10 @@ class PaperDataTests(unittest.TestCase):
             self.assertIs(urlopen_with_retry(object(), attempts=2), response)
         self.assertEqual(mocked_open.call_count, 2)
         mocked_sleep.assert_called_once_with(7)
+
+    def test_arxiv_enrichment_failure_is_non_fatal(self):
+        with patch("radar.enrich.urlopen_with_retry", side_effect=TimeoutError("timed out")):
+            self.assertEqual(fetch_arxiv_ids(["arxiv:2609.00001"]), {})
 
     def test_public_index_identifier_normalization(self):
         self.assertEqual(canonical_id({"ArXiv": "2609.00123v2", "DOI": "10.1/ABC"}), "arxiv:2609.00123")
