@@ -390,6 +390,19 @@ def rule_score(paper: dict, config: dict) -> tuple[int, list[str]]:
     return score, reasons
 
 
+def academic_index_relevant(paper: dict, config: dict) -> bool:
+    """Reject generic domain RL while keeping cross-modality post-training."""
+    signals = set(paper.get("source_signals", []))
+    if not signals & {"semantic-scholar", "crossref"}:
+        return True
+    text = f"{paper.get('title', '')} {paper.get('abstract', '')}".lower()
+    method_terms = [term.lower() for term in config.get("required_method_terms", [])]
+    scope_terms = [term.lower() for term in config.get("required_scope_terms", [])]
+    has_method = any(term in text for term in method_terms)
+    has_scope = any(term in text for term in scope_terms)
+    return has_method and has_scope
+
+
 def extract_response_text(payload: dict) -> str:
     for item in payload.get("output", []):
         if item.get("type") != "message":
@@ -523,6 +536,9 @@ def discover(days: int) -> list[dict]:
         for paper in daily_papers:
             store_found(paper)
     indexes = radar.get("academic_indexes", {})
+    index_cutoff = (
+        dt.date.today() - dt.timedelta(days=max(days, int(indexes.get("lookback_days", days))))
+    ).isoformat()
     for spec in indexes.get("queries", []):
         sources = []
         if indexes.get("semantic_scholar", {}).get("enabled"):
@@ -530,7 +546,7 @@ def discover(days: int) -> list[dict]:
                 (
                     "Semantic Scholar",
                     fetch_semantic_scholar,
-                    (spec["query"], spec["direction"], cutoff, dt.date.today().isoformat(), indexes["semantic_scholar"]["limit_per_query"]),
+                    (spec["query"], spec["direction"], index_cutoff, dt.date.today().isoformat(), indexes["semantic_scholar"]["limit_per_query"]),
                 )
             )
         if indexes.get("crossref", {}).get("enabled"):
@@ -538,7 +554,7 @@ def discover(days: int) -> list[dict]:
                 (
                     "Crossref",
                     fetch_crossref,
-                    (spec["query"], spec["direction"], cutoff, dt.date.today().isoformat(), indexes["crossref"]["rows_per_query"]),
+                    (spec["query"], spec["direction"], index_cutoff, dt.date.today().isoformat(), indexes["crossref"]["rows_per_query"]),
                 )
             )
         for source_name, fetcher, arguments in sources:
@@ -551,6 +567,8 @@ def discover(days: int) -> list[dict]:
                 store_found(paper)
     shortlisted = []
     for paper in found.values():
+        if not academic_index_relevant(paper, indexes):
+            continue
         score, reasons = rule_score(paper, radar["filter"])
         if score >= radar["filter"]["minimum_score"]:
             paper["rule_score"] = score

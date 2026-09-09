@@ -42,23 +42,95 @@ huggingface_daily:
 # Public academic indexes complement arXiv. They are discovery/metadata
 # signals only; links are normalized to arXiv or DOI whenever possible.
 academic_indexes:
+  # Academic indexes lag behind first publication, so every daily run revisits
+  # a wider window and relies on canonical-ID/title deduplication.
+  lookback_days: 10
   queries:
-    - {direction: supervised-adaptation, query: 'instruction tuning supervised fine tuning'}
-    - {direction: preference-alignment, query: 'preference optimization DPO RLHF'}
-    - {direction: reward-verifiers, query: 'reward model verifier process supervision'}
-    - {direction: reinforcement-learning, query: 'RLVR verifiable reward reinforcement learning'}
-    - {direction: distillation, query: 'on policy distillation reasoning distillation'}
-    - {direction: reasoning-self-improvement, query: 'self improvement self training reasoning'}
-    - {direction: agentic, query: 'agent training tool use reinforcement learning'}
-    - {direction: multimodal, query: 'multimodal VLM preference alignment reinforcement learning'}
-    - {direction: generative-media, query: 'diffusion preference optimization human feedback'}
-    - {direction: embodied-vla, query: 'vision language action robot autonomous driving post training'}
+    - {direction: supervised-adaptation, query: 'instruction tuning foundation model'}
+    - {direction: supervised-adaptation, query: 'supervised fine tuning language model'}
+    - {direction: supervised-adaptation, query: 'rejection sampling fine tuning model'}
+    - {direction: preference-alignment, query: 'direct preference optimization language model'}
+    - {direction: preference-alignment, query: 'RLHF foundation model'}
+    - {direction: preference-alignment, query: 'AI feedback model alignment'}
+    - {direction: reward-verifiers, query: 'reward model language model'}
+    - {direction: reward-verifiers, query: 'process reward model reasoning'}
+    - {direction: reward-verifiers, query: 'LLM verifier training'}
+    - {direction: reinforcement-learning, query: 'RLVR language model'}
+    - {direction: reinforcement-learning, query: 'verifiable reward model reasoning'}
+    - {direction: reinforcement-learning, query: 'reinforcement fine tuning foundation model'}
+    - {direction: distillation, query: 'on policy distillation language model'}
+    - {direction: distillation, query: 'reasoning distillation language model'}
+    - {direction: distillation, query: 'policy distillation foundation model'}
+    - {direction: reasoning-self-improvement, query: 'self improving language model training'}
+    - {direction: reasoning-self-improvement, query: 'self training reasoning model'}
+    - {direction: reasoning-self-improvement, query: 'self evolving foundation model'}
+    - {direction: agentic, query: 'agent training reinforcement learning language model'}
+    - {direction: agentic, query: 'tool use agent post training'}
+    - {direction: agentic, query: 'long horizon agent reinforcement learning'}
+    - {direction: multimodal, query: 'multimodal preference optimization model'}
+    - {direction: multimodal, query: 'VLM reinforcement learning alignment'}
+    - {direction: multimodal, query: 'visual instruction tuning model'}
+    - {direction: generative-media, query: 'diffusion model preference optimization'}
+    - {direction: generative-media, query: 'image generation human feedback training'}
+    - {direction: generative-media, query: 'video generation reinforcement learning model'}
+    - {direction: embodied-vla, query: 'vision language action post training'}
+    - {direction: embodied-vla, query: 'robot policy foundation model reinforcement learning'}
+    - {direction: embodied-vla, query: 'autonomous driving VLA preference optimization'}
   semantic_scholar:
     enabled: true
-    limit_per_query: 40
+    limit_per_query: 100
   crossref:
     enabled: true
-    rows_per_query: 30
+    rows_per_query: 100
+  required_method_terms:
+    - post-training
+    - post training
+    - instruction tuning
+    - supervised fine-tuning
+    - supervised fine tuning
+    - rejection sampling
+    - preference optimization
+    - RLHF
+    - RLAIF
+    - AI feedback
+    - human feedback
+    - reward model
+    - process reward
+    - verifiable reward
+    - RLVR
+    - GRPO
+    - reinforcement fine-tuning
+    - reinforcement fine tuning
+    - reinforcement learning
+    - on-policy distillation
+    - on policy distillation
+    - policy distillation
+    - reasoning distillation
+    - knowledge distillation
+    - self-training
+    - self training
+    - self-improvement
+    - self improvement
+    - self-evolving
+    - self evolving
+    - agent training
+  required_scope_terms:
+    - foundation model
+    - language model
+    - LLM
+    - VLM
+    - MLLM
+    - vision-language
+    - vision language
+    - multimodal model
+    - diffusion model
+    - generative model
+    - world model
+    - agent
+    - robot policy
+    - vision-language-action
+    - vision language action
+    - autonomous driving
 
 filter:
   minimum_score: 3

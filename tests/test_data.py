@@ -5,7 +5,7 @@ from pathlib import Path
 
 import yaml
 
-from radar.main import canonical_id, date_from_parts, extract_project_page, normalize_doi, record_identity_keys, strip_markup, urlopen_with_retry
+from radar.main import academic_index_relevant, canonical_id, date_from_parts, extract_project_page, normalize_doi, record_identity_keys, strip_markup, urlopen_with_retry
 from radar.enrich import fetch_arxiv_ids
 from radar.site import analytics
 
@@ -123,6 +123,12 @@ class PaperDataTests(unittest.TestCase):
         self.assertEqual(date_from_parts([[2026, 9]]), "2026-09-01")
         self.assertEqual(strip_markup("<jats:p>A <b>paper</b>.</jats:p>"), "A paper .")
         self.assertIn("title:samepaper", record_identity_keys({"id": "doi:10.1/a", "title": "Same Paper!"}))
+
+    def test_academic_index_requires_method_and_foundation_scope(self):
+        config = {"required_method_terms": ["reinforcement learning", "preference optimization"], "required_scope_terms": ["language model", "VLM"]}
+        self.assertTrue(academic_index_relevant({"title": "Preference optimization for a language model", "source_signals": ["crossref"]}, config))
+        self.assertFalse(academic_index_relevant({"title": "Reinforcement learning for options hedging", "source_signals": ["crossref"]}, config))
+        self.assertTrue(academic_index_relevant({"title": "Any arXiv paper", "source_signals": ["arxiv"]}, config))
 
     def test_label_ids_are_unique(self):
         labels = yaml.safe_load((ROOT / "config" / "labels.yaml").read_text(encoding="utf-8"))["labels"]
