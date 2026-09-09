@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2737 papers**: 5 curated and 2732 academic discovery candidates.
+**2741 papers**: 5 curated and 2736 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓9 · [Aug](#2026-08) ✓60 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓132 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓132 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓95 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -27,6 +27,23 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 7 academic records · 7 eligible · checked 2026-09-02T04:49:23.243243+00:00.
+
+- 🔎 **[Reinforcement Learning Methods and Optimization Strategies in Preference Alignment Techniques for Large Language Models](https://doi.org/10.54254/2755-2721/2026.ba36530)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-08 · `query-hint` · `crossref`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `RLHF` · `RLAIF` · `PPO` · `Reward Model`  
+  Authors: Hongyu Jiang  
+  Venue: Applied and Computational Engineering
+
+- 🔎 **[Using Reinforcement Learning from Artificial Intelligence Feedback to Balance Empathy and Efficiency](https://doi.org/10.2139/ssrn.7409858)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-08 · `query-hint` · `crossref`  
+  Labels: `SFT` · `RLHF` · `RLAIF` · `PPO`  
+  Authors: Magnus Briggt
+
+- 🔎 **[Robust Privacy Unlearning for LLM Services via Adversarially Augmented Preference Optimization](https://doi.org/10.1109/icws72778.2026.00150)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-07 · `query-hint` · `crossref`  
+  Labels: `Preference Optimization`  
+  Authors: Shuhan Yang, Yao Guan, Qiang Duan, Chenchi Luo, Haijun Yang  
+  Venue: 2026 IEEE International Conference on Web Services (ICWS)
 
 - 🔎 **[Beyond Shallow Alignment: How Post-Training Methods Determine Refusal Circuits And Steering Robustness](https://arxiv.org/abs/2609.03887)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-03 · `query-hint` · `arxiv`  
@@ -55,6 +72,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Authors: Yimin Liu, Qike Ji, Shengbo Lu, Jianliang Chen  
   Venue: Mathematics
 
+- 🔎 **[CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging](https://arxiv.org/abs/2609.02273)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-02 · `query-hint` · `semantic-scholar`  
+  Labels: `Preference Optimization`  
+  Authors: Ming-Jie Zheng, Zihao Chen, Wenqing Chen, Wei-Le Yuan, Zhi-Xuan Chu, Jian-Xing Yu, Zi-Bin Zheng
+
 - 🔎 **[SFAD: Speculative Factuality-Aware Decoding](https://arxiv.org/abs/2609.00796)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `DPO` · `Preference Optimization` · `Hallucination`  
@@ -74,6 +96,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
   Authors: Zhuoheng Li, Ying Chen
+
+- 🔎 **[Applying Direct Preference Optimization to Large Language Models for Suppressing Excessive Responses in Virtual Standardized Patient.](https://doi.org/10.1527/tjsai.41-5_lf26-h)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-01 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization`  
+  Authors: Naoki Shindo, Masaki Uto  
+  Venue: Transactions of the Japanese society for artificial intelligence
 
 <a id="2026-08"></a>
 
@@ -117,11 +145,6 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLHF`  
   Authors: Scott Compton, Arjun Nagendran
-
-- 🔎 **[PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2609.01658)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-08-31 · `query-hint` · `semantic-scholar`  
-  Labels: `DPO` · `Preference Optimization` · `PRM` · `Reasoning`  
-  Authors: Minkeon Kim, Namjun Lee, Jaekwang Kim
 
 - 🔎 **[Arabic Safety Alignment as Selective Refusal: An Empirical Study of SFT, DPO, and Guard Calibration](https://arxiv.org/abs/2608.29378)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-29 · `academic-query-vote` · `arxiv-backfill`  

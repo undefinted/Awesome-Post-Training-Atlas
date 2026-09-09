@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3016 papers**: 1 curated and 3015 academic discovery candidates.
+**3017 papers**: 1 curated and 3016 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓25 · [Aug](#2026-08) ◐227 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓25 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓92 · [Nov](#2025-11) ✓104 · [Oct](#2025-10) ✓178 · [Sep](#2025-09) ✓132 · [Aug](#2025-08) ✓83 · [Jul](#2025-07) ✓60 · [Jun](#2025-06) ✓102 · [May](#2025-05) ✓119 · [Apr](#2025-04) ✓41 · [Mar](#2025-03) ✓69 · [Feb](#2025-02) ✓70 · [Jan](#2025-01) ✓23
 - [2024](#2024) — [Dec](#2024-12) ✓48 · [Nov](#2024-11) ✓26 · [Oct](#2024-10) ✓64 · [Sep](#2024-09) ✓20 · [Aug](#2024-08) ✓13 · [Jul](#2024-07) ✓18 · [Jun](#2024-06) ✓30 · [May](#2024-05) ✓27 · [Apr](#2024-04) ✓17 · [Mar](#2024-03) ✓17 · [Feb](#2024-02) ✓22 · [Jan](#2024-01) ✓14
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -57,10 +57,10 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `PPO`  
   Authors: Shu-Hao Ye, Si-Tong Mao, Yu-Xiang Cui, Yu-Fei Wei, Xuan Yu, Shi-Chao Zhai, Wen Chen, Shun-Bo Zhou, et al.
 
-- 🔎 **[DMRL: Document-Mediated Reinforcement Learning for Skill Optimization in Advertising Recommendation](https://arxiv.org/abs/2609.02170)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[Cliff: Learning Process Rewards from the First Mistake](https://arxiv.org/abs/2609.02817)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-02 · `query-hint` · `semantic-scholar`  
-  Labels: pending  
-  Authors: Wei Zhang, Hong-Ji Li, Song Sun, Peng Yu, Xue-Wei Yang, Lei Zhao, Peng Jiang
+  Labels: `OPD` · `Distillation` · `RLVR` · `GRPO` · `On-policy` · `Reward Model` · `Reasoning`  
+  Authors: Peixuan Han, Runnan Wang, Ketan Ramaneti, Jie Hao, Gerald Friedland, Chris Kong
 
 - 🔎 **[NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning](https://arxiv.org/abs/2609.02366)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-02 · `query-hint` · `semantic-scholar`  
@@ -188,6 +188,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Verifier`  
   Authors: Rayan Khoury, Shih-Yao Lin, Pratyush Mishra
+
+- 🔎 **[PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2609.01658)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-31 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `PRM` · `Reasoning`  
+  Authors: Minkeon Kim, Namjun Lee, Jaekwang Kim
 
 - 🔎 **[The Nearest Target Is the Wrong One: Target Separation in Arc2Face Identity Unlearning](https://arxiv.org/abs/2608.30087)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-30 · `academic-query-vote` · `arxiv-backfill`  

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**359 papers**: 1 curated and 358 academic discovery candidates.
+**358 papers**: 1 curated and 357 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓6 · [Aug](#2026-08) ✓21 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
+- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -26,12 +26,6 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 2 academic records · 2 eligible · checked 2026-09-02T04:49:38.494374+00:00.
-
-- 🔎 **[Robust Privacy Unlearning for LLM Services via Adversarially Augmented Preference Optimization](https://doi.org/10.1109/icws72778.2026.00150)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-09-07 · `query-hint` · `crossref`  
-  Labels: `Preference Optimization`  
-  Authors: Shuhan Yang, Yao Guan, Qiang Duan, Chenchi Luo, Haijun Yang  
-  Venue: 2026 IEEE International Conference on Web Services (ICWS)
 
 - 🔎 **[Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement](https://doi.org/10.2139/ssrn.7395620)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-05 · `query-hint` · `crossref`  
@@ -53,12 +47,6 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Multimodal` · `VLA`  
   Authors: Jaewoo Park, Minyoung Lee, Sukmin Seo, Moonbin Yim, Hyunwook Yoon, Dohoon Ryu, Daehee Kim, Myungseo Song, et al.
 
-- 🔎 **[Applying Direct Preference Optimization to Large Language Models for Suppressing Excessive Responses in Virtual Standardized Patient.](https://doi.org/10.1527/tjsai.41-5_lf26-h)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-09-01 · `query-hint` · `crossref, semantic-scholar`  
-  Labels: `DPO` · `Preference Optimization`  
-  Authors: Naoki Shindo, Masaki Uto  
-  Venue: Transactions of the Japanese society for artificial intelligence
-
 <a id="2026-08"></a>
 
 ### August
@@ -69,6 +57,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-30 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Autonomous Driving`  
   Authors: Dong Hu, Chao Huang, Carman K. M. Lee, Dimitrios Kanoulas
+
+- 🔎 **[SymVD: Symmetric Vision Language Action Distillation for Robot Manipulation](https://arxiv.org/abs/2608.29828)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-30 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `VLA` · `Robotics`  
+  Authors: Hyewon Choi, Donggyu Kim, SooJean Han
 
 - 🔎 **[AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models](https://arxiv.org/abs/2608.29208)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-29 · `academic-query-vote` · `arxiv-backfill`  

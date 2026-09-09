@@ -48,16 +48,16 @@ Radar last scanned academic sources: **2026-09-09T10:51:55+08:00** (China Standa
 
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
-| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3335 | **3337** | 2026-09-03 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2732 | **2737** | 2026-09-03 |
-| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3015 | **3016** | 2026-09-08 |
+| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3334 | **3336** | 2026-09-03 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2736 | **2741** | 2026-09-08 |
+| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3016 | **3017** | 2026-09-08 |
 | [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 733 | **736** | 2026-09-03 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 345 | **368** | 2026-09-06 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 342 | **365** | 2026-09-03 |
 | [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 719 | **722** | 2026-09-03 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 521 | **523** | 2026-09-08 |
-| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 823 | **825** | 2026-09-03 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 519 | **521** | 2026-09-08 |
+| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 825 | **827** | 2026-09-06 |
 | [Generative Media Post-Training](directions/generative-media.md) | 2 | 397 | **399** | 2026-09-03 |
-| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 358 | **359** | 2026-09-07 |
+| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 357 | **358** | 2026-09-05 |
 <!-- PAPERS:END -->
 
 ## Paper Radar
