@@ -1015,7 +1015,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization](https://arxiv.org/abs/2512.16906)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `VLM`  
-  Authors: Xiaoyan Cong, Haotian Yang, Angtian Wang, Yizhi Wang, Yiding Yang, Canyu Zhang, Chongyang Ma
+  Authors: Xiaoyan Cong, Haotian Yang, Angtian Wang, Yizhi Wang, Yiding Yang, Canyu Zhang, Chongyang Ma  
+  Institutions*: Bytedance; Stevens Institute of Technology; Wormpex AI Research
 
 - 🔎 **[RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing](https://arxiv.org/abs/2512.16864)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1035,7 +1036,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Push Smarter, Not Harder: Hierarchical RL-Diffusion Policy for Efficient Nonprehensile Manipulation](https://arxiv.org/abs/2512.10099)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon` · `Diffusion`  
-  Authors: Steven Caro, Stephen L. Smith
+  Authors: Steven Caro, Stephen L. Smith  
+  Venue: [IEEE Robotics and Automation Letters](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER481-ELE)
 
 - 🔎 **[Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search](https://arxiv.org/abs/2512.09566)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1055,12 +1057,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[Data-regularized Reinforcement Learning for Diffusion Models at Scale](https://arxiv.org/abs/2512.04332)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Off-policy` · `Diffusion` · `Video Generation`  
-  Authors: Haotian Ye, Kaiwen Zheng, Jiashu Xu, Puheng Li, Huayu Chen, Jiaqi Han, Sheng Liu, Qinsheng Zhang, et al.
+  Authors: Haotian Ye, Kaiwen Zheng, Jiashu Xu, Puheng Li, Huayu Chen, Jiaqi Han, Sheng Liu, Qinsheng Zhang, et al.  
+  Institutions*: Georgia Institute of Technology
 
 - 🔎 **[AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning](https://arxiv.org/abs/2512.02535)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon` · `Diffusion`  
-  Authors: Jeric Lew, Yuhong Cao, Derek Ming Siang Tan, Guillaume Sartoretti
+  Authors: Jeric Lew, Yuhong Cao, Derek Ming Siang Tan, Guillaume Sartoretti  
+  Venue: [International Workshop on Ant Colony Optimization and Swarm Intelligence](http://www.wikicfp.com/cfp/program?id=184)
 
 - 🔎 **[PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards](https://arxiv.org/abs/2512.01236)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1111,7 +1115,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning](https://arxiv.org/abs/2511.19965)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-25 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion` · `Image Generation`  
-  Authors: Hongji Yang, Yucheng Zhou, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen
+  Authors: Hongji Yang, Yucheng Zhou, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen  
+  Institutions*: University of Macau
 
 - 🔎 **[Rethinking Reward Signals in Video GRPO: When Scores Become Targets](https://arxiv.org/abs/2511.19356)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1121,7 +1126,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment](https://arxiv.org/abs/2511.19217)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reward Model` · `Diffusion` · `Robotics`  
-  Authors: Wanjiang Weng, Xiaofeng Tan, Junbo Wang, Guo-Sen Xie, Pan Zhou, Hongsong Wang
+  Authors: Wanjiang Weng, Xiaofeng Tan, Junbo Wang, Guo-Sen Xie, Pan Zhou, Hongsong Wang  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](https://arxiv.org/abs/2511.18919)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**362 papers**: 23 curated and 339 academic discovery candidates.
+**368 papers**: 23 curated and 345 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓5 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
+- [2026](#2026) — [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓86 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
 - [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · [Jan](#2025-01) ✓0
 - [2024](#2024) — [Dec](#2024-12) ✓3 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓3 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓1 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓0 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓3 · [Feb](#2024-02) ✓1 · [Jan](#2024-01) ✓1
 
@@ -25,6 +25,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 3 academic records · 3 eligible · checked 2026-09-02T04:49:28.867031+00:00.
+
+- 🔎 **[Calibration, Not Acuity: Auditing What Engine-Grounded Adaptation Repairs in Cross-SportMetric Spatial Reasoning for Vision–Language Models](https://doi.org/10.2139/ssrn.7422525)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-06 · `query-hint` · `crossref`  
+  Labels: `RLVR` · `GRPO` · `Reasoning`  
+  Authors: Jun Ji, Bowen Tan, Yizhou Zhao, Yi Li, Xiaolei Zhang, Yi Sui
 
 - 🔎 **[Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR](https://arxiv.org/abs/2609.04108)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-03 · `query-hint` · `arxiv`  
@@ -46,10 +51,30 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Distillation` · `Robotics`  
   Authors: Vladimir Krsmanovic, Florian Kohn, Bernd Finkbeiner, Milan Simovic
 
+- 🔎 **[Cliff: Learning Process Rewards from the First Mistake](https://arxiv.org/abs/2609.02817)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-02 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `RLVR` · `GRPO` · `On-policy` · `Reward Model` · `Reasoning`  
+  Authors: Peixuan Han, Runnan Wang, Ketan Ramaneti, Jie Hao, Gerald Friedland, Chris Kong
+
+- 🔎 **[Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs](https://arxiv.org/abs/2609.02548)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-02 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Verifier` · `Self-training`  
+  Authors: Xixiang He, Xingming Li, Baiqi Wu, Qiyao Sun, Xuanyu Ji, Ao Cheng, Qingyong Hu
+
+- 🔎 **[CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction](https://arxiv.org/abs/2609.02401)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-02 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `VLM`  
+  Authors: Meng-Hao Li, Lin-Jie Mu, Yin Wang, Haoyuan Hu, Yan-Nian Gu, Lujiayi Xue, Fanyi Wang
+
 - 🔎 **[Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall](https://arxiv.org/abs/2609.01532)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Reasoning`  
   Authors: Jacqueline He, Howard Yen, Shuyue Stella Li, Margaret Li, Hanqing Zeng, Yinglong Xia, Benyu Zhang, Zhuokai Zhao, et al.
+
+- 🔎 **[MERGED: Multimodal Entity Resolution via Generated Expert Reasoning Distillation](https://arxiv.org/abs/2609.01913)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `DPO` · `Preference Optimization` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: You Chen, Kyoungjun Park, Bin Xu, Prithviraj Sen, Pedro Herrero-Vidal
 
 <a id="2026-08"></a>
 
@@ -76,6 +101,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-30 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `OPSD` · `Distillation` · `On-policy` · `Self-training` · `Reasoning`  
   Authors: Yilun Liu, Boyu Luo, Yanran Tang, Ruihong Qiu, Zi Huang
+
+- 🔎 **[SymVD: Symmetric Vision Language Action Distillation for Robot Manipulation](https://arxiv.org/abs/2608.29828)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-30 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `VLA` · `Robotics`  
+  Authors: Hyewon Choi, Donggyu Kim, SooJean Han
 
 - 🔎 **[VISTA: Verifier-Informed Student-to-Teacher Adaptation for On-Policy Self-Distillation](https://arxiv.org/abs/2608.28306)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
@@ -1634,7 +1664,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Self-Motivated Growing Neural Network for Adaptive Architecture via Local Structural Plasticity](https://arxiv.org/abs/2512.12713)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-14 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation`  
-  Authors: Yiyang Jia, Chengxu Zhou
+  Authors: Yiyang Jia, Chengxu Zhou  
+  Venue: [Neurocomputing](http://www.elsevier.com/locate/neucom)
 
 - 🔎 **[Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input](https://arxiv.org/abs/2512.06571)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-06 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1650,7 +1681,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models](https://arxiv.org/abs/2511.16233)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `VLA`  
-  Authors: Kewei Chen, Yayu Long, Shuai Li, Mingsheng Shang
+  Authors: Kewei Chen, Yayu Long, Shuai Li, Mingsheng Shang  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[LoRaCompass: Robust Reinforcement Learning to Efficiently Search for a LoRa Tag](https://arxiv.org/abs/2511.11190)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-14 · `direction-month-query` · `arxiv-monthly-backfill`  

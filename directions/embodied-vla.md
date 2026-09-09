@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**355 papers**: 1 curated and 354 academic discovery candidates.
+**359 papers**: 1 curated and 358 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓20 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
+- [2026](#2026) — [Sep](#2026-09) ✓6 · [Aug](#2026-08) ✓21 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -26,6 +26,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 2 academic records · 2 eligible · checked 2026-09-02T04:49:38.494374+00:00.
+
+- 🔎 **[Robust Privacy Unlearning for LLM Services via Adversarially Augmented Preference Optimization](https://doi.org/10.1109/icws72778.2026.00150)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-07 · `query-hint` · `crossref`  
+  Labels: `Preference Optimization`  
+  Authors: Shuhan Yang, Yao Guan, Qiang Duan, Chenchi Luo, Haijun Yang  
+  Venue: 2026 IEEE International Conference on Web Services (ICWS)
 
 - 🔎 **[Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement](https://doi.org/10.2139/ssrn.7395620)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-05 · `query-hint` · `crossref`  
@@ -47,6 +53,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Multimodal` · `VLA`  
   Authors: Jaewoo Park, Minyoung Lee, Sukmin Seo, Moonbin Yim, Hyunwook Yoon, Dohoon Ryu, Daehee Kim, Myungseo Song, et al.
 
+- 🔎 **[Applying Direct Preference Optimization to Large Language Models for Suppressing Excessive Responses in Virtual Standardized Patient.](https://doi.org/10.1527/tjsai.41-5_lf26-h)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-01 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization`  
+  Authors: Naoki Shindo, Masaki Uto  
+  Venue: Transactions of the Japanese society for artificial intelligence
+
 <a id="2026-08"></a>
 
 ### August
@@ -62,6 +74,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-29 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Multimodal` · `VLM` · `Diffusion` · `VLA` · `Robotics` · `Reasoning`  
   Authors: Sunghwan Han, Youngtae Han, Youngmin Yi
+
+- 🔎 **[CCPO: Execution Consistent Preference Optimization Through Computational Pacts](https://doi.org/10.20944/preprints202608.2119.v1)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-28 · `query-hint` · `crossref`  
+  Labels: `Preference Optimization` · `Reward Model` · `Multimodal` · `Reasoning` · `Math`  
+  Authors: Yunlong Tan, Mingqiao Mo, Yue Jiang, Hao Zhang
 
 - 🔎 **[$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](https://arxiv.org/abs/2608.26053)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
@@ -258,6 +275,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-07-14 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `VLA` · `Robotics`  
   Authors: Yilun Kong, Yunpeng Qing, Guozheng Ma, Haoyu Wang, Li Shen, Zhi Hou, Dacheng Tao
+
+- 🔎 **[RLux-VLA: A Unified and Efficient Framework for Reinforcement Learning of Vision-Language-Action Models](https://doi.org/10.15607/rss.2026.xxii.089)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-07-13 · `query-hint` · `crossref`  
+  Labels: `VLA`  
+  Authors: Hongzhi Zang, Mingjie Wei, Si Xu, Yongji Wu, Zhen Guo, Yuanqing Wang, Hao Lin, Peihong Wang, et al.  
+  Venue: Robotics: Science and Systems XXII
 
 - 🔎 **[PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers](https://arxiv.org/abs/2607.09590)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-07-10 · `academic-query-vote` · `arxiv-backfill`  
@@ -1036,12 +1059,14 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations](https://arxiv.org/abs/2512.11609)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-12 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `PPO` · `Robotics`  
-  Authors: Tingyu Yuan, Biaoliang Guan, Wen Ye, Ziyan Tian, Yi Yang, Weijie Zhou, Zhaowen Li, Yan Huang, et al.
+  Authors: Tingyu Yuan, Biaoliang Guan, Wen Ye, Ziyan Tian, Yi Yang, Weijie Zhou, Zhaowen Li, Yan Huang, et al.  
+  Institutions*: University of Virginia
 
 - 🔎 **[Latent Chain-of-Thought World Modeling for End-to-End Driving](https://arxiv.org/abs/2512.10226)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-11 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLA` · `Autonomous Driving` · `Reasoning`  
-  Authors: Shuhan Tan, Kashyap Chitta, Yuxiao Chen, Ran Tian, Yurong You, Yan Wang, Wenjie Luo, Yulong Cao, et al.
+  Authors: Shuhan Tan, Kashyap Chitta, Yuxiao Chen, Ran Tian, Yurong You, Yan Wang, Wenjie Luo, Yulong Cao, et al.  
+  Institutions*: University of Tübingen
 
 - 🔎 **[Safe Learning for Contact-Rich Robot Tasks: A Survey from Classical Learning-Based Methods to Safe Foundation Models](https://arxiv.org/abs/2512.11908)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1056,7 +1081,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](https://arxiv.org/abs/2512.09706)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO` · `Agent` · `Multi-turn` · `Long-horizon` · `Robotics` · `Reasoning`  
-  Authors: Kaichen He, Zihao Wang, Muyao Li, Anji Liu, Yitao Liang
+  Authors: Kaichen He, Zihao Wang, Muyao Li, Anji Liu, Yitao Liang  
+  Institutions*: National University of Singapore; Peking University
 
 - 🔎 **[An Introduction to Deep Reinforcement and Imitation Learning](https://arxiv.org/abs/2512.08052)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1066,7 +1092,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[MIND-V: Hierarchical World Model for Long-Horizon Robotic Manipulation with RL-based Physical Alignment](https://arxiv.org/abs/2512.06628)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-07 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Synthetic Data` · `Long-horizon` · `VLM` · `Robotics` · `Reasoning`  
-  Authors: Ruicheng Zhang, Mingyang Zhang, Jun Zhou, Xiaofan Liu, Zunnan Xu, Zhizhou Zhong, Puxin Yan, Haocheng Luo, et al.
+  Authors: Ruicheng Zhang, Mingyang Zhang, Jun Zhou, Xiaofan Liu, Zunnan Xu, Zhizhou Zhong, Puxin Yan, Haocheng Luo, et al.  
+  Institutions*: Tsinghua University
 
 - 🔎 **[WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2512.11872)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-06 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1086,7 +1113,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Robotics` · `Reasoning`  
-  Authors:  SIMA team, Adrian Bolton, Alexander Lerchner, Alexandra Cordell, Alexandre Moufarek, Andrew Bolt, Andrew Lampinen, Anna Mitenkova, et al.
+  Authors:  SIMA team, Adrian Bolton, Alexander Lerchner, Alexandra Cordell, Alexandre Moufarek, Andrew Bolt, Andrew Lampinen, Anna Mitenkova, et al.  
+  Institutions*: DeepMind; Google DeepMind; Stanford
 
 - 🔎 **[RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL](https://arxiv.org/abs/2512.03556)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1111,7 +1139,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Long-horizon` · `VLA` · `Robotics` · `Reasoning`  
-  Authors: Yunfei Li, Xiao Ma, Jiafeng Xu, Yu Cui, Zhongren Cui, Zhigang Han, Liqun Huang, Tao Kong, et al.
+  Authors: Yunfei Li, Xiao Ma, Jiafeng Xu, Yu Cui, Zhongren Cui, Zhigang Han, Liqun Huang, Tao Kong, et al.  
+  Institutions*: ByteDance Seed
 
 - 🔎 **[ViRectify: A Challenging Benchmark for Video Reasoning Correction with Multimodal Large Language Models](https://arxiv.org/abs/2512.01424)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1152,7 +1181,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2511.15605)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-19 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLA` · `Robotics`  
-  Authors: Senyu Fei, Siyin Wang, Li Ji, Ao Li, Shiduo Zhang, Liming Liu, Jinlong Hou, Jingjing Gong, et al.
+  Authors: Senyu Fei, Siyin Wang, Li Ji, Ao Li, Shiduo Zhang, Liming Liu, Jinlong Hou, Jingjing Gong, et al.  
+  Institutions*: Fudan University
 
 - 🔎 **[Extending Test-Time Scaling: A 3D Perspective with Context, Batch, and Turn](https://arxiv.org/abs/2511.15738)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-18 · `direction-month-query` · `arxiv-monthly-backfill`  
