@@ -37,8 +37,8 @@ papers:
   - on-policy
   - long-horizon
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -91,8 +91,8 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -140,8 +140,8 @@ papers:
   - multi-turn
   - long-horizon
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -179,8 +179,8 @@ papers:
   - multi-turn
   - long-horizon
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -224,8 +224,8 @@ papers:
   - self-improvement
   - agent
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -268,8 +268,8 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -311,8 +311,8 @@ papers:
   - agent
   - long-horizon
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -353,8 +353,8 @@ papers:
   - on-policy
   - agent
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -392,8 +392,8 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -436,8 +436,8 @@ papers:
   - curriculum
   - multi-turn
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -473,8 +473,8 @@ papers:
   - on-policy
   - off-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -512,8 +512,8 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -555,8 +555,8 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -593,8 +593,8 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -636,8 +636,8 @@ papers:
   - on-policy
   - agent
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -675,8 +675,8 @@ papers:
   - curriculum
   - multi-turn
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -723,8 +723,8 @@ papers:
   - off-policy
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -755,8 +755,8 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -796,8 +796,8 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -833,8 +833,8 @@ papers:
   - on-policy
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -872,8 +872,8 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -911,8 +911,8 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -959,8 +959,8 @@ papers:
   - multimodal
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: on-policy-distillation
   predecessors: []
   change_axes:
@@ -991,8 +991,8 @@ papers:
   - ppo
   - on-policy
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: rlvr-grpo
   predecessors: []
   change_axes:
@@ -1037,8 +1037,8 @@ papers:
   auto_labels:
   - tool-use
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: agentic-feedback
   predecessors: []
   change_axes:
@@ -1086,12 +1086,12 @@ papers:
   - rlhf
   - ppo
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Neural Information Processing Systems
   venue_type: conference
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: preference-optimization
   predecessors: []
   change_axes:
@@ -1121,8 +1121,8 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: reasoning-self-improvement
   predecessors: []
   change_axes:
@@ -1208,8 +1208,8 @@ papers:
   auto_labels:
   - rlaif
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: preference-optimization
   predecessors: []
   change_axes:
@@ -1249,12 +1249,12 @@ papers:
   auto_labels:
   - sft
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Annual Meeting of the Association for Computational Linguistics
   venue_type: conference
   venue_url: https://www.aclweb.org/anthology/venues/acl/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: data-feedback
   predecessors: []
   change_axes:
@@ -1293,12 +1293,12 @@ papers:
   auto_labels:
   - tool-use
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Neural Information Processing Systems
   venue_type: conference
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: agentic-feedback
   predecessors: []
   change_axes:
@@ -1333,12 +1333,12 @@ papers:
   - sft
   - vlm
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Neural Information Processing Systems
   venue_type: conference
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: multimodal-alignment
   predecessors: []
   change_axes:
@@ -1374,12 +1374,12 @@ papers:
   auto_labels:
   - diffusion
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: International Conference on Learning Representations
   venue_type: conference
   venue_url: https://iclr.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: generative-alignment
   predecessors: []
   change_axes:
@@ -1420,12 +1420,12 @@ papers:
   - rlhf
   - reward-model
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Neural Information Processing Systems
   venue_type: conference
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: preference-optimization
   predecessors: []
   change_axes:
@@ -1466,12 +1466,12 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: International Conference on Learning Representations
   venue_type: conference
   venue_url: https://iclr.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: rlvr-grpo
   predecessors: []
   change_axes:
@@ -1559,11 +1559,11 @@ papers:
   - vla
   - robotics
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Conference on Robot Learning
   venue_type: conference
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: embodied-transfer
   predecessors: []
   change_axes:
@@ -1608,12 +1608,12 @@ papers:
   - multimodal
   - hallucination
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Annual Meeting of the Association for Computational Linguistics
   venue_type: conference
   venue_url: https://www.aclweb.org/anthology/venues/acl/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: multimodal-alignment
   predecessors:
   - arxiv:2304.08485
@@ -1656,12 +1656,12 @@ papers:
   auto_labels:
   - rlaif
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: International Conference on Machine Learning
   venue_type: conference
   venue_url: https://icml.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: data-feedback
   predecessors: []
   change_axes:
@@ -1701,12 +1701,12 @@ papers:
   - diffusion
   - image-generation
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Computer Vision and Pattern Recognition
   venue_type: conference
   venue_url: https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: generative-alignment
   predecessors:
   - arxiv:2305.18290
@@ -1745,12 +1745,12 @@ papers:
   - dpo
   - verifier
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: International Conference on Machine Learning
   venue_type: conference
   venue_url: https://icml.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: reasoning-self-improvement
   predecessors: []
   change_axes:
@@ -1779,8 +1779,8 @@ papers:
   author_source: arxiv
   auto_labels: []
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: preference-optimization
   predecessors:
   - arxiv:2305.18290
@@ -1824,8 +1824,8 @@ papers:
   - reasoning
   - math
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: rlvr-grpo
   predecessors:
   - arxiv:1707.06347
@@ -1865,8 +1865,8 @@ papers:
   - self-training
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: reasoning-self-improvement
   predecessors:
   - arxiv:2203.14465
@@ -1900,12 +1900,12 @@ papers:
   auto_labels:
   - preference-optimization
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Neural Information Processing Systems
   venue_type: conference
   venue_url: http://neurips.cc/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: preference-optimization
   predecessors:
   - arxiv:2305.18290
@@ -2142,12 +2142,12 @@ papers:
   - grpo
   - reasoning
   label_method: controlled-vocabulary-v1
-  institution_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  institution_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   venue: Nature
   venue_type: journal
   venue_url: https://www.nature.com/
   venue_source: semantic-scholar-paper-metadata
-  venue_enrichment_checked_at: '2026-09-06T09:38:00.897675+00:00'
+  venue_enrichment_checked_at: '2026-09-09T02:55:15.029594+00:00'
   method_family: rlvr-grpo
   predecessors:
   - arxiv:2402.03300

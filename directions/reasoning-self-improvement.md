@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**720 papers**: 3 curated and 717 academic discovery candidates.
+**722 papers**: 3 curated and 719 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓3 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓5 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓31 · [Nov](#2025-11) ✓28 · [Oct](#2025-10) ✓35 · [Sep](#2025-09) ✓29 · [Aug](#2025-08) ✓17 · [Jul](#2025-07) ✓18 · [Jun](#2025-06) ✓25 · [May](#2025-05) ✓25 · [Apr](#2025-04) ✓15 · [Mar](#2025-03) ✓13 · [Feb](#2025-02) ✓26 · [Jan](#2025-01) ✓8
 - [2024](#2024) — [Dec](#2024-12) ✓16 · [Nov](#2024-11) ✓8 · [Oct](#2024-10) ✓15 · [Sep](#2024-09) ✓8 · [Aug](#2024-08) ✓6 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓5 · [May](#2024-05) ✓11 · [Apr](#2024-04) ✓7 · [Mar](#2024-03) ✓13 · [Feb](#2024-02) ✓9 · [Jan](#2024-01) ✓1
 - [2022](#2022) — [Mar](#2022-03) ◐1
@@ -41,6 +41,17 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-training` · `Autonomous Driving`  
   Authors: Udo Schlegel,  Shubhangi, Gabriel Dax, Sai Rahul Kaminwar, Florian Karl, Thomas Seidl
+
+- 🔎 **[A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference](https://arxiv.org/abs/2609.01679)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Tool Use` · `Multimodal` · `Robotics`  
+  Authors: Shuaicheng Niu, Guohao Chen, Yaofo Chen, Z. Wen, Jinwu Hu, Zeshuai Deng, Deyu Chen, Shuhai Zhang, et al.
+
+- 🔎 **[When Does Authorization Expire? Capability-Delta Evaluation for Self-Improving AI Agents](https://doi.org/10.47001/jaiet/2026.308004)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-01 · `query-hint` · `crossref`  
+  Labels: `Self-improvement` · `Agent`  
+  Authors: Ian Staley  
+  Venue: Journal of Artificial Intelligence and Emerging Technologies
 
 <a id="2026-08"></a>
 
@@ -1901,12 +1912,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](https://arxiv.org/abs/2512.13278)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Agent` · `Tool Use` · `Multimodal` · `Reasoning` · `Code`  
-  Authors: Jiaru Zou, Ling Yang, Yunzhe Qi, Sirui Chen, Mengting Ai, Ke Shen, Jingrui He, Mengdi Wang
+  Authors: Jiaru Zou, Ling Yang, Yunzhe Qi, Sirui Chen, Mengting Ai, Ke Shen, Jingrui He, Mengdi Wang  
+  Institutions*: Univeristy of Illinois Urbana Champaign
 
 - 🔎 **[Iterative Compositional Data Generation for Robot Control](https://arxiv.org/abs/2512.10891)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-11 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Synthetic Data` · `Robotics`  
-  Authors: Anh-Quan Pham, Marcel Hussing, Shubhankar P. Patankar, Dani S. Bassett, Jorge Mendez-Mendez, Eric Eaton
+  Authors: Anh-Quan Pham, Marcel Hussing, Shubhankar P. Patankar, Dani S. Bassett, Jorge Mendez-Mendez, Eric Eaton  
+  Venue: Trans. Mach. Learn. Res.
 
 - 🔎 **[Architectures for Building Agentic AI](https://arxiv.org/abs/2512.09458)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1916,7 +1929,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[COVLM-RL: Critical Object-Oriented Reasoning for Autonomous Driving Using VLM-Guided Reinforcement Learning](https://arxiv.org/abs/2512.09349)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLM` · `Autonomous Driving` · `Reasoning`  
-  Authors: Lin Li, Yuxin Cai, Jianwu Fang, Jianru Xue, Chen Lv
+  Authors: Lin Li, Yuxin Cai, Jianwu Fang, Jianru Xue, Chen Lv  
+  Venue: 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)
 
 - 🔎 **[Thinking with Images via Self-Calling Agent](https://arxiv.org/abs/2512.08511)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-09 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1956,7 +1970,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[See, Think, Learn: A Self-Taught Multimodal Reasoner](https://arxiv.org/abs/2512.02456)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-training` · `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Sourabh Sharma, Sonam Gupta,  Sadbhawna
+  Authors: Sourabh Sharma, Sonam Gupta,  Sadbhawna  
+  Institutions*: Malaviya National Institute of Technology Jaipur  
+  Venue: [IEEE Workshop/Winter Conference on Applications of Computer Vision](http://www.wikicfp.com/cfp/program?id=2993)
 
 - 🔎 **[VACoT: Rethinking Visual Data Augmentation with VLMs](https://arxiv.org/abs/2512.02361)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1966,7 +1982,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Humanity in the Age of AI: Reassessing 2025's Existential-Risk Narratives](https://arxiv.org/abs/2512.04119)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement`  
-  Authors: Mohamed El Louadi
+  Authors: Mohamed El Louadi  
+  Institutions*: Institut Supérieur de Gestion-Tunis
 
 <a id="2025-11"></a>
 
@@ -2012,12 +2029,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots](https://arxiv.org/abs/2511.17889)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-22 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Long-horizon` · `VLA` · `Reasoning`  
-  Authors: Ting Huang, Dongjian Li, Rui Yang, Zeyu Zhang, Zida Yang, Hao Tang
+  Authors: Ting Huang, Dongjian Li, Rui Yang, Zeyu Zhang, Zida Yang, Hao Tang  
+  Institutions*: Peking University
 
 - 🔎 **[Planning with Sketch-Guided Verification for Physics-Aware Video Generation](https://arxiv.org/abs/2511.17450)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-21 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Verifier` · `Video Generation`  
-  Authors: Yidong Huang, Zun Wang, Han Lin, Dong-Ki Kim, Shayegan Omidshafiei, Jaehong Yoon, Yue Zhang, Mohit Bansal
+  Authors: Yidong Huang, Zun Wang, Han Lin, Dong-Ki Kim, Shayegan Omidshafiei, Jaehong Yoon, Yue Zhang, Mohit Bansal  
+  Institutions*: Nanyang Technological University, Singapore
 
 - 🔎 **[FireScope: Wildfire Risk Raster Prediction with a Chain-of-Thought Oracle](https://arxiv.org/abs/2511.17171)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-21 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2027,7 +2046,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[OEMA: Ontology-Enhanced Multi-Agent Collaboration Framework for Zero-Shot Clinical Named Entity Recognition](https://arxiv.org/abs/2511.15211)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-19 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement`  
-  Authors: Xinli Tao, Xin Dong, Xuezhong Zhou
+  Authors: Xinli Tao, Xin Dong, Xuezhong Zhou  
+  Venue: JAMIA Open
 
 - 🔎 **[$π^{*}_{0.6}$: a VLA That Learns From Experience](https://arxiv.org/abs/2511.14759)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-18 · `direction-month-query` · `arxiv-monthly-backfill`  

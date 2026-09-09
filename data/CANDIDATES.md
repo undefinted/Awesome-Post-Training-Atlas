@@ -12945,13 +12945,43 @@ Automated proposals only; inclusion requires human review.
 | 2026-09-03 | [Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992) | arxiv | 3 | `generative-media` |
 | 2026-09-03 | [A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI](https://arxiv.org/abs/2609.04086) | arxiv | 3 | `reward-verifiers` |
 | 2026-09-03 | [Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty](https://arxiv.org/abs/2609.03699) | arxiv | 3 | `distillation` |
-| 2026-09-05 | [Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement](https://doi.org/10.2139/ssrn.7395620) | crossref | 7 | `reasoning-self-improvement` |
-| 2026-09-04 | [Reconciling top-down and bottom-up conservation priorities with reinforcement learning from human feedback](https://doi.org/10.1088/1748-9326/aea2ab) | crossref | 5 | `generative-media` |
-| 2026-09-04 | [Multi-task and transfer learning for scheduling flexible job-shops: Combining imitation, reinforcement, and preference optimization](https://doi.org/10.2139/ssrn.7411820) | crossref | 4 | `agentic` |
-| 2026-09-04 | [Verifier Ecology Theory: Packetized Self-Verification Under Residual Accountability&amp;nbsp; &lt;div&gt; A Process Theory of Open-Ended Verifier Acceleration, Aperture Preservation, and Overclosure Control &lt;/div&gt;](https://doi.org/10.2139/ssrn.7386258) | crossref | 3 | `reward-verifiers` |
-| 2026-09-04 | [Deep reinforcement learning-enhanced autonomous monitoring for thunderstorm activity using multimodal remote sensing](https://doi.org/10.2139/ssrn.7411573) | crossref | 3 | `agentic` |
-| 2026-09-04 | [EdgeTwin-DRL: Real-Time Counter-UAS Detection and Response Optimization Using Edge-Assisted Digital Twins and Multi-Agent Deep Reinforcement Learning](https://doi.org/10.3390/s26175632) | crossref | 3 | `agentic` |
-| 2026-09-04 | [Privacy-preserving federated IoT intelligence for multimodal airway liberation decision support via offline reinforcement learning](https://doi.org/10.1007/s40747-026-02488-w) | crossref | 3 | `multimodal` |
+| 2026-09-05 | [Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement](https://doi.org/10.2139/ssrn.7395620) | crossref | 7 | `embodied-vla` |
+| 2026-09-08 | [Reinforcement Learning Methods and Optimization Strategies in Preference Alignment Techniques for Large Language Models](https://doi.org/10.54254/2755-2721/2026.ba36530) | crossref | 21 | `agentic` |
+| 2026-09-08 | [Using Reinforcement Learning from Artificial Intelligence Feedback to Balance Empathy and Efficiency](https://doi.org/10.2139/ssrn.7409858) | crossref | 7 | `agentic` |
+| 2026-09-08 | [Advances in Reinforcement Learning for Retrieval-Augmented Generation in Large Language Model](https://doi.org/10.54254/2755-2721/2026.36624) | crossref | 5 | `agentic` |
+| 2026-09-08 | [LLM for Offline Retail Recommendation](https://doi.org/10.2139/ssrn.7428218) | crossref | 4 | `reward-verifiers` |
+| 2026-09-07 | [Robust Privacy Unlearning for LLM Services via Adversarially Augmented Preference Optimization](https://doi.org/10.1109/icws72778.2026.00150) | crossref | 4 | `embodied-vla` |
+| 2026-09-06 | [Calibration, Not Acuity: Auditing What Engine-Grounded Adaptation Repairs in Cross-SportMetric Spatial Reasoning for Vision–Language Models](https://doi.org/10.2139/ssrn.7422525) | crossref | 4 | `distillation` |
+| 2026-09-03 | [Governing Agentic AI: The Human Values Alignment Framework (HVAF-A) as a Policy Tool](https://doi.org/10.3390/asi9090187) | crossref | 5 | `preference-alignment` |
+| 2026-09-03 | [CROCODIL: Cross-Model Code Editing with LLMs](https://arxiv.org/abs/2609.03894) | semantic-scholar | 4 | `reward-verifiers` |
+| 2026-09-03 | [Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment](https://arxiv.org/abs/2609.03906) | semantic-scholar | 3 | `reward-verifiers` |
+| 2026-09-03 | [A survey of world models for physical AI with uncertainty representation and control](https://doi.org/10.1007/s44163-026-02122-1) | semantic-scholar | 3 | `agentic` |
+| 2026-09-02 | [Cliff: Learning Process Rewards from the First Mistake](https://arxiv.org/abs/2609.02817) | semantic-scholar | 24 | `distillation` |
+| 2026-09-02 | [Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs](https://arxiv.org/abs/2609.02548) | semantic-scholar | 13 | `distillation` |
+| 2026-09-02 | [Post-Training Language Models for Gold-Medal Performance in Coding Competitions](https://arxiv.org/abs/2609.02849) | semantic-scholar | 8 | `supervised-adaptation` |
+| 2026-09-02 | [CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction](https://arxiv.org/abs/2609.02401) | semantic-scholar | 8 | `distillation` |
+| 2026-09-02 | [An Intelligent Construction Method for Petrochemical Datasets Based on RLHF and Data De-Identification](https://doi.org/10.3390/math14173168) | crossref | 7 | `preference-alignment` |
+| 2026-09-02 | [DMRL: Document-Mediated Reinforcement Learning for Skill Optimization in Advertising Recommendation](https://arxiv.org/abs/2609.02170) | semantic-scholar | 6 | `reward-verifiers` |
+| 2026-09-02 | [APEx: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](https://arxiv.org/abs/2609.02253) | semantic-scholar | 6 | `agentic` |
+| 2026-09-02 | [NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning](https://arxiv.org/abs/2609.02366) | semantic-scholar | 5 | `reward-verifiers` |
+| 2026-09-02 | [SWIM: Student Writing Simulation via Proficiency-Conditioned Generation](https://arxiv.org/abs/2609.03215) | semantic-scholar | 4 | `reward-verifiers` |
+| 2026-09-02 | [IDEEA: training-free Input-Dependent stEEring via Activation cluster matching](https://arxiv.org/abs/2609.02089) | semantic-scholar | 4 | `supervised-adaptation` |
+| 2026-09-02 | [CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging](https://arxiv.org/abs/2609.02273) | semantic-scholar | 4 | `supervised-adaptation` |
+| 2026-09-01 | [MERGED: Multimodal Entity Resolution via Generated Expert Reasoning Distillation](https://arxiv.org/abs/2609.01913) | semantic-scholar | 8 | `distillation` |
+| 2026-09-01 | [Enhancing Auditory Reasoning in Large Audio–Language Models Via Supervised Fine-Tuning and Reinforcement Learning With Verifiable Rewards](https://doi.org/10.1109/access.2026.3728498) | crossref | 8 | `agentic` |
+| 2026-09-01 | [What you say is what you get: Text-aligned semantic reward modeling with vision-language representations for reinforcement learning](https://doi.org/10.1016/j.knosys.2026.116496) | semantic-scholar | 6 | `reward-verifiers` |
+| 2026-09-01 | [Applying Direct Preference Optimization to Large Language Models for Suppressing Excessive Responses in Virtual Standardized Patient.](https://doi.org/10.1527/tjsai.41-5_lf26-h) | crossref, semantic-scholar | 4 | `embodied-vla` |
+| 2026-09-01 | [A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference](https://arxiv.org/abs/2609.01679) | semantic-scholar | 4 | `reasoning-self-improvement` |
+| 2026-09-01 | [When Does Authorization Expire? Capability-Delta Evaluation for Self-Improving AI Agents](https://doi.org/10.47001/jaiet/2026.308004) | crossref | 3 | `reasoning-self-improvement` |
+| 2026-08-31 | [SPHERE: Automatic Music Upmixing via Audio Language Model Post-Training with Spatial Heuristic Rewards](https://arxiv.org/abs/2608.30559) | semantic-scholar | 12 | `reinforcement-learning` |
+| 2026-08-31 | [PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2609.01658) | semantic-scholar | 7 | `preference-alignment` |
+| 2026-08-31 | [Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning](https://arxiv.org/abs/2608.30713) | semantic-scholar | 6 | `supervised-adaptation` |
+| 2026-08-30 | [Harness-RL: Black-Box Reinforcement Learning with Action-Args Decoupling for Central-Agent Multi-Agent Harnesses](https://arxiv.org/abs/2608.29641) | semantic-scholar | 8 | `agentic` |
+| 2026-08-30 | [SymVD: Symmetric Vision Language Action Distillation for Robot Manipulation](https://arxiv.org/abs/2608.29828) | semantic-scholar | 3 | `distillation` |
+| 2026-08-28 | [Strategic Verification for Long-Running LLM Agents](https://doi.org/10.20944/preprints202608.2057.v1) | crossref | 12 | `reward-verifiers` |
+| 2026-08-28 | [CCPO: Execution Consistent Preference Optimization Through Computational Pacts](https://doi.org/10.20944/preprints202608.2119.v1) | crossref | 8 | `embodied-vla` |
+| 2026-08-24 | [293.3: Development and application of an intelligent agent training platform for organ donation coordinators based on the five habits communication framework.](https://doi.org/10.1097/01.tp.0001250380.18899.ca) | crossref | 3 | `agentic` |
+| 2026-07-13 | [RLux-VLA: A Unified and Efficient Framework for Reinforcement Learning of Vision-Language-Action Models](https://doi.org/10.15607/rss.2026.xxii.089) | crossref | 3 | `embodied-vla` |
 
 Review checklist:
 

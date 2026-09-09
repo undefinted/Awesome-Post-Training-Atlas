@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3333 papers**: 2 curated and 3331 academic discovery candidates.
+**3336 papers**: 2 curated and 3334 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓7 · [Aug](#2026-08) ✓118 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓9 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓104 · [Nov](#2025-11) ✓125 · [Oct](#2025-10) ✓184 · [Sep](#2025-09) ✓143 · [Aug](#2025-08) ✓128 · [Jul](#2025-07) ✓90 · [Jun](#2025-06) ✓135 · [May](#2025-05) ✓192 · [Apr](#2025-04) ✓93 · [Mar](#2025-03) ✓112 · [Feb](#2025-02) ✓93 · [Jan](#2025-01) ✓52
 - [2024](#2024) — [Dec](#2024-12) ✓77 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓110 · [Sep](#2024-09) ✓52 · [Aug](#2024-08) ✓51 · [Jul](#2024-07) ✓58 · [Jun](#2024-06) ✓100 · [May](#2024-05) ✓76 · [Apr](#2024-04) ✓55 · [Mar](#2024-03) ✓62 · [Feb](#2024-02) ✓97 · [Jan](#2024-01) ✓41
 - [2023](#2023) — [Oct](#2023-10) ◐1
@@ -32,6 +32,16 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-09-03 · `query-hint` · `arxiv`  
   Labels: `SFT` · `Reasoning`  
   Authors: Tongyao Zhu, Wei Hern Lim, Min-Yen Kan
+
+- 🔎 **[Post-Training Language Models for Gold-Medal Performance in Coding Competitions](https://arxiv.org/abs/2609.02849)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reasoning` · `Code`  
+  Authors: Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi, Somshubra Majumdar, Boris Ginsburg
+
+- 🔎 **[IDEEA: training-free Input-Dependent stEEring via Activation cluster matching](https://arxiv.org/abs/2609.02089)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Zheng Wang, Muchen Li, Renjie Liao, Yan Leng
 
 - 🔎 **[Instella-MoE Technical Report](https://arxiv.org/abs/2609.00791)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -88,6 +98,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Counterfactual` · `SFT`  
   Authors: Jonathan Zheng, Zirui Shao, Alan Ritter, Wei Xu
+
+- 🔎 **[Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning](https://arxiv.org/abs/2608.30713)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-31 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `On-policy` · `Verifier` · `Multimodal`  
+  Authors: Feng-Ji Ma, Yan Rong, Xu Li, Chen Zhang, Pengfei Wan, Li Liu
 
 - 🔎 **[Post-Training VLMs for Video Mistake Detection](https://arxiv.org/abs/2608.28406)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
@@ -5631,7 +5646,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills](https://arxiv.org/abs/2512.16301)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Preference Optimization` · `RLVR` · `On-policy` · `Agent` · `Tool Use` · `Reasoning`  
-  Authors: Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi, Zifeng Wang, Luxi He, Yichen Wu, Ming Zhong, Peiyang Song, et al.
+  Authors: Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi, Zifeng Wang, Luxi He, Yichen Wu, Ming Zhong, Peiyang Song, et al.  
+  Institutions*: DAMO Academy, Alibaba Group; Stanford University; UIUC; University of Illinois at Urbana-Champaign
 
 - 🔎 **[Hard Negative Sample-Augmented DPO Post-Training for Small Language Models](https://arxiv.org/abs/2512.19728)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5641,7 +5657,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models](https://arxiv.org/abs/2512.15957)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization` · `VLM` · `Robotics`  
-  Authors: Utsav Panchal, Yuchen Liu, Luigi Palmieri, Ilche Georgievski, Marco Aiello
+  Authors: Utsav Panchal, Yuchen Liu, Luigi Palmieri, Ilche Georgievski, Marco Aiello  
+  Institutions*: University of Stuttgart  
+  Venue: [IEEE Workshop/Winter Conference on Applications of Computer Vision](http://www.wikicfp.com/cfp/program?id=2993)
 
 - 🔎 **[Small Language Models for Efficient Agentic Tool Calling: Outperforming Large Models with Targeted Fine-tuning](https://arxiv.org/abs/2512.15943)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5661,7 +5679,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](https://arxiv.org/abs/2512.15693)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal` · `Video Generation` · `Reasoning`  
-  Authors: Yifei Li, Wenzhao Zheng, Yanran Zhang, Runze Sun, Yu Zheng, Lei Chen, Jie Zhou, Jiwen Lu
+  Authors: Yifei Li, Wenzhao Zheng, Yanran Zhang, Runze Sun, Yu Zheng, Lei Chen, Jie Zhou, Jiwen Lu  
+  Institutions*: Shanghai AI Laboratory; Tsinghua University
 
 - 🔎 **[Parameter Efficient Multimodal Instruction Tuning for Romanian Vision Language Models](https://arxiv.org/abs/2512.14926)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-16 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5676,12 +5695,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[A First-Order Logic-Based Alternative to Reward Models in RLHF](https://arxiv.org/abs/2512.14100)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `DPO` · `RLHF` · `GRPO` · `PPO` · `Reward Model`  
-  Authors: Chunjin Jian, Xinhua Zhu
+  Authors: Chunjin Jian, Xinhua Zhu  
+  Venue: [ICON](http://www.icohtec.org/publications-icon.html)
 
 - 🔎 **[Explainable reinforcement learning from human feedback to improve alignment](https://arxiv.org/abs/2512.13837)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLHF`  
-  Authors: Shicheng Liu, Siyuan Xu, Wenjie Qiu, Hangfan Zhang, Minghui Zhu
+  Authors: Shicheng Liu, Siyuan Xu, Wenjie Qiu, Hangfan Zhang, Minghui Zhu  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[AgentIAD: Agentic Industrial Anomaly Detection via Adaptive Memory Augmentation](https://arxiv.org/abs/2512.13671)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5711,7 +5732,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Rethinking Expert Trajectory Utilization in LLM Post-training for Mathematical Reasoning](https://arxiv.org/abs/2512.11470)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-12 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Reasoning` · `Math`  
-  Authors: Bowen Ding, Yuhan Chen, Jiayang Lyv, Jiyao Yuan, Qi Zhu, Shuangshuang Tian, Dantong Zhu, Futing Wang, et al.
+  Authors: Bowen Ding, Yuhan Chen, Jiayang Lyv, Jiyao Yuan, Qi Zhu, Shuangshuang Tian, Dantong Zhu, Futing Wang, et al.  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language](https://arxiv.org/abs/2512.11251)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-12 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5736,12 +5758,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[MOA: Multi-Objective Alignment for Role-Playing Agents](https://arxiv.org/abs/2512.09756)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Off-policy`  
-  Authors: Chonghua Liao, Ke Wang, Yuchuan Wu, Ruoran Li, Fei Huang, Yongbin Li
+  Authors: Chonghua Liao, Ke Wang, Yuchuan Wu, Ruoran Li, Fei Huang, Yongbin Li  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Rethinking Chain-of-Thought Reasoning for Videos](https://arxiv.org/abs/2512.09616)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal` · `Reasoning`  
-  Authors: Yiwu Zhong, Zi-Yuan Hu, Yin Li, Liwei Wang
+  Authors: Yiwu Zhong, Zi-Yuan Hu, Yin Li, Liwei Wang  
+  Institutions*: The Chinese University of Hong Kong
 
 - 🔎 **[Persian-Phi: Efficient Cross-Lingual Adaptation of Compact LLMs via Curriculum Learning](https://arxiv.org/abs/2512.07454)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5751,12 +5775,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[Training Language Models to Use Prolog as a Tool](https://arxiv.org/abs/2512.07407)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-08 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO` · `Agent` · `Reasoning`  
-  Authors: Niklas Mellgren, Peter Schneider-Kamp, Lukas Galke Poech
+  Authors: Niklas Mellgren, Peter Schneider-Kamp, Lukas Galke Poech  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery](https://arxiv.org/abs/2512.07276)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-08 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `VLM` · `Reasoning`  
-  Authors: Mai Tsujimoto, Junjue Wang, Weihao Xuan, Naoto Yokoya
+  Authors: Mai Tsujimoto, Junjue Wang, Weihao Xuan, Naoto Yokoya  
+  Venue: [IEEE Workshop/Winter Conference on Applications of Computer Vision](http://www.wikicfp.com/cfp/program?id=2993)
 
 - 🔎 **[RVLF: A Reinforcing Vision-Language Framework for Gloss-Free Sign Language Translation](https://arxiv.org/abs/2512.07273)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5786,7 +5812,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[ReCAD: Reinforcement Learning Enhanced Parametric CAD Model Generation with Vision-Language Models](https://arxiv.org/abs/2512.06328)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-06 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Jiahao Li, Yusheng Luo, Yunzhong Lou, Xiangdong Zhou
+  Authors: Jiahao Li, Yusheng Luo, Yunzhong Lou, Xiangdong Zhou  
+  Institutions*: Fudan University  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[Taxonomy-Adaptive Moderation Model with Robust Guardrails for Large Language Models](https://arxiv.org/abs/2512.05339)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-05 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5796,7 +5824,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Structured Document Translation via Format Reinforcement Learning](https://arxiv.org/abs/2512.05100)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO`  
-  Authors: Haiyue Song, Johannes Eschbach-Dymanus, Hour Kaing, Sumire Honda, Hideki Tanaka, Bianka Buschbeck, Masao Utiyama
+  Authors: Haiyue Song, Johannes Eschbach-Dymanus, Hour Kaing, Sumire Honda, Hideki Tanaka, Bianka Buschbeck, Masao Utiyama  
+  Venue: IJCNLP-AACL
 
 - 🔎 **[YingMusic-SVC: Real-World Robust Zero-Shot Singing Voice Conversion with Flow-GRPO and Singing-Specific Inductive Biases](https://arxiv.org/abs/2512.04793)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5816,7 +5845,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[SkillFactory: Self-Distillation For Learning Cognitive Behaviors](https://arxiv.org/abs/2512.04072)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `SFT` · `Self-training` · `Reasoning`  
-  Authors: Zayne Sprague, Jack Lu, Manya Wadhwa, Sedrick Keh, Mengye Ren, Greg Durrett
+  Authors: Zayne Sprague, Jack Lu, Manya Wadhwa, Sedrick Keh, Mengye Ren, Greg Durrett  
+  Institutions*: Carnegie Mellon University
 
 - 🔎 **[Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.03783)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-03 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5841,7 +5871,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Fast-Decoding Diffusion Language Models via Progress-Aware Confidence Schedules](https://arxiv.org/abs/2512.02892)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Diffusion`  
-  Authors: Amr Mohamed, Yang Zhang, Michalis Vazirgiannis, Guokan Shang
+  Authors: Amr Mohamed, Yang Zhang, Michalis Vazirgiannis, Guokan Shang  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Taming Camera-Controlled Video Generation with Verifiable Geometry Reward](https://arxiv.org/abs/2512.02870)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5856,22 +5887,26 @@ _No visible paper records in this cell yet._
 - 🔎 **[Skywork-R1V4: Toward Agentic Multimodal Intelligence through Interleaved Thinking with Images and DeepResearch](https://arxiv.org/abs/2512.02395)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Agent` · `Long-horizon` · `Multimodal` · `Reasoning`  
-  Authors: Yifan Zhang, Liang Hu, Haofeng Sun, Peiyu Wang, Yichen Wei, Shukang Yin, Jiangbo Pei, Wei Shen, et al.
+  Authors: Yifan Zhang, Liang Hu, Haofeng Sun, Peiyu Wang, Yichen Wei, Shukang Yin, Jiangbo Pei, Wei Shen, et al.  
+  Institutions*: UNC-Chapel Hill
 
 - 🔎 **[Beyond Playtesting: A Generative Multi-Agent Simulation System for Massively Multiplayer Online Games](https://arxiv.org/abs/2512.02358)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Reasoning`  
-  Authors: Ran Zhang, Kun Ouyang, Tiancheng Ma, Yida Yang, Dong Fang
+  Authors: Ran Zhang, Kun Ouyang, Tiancheng Ma, Yida Yang, Dong Fang  
+  Venue: [The Web Conference](http://www.iw3c2.org/)
 
 - 🔎 **[RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies](https://arxiv.org/abs/2512.01993)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Autonomous Driving`  
-  Authors: Guillermo Garcia-Cobo, Maximilian Igl, Peter Karkus, Zhejun Zhang, Michael Watson, Yuxiao Chen, Boris Ivanovic, Marco Pavone
+  Authors: Guillermo Garcia-Cobo, Maximilian Igl, Peter Karkus, Zhejun Zhang, Michael Watson, Yuxiao Chen, Boris Ivanovic, Marco Pavone  
+  Institutions*: National University of Singapore
 
 - 🔎 **[Atomic Skills are the Prerequisite: When Reinforcement Learning Synthesizes Compositional Reasoning, and When It Only Amplifies](https://arxiv.org/abs/2512.01970)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Reasoning`  
-  Authors: Sitao Cheng, Xunjian Yin, Ruiwen Zhou, Yuxuan Li, Xinyi Wang, Liangming Pan, William Yang Wang, Victor Zhong
+  Authors: Sitao Cheng, Xunjian Yin, Ruiwen Zhou, Yuxuan Li, Xinyi Wang, Liangming Pan, William Yang Wang, Victor Zhong  
+  Institutions*: National University of Singapore; UC Santa Barbara
 
 - 🔎 **[Beyond SFT: Reinforcement Learning for Safer Large Reasoning Models with Better Reasoning Ability](https://arxiv.org/abs/2512.01848)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5886,7 +5921,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition](https://arxiv.org/abs/2512.01248)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO` · `VLM`  
-  Authors: Junyuan Zhang, Bin Wang, Qintong Zhang, Fan Wu, Zichen Wen, Jialin Lu, Junjie Shan, Ziqi Zhao, et al.
+  Authors: Junyuan Zhang, Bin Wang, Qintong Zhang, Fan Wu, Zichen Wen, Jialin Lu, Junjie Shan, Ziqi Zhao, et al.  
+  Institutions*: Nanyang Technological University; Shanghai AI Lab
 
 <a id="2025-11"></a>
 
@@ -5897,7 +5933,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[Optimizing Generative Ranking Relevance via Reinforcement Learning in Xiaohongshu Search](https://arxiv.org/abs/2512.00968)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-30 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `SFT` · `Reasoning`  
-  Authors: Ziyang Zeng, Heming Jing, Jindong Chen, Xiangli Li, Hongyu Liu, Yixuan He, Zhengyu Li, Yige Sun, et al.
+  Authors: Ziyang Zeng, Heming Jing, Jindong Chen, Xiangli Li, Hongyu Liu, Yixuan He, Zhengyu Li, Yige Sun, et al.  
+  Institutions*: Beijing University of Posts and Telecommunications  
+  Venue: [Knowledge Discovery and Data Mining](http://www.acm.org/sigkdd/)
 
 - 🔎 **[Less is More: Resource-Efficient Low-Rank Adaptation](https://arxiv.org/abs/2512.00878)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5937,7 +5975,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](https://arxiv.org/abs/2511.23269)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal` · `Reasoning`  
-  Authors: Timothy Ossowski, Sheng Zhang, Qianchu Liu, Guanghui Qin, Reuben Tan, Tristan Naumann, Junjie Hu, Hoifung Poon
+  Authors: Timothy Ossowski, Sheng Zhang, Qianchu Liu, Guanghui Qin, Reuben Tan, Tristan Naumann, Junjie Hu, Hoifung Poon  
+  Institutions*: Microsoft Research;Johns Hopkins University
 
 - 🔎 **[Instruction Tuning of Large Language Models for Tabular Data Generation-in One Day](https://arxiv.org/abs/2511.23220)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-28 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5952,7 +5991,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models](https://arxiv.org/abs/2511.22787)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-27 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `VLM`  
-  Authors: Eunsu Kim, Junyeong Park, Na Min An, Junseong Kim, Hitesh Laxmichand Patel, Jiho Jin, Julia Kruk, Amit Agarwal, et al.
+  Authors: Eunsu Kim, Junyeong Park, Na Min An, Junseong Kim, Hitesh Laxmichand Patel, Jiho Jin, Julia Kruk, Amit Agarwal, et al.  
+  Institutions*: Oracle
 
 - 🔎 **[ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2511.22715)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-27 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5962,7 +6002,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://arxiv.org/abs/2511.22645)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-27 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO` · `Multimodal` · `Reasoning`  
-  Authors: Di Wang, Shunyu Liu, Wentao Jiang, Fengxiang Wang, Yi Liu, Xiaolei Qin, Zhiming Luo, Chaoyang Zhou, et al.
+  Authors: Di Wang, Shunyu Liu, Wentao Jiang, Fengxiang Wang, Yi Liu, Xiaolei Qin, Zhiming Luo, Chaoyang Zhou, et al.  
+  Institutions*: Nanyang Technological University
 
 - 🔎 **[Co-Evolving Agents: Learning from Failures as Hard Negatives](https://arxiv.org/abs/2511.22254)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-27 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5972,7 +6013,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information](https://arxiv.org/abs/2511.22176)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-27 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Reasoning`  
-  Authors: Lukas Struppek, Dominik Hintersdorf, Hannah Struppek, Daniel Neider, Kristian Kersting
+  Authors: Lukas Struppek, Dominik Hintersdorf, Hannah Struppek, Daniel Neider, Kristian Kersting  
+  Institutions*: Artificial Intelligence and Machine Learning Lab, TU Darmstadt
 
 - 🔎 **[Guiding the Inner Eye: A Framework for Hierarchical and Flexible Visual Grounded Reasoning](https://arxiv.org/abs/2511.22172)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-27 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5987,7 +6029,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Reinforcement Learning for Latent-Space Thinking in LLMs](https://arxiv.org/abs/2512.11816)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-26 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO` · `Reasoning` · `Math`  
-  Authors: Enes Özeren, Matthias Aßenmacher
+  Authors: Enes Özeren, Matthias Aßenmacher  
+  Venue: Swiss Text Analytics Conference
 
 - 🔎 **[Monet: Reasoning in Latent Visual Space Beyond Images and Language](https://arxiv.org/abs/2511.21395)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-26 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -5997,7 +6040,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://arxiv.org/abs/2511.20785)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-25 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Agent` · `Tool Use` · `Multimodal` · `Reasoning` · `Hallucination`  
-  Authors: Zuhao Yang, Sudong Wang, Kaichen Zhang, Keming Wu, Sicong Leng, Yifan Zhang, Bo Li, Chengwei Qin, et al.
+  Authors: Zuhao Yang, Sudong Wang, Kaichen Zhang, Keming Wu, Sicong Leng, Yifan Zhang, Bo Li, Chengwei Qin, et al.  
+  Institutions*: Alibaba DAMO Academy; Nanyang Technological University
 
 - 🔎 **[OmniAlpha: Aligning Transparency-Aware Generation via Multi-Task Unified Reinforcement Learning](https://arxiv.org/abs/2511.20211)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-25 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -6012,7 +6056,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs](https://arxiv.org/abs/2511.20158)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-25 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal` · `Safety`  
-  Authors: Ziqi Wang, Chang Che, Qi Wang, Hui Ma, Zenglin Shi, Cees G. M. Snoek, Meng Wang
+  Authors: Ziqi Wang, Chang Che, Qi Wang, Hui Ma, Zenglin Shi, Cees G. M. Snoek, Meng Wang  
+  Institutions*: University of Amsterdam
 
 - 🔎 **[ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models](https://arxiv.org/abs/2512.07843)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -6022,7 +6067,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Deep Research: A Systematic Survey](https://arxiv.org/abs/2512.02038)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Agent` · `Reasoning`  
-  Authors: Zhengliang Shi, Yiqun Chen, Haitao Li, Weiwei Sun, Shiyu Ni, Yougang Lyu, Run-Ze Fan, Bowen Jin, et al.
+  Authors: Zhengliang Shi, Yiqun Chen, Haitao Li, Weiwei Sun, Shiyu Ni, Yougang Lyu, Run-Ze Fan, Bowen Jin, et al.  
+  Institutions*: Johns Hopkins University, Chinese University of Hong Kong, Peking University, University of Southern California, Tencent; Westlake University
 
 - 🔎 **[fMRI-LM: Towards a Universal Foundation Model for Language-Aligned fMRI Understanding](https://arxiv.org/abs/2511.21760)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -6032,7 +6078,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://arxiv.org/abs/2511.19417)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Synthetic Data` · `Multimodal` · `VLM` · `Reasoning`  
-  Authors: James Y. Huang, Sheng Zhang, Qianchu Liu, Guanghui Qin, Tinghui Zhu, Tristan Naumann, Muhao Chen, Hoifung Poon
+  Authors: James Y. Huang, Sheng Zhang, Qianchu Liu, Guanghui Qin, Tinghui Zhu, Tristan Naumann, Muhao Chen, Hoifung Poon  
+  Institutions*: Microsoft Research;Johns Hopkins University
 
 - 🔎 **[BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment](https://arxiv.org/abs/2511.19268)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -6057,17 +6104,21 @@ _No visible paper records in this cell yet._
 - 🔎 **[Building Domain-Specific Small Language Models via Guided Data Generation](https://arxiv.org/abs/2511.21748)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-23 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `DPO` · `Preference Optimization` · `Synthetic Data` · `Reasoning`  
-  Authors: Aman Kumar, Ekant Muljibhai Amin, Xian Yeow Lee, Lasitha Vidyaratne, Ahmed K. Farahat, Dipanjan D. Ghosh, Yuta Koreeda, Chetan Gupta
+  Authors: Aman Kumar, Ekant Muljibhai Amin, Xian Yeow Lee, Lasitha Vidyaratne, Ahmed K. Farahat, Dipanjan D. Ghosh, Yuta Koreeda, Chetan Gupta  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[Health system learning achieves generalist neuroimaging models](https://arxiv.org/abs/2511.18640)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-23 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT`  
-  Authors: Akhil Kondepudi, Akshay Rao, Chenhui Zhao, Yiwei Lyu, Samir Harake, Soumyanil Banerjee, Rushikesh Joshi, Anna-Katharina Meissner, et al.
+  Authors: Akhil Kondepudi, Akshay Rao, Chenhui Zhao, Yiwei Lyu, Samir Harake, Soumyanil Banerjee, Rushikesh Joshi, Anna-Katharina Meissner, et al.  
+  Institutions*: University of Michigan  
+  Venue: Research Square
 
 - 🔎 **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-23 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Coding Agent` · `Code`  
-  Authors: Jian Yang, Xianglong Liu, Weifeng Lv, Ken Deng, Shawn Guo, Lin Jing, Yizhi Li, Shark Liu, et al.
+  Authors: Jian Yang, Xianglong Liu, Weifeng Lv, Ken Deng, Shawn Guo, Lin Jing, Yizhi Li, Shark Liu, et al.  
+  Institutions*: University of Manchester; University of Sheffield
 
 - 🔎 **[MammothModa2: A Unified AR-Diffusion Framework for Multimodal Understanding and Generation](https://arxiv.org/abs/2511.18262)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -6077,7 +6128,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-23 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Reasoning`  
-  Authors: Shijun Li, Yu Wang, Jin Wang, Ying Li, Joydeep Ghosh, Anne Cocos
+  Authors: Shijun Li, Yu Wang, Jin Wang, Ying Li, Joydeep Ghosh, Anne Cocos  
+  Institutions*: University of Pennsylvania, GlaxoSmithKline, Netflix  
+  Venue: [The Web Conference](http://www.iw3c2.org/)
 
 - 🔎 **[VCU-Bridge: Hierarchical Visual Connotation Understanding via Semantic Bridging](https://arxiv.org/abs/2511.18121)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -6112,12 +6165,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](https://arxiv.org/abs/2511.16602)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `VLM` · `Robotics`  
-  Authors: Yi Zhang, Che Liu, Xiancong Ren, Hanchu Ni, Yingji Zhang, Shuai Zhang, Zeyuan Ding, Jiayu Hu, et al.
+  Authors: Yi Zhang, Che Liu, Xiancong Ren, Hanchu Ni, Yingji Zhang, Shuai Zhang, Zeyuan Ding, Jiayu Hu, et al.  
+  Institutions*: University of Manchester
 
 - 🔎 **[OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://arxiv.org/abs/2511.16334)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal` · `Reasoning`  
-  Authors: Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, Kairui Hu, Bin Wang, Ziwei Liu, Xingxuan Li, et al.
+  Authors: Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, Kairui Hu, Bin Wang, Ziwei Liu, Xingxuan Li, et al.  
+  Institutions*: Alibaba DAMO Academy; Nanyang Technological University
 
 - 🔎 **[FlipVQA: Scaling Multi-modal Instruction Tuning via Textbook-to-Knowledge Synthesis](https://arxiv.org/abs/2511.16216)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -6137,7 +6192,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Mathematical Framework for Custom Reward Functions in Job Application Evaluation using Reinforcement Learning](https://arxiv.org/abs/2511.16073)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO`  
-  Authors: Shreyansh Jain, Madhav Singhvi, Shreya Rahul Jain, Pranav S, Dishaa Lokesh, Naren Chittibabu, Akash Anandhan
+  Authors: Shreyansh Jain, Madhav Singhvi, Shreya Rahul Jain, Pranav S, Dishaa Lokesh, Naren Chittibabu, Akash Anandhan  
+  Venue: International Conference on Computing, Communication and Automation
 
 - 🔎 **[KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy](https://arxiv.org/abs/2511.15974)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -6167,7 +6223,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[FineRef: Fine-Grained Error Reflection and Correction for Long-Form Generation with Citations](https://arxiv.org/abs/2602.18437)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Self-improvement`  
-  Authors: Yixing Peng, Licheng Zhang, Shancheng Fang, Yi Liu, Peijian Gu, Quan Wang
+  Authors: Yixing Peng, Licheng Zhang, Shancheng Fang, Yi Liu, Peijian Gu, Quan Wang  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models](https://arxiv.org/abs/2511.14900)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-18 · `direction-month-query` · `arxiv-monthly-backfill`  

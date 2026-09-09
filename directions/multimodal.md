@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**825 papers**: 2 curated and 823 academic discovery candidates.
+**827 papers**: 2 curated and 825 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓6 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓8 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓36 · [Oct](#2025-10) ✓43 · [Sep](#2025-09) ✓37 · [Aug](#2025-08) ✓26 · [Jul](#2025-07) ✓26 · [Jun](#2025-06) ✓34 · [May](#2025-05) ✓35 · [Apr](#2025-04) ✓12 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓7
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
@@ -26,6 +26,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 13 academic records · 5 eligible · checked 2026-09-02T04:49:35.361284+00:00.
+
+- 🔎 **[Calibration, Not Acuity: Auditing What Engine-Grounded Adaptation Repairs in Cross-SportMetric Spatial Reasoning for Vision–Language Models](https://doi.org/10.2139/ssrn.7422525)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-06 · `query-hint` · `crossref`  
+  Labels: `RLVR` · `GRPO` · `Reasoning`  
+  Authors: Jun Ji, Bowen Tan, Yizhou Zhao, Yi Li, Xiaolei Zhang, Yi Sui
 
 - 🔎 **[WorldReward: Reward Modeling for Camera-Conditioned World Models](https://arxiv.org/abs/2609.03952)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-03 · `query-hint` · `arxiv`  
@@ -56,6 +61,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-09-01 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `VLM` · `Reasoning`  
   Authors: Matteo Merler, Giovanni Bonetta, Davide Zago, Rossella Cancelliere, Bernardo Magnini
+
+- 🔎 **[Enhancing Auditory Reasoning in Large Audio–Language Models Via Supervised Fine-Tuning and Reinforcement Learning With Verifiable Rewards](https://doi.org/10.1109/access.2026.3728498)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-01 · `query-hint` · `crossref`  
+  Labels: `SFT` · `RLVR` · `Reasoning`  
+  Authors: Jian Wang, Shengyan Hao  
+  Venue: IEEE Access
 
 <a id="2026-08"></a>
 
@@ -2255,7 +2266,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/abs/2512.16921)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Counterfactual` · `Multimodal`  
-  Authors: Qihao Liu, Chengzhi Mao, Yaojie Liu, Alan Yuille, Wen-Sheng Chu
+  Authors: Qihao Liu, Chengzhi Mao, Yaojie Liu, Alan Yuille, Wen-Sheng Chu  
+  Institutions*: Michigan State University
 
 - 🔎 **[SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning](https://arxiv.org/abs/2512.16461)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-18 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2275,17 +2287,20 @@ _No visible paper records in this cell yet._
 - 🔎 **[DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos](https://arxiv.org/abs/2512.14217)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Diffusion` · `Video Generation` · `Robotics`  
-  Authors: Yang Bai, Liudi Yang, George Eskandar, Fengyi Shen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok
+  Authors: Yang Bai, Liudi Yang, George Eskandar, Fengyi Shen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok  
+  Institutions*: LMU Munich
 
 - 🔎 **[MMhops-R1: Multimodal Multi-hop Reasoning](https://arxiv.org/abs/2512.13573)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
-  Authors: Tao Zhang, Ziqi Zhang, Zongyang Ma, Yuxin Chen, Bing Li, Chunfeng Yuan, Guangting Wang, Fengyun Rao, et al.
+  Authors: Tao Zhang, Ziqi Zhang, Zongyang Ma, Yuxin Chen, Bing Li, Chunfeng Yuan, Guangting Wang, Fengyun Rao, et al.  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent` · `Multimodal`  
-  Authors: Yuyang Hu, Shichun Liu, Yanwei Yue, Guibin Zhang, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo, et al.
+  Authors: Yuyang Hu, Shichun Liu, Yanwei Yue, Guibin Zhang, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo, et al.  
+  Institutions*: Fudan University; GSAI; GSAI, Renmin University of China; Renmin University of China; University of Montreal
 
 - 🔎 **[Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](https://arxiv.org/abs/2512.13380)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2305,12 +2320,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models](https://arxiv.org/abs/2512.10932)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-11 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multi-turn` · `Multimodal` · `Reasoning`  
-  Authors: Shengao Wang, Wenqi Wang, Zecheng Wang, Max Whitton, Michael Wakeham, Arjun Chandra, Joey Huang, Pengyue Zhu, et al.
+  Authors: Shengao Wang, Wenqi Wang, Zecheng Wang, Max Whitton, Michael Wakeham, Arjun Chandra, Joey Huang, Pengyue Zhu, et al.  
+  Institutions*: University of Pennsylvania
 
 - 🔎 **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `VLM`  
-  Authors: Khurram Khalil, Khaza Anuarul Hoque
+  Authors: Khurram Khalil, Khaza Anuarul Hoque  
+  Venue: [IEEE International Symposium on Hardware Oriented Security and Trust](http://www.engr.uconn.edu/HOST/)
 
 - 🔎 **[Mind to Hand: Purposeful Robotic Control via Embodied Reasoning](https://arxiv.org/abs/2512.08580)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-09 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2340,12 +2357,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[Semore: VLM-guided Enhanced Semantic Motion Representations for Visual Reinforcement Learning](https://arxiv.org/abs/2512.05172)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLM`  
-  Authors: Wentao Wang, Chunyang Liu, Kehua Sheng, Bo Zhang, Yan Wang
+  Authors: Wentao Wang, Chunyang Liu, Kehua Sheng, Bo Zhang, Yan Wang  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence](https://arxiv.org/abs/2512.04563)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
-  Authors: Zefeng Zhang, Xiangzhao Hao, Hengzhu Tang, Zhenyu Zhang, Jiawei Sheng, Xiaodong Li, Zhenyang Li, Li Gao, et al.
+  Authors: Zefeng Zhang, Xiangzhao Hao, Hengzhu Tang, Zhenyu Zhang, Jiawei Sheng, Xiaodong Li, Zhenyang Li, Li Gao, et al.  
+  Institutions*: Institute of Information Engineering, Chinese Academy of Sciences
 
 - 🔎 **[RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning](https://arxiv.org/abs/2512.02729)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-12-02 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2416,7 +2435,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[HunyuanOCR Technical Report](https://arxiv.org/abs/2511.19575)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLM`  
-  Authors:  Hunyuan Vision Team, Pengyuan Lyu, Xingyu Wan, Gengluo Li, Shangpin Peng, Weinong Wang, Liang Wu, Huawen Shen, et al.
+  Authors:  Hunyuan Vision Team, Pengyuan Lyu, Xingyu Wan, Gengluo Li, Shangpin Peng, Weinong Wang, Liang Wu, Huawen Shen, et al.  
+  Institutions*: Harbin Institute of Technology, Shenzhen; Nankai University, China
 
 - 🔎 **[ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay](https://arxiv.org/abs/2511.19033)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2431,7 +2451,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints](https://arxiv.org/abs/2511.18450)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-23 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Robotics` · `Reasoning` · `Code`  
-  Authors: Rui Xu, Dakuan Lu, Zicheng Zhao, Xiaoyu Tan, Xintao Wang, Siyu Yuan, Jiangjie Chen, Yinghui Xu
+  Authors: Rui Xu, Dakuan Lu, Zicheng Zhao, Xiaoyu Tan, Xintao Wang, Siyu Yuan, Jiangjie Chen, Yinghui Xu  
+  Institutions*: Fudan University  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[UltraFlux: Data-Model Co-Design for High-quality Native 4K Text-to-Image Generation across Diverse Aspect Ratios](https://arxiv.org/abs/2511.18050)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-22 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2441,7 +2463,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-21 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `GRPO` · `Multimodal` · `Reasoning` · `Hallucination`  
-  Authors: Yolo Y. Tang, Daiki Shimada, Hang Hua, Chao Huang, Jing Bi, Rogerio Feris, Chenliang Xu
+  Authors: Yolo Y. Tang, Daiki Shimada, Hang Hua, Chao Huang, Jing Bi, Rogerio Feris, Chenliang Xu  
+  Institutions*: University of Rochester
 
 - 🔎 **[UniModel: A Visual-Only Framework for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2511.16917)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-21 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2451,7 +2474,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios](https://arxiv.org/abs/2511.16901)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-21 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
-  Authors: Lu Zhu, Tiantian Geng, Yangye Chen, Teng Wang, Ping Lu, Feng Zheng
+  Authors: Lu Zhu, Tiantian Geng, Yangye Chen, Teng Wang, Ping Lu, Feng Zheng  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots](https://arxiv.org/abs/2511.17652)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-20 · `direction-month-query` · `arxiv-monthly-backfill`  
