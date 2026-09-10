@@ -2067,7 +2067,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[From Perception to Reasoning: Deep Thinking Empowers Multimodal Large Language Models](https://arxiv.org/abs/2511.12861)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning`  
-  Authors: Wenxin Zhu, Andong Chen, Yuchen Song, Kehai Chen, Conghui Zhu, Ziyan Chen, Tiejun Zhao
+  Authors: Wenxin Zhu, Andong Chen, Yuchen Song, Kehai Chen, Conghui Zhu, Ziyan Chen, Tiejun Zhao  
+  Institutions*: School of Computer Science and Technology, Harbin Institute of Technolgy, Shenzhen, China
 
 - 🔎 **[TextBO: Bayesian Optimization in Language Space for Eval-Efficient Self-Improving AI](https://arxiv.org/abs/2511.12063)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2082,7 +2083,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?](https://arxiv.org/abs/2511.10059)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-13 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning` · `Hallucination`  
-  Authors: Qilang Ye, Wei Zeng, Meng Liu, Jie Zhang, Yupeng Hu, Zitong Yu, Yu Zhou
+  Authors: Qilang Ye, Wei Zeng, Meng Liu, Jie Zhang, Yupeng Hu, Zitong Yu, Yu Zhou  
+  Institutions*: Nankai University, China
 
 - 🔎 **[WMPO: World Model-based Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2511.09515)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-12 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2097,7 +2099,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Provable Benefit of Curriculum in Transformer Tree-Reasoning Post-Training](https://arxiv.org/abs/2511.07372)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Curriculum` · `Reasoning`  
-  Authors: Dake Bu, Wei Huang, Andi Han, Atsushi Nitanda, Hau-San Wong, Qingfu Zhang, Taiji Suzuki
+  Authors: Dake Bu, Wei Huang, Andi Han, Atsushi Nitanda, Hau-San Wong, Qingfu Zhang, Taiji Suzuki  
+  Institutions*: City University of Hong Kong; RIKEN AIP
 
 - 🔎 **[A Mathematical Framework for AI Singularity: Conditions, Bounds, and Control of Recursive Improvement](https://arxiv.org/abs/2511.10668)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2112,7 +2115,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Scaling Agent Learning via Experience Synthesis](https://arxiv.org/abs/2511.03773)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-05 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `PPO` · `Self-improvement` · `Curriculum` · `Agent` · `Reasoning`  
-  Authors: Zhaorun Chen, Zhuokai Zhao, Kai Zhang, Bo Liu, Qi Qi, Yifan Wu, Tarun Kalluri, Sara Cao, et al.
+  Authors: Zhaorun Chen, Zhuokai Zhao, Kai Zhang, Bo Liu, Qi Qi, Yifan Wu, Tarun Kalluri, Sara Cao, et al.  
+  Institutions*: Meta; University of Chicago
 
 - 🔎 **[Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](https://arxiv.org/abs/2511.01718)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2122,7 +2126,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[CNFP: Optimizing Cloud-Native Network Function Placement with Diffusion Models on the Cloud Continuum](https://arxiv.org/abs/2511.01343)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
-  Authors: Álvaro Vázquez Rodríguez, Manuel Fernández-Veiga, Carlos Giraldo-Rodríguez
+  Authors: Álvaro Vázquez Rodríguez, Manuel Fernández-Veiga, Carlos Giraldo-Rodríguez  
+  Venue: Comput. Networks
 
 - 🔎 **[MARS-SQL: A multi-agent reinforcement learning framework for Text-to-SQL](https://arxiv.org/abs/2511.01008)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-02 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2148,12 +2153,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-29 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reasoning`  
-  Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua, Tianyu Zhang, Ziniu Li, Haoran Que, Boyi Wei, Zixin Wen, et al.
+  Authors: Rui-Jie Zhu, Zixuan Wang, Kai Hua, Tianyu Zhang, Ziniu Li, Haoran Que, Boyi Wei, Zixin Wen, et al.  
+  Institutions*: Princeton University
 
 - 🔎 **[SPICE: Self-Play In Corpus Environments Improves Reasoning](https://arxiv.org/abs/2510.24684)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-28 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Self-play` · `Curriculum` · `Reasoning`  
-  Authors: Bo Liu, Chuanyang Jin, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, et al.
+  Authors: Bo Liu, Chuanyang Jin, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, et al.  
+  Institutions*: Meta AI
 
 - 🔎 **[Huxley-Gödel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine](https://arxiv.org/abs/2510.21614)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-24 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2163,7 +2170,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://arxiv.org/abs/2510.21122)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-24 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning` · `Hallucination`  
-  Authors: Longtian Qiu, Shan Ning, Jiaxuan Sun, Xuming He
+  Authors: Longtian Qiu, Shan Ning, Jiaxuan Sun, Xuming He  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[The Mirror Loop: Recursive Non-Convergence in Generative Reasoning Systems](https://arxiv.org/abs/2510.21861)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2173,7 +2181,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2510.20176)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-23 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Reasoning` · `Code` · `Hallucination`  
-  Authors: Yuhang Zhou, Mingrui Zhang, Ke Li, Mingyi Wang, Qiao Liu, Qifei Wang, Jiayi Liu, Fei Liu, et al.
+  Authors: Yuhang Zhou, Mingrui Zhang, Ke Li, Mingyi Wang, Qiao Liu, Qifei Wang, Jiayi Liu, Fei Liu, et al.  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-22 · `direction-month-query` · `arxiv-monthly-backfill`  

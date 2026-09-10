@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**358 papers**: 1 curated and 357 academic discovery candidates.
+**360 papers**: 1 curated and 359 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
+- [2026](#2026) — [Sep](#2026-09) ✓6 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -26,6 +26,18 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 2 academic records · 2 eligible · checked 2026-09-02T04:49:38.494374+00:00.
+
+- 🔎 **[A Safety-Enhanced Reinforcement Learning Framework for Vision-Language Models in Autonomous Driving](https://doi.org/10.23919/cje.2025.00.214)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-09 · `query-hint` · `crossref`  
+  Labels: `VLM` · `Autonomous Driving`  
+  Authors: Shiqi Gao, Qi Song, Tianxiang Gong, Runhua Xu, Haoyi Zhou, Chao Li, Jianxin Li, Yue Cao  
+  Venue: Chinese Journal of Electronics
+
+- 🔎 **[Recent Advances of Reinforcement Learning Algorithms for Autonomous Driving System](https://doi.org/10.26599/commtr.2026.9640053)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-09 · `query-hint` · `crossref`  
+  Labels: `GRPO` · `PPO` · `VLM` · `Autonomous Driving`  
+  Authors: Bin Shuai, Min Hua, Letian Tao, Zhilong Zheng, Yujie Yang, Yang Guan, Lei He, Jingliang Duan, et al.  
+  Venue: Communications in Transportation Research
 
 - 🔎 **[Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement](https://doi.org/10.2139/ssrn.7395620)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-05 · `query-hint` · `crossref`  
@@ -1185,7 +1197,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](https://arxiv.org/abs/2511.14178)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLA` · `Robotics`  
-  Authors: Zhuo Li, Junjia Liu, Zhipeng Dong, Tao Teng, Quentin Rouxel, Darwin Caldwell, Fei Chen
+  Authors: Zhuo Li, Junjia Liu, Zhipeng Dong, Tao Teng, Quentin Rouxel, Darwin Caldwell, Fei Chen  
+  Venue: [IEEE Robotics and Automation Letters](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER481-ELE)
 
 - 🔎 **[Yanyun-3: Enabling Cross-Platform Strategy Game Operation with Vision-Language Models](https://arxiv.org/abs/2511.12937)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1195,7 +1208,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[RoboAfford++: A Generative AI-Enhanced Dataset for Multimodal Affordance Learning in Robotic Manipulation and Navigation](https://arxiv.org/abs/2511.12436)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `VLM` · `Robotics`  
-  Authors: Xiaoshuai Hao, Yingbo Tang, Lingfeng Zhang, Yanbiao Ma, Yunfeng Diao, Ziyu Jia, Wenbo Ding, Hangjun Ye, et al.
+  Authors: Xiaoshuai Hao, Yingbo Tang, Lingfeng Zhang, Yanbiao Ma, Yunfeng Diao, Ziyu Jia, Wenbo Ding, Hangjun Ye, et al.  
+  Institutions*: Hefei University of Technology
 
 - 🔎 **[SpatialThinker: Reinforcing Scene Graph-Grounded Spatial Reasoning via Dense Rewards](https://arxiv.org/abs/2511.07403)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-10 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1205,12 +1219,15 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[10 Open Challenges Steering the Future of Vision-Language-Action Models](https://arxiv.org/abs/2511.05936)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-08 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Synthetic Data` · `VLM` · `VLA` · `Reasoning`  
-  Authors: Soujanya Poria, Navonil Majumder, Chia-Yu Hung, Amir Ali Bagherzadeh, Chuan Li, Kenneth Kwok, Ziwei Wang, Cheston Tan, et al.
+  Authors: Soujanya Poria, Navonil Majumder, Chia-Yu Hung, Amir Ali Bagherzadeh, Chuan Li, Kenneth Kwok, Ziwei Wang, Cheston Tan, et al.  
+  Institutions*: Nanyang Technological University  
+  Venue: [AAAI Conference on Artificial Intelligence](http://www.aaai.org/)
 
 - 🔎 **[Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](https://arxiv.org/abs/2511.05705)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-07 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal` · `VLM` · `Reasoning`  
-  Authors: David Acuna, Chao-Han Huck Yang, Yuntian Deng, Jaehun Jung, Ximing Lu, Prithviraj Ammanabrolu, Hyunwoo Kim, Yuan-Hong Liao, et al.
+  Authors: David Acuna, Chao-Han Huck Yang, Yuntian Deng, Jaehun Jung, Ximing Lu, Prithviraj Ammanabrolu, Hyunwoo Kim, Yuan-Hong Liao, et al.  
+  Institutions*: University of Toronto; University of Washington; Vector Institute
 
 - 🔎 **[Visual Spatial Tuning](https://arxiv.org/abs/2511.05491)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-07 · `direction-month-query` · `arxiv-monthly-backfill`  
