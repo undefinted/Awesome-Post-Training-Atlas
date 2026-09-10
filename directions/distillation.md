@@ -1677,12 +1677,14 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Black-Box On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2511.10643)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-13 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Reward Model`  
-  Authors: Tianzhu Ye, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei
+  Authors: Tianzhu Ye, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei  
+  Institutions*: Beijing Institute of Technology
 
 - 🔎 **[Practical Policy Distillation for Reinforcement Learning in Radio Access Networks](https://arxiv.org/abs/2511.06563)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation`  
-  Authors: Sara Khosravi, Burak Demirel, Linghui Zhou, Javier Rasines, Pablo Soldati
+  Authors: Sara Khosravi, Burak Demirel, Linghui Zhou, Javier Rasines, Pablo Soldati  
+  Venue: [IEEE International Symposium on Personal, Indoor and Mobile Radio Communications](http://www.ieee-pimrc.org/)
 
 - 🔎 **[BARD: budget-aware reasoning distillation](https://arxiv.org/abs/2511.01470)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1692,7 +1694,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Thinking with DistilQwen: A Tale of Four Distilled Reasoning and Reward Model Series](https://arxiv.org/abs/2511.01354)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-11-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Reward Model` · `Reasoning`  
-  Authors: Wenrui Cai, Chengyu Wang, Junbing Yan, Jun Huang, Xiangzhong Fang
+  Authors: Wenrui Cai, Chengyu Wang, Junbing Yan, Jun Huang, Xiangzhong Fang  
+  Venue: [Conference on Empirical Methods in Natural Language Processing](https://www.aclweb.org/portal/emnlp)
 
 <a id="2025-10"></a>
 
@@ -1703,12 +1706,14 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[LC-Opt: Benchmarking Reinforcement Learning and Agentic AI for End-to-End Liquid Cooling Optimization in Data Centers](https://arxiv.org/abs/2511.00116)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-31 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Agent`  
-  Authors: Avisek Naug, Antonio Guillen, Vineet Kumar, Scott Greenwood, Wesley Brewer, Sahand Ghorbanpour, Ashwin Ramesh Babu, Vineet Gundecha, et al.
+  Authors: Avisek Naug, Antonio Guillen, Vineet Kumar, Scott Greenwood, Wesley Brewer, Sahand Ghorbanpour, Ashwin Ramesh Babu, Vineet Gundecha, et al.  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[Embodied Navigation with Auxiliary Task of Action Description Prediction](https://arxiv.org/abs/2510.21809)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Multimodal` · `VLM`  
-  Authors: Haru Kondoh, Asako Kanezaki
+  Authors: Haru Kondoh, Asako Kanezaki  
+  Venue: [IEEE International Conference on Computer Vision](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
 
 - 🔎 **[MENTOR: Reinforcement Learning via Flexible Teacher-Optimized Rewards for Tool-Use Distillation](https://arxiv.org/abs/2510.18383)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
