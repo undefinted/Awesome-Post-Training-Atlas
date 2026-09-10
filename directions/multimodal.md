@@ -27,11 +27,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 > **Audit status:** ✓ Complete · scanned 13 academic records · 5 eligible · checked 2026-09-02T04:49:35.361284+00:00.
 
-- 🔎 **[Language models as QSPR predictors: Unleashing potential through in-context learning and instruction tuning](https://doi.org/10.1007/s11708-026-1076-y)** — `discovery candidate`; awaiting primary-paper curation.  
-  2026-09-10 · `query-hint` · `crossref`  
-  Labels: `SFT`  
-  Authors: Chenyue Tao, Chengcheng Liu, Chenxuan Li, Bin Yang  
-  Venue: ENGINEERING Energy
+- 🔎 **[Towards Reliable Medical Large Vision-Language Models via Counterfactual Preference Optimization](https://doi.org/10.1007/978-3-032-37098-3_29)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-09 · `query-hint` · `crossref`  
+  Labels: `Counterfactual` · `Preference Optimization` · `VLM`  
+  Authors: Xiaoguang Zhu, Naipeng Wang, Kartik Patwari, Lianlong Sun, Chen-Nee Chuah, Chengxin Pang  
+  Venue: Lecture Notes in Computer Science
 
 - 🔎 **[Calibration, Not Acuity: Auditing What Engine-Grounded Adaptation Repairs in Cross-SportMetric Spatial Reasoning for Vision–Language Models](https://doi.org/10.2139/ssrn.7422525)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-06 · `query-hint` · `crossref`  

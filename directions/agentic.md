@@ -28,11 +28,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 > **Audit status:** ✓ Complete · scanned 4 academic records · 0 eligible · checked 2026-09-02T04:49:33.693612+00:00.
 
-- 🔎 **[PARL-VLA: Pruning-Aware On-Policy Reinforcement Learning for Vision-Language-Action Model](https://doi.org/10.1007/978-3-032-37595-7_37)** — `discovery candidate`; awaiting primary-paper curation.  
+- 🔎 **[Learning Progression Informed Multi-Agent AI Feedback System for STEM Sensemaking (Stage 3 - 12:17 pm)](https://doi.org/10.3102/2352951)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-09 · `query-hint` · `crossref`  
-  Labels: `On-policy` · `VLA`  
-  Authors: Ruiyan Xu, Jiashu Lv, Sixu Lin, Ruixing Jin, Shuliang He, Guiliang Liu  
-  Venue: Lecture Notes in Computer Science
+  Labels: `RLAIF`  
+  Authors: Leonora Kaldaras  
+  Venue: Proceedings of the 2026 AERA Annual Meeting
 
 - 🔎 **[Advances in Reinforcement Learning for Retrieval-Augmented Generation in Large Language Model](https://doi.org/10.54254/2755-2721/2026.36624)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-08 · `query-hint` · `crossref`  
