@@ -44,20 +44,20 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-09-10T10:49:20+08:00** (China Standard Time). `Latest` below is the paper's first-publication date, not the scan date.
+Radar last scanned academic sources: **2026-09-12T10:57:12+08:00** (China Standard Time). `Latest` below is the paper's first-publication date, not the scan date.
 
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
 | [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3335 | **3337** | 2026-09-10 |
 | [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2736 | **2741** | 2026-09-08 |
 | [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3016 | **3017** | 2026-09-08 |
-| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 733 | **736** | 2026-09-03 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 342 | **365** | 2026-09-03 |
+| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 734 | **737** | 2026-09-10 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 343 | **366** | 2026-09-03 |
 | [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 719 | **722** | 2026-09-03 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 520 | **522** | 2026-09-09 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 521 | **523** | 2026-09-11 |
 | [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 826 | **828** | 2026-09-09 |
 | [Generative Media Post-Training](directions/generative-media.md) | 2 | 397 | **399** | 2026-09-03 |
-| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 360 | **361** | 2026-09-09 |
+| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 361 | **362** | 2026-09-11 |
 <!-- PAPERS:END -->
 
 ## Paper Radar

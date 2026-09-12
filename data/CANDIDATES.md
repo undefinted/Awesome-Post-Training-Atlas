@@ -12982,12 +12982,16 @@ Automated proposals only; inclusion requires human review.
 | 2026-08-28 | [CCPO: Execution Consistent Preference Optimization Through Computational Pacts](https://doi.org/10.20944/preprints202608.2119.v1) | crossref | 8 | `embodied-vla` |
 | 2026-08-24 | [293.3: Development and application of an intelligent agent training platform for organ donation coordinators based on the five habits communication framework.](https://doi.org/10.1097/01.tp.0001250380.18899.ca) | crossref | 3 | `agentic` |
 | 2026-07-13 | [RLux-VLA: A Unified and Efficient Framework for Reinforcement Learning of Vision-Language-Action Models](https://doi.org/10.15607/rss.2026.xxii.089) | crossref | 3 | `embodied-vla` |
-| 2026-09-10 | [Language models as QSPR predictors: Unleashing potential through in-context learning and instruction tuning](https://doi.org/10.1007/s11708-026-1076-y) | crossref | 3 | `multimodal` |
-| 2026-09-09 | [Towards Reliable Medical Large Vision-Language Models via Counterfactual Preference Optimization](https://doi.org/10.1007/978-3-032-37098-3_29) | crossref | 5 | `generative-media` |
-| 2026-09-09 | [Learning Progression Informed Multi-Agent AI Feedback System for STEM Sensemaking (Stage 3 - 12:17 pm)](https://doi.org/10.3102/2352951) | crossref | 3 | `preference-alignment` |
-| 2026-09-09 | [PARL-VLA: Pruning-Aware On-Policy Reinforcement Learning for Vision-Language-Action Model](https://doi.org/10.1007/978-3-032-37595-7_37) | crossref | 3 | `agentic` |
+| 2026-09-10 | [Language models as QSPR predictors: Unleashing potential through in-context learning and instruction tuning](https://doi.org/10.1007/s11708-026-1076-y) | crossref | 3 | `supervised-adaptation` |
+| 2026-09-09 | [Towards Reliable Medical Large Vision-Language Models via Counterfactual Preference Optimization](https://doi.org/10.1007/978-3-032-37098-3_29) | crossref | 5 | `multimodal` |
+| 2026-09-09 | [Learning Progression Informed Multi-Agent AI Feedback System for STEM Sensemaking (Stage 3 - 12:17 pm)](https://doi.org/10.3102/2352951) | crossref | 3 | `agentic` |
+| 2026-09-09 | [PARL-VLA: Pruning-Aware On-Policy Reinforcement Learning for Vision-Language-Action Model](https://doi.org/10.1007/978-3-032-37595-7_37) | crossref | 3 | `embodied-vla` |
 | 2026-09-09 | [A Safety-Enhanced Reinforcement Learning Framework for Vision-Language Models in Autonomous Driving](https://doi.org/10.23919/cje.2025.00.214) | crossref | 3 | `embodied-vla` |
 | 2026-09-09 | [Recent Advances of Reinforcement Learning Algorithms for Autonomous Driving System](https://doi.org/10.26599/commtr.2026.9640053) | crossref | 3 | `embodied-vla` |
+| 2026-09-11 | [Reinforcement Learning for Optimal AI Style Policy Using Synthetic Customer Agents](https://doi.org/10.2139/ssrn.7410078) | crossref | 4 | `embodied-vla` |
+| 2026-09-11 | [P‐4.28: Reinforcement Learning‐Based Embodied Intelligence Training](https://doi.org/10.1002/sdtp.70003_343) | crossref | 3 | `agentic` |
+| 2026-09-10 | [Fine-Tuning Multimodal Large Language Models: From Parameter Updates to Data-Centric, Modality-Aware Adaptation](https://doi.org/10.2139/ssrn.7419558) | crossref | 9 | `reinforcement-learning` |
+| 2026-09-03 | [Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](https://doi.org/10.1145/3820774) | semantic-scholar | 5 | `distillation` |
 
 Review checklist:
 
