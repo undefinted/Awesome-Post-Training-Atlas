@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**523 papers**: 2 curated and 521 academic discovery candidates.
+**524 papers**: 2 curated and 522 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓9 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓9 · [Aug](#2026-08) ✓58 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓20 · [Oct](#2025-10) ✓33 · [Sep](#2025-09) ✓33 · [Aug](#2025-08) ✓14 · [Jul](#2025-07) ✓11 · [Jun](#2025-06) ✓13 · [May](#2025-05) ✓16 · [Apr](#2025-04) ✓6 · [Mar](#2025-03) ✓8 · [Feb](#2025-02) ✓7 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓6 · [Nov](#2024-11) ✓4 · [Oct](#2024-10) ✓6 · [Sep](#2024-09) ✓2 · [Aug](#2024-08) ✓4 · [Jul](#2024-07) ✓0 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓7 · [Feb](#2024-02) ✓4 · [Jan](#2024-01) ✓3
 - [2023](#2023) — [Feb](#2023-02) ◐1
@@ -81,7 +81,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 245 academic records · 110 eligible · checked 2026-09-02T04:47:38.023177+00:00.
+> **Audit status:** ✓ Complete · scanned 247 academic records · 112 eligible · checked 2026-09-12T04:58:10.095738+00:00.
 
 - 🔎 **[VisLens: Single-Pass Interpretable Visual Search for Multimodal LLMs](https://arxiv.org/abs/2608.30705)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -310,6 +310,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent`  
   Authors: Hanlin Jiang, Puyi Wang, Jiandong Jin, Shaofei Li, Zhan Shen, Pengli Wang, Ziming Wang, Yifeng Cai, et al.
+
+- 🔎 **[Compiling VGDL into Causal Models](https://arxiv.org/abs/2609.05459)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual` · `Agent` · `Reasoning`  
+  Authors: Mohit Jiwatode, Bodo Rosenhahn, Alexander Dockhorn
 
 - 🔎 **[Learning from Environmental Feedback: Credit Assignment across Multiple Timescales for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.08255)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-08 · `direction-month-query` · `arxiv-monthly-backfill`  
