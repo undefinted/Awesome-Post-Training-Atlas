@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**365 papers**: 23 curated and 342 academic discovery candidates.
+**366 papers**: 23 curated and 343 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓8 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
+- [2026](#2026) — [Sep](#2026-09) ✓9 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
 - [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · [Jan](#2025-01) ✓0
 - [2024](#2024) — [Dec](#2024-12) ✓3 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓3 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓1 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓0 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓3 · [Feb](#2024-02) ✓1 · [Jan](#2024-01) ✓1
 
@@ -45,6 +45,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-09-03 · `query-hint` · `arxiv`  
   Labels: `Distillation` · `Robotics`  
   Authors: Vladimir Krsmanovic, Florian Kohn, Bernd Finkbeiner, Milan Simovic
+
+- 🔎 **[Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](https://doi.org/10.1145/3820774)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-03 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Reward Model` · `Reasoning`  
+  Authors: Ruowei Fu, Yang Zhang, Shenglin Zhang, Xin Wu, Wenwei Gu, Feng Wang, Zeyu Che, Xiaozhou Liu, et al.  
+  Venue: ACM Transactions on Software Engineering and Methodology
 
 - 🔎 **[Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs](https://arxiv.org/abs/2609.02548)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-02 · `query-hint` · `semantic-scholar`  
