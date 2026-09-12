@@ -157,7 +157,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 1000 academic records · 339 eligible · checked 2026-09-02T04:46:16.762026+00:00.
+> **Audit status:** ◐ Incomplete or truncated · scanned 1000 academic records · 338 eligible · checked 2026-09-12T04:57:21.026665+00:00.
 
 - 🔎 **[Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](https://arxiv.org/abs/2608.31077)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  

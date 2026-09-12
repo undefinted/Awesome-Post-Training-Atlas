@@ -76,7 +76,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 134 academic records · 121 eligible · checked 2026-09-02T04:46:38.870479+00:00.
+> **Audit status:** ✓ Complete · scanned 134 academic records · 121 eligible · checked 2026-09-12T04:57:41.568954+00:00.
 
 - 🔎 **[PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  

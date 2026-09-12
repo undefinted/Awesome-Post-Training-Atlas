@@ -12992,6 +12992,10 @@ Automated proposals only; inclusion requires human review.
 | 2026-09-11 | [P‐4.28: Reinforcement Learning‐Based Embodied Intelligence Training](https://doi.org/10.1002/sdtp.70003_343) | crossref | 3 | `agentic` |
 | 2026-09-10 | [Fine-Tuning Multimodal Large Language Models: From Parameter Updates to Data-Centric, Modality-Aware Adaptation](https://doi.org/10.2139/ssrn.7419558) | crossref | 9 | `reinforcement-learning` |
 | 2026-09-03 | [Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](https://doi.org/10.1145/3820774) | semantic-scholar | 5 | `distillation` |
+| 2026-08-31 | [When and What to Teach: Budget-Aware Online Adaptation for Web Agents](https://arxiv.org/abs/2609.05513) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-08-31 | [AgenticGen: Reward-Guided Agentic Video Generation for Advertising](https://arxiv.org/abs/2609.09187) | arxiv-monthly-backfill | 4 | `needs-review` |
+| 2026-08-31 | [SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction](https://arxiv.org/abs/2609.05511) | arxiv-monthly-backfill | 3 | `needs-review` |
+| 2026-08-10 | [Compiling VGDL into Causal Models](https://arxiv.org/abs/2609.05459) | arxiv-monthly-backfill | 5 | `needs-review` |
 
 Review checklist:
 

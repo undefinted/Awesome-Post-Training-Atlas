@@ -341,11 +341,11 @@ cells:
   query: (((all:"agent training" OR all:"agentic reinforcement learning" OR all:"agent post-training")) OR ((all:"tool use" OR all:"web agent" OR all:"computer use")
     AND (all:training OR all:reinforcement)) OR ((all:"multi-turn reinforcement learning" OR all:"multi-turn agent" OR all:"long-horizon agent")) OR ((all:"coding
     agent" OR all:"software agent") AND (all:training OR all:reward))) AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 245
-  eligible: 110
+  records_scanned: 247
+  eligible: 112
   complete: true
   newly_queued: 1
-  checked_at: '2026-09-02T04:47:38.023177+00:00'
+  checked_at: '2026-09-12T04:58:10.095738+00:00'
 - cell: agentic:2026-09
   direction: agentic
   month: 2026-09
@@ -676,7 +676,7 @@ cells:
   eligible: 121
   complete: true
   newly_queued: 0
-  checked_at: '2026-09-02T04:46:38.870479+00:00'
+  checked_at: '2026-09-12T04:57:41.568954+00:00'
 - cell: distillation:2026-09
   direction: distillation
   month: 2026-09
@@ -1038,7 +1038,7 @@ cells:
   eligible: 49
   complete: true
   newly_queued: 0
-  checked_at: '2026-09-02T04:48:37.579231+00:00'
+  checked_at: '2026-09-12T04:59:28.793980+00:00'
 - cell: embodied-vla:2026-09
   direction: embodied-vla
   month: 2026-09
@@ -1392,11 +1392,11 @@ cells:
   query: (((all:diffusion OR all:"image generation" OR all:"video generation") AND (all:alignment OR all:preference OR all:reward)) OR ((all:"diffusion language model"
     OR all:"discrete diffusion") AND (all:post-training OR all:reinforcement OR all:preference)) OR ((all:"text-to-image" OR all:"text-to-video") AND (all:DPO OR
     all:RLHF OR all:"human feedback"))) AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 251
-  eligible: 53
+  records_scanned: 252
+  eligible: 54
   complete: true
-  newly_queued: 1
-  checked_at: '2026-09-02T04:48:33.872832+00:00'
+  newly_queued: 0
+  checked_at: '2026-09-12T04:59:24.678297+00:00'
 - cell: generative-media:2026-09
   direction: generative-media
   month: 2026-09
@@ -1750,11 +1750,11 @@ cells:
   query: (((all:multimodal OR all:VLM OR all:MLLM) AND (all:alignment OR all:"preference optimization")) OR ((all:multimodal OR all:VLM OR all:MLLM) AND (all:"reinforcement
     learning" OR all:RLHF OR all:RLVR)) OR ((all:"visual instruction tuning" OR all:"multimodal instruction tuning" OR all:"visual reward model"))) AND submittedDate:[202608010000
     TO 202608312359]
-  records_scanned: 394
-  eligible: 127
+  records_scanned: 399
+  eligible: 128
   complete: true
   newly_queued: 0
-  checked_at: '2026-09-02T04:48:15.967061+00:00'
+  checked_at: '2026-09-12T04:58:39.959761+00:00'
 - cell: multimodal:2026-09
   direction: multimodal
   month: 2026-09
@@ -2077,11 +2077,11 @@ cells:
   month: 2026-08
   query: (((all:"preference optimization" OR all:"direct preference optimization" OR all:DPO)) OR ((all:RLHF OR all:RLAIF OR all:"human feedback" OR all:"AI feedback"))
     OR ((all:"online preference" OR all:"self-reward" OR all:"constitutional AI"))) AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 112
-  eligible: 91
+  records_scanned: 115
+  eligible: 94
   complete: true
-  newly_queued: 1
-  checked_at: '2026-09-02T04:45:20.406374+00:00'
+  newly_queued: 2
+  checked_at: '2026-09-12T04:56:09.928657+00:00'
 - cell: preference-alignment:2026-09
   direction: preference-alignment
   month: 2026-09
@@ -2434,11 +2434,11 @@ cells:
   query: (((all:"self improvement" OR all:"self-improvement" OR all:"self-training" OR all:"self-play")) OR ((all:"self-correction" OR all:"iterative refinement"
     OR all:"self-evolving") AND all:training) OR ((all:"reasoning trace" OR all:"chain-of-thought") AND (all:training OR all:distillation))) AND submittedDate:[202608010000
     TO 202608312359]
-  records_scanned: 268
-  eligible: 120
+  records_scanned: 269
+  eligible: 121
   complete: true
-  newly_queued: 2
-  checked_at: '2026-09-02T04:47:08.030470+00:00'
+  newly_queued: 1
+  checked_at: '2026-09-12T04:57:55.225330+00:00'
 - cell: reasoning-self-improvement:2026-09
   direction: reasoning-self-improvement
   month: 2026-09
@@ -2787,11 +2787,11 @@ cells:
   query: (((all:RLVR OR all:"verifiable reward" OR all:"reinforcement learning from verifiable rewards")) OR ((all:GRPO OR all:PPO OR all:"policy optimization") AND
     (all:"language model" OR all:"foundation model")) OR ((all:"reinforcement fine-tuning" OR all:"online reinforcement learning") AND (all:model OR all:reasoning)))
     AND submittedDate:[202608010000 TO 202608312359]
-  records_scanned: 223
-  eligible: 158
+  records_scanned: 225
+  eligible: 159
   complete: true
   newly_queued: 0
-  checked_at: '2026-09-02T04:46:31.066430+00:00'
+  checked_at: '2026-09-12T04:57:34.112575+00:00'
 - cell: reinforcement-learning:2026-09
   direction: reinforcement-learning
   month: 2026-09
@@ -3111,10 +3111,10 @@ cells:
   query: (((all:"reward model" OR all:"preference model" OR all:"LLM judge")) OR ((all:verifier OR all:"process reward" OR all:"outcome reward") AND (all:reasoning
     OR all:model)) OR ((all:"process supervision" OR all:"step-level reward" OR all:"generative reward model"))) AND submittedDate:[202608010000 TO 202608312359]
   records_scanned: 1000
-  eligible: 339
+  eligible: 338
   complete: false
-  newly_queued: 3
-  checked_at: '2026-09-02T04:46:16.762026+00:00'
+  newly_queued: 0
+  checked_at: '2026-09-12T04:57:21.026665+00:00'
 - cell: reward-verifiers:2026-09
   direction: reward-verifiers
   month: 2026-09
@@ -3462,11 +3462,11 @@ cells:
   query: (((all:"instruction tuning" OR all:"instruction fine-tuning" OR all:"supervised fine-tuning")) OR ((all:"rejection sampling fine-tuning" OR all:"on-policy
     SFT" OR all:"response refinement")) OR ((all:"synthetic instruction" OR all:"self-instruct" OR all:"data selection") AND (all:model OR all:language))) AND submittedDate:[202608010000
     TO 202608312359]
-  records_scanned: 284
-  eligible: 178
+  records_scanned: 283
+  eligible: 177
   complete: true
-  newly_queued: 3
-  checked_at: '2026-09-02T04:45:13.381576+00:00'
+  newly_queued: 0
+  checked_at: '2026-09-12T04:56:03.238391+00:00'
 - cell: supervised-adaptation:2026-09
   direction: supervised-adaptation
   month: 2026-09

@@ -41,7 +41,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 251 academic records · 53 eligible · checked 2026-09-02T04:48:33.872832+00:00.
+> **Audit status:** ✓ Complete · scanned 252 academic records · 54 eligible · checked 2026-09-12T04:59:24.678297+00:00.
 
 - 🔎 **[Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization](https://arxiv.org/abs/2608.31079)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
