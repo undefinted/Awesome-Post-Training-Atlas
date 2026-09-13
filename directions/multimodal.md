@@ -2676,7 +2676,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[CrossGuard: Safeguarding MLLMs against Joint-Modal Implicit Malicious Attacks](https://arxiv.org/abs/2510.17687)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning` · `Safety`  
-  Authors: Xu Zhang, Hao Li, Zhichao Lu
+  Authors: Xu Zhang, Hao Li, Zhichao Lu  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[D2C-HRHR: Discrete Actions with Double Distributional Critics for High-Risk-High-Return Tasks](https://arxiv.org/abs/2510.17212)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-20 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2686,27 +2687,32 @@ _No visible paper records in this cell yet._
 - 🔎 **[VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents](https://arxiv.org/abs/2510.16907)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-19 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multi-turn` · `VLM` · `Reasoning`  
-  Authors: Kangrui Wang, Pingyue Zhang, Zihan Wang, Yaning Gao, Linjie Li, Qineng Wang, Hanyang Chen, Chi Wan, et al.
+  Authors: Kangrui Wang, Pingyue Zhang, Zihan Wang, Yaning Gao, Linjie Li, Qineng Wang, Hanyang Chen, Chi Wan, et al.  
+  Institutions*: Northwestern University; University of Washington
 
 - 🔎 **[RL makes MLLMs see better than SFT](https://arxiv.org/abs/2510.16333)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-18 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal`  
-  Authors: Junha Song, Sangdoo Yun, Dongyoon Han, Jaegul Choo, Byeongho Heo
+  Authors: Junha Song, Sangdoo Yun, Dongyoon Han, Jaegul Choo, Byeongho Heo  
+  Institutions*: KAIST; NAVER AI LAB; NAVER AI Lab
 
 - 🔎 **[BLIP3o-NEXT: Next Frontier of Native Image Generation](https://arxiv.org/abs/2510.15857)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Diffusion` · `Image Generation` · `Reasoning`  
-  Authors: Jiuhai Chen, Le Xue, Zhiyang Xu, Xichen Pan, Shusheng Yang, Can Qin, An Yan, Honglu Zhou, et al.
+  Authors: Jiuhai Chen, Le Xue, Zhiyang Xu, Xichen Pan, Shusheng Yang, Can Qin, An Yan, Honglu Zhou, et al.  
+  Institutions*: Meta; New York University
 
 - 🔎 **[Towards Robust Zero-Shot Reinforcement Learning](https://arxiv.org/abs/2510.15382)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Diffusion`  
-  Authors: Kexin Zheng, Lauriane Teyssier, Yinan Zheng, Yu Luo, Xianyuan Zhan
+  Authors: Kexin Zheng, Lauriane Teyssier, Yinan Zheng, Yu Luo, Xianyuan Zhan  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering](https://arxiv.org/abs/2510.14605)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Yuyang Hong, Jiaqi Gu, Qi Yang, Lubin Fan, Yue Wu, Ying Wang, Kun Ding, Shiming Xiang, et al.
+  Authors: Yuyang Hong, Jiaqi Gu, Qi Yang, Lubin Fan, Yue Wu, Ying Wang, Kun Ding, Shiming Xiang, et al.  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[DriveCritic: Towards Context-Aware, Human-Aligned Evaluation for Autonomous Driving with Vision-Language Models](https://arxiv.org/abs/2510.13108)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2741,17 +2747,21 @@ _No visible paper records in this cell yet._
 - 🔎 **[Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools](https://arxiv.org/abs/2510.08480)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Reasoning` · `Hallucination`  
-  Authors: Zhenlong Yuan, Xiangyan Qu, Chengxuan Qian, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, et al.
+  Authors: Zhenlong Yuan, Xiangyan Qu, Chengxuan Qian, Rui Chen, Jing Tang, Lei Sun, Xiangxiang Chu, Dapeng Zhang, et al.  
+  Institutions*: AMAP, Alibaba Group; Alibaba; Tsinghua University; Univeristy of California, Santa Barbara
 
 - 🔎 **[ARM2: Adaptive Reasoning Model with Vision Understanding and Executable Code](https://arxiv.org/abs/2510.08163)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Multimodal` · `Reasoning`  
-  Authors: Jian Xie, Zhendong Chu, Aoxiao Zhong, Kai Zhang, Mingzhe Han, Xing Fan, Jialie Shen, Qingsong Wen
+  Authors: Jian Xie, Zhendong Chu, Aoxiao Zhong, Kai Zhang, Mingzhe Han, Xing Fan, Jialie Shen, Qingsong Wen  
+  Institutions*: Fudan University  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Multimodal Safety Evaluation in Generative Agent Social Simulations](https://arxiv.org/abs/2510.07709)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `VLM`  
-  Authors: Alhim Vera, Karen Sanchez, Carlos Hinojosa, Haidar Bin Hamid, Donghoon Kim, Bernard Ghanem
+  Authors: Alhim Vera, Karen Sanchez, Carlos Hinojosa, Haidar Bin Hamid, Donghoon Kim, Bernard Ghanem  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[From Data to Rewards: a Bilevel Optimization Perspective on Maximum Likelihood Estimation](https://arxiv.org/abs/2510.07624)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2761,7 +2771,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[HOI-R1: Exploring the Potential of Multimodal Large Language Models for Human-Object Interaction Detection](https://arxiv.org/abs/2510.05609)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `VLM` · `Reasoning`  
-  Authors: Junwen Chen, Peilin Xiong, Keiji Yanai
+  Authors: Junwen Chen, Peilin Xiong, Keiji Yanai  
+  Venue: [International Conference on Pattern Recognition](https://ieeexplore.ieee.org/xpl/conhome/1000545/all-proceedings)
 
 - 🔎 **[Improving Chain-of-Thought Efficiency for Autoregressive Image Generation](https://arxiv.org/abs/2510.05593)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2771,7 +2782,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot](https://arxiv.org/abs/2510.05001)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Multimodal` · `Robotics`  
-  Authors: Aditya Sripada, Abhishek Warrier
+  Authors: Aditya Sripada, Abhishek Warrier  
+  Venue: [IEEE-RAS International Conference on Humanoid Robots](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/humanoids)
 
 - 🔎 **[COSMO-RL: Towards Trustworthy LMRMs via Joint Safety and Stability](https://arxiv.org/abs/2510.04196)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2791,7 +2803,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval](https://arxiv.org/abs/2510.02745)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Curriculum` · `Multimodal` · `Reasoning`  
-  Authors: Lanyun Zhu, Deyi Ji, Tianrun Chen, Haiyang Wu, Shiqi Wang
+  Authors: Lanyun Zhu, Deyi Ji, Tianrun Chen, Haiyang Wu, Shiqi Wang  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](https://arxiv.org/abs/2510.02695)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  

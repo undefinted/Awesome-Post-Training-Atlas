@@ -1892,7 +1892,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training](https://arxiv.org/abs/2510.14969)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent`  
-  Authors: Yiming Wang, Da Yin, Yuedong Cui, Ruichen Zheng, Zhiqian Li, Zongyu Lin, Di Wu, Xueqing Wu, et al.
+  Authors: Yiming Wang, Da Yin, Yuedong Cui, Ruichen Zheng, Zhiqian Li, Zongyu Lin, Di Wu, Xueqing Wu, et al.  
+  Institutions*: University of California, Los Angeles
 
 - 🔎 **[Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn Search Agents](https://arxiv.org/abs/2510.14967)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1902,7 +1903,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent` · `Tool Use` · `Web Agent` · `Multi-turn` · `Long-horizon`  
-  Authors: Guanting Dong, Licheng Bao, Zhongyuan Wang, Kangzhi Zhao, Xiaoxi Li, Jiajie Jin, Jinghan Yang, Hangyu Mao, et al.
+  Authors: Guanting Dong, Licheng Bao, Zhongyuan Wang, Kangzhi Zhao, Xiaoxi Li, Jiajie Jin, Jinghan Yang, Hangyu Mao, et al.  
+  Institutions*: Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China; University of Montreal
 
 - 🔎 **[Towards Agentic Self-Learning LLMs in Search Environment](https://arxiv.org/abs/2510.14253)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1922,7 +1924,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[FOSSIL: Harnessing Feedback on Suboptimal Samples for Data-Efficient Generalisation with Imitation Learning for Embodied Vision-and-Language Tasks](https://arxiv.org/abs/2510.11307)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-13 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
-  Authors: Sabrina McCallum, Amit Parekh, Alessandro Suglia
+  Authors: Sabrina McCallum, Amit Parekh, Alessandro Suglia  
+  Institutions*: Heriot-Watt University  
+  Venue: [Conference on Empirical Methods in Natural Language Processing](https://www.aclweb.org/portal/emnlp)
 
 - 🔎 **[Collaborative Text-to-Image Generation via Multi-Agent Reinforcement Learning and Semantic Fusion](https://arxiv.org/abs/2510.10633)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-12 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1942,12 +1946,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[MAT-Agent: Adaptive Multi-Agent Training Optimization](https://arxiv.org/abs/2510.17845)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent`  
-  Authors: Jusheng Zhang, Kaitong Cai, Yijia Fan, Ningyuan Liu, Keze Wang
+  Authors: Jusheng Zhang, Kaitong Cai, Yijia Fan, Ningyuan Liu, Keze Wang  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[Multimodal Policy Internalization for Conversational Agents](https://arxiv.org/abs/2510.09474)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Multimodal` · `Reasoning`  
-  Authors: Zhenhailong Wang, Jiateng Liu, Amin Fazel, Ritesh Sarkhel, Xing Fan, Xiang Li, Chenlei Guo, Heng Ji, et al.
+  Authors: Zhenhailong Wang, Jiateng Liu, Amin Fazel, Ritesh Sarkhel, Xing Fan, Xiang Li, Chenlei Guo, Heng Ji, et al.  
+  Institutions*: UIUC
 
 - 🔎 **[DSPO: Stable and Efficient Policy Optimization for Agentic Search and Reasoning](https://arxiv.org/abs/2510.09255)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-10 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1957,7 +1963,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context](https://arxiv.org/abs/2510.08790)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Tool Use` · `Long-horizon` · `Reasoning`  
-  Authors: Guangya Wan, Mingyang Ling, Xiaoqi Ren, Rujun Han, Sheng Li, Zizhao Zhang
+  Authors: Guangya Wan, Mingyang Ling, Xiaoqi Ren, Rujun Han, Sheng Li, Zizhao Zhang  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[Diffusing Trajectory Optimization Problems for Recovery During Multi-Finger Manipulation](https://arxiv.org/abs/2510.07030)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1967,7 +1974,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Scaling LLM Multi-turn RL with End-to-end Summarization-based Context Management](https://arxiv.org/abs/2510.06727)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-08 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Tool Use` · `Multi-turn` · `Long-horizon`  
-  Authors: Miao Lu, Weiwei Sun, Weihua Du, Zhan Ling, Xuesong Yao, Kang Liu, Jiecao Chen
+  Authors: Miao Lu, Weiwei Sun, Weihua Du, Zhan Ling, Xuesong Yao, Kang Liu, Jiecao Chen  
+  Institutions*: Carnegie Mellon University
 
 - 🔎 **[BuilderBench: The Building Blocks of Intelligent Agents](https://arxiv.org/abs/2510.06288)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  

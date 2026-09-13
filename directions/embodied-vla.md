@@ -1289,7 +1289,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[RoboGPT-R1: Enhancing Robot Task Planning with Reinforcement Learning](https://arxiv.org/abs/2510.14828)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Long-horizon` · `VLM` · `Robotics` · `Reasoning`  
-  Authors: Jinrui Liu, Bingyan Nie, Boyu Li, Yaran Chen, Yuze Wang, Shunsen He, Haoran Li
+  Authors: Jinrui Liu, Bingyan Nie, Boyu Li, Yaran Chen, Yuze Wang, Shunsen He, Haoran Li  
+  Venue: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems
 
 - 🔎 **[InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy](https://arxiv.org/abs/2510.13778)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-15 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1334,7 +1335,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[From Noise to Signal to Selbstzweck: Reframing Human Label Variation in the Era of Post-training in NLP](https://arxiv.org/abs/2510.12817)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
-  Authors: Shanshan Xu, Santosh T. Y. S. S, Barbara Plank
+  Authors: Shanshan Xu, Santosh T. Y. S. S, Barbara Plank  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption](https://arxiv.org/abs/2510.05580)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1344,7 +1346,9 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[ARMADA: Autonomous Online Failure Detection and Human Shared Control Empower Scalable Real-world Deployment and Adaptation](https://arxiv.org/abs/2510.02298)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
-  Authors: Wenye Yu, Jun Lv, Zixi Ying, Yang Jin, Chuan Wen, Cewu Lu
+  Authors: Wenye Yu, Jun Lv, Zixi Ying, Yang Jin, Chuan Wen, Cewu Lu  
+  Institutions*: AI; Robotics  
+  Venue: [IEEE Robotics and Automation Letters](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER481-ELE)
 
 - 🔎 **[VLA-R1: Enhancing Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2510.01623)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  

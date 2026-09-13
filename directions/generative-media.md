@@ -1237,22 +1237,27 @@ _No visible paper records in this cell yet._
 - 🔎 **[From Preferences to Prejudice: The Role of Alignment Tuning in Shaping Social Bias in Video Diffusion Models](https://arxiv.org/abs/2510.17247)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-20 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reward Model` · `Diffusion` · `Video Generation`  
-  Authors: Zefan Cai, Haoyi Qiu, Haozhe Zhao, Ke Wan, Jiachen Li, Jiuxiang Gu, Wen Xiao, Nanyun Peng, et al.
+  Authors: Zefan Cai, Haoyi Qiu, Haozhe Zhao, Ke Wan, Jiachen Li, Jiuxiang Gu, Wen Xiao, Nanyun Peng, et al.  
+  Institutions*: Microsoft; University of California San Diego  
+  Venue: Trans. Mach. Learn. Res.
 
 - 🔎 **[VISTA: A Test-Time Self-Improving Video Generation Agent](https://arxiv.org/abs/2510.15831)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Video Generation` · `Reasoning`  
-  Authors: Do Xuan Long, Xingchen Wan, Hootan Nakhost, Chen-Yu Lee, Tomas Pfister, Sercan Ö. Arık
+  Authors: Do Xuan Long, Xingchen Wan, Hootan Nakhost, Chen-Yu Lee, Tomas Pfister, Sercan Ö. Arık  
+  Institutions*: Google
 
 - 🔎 **[Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models](https://arxiv.org/abs/2510.15429)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-17 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Counterfactual` · `PPO` · `Off-policy` · `Diffusion` · `Image Generation`  
-  Authors: Shashank Gupta
+  Authors: Shashank Gupta  
+  Venue: [SIGIR Forum](http://rave.ohiolink.edu/ejournals/issn/01635840/)
 
 - 🔎 **[RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning](https://arxiv.org/abs/2510.14830)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `PPO` · `Long-horizon` · `Robotics`  
-  Authors: Kun Lei, Huanyu Li, Dongjie Yu, Zhenyu Wei, Lingxiao Guo, Zhennan Jiang, Ziyu Wang, Shiyu Liang, et al.
+  Authors: Kun Lei, Huanyu Li, Dongjie Yu, Zhenyu Wei, Lingxiao Guo, Zhennan Jiang, Ziyu Wang, Shiyu Liang, et al.  
+  Venue: Sci. Robotics
 
 - 🔎 **[Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization](https://arxiv.org/abs/2510.14255)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-16 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1262,17 +1267,20 @@ _No visible paper records in this cell yet._
 - 🔎 **[Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation](https://arxiv.org/abs/2510.13418)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `GRPO` · `Diffusion` · `Image Generation`  
-  Authors: Yifu Luo, Xinhao Hu, Keyu Fan, Haoyuan Sun, Zeyu Chen, Bo Xia, Tiantian Zhang, Yongzhe Chang, et al.
+  Authors: Yifu Luo, Xinhao Hu, Keyu Fan, Haoyuan Sun, Zeyu Chen, Bo Xia, Tiantian Zhang, Yongzhe Chang, et al.  
+  Venue: [Neural Information Processing Systems](http://neurips.cc/)
 
 - 🔎 **[MosaicDiff: Training-free Structural Pruning for Diffusion Model Acceleration Reflecting Pretraining Dynamics](https://arxiv.org/abs/2510.11962)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-13 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
-  Authors: Bowei Guo, Shengkun Tang, Cong Zeng, Zhiqiang Shen
+  Authors: Bowei Guo, Shengkun Tang, Cong Zeng, Zhiqiang Shen  
+  Venue: [IEEE International Conference on Computer Vision](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
 
 - 🔎 **[SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://arxiv.org/abs/2510.09541)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
-  Authors: Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, Cai Zhou, Shannon Zejiang Shen, et al.
+  Authors: Chenyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, Cai Zhou, Shannon Zejiang Shen, et al.  
+  Institutions*: MIT
 
 - 🔎 **[LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation](https://arxiv.org/abs/2510.08318)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1292,7 +1300,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts](https://arxiv.org/abs/2510.06988)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-08 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Diffusion`  
-  Authors: Girolamo Macaluso, Lorenzo Mandelli, Mirko Bicchierai, Stefano Berretti, Andrew D. Bagdanov
+  Authors: Girolamo Macaluso, Lorenzo Mandelli, Mirko Bicchierai, Stefano Berretti, Andrew D. Bagdanov  
+  Venue: [IEEE Workshop/Winter Conference on Applications of Computer Vision](http://www.wikicfp.com/cfp/program?id=2993)
 
 - 🔎 **[Flexible Locomotion Learning with Diffusion Model Predictive Control](https://arxiv.org/abs/2510.04234)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -1302,7 +1311,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[D2 Actor Critic: Diffusion Actor Meets Distributional Critic](https://arxiv.org/abs/2510.03508)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
-  Authors: Lunjun Zhang, Shuo Han, Hanrui Lyu, Bradly C Stadie
+  Authors: Lunjun Zhang, Shuo Han, Hanrui Lyu, Bradly C Stadie  
+  Venue: Trans. Mach. Learn. Res.
 
 - 🔎 **[Fine-Tuning Diffusion Models via Intermediate Distribution Shaping](https://arxiv.org/abs/2510.02692)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  
