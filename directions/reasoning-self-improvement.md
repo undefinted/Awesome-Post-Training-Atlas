@@ -2247,12 +2247,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[SHERLOCK: Towards Dynamic Knowledge Adaptation in LLM-enhanced E-commerce Risk Management](https://arxiv.org/abs/2510.08948)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-10 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Self-improvement` · `Reasoning`  
-  Authors: Nan Lu, Yurong Hu, Jiaquan Fang, Yan Liu, Rui Dong, Yiming Wang, Rui Lin, Shaoyi Xu
+  Authors: Nan Lu, Yurong Hu, Jiaquan Fang, Yan Liu, Rui Dong, Yiming Wang, Rui Lin, Shaoyi Xu  
+  Venue: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2
 
 - 🔎 **[Self-Improving LLM Agents at Test-Time](https://arxiv.org/abs/2510.07841)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Self-improvement` · `Agent`  
-  Authors: Emre Can Acikgoz, Cheng Qian, Heng Ji, Dilek Hakkani-Tür, Gokhan Tur
+  Authors: Emre Can Acikgoz, Cheng Qian, Heng Ji, Dilek Hakkani-Tür, Gokhan Tur  
+  Institutions*: University of Illinois at Urbana Champaign
 
 - 🔎 **[Search-R3: Unifying Reasoning and Embedding in Large Language Models](https://arxiv.org/abs/2510.07048)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-08 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2262,12 +2264,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations](https://arxiv.org/abs/2510.05571)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Multimodal`  
-  Authors: Chengzhi Liu, Yuzhe Yang, Kaiwen Zhou, Zhen Zhang, Yue Fan, Yanan Xie, Peng Qi, Xin Eric Wang
+  Authors: Chengzhi Liu, Yuzhe Yang, Kaiwen Zhou, Zhen Zhang, Yue Fan, Yanan Xie, Peng Qi, Xin Eric Wang  
+  Institutions*: The Chinese University of Hong Kong, Shenzhen
 
 - 🔎 **[Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the Rails](https://arxiv.org/abs/2510.04860)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement`  
-  Authors: Siwei Han, Kaiwen Xiong, Jiaqi Liu, Xinyu Ye, Yaofeng Su, Wenbo Duan, Xinyuan Liu, Cihang Xie, et al.
+  Authors: Siwei Han, Kaiwen Xiong, Jiaqi Liu, Xinyu Ye, Yaofeng Su, Wenbo Duan, Xinyuan Liu, Cihang Xie, et al.  
+  Institutions*: Fudan University; Fudan University, University of North Carolina at Chapel Hill
 
 - 🔎 **[Fractional Heat Kernel for Semi-Supervised Graph Learning with Small Training Sample Size](https://arxiv.org/abs/2510.04440)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2277,7 +2281,9 @@ _No visible paper records in this cell yet._
 - 🔎 **[On The Statistical Limits of Self-Improving Agents](https://arxiv.org/abs/2510.04399)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement`  
-  Authors: Charles L. Wang, Keir Dorchen, Peter Jin
+  Authors: Charles L. Wang, Keir Dorchen, Peter Jin  
+  Institutions*: Columbia University  
+  Venue: Trans. Mach. Learn. Res.
 
 - 🔎 **[Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models](https://arxiv.org/abs/2510.04020)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2287,7 +2293,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Neon: Negative Extrapolation From Self-Training Improves Image Generation](https://arxiv.org/abs/2510.03597)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-training` · `Self-improvement` · `Synthetic Data` · `Diffusion` · `Image Generation`  
-  Authors: Sina Alemohammad, Zhangyang Wang, Richard G. Baraniuk
+  Authors: Sina Alemohammad, Zhangyang Wang, Richard G. Baraniuk  
+  Institutions*: UT Austin
 
 - 🔎 **[The Path of Self-Evolving Large Language Models: Achieving Data-Efficient Learning via Intrinsic Feedback](https://arxiv.org/abs/2510.02752)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2297,7 +2304,8 @@ _No visible paper records in this cell yet._
 - 🔎 **[Self-Improvement in Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2510.02665)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement` · `Multimodal`  
-  Authors: Shijian Deng, Kai Wang, Tianyu Yang, Harsh Singh, Yapeng Tian
+  Authors: Shijian Deng, Kai Wang, Tianyu Yang, Harsh Singh, Yapeng Tian  
+  Venue: [Conference on Empirical Methods in Natural Language Processing](https://www.aclweb.org/portal/emnlp)
 
 - 🔎 **[On the Role of Temperature Sampling in Test-Time Scaling](https://arxiv.org/abs/2510.02611)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -2307,12 +2315,14 @@ _No visible paper records in this cell yet._
 - 🔎 **[microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification](https://arxiv.org/abs/2510.02270)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-training` · `VLM`  
-  Authors: Sathira Silva, Eman Ali, Chetan Arora, Muhammad Haris Khan
+  Authors: Sathira Silva, Eman Ali, Chetan Arora, Muhammad Haris Khan  
+  Venue: [Annual Meeting of the Association for Computational Linguistics](https://www.aclweb.org/anthology/venues/acl/)
 
 - 🔎 **[RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems](https://arxiv.org/abs/2510.02263)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Reasoning`  
-  Authors: Yuxiao Qu, Anikait Singh, Yoonho Lee, Amrith Setlur, Ruslan Salakhutdinov, Chelsea Finn, Aviral Kumar
+  Authors: Yuxiao Qu, Anikait Singh, Yoonho Lee, Amrith Setlur, Ruslan Salakhutdinov, Chelsea Finn, Aviral Kumar  
+  Institutions*: Carnegie Mellon University; Stanford
 
 - 🔎 **[RESTRAIN: From Spurious Votes to Signals -- Self-Driven RL with Self-Penalization](https://arxiv.org/abs/2510.02172)** — `discovery candidate`; awaiting primary-paper curation.  
   2025-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
