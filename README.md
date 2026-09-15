@@ -80,7 +80,12 @@ The repository contains complementary discovery and curation agents:
    supports ANY/ALL multi-label filtering together with year and month;
 7. an optional LLM judges scope, classifies direction, and drafts a
    one-sentence key idea;
-8. each run opens a reviewable pull request instead of silently modifying the
+8. a real-time Xiaohongshu (小红书) keyword scanner discovers note-level
+   technical discussions through public web search (no login or API key) and
+   records them in `data/community_signals.yaml` with `source: xiaohongshu`,
+   the matched keyword, and any arXiv IDs mentioned in the snippet;
+   promotional reposts are excluded per the community-source policy;
+9. each run opens a reviewable pull request instead of silently modifying the
    curated list.
 
 It works without an API key. To enable semantic triage, add `OPENAI_API_KEY`
@@ -89,6 +94,8 @@ as a GitHub Actions secret. `OPENAI_MODEL` is optional.
 ```bash
 python -m pip install -r requirements.txt
 python -m radar.main --days 7
+python -m radar.xiaohongshu --dry-run   # live Xiaohongshu keyword scan, writes nothing
+python -m radar.xiaohongshu             # merge new note signals into data/community_signals.yaml
 python -m radar.backfill --max-new 180
 python -m radar.labels
 python -m radar.render --check

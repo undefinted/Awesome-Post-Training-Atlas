@@ -39,6 +39,52 @@ huggingface_daily:
   enabled: true
   limit: 200
 
+# Real-time Xiaohongshu (RED) community radar. Xiaohongshu has no public
+# search API, so note-level xiaohongshu.com URLs are discovered through
+# public web-search HTML endpoints (no key or login required). Qualifying
+# notes are stored in data/community_signals.yaml under source: xiaohongshu
+# following the community-signal policy in SOURCES.md. Every backend failure
+# is non-fatal, and promotional reposts are excluded.
+xiaohongshu:
+  enabled: true
+  backends: [bing, duckduckgo]
+  query_template: 'site:xiaohongshu.com "{keyword}"'
+  freshness_days: 31
+  max_results_per_keyword: 10
+  max_new_signals_per_run: 40
+  max_stored_signals: 200
+  request_delay_seconds: 4
+  timeout_seconds: 30
+  keywords:
+    - {keyword: "后训练", direction: null}
+    - {keyword: "RLHF", direction: preference-alignment}
+    - {keyword: "DPO 偏好优化", direction: preference-alignment}
+    - {keyword: "GRPO", direction: reinforcement-learning}
+    - {keyword: "RLVR", direction: reinforcement-learning}
+    - {keyword: "奖励模型", direction: reward-verifiers}
+    - {keyword: "大模型 微调", direction: supervised-adaptation}
+    - {keyword: "SFT 指令微调", direction: supervised-adaptation}
+    - {keyword: "知识蒸馏 大模型", direction: distillation}
+    - {keyword: "自我改进 大模型", direction: reasoning-self-improvement}
+    - {keyword: "Agent 强化学习", direction: agentic}
+    - {keyword: "多模态 对齐", direction: multimodal}
+    - {keyword: "扩散模型 对齐", direction: generative-media}
+    - {keyword: "VLA 模型", direction: embodied-vla}
+  # SOURCES.md excludes promotional reposts; hits containing any of these
+  # terms in their title or snippet are dropped before storage.
+  exclude_terms:
+    - 加微信
+    - +v
+    - 优惠券
+    - 代购
+    - 点赞关注
+    - 评论区领取
+    - 资料包
+    - 训练营
+    - 课程链接
+    - 私信领取
+    - 免费送
+
 # Public academic indexes complement arXiv. They are discovery/metadata
 # signals only; links are normalized to arXiv or DOI whenever possible.
 academic_indexes:

@@ -52,6 +52,15 @@ Every record must include its URL, discovery date, source, a neutral summary,
 and the paper/project IDs it discusses. Community content is kept separate
 from `data/papers.yaml`, and promotional reposts are excluded.
 
+The `radar.xiaohongshu` agent automates the 小红书 scans: it runs the
+configured technical keywords through public web-search endpoints, keeps only
+note-level `xiaohongshu.com` URLs, drops promotional hits, and stores the
+remainder with `source: xiaohongshu`, the matched keyword, and any arXiv IDs
+mentioned in the title or snippet. Xiaohongshu has no public search API, so
+coverage depends on what public search engines index; an empty scan is a
+normal outcome, not an error. Run it on demand with
+`python -m radar.xiaohongshu --dry-run --keyword "<keyword>"`.
+
 ## Time organization
 
 - Candidate pull requests are daily and grouped by exact date.

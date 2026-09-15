@@ -31,6 +31,11 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           RADAR_DAYS: ${{ inputs.days || '2' }}
         run: python -m radar.main --days "$RADAR_DAYS"
+      - name: Scan Xiaohongshu community signals
+        # Auxiliary community source: search-engine blocks or CAPTCHAs must
+        # never fail the academic discovery run.
+        continue-on-error: true
+        run: python -m radar.xiaohongshu
       - name: Validate generated candidates
         run: |
           python -m radar.enrich --include-candidates --candidate-limit 500
