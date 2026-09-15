@@ -4,6 +4,8 @@
 > language, reasoning, agents, multimodal models, generative models, and
 > embodied intelligence.
 
+**English** · [简体中文](README.zh-CN.md)
+
 [![Paper Radar](https://github.com/undefinted/Awesome-Post-Training-Atlas/actions/workflows/paper-radar.yml/badge.svg)](https://github.com/undefinted/Awesome-Post-Training-Atlas/actions/workflows/paper-radar.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
