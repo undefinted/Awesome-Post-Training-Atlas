@@ -83,11 +83,7 @@
    counterfactual(反事实)、distillation(蒸馏)、RLVR、agent、VLM、
    VLA;网站支持多标签的 ANY/ALL 组合过滤,并可与年月筛选联用;
 7. 可选的 LLM 负责判断范围、分类方向,并起草一句话要点;
-8. 一个小红书关键词实时扫描器通过公开网页搜索(无需登录或 API key)
-   发现笔记级别的技术讨论,并以 `source: xiaohongshu`、命中的关键词
-   以及摘要中提到的 arXiv ID 记录在 `data/community_signals.yaml` 中;
-   推广性质的转载会按社区来源策略被排除;
-9. 每次运行都会开启一个可评审的 pull request,而不是悄悄修改精选
+8. 每次运行都会开启一个可评审的 pull request,而不是悄悄修改精选
    列表。
 
 无需 API key 即可运行。如需启用语义分诊,请在 GitHub Actions secret
@@ -96,8 +92,6 @@
 ```bash
 python -m pip install -r requirements.txt
 python -m radar.main --days 7
-python -m radar.xiaohongshu --dry-run   # 小红书关键词实时扫描,不写入任何内容
-python -m radar.xiaohongshu             # 将新的笔记信号合并进 data/community_signals.yaml
 python -m radar.backfill --max-new 180
 python -m radar.labels
 python -m radar.render --check
