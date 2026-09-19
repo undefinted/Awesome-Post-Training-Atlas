@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**523 papers**: 2 curated and 521 academic discovery candidates.
+**542 papers**: 2 curated and 540 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓9 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓28 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓20 · [Oct](#2025-10) ✓33 · [Sep](#2025-09) ✓33 · [Aug](#2025-08) ✓14 · [Jul](#2025-07) ✓11 · [Jun](#2025-06) ✓13 · [May](#2025-05) ✓16 · [Apr](#2025-04) ✓6 · [Mar](#2025-03) ✓8 · [Feb](#2025-02) ✓7 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓6 · [Nov](#2024-11) ✓4 · [Oct](#2024-10) ✓6 · [Sep](#2024-09) ✓2 · [Aug](#2024-08) ✓4 · [Jul](#2024-07) ✓0 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓7 · [Feb](#2024-02) ✓4 · [Jan](#2024-01) ✓3
 - [2023](#2023) — [Feb](#2023-02) ◐1
@@ -28,17 +28,115 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 > **Audit status:** ✓ Complete · scanned 4 academic records · 0 eligible · checked 2026-09-02T04:49:33.693612+00:00.
 
+- 🔎 **[PersonaFuse: A Situation-Aware Post-Training Framework for Adaptive LLM Behavior in Enterprise Tasks](https://doi.org/10.14711/thesis-hdl174563)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Yixuan Tang
+
+- 🔎 **[LiveResize: Runtime GPU Reallocation for Disaggregated LLM Post-Training](https://doi.org/10.1145/3838177.3841727)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Hanlin Du, Zhiyuan Yan, Yungang Bao, Sa Wang  
+  Venue: Proceedings of the 17th ACM SIGOPS Asia-Pacific Workshop on Systems
+
+- 🔎 **[DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum](https://arxiv.org/abs/2609.19801)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `Curriculum` · `Long-horizon` · `Multimodal` · `Robotics`  
+  Authors: Haoqiang Kang, Yi-Ming Zhang, Yi-Yang Guo, Chu-Ying Li, Jian-Zhi Shen, Tianruo Rose Xu, Xiaokang Ye, Lian-Hui Qin
+
+- 🔎 **[GroundingVLN: Reasoning and Acting with Grounding for Vision-Language Navigation](https://arxiv.org/abs/2609.18581)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `semantic-scholar`  
+  Labels: `VLM` · `Reasoning`  
+  Authors: Kailing Li, Yu Han, Tianwen Qian, Yuqian Fu, Jing-Yu Gong, Jiang-Ming Shi, Xiao-Ling Wang
+
+- 🔎 **[SFT or RL for Tool-Calling Agents? A Controlled Study Across Data, Method, and Scale](https://arxiv.org/abs/2609.17848)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `Agent`  
+  Authors: Md Tahmid Rahman Laskar, Xue-Yong Fu, TN ShashiBhushan
+
+- 🔎 **[Pairwise Classification as a Unified Framework for Offline Reinforcement Learning and Large-Language-Model Alignment](https://doi.org/10.3390/app16189098)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `RLHF`  
+  Authors: Chayoung Kim  
+  Venue: Applied Sciences
+
+- 🔎 **[Salesforce Koa: An Enterprise Language Model for Agentic Tool Use](https://arxiv.org/abs/2609.15066)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Agent` · `Tool Use` · `Multi-turn` · `Reasoning`  
+  Authors: Zi-Xiang Chen, Su-Feng Niu, Ying-Chieh Liu, Wenting Zhao, Akshara Prabhakar, Shubham Mehrotra, Bin Bi, Zhu-Jun Lan, et al.
+
+- 🔎 **[Learning from Reliable Negatives: Confidence-Anchored Test-Time Adaptation for GUI Grounding](https://arxiv.org/abs/2609.15307)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Yizhou Liu, Fei Tang, Yuchen Yan, Zhengxi Lu, Song-Qin Nong, Tao Jiang, Wen-Hao Xu, Wenqi Zhang, et al.
+
+- 🔎 **[GRAVA: Grounded Reasoning-to-Action Representation and Learning for Autonomous Driving](https://arxiv.org/abs/2609.15169)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent` · `VLM` · `VLA` · `Autonomous Driving` · `Reasoning`  
+  Authors: Xiao Liu, Hao-Yu Li, Jiang-Hao Leng, Lin Wang, Chao Sun
+
+- 🔎 **[Optimizing Sparse Outcomes Through Dense Behavioral Signals via Value-Guided Preference Distillation](https://arxiv.org/abs/2609.14648)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-13 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Counterfactual` · `Preference Optimization` · `On-policy` · `Multi-turn` · `Long-horizon` · `Safety`  
+  Authors: Ziyi Zhu, Dan Cahn, Thomas D. Hull, Caitlin A. Stamatis, O. Tieleman, G. Freire, Jing-Hong Chen
+
+- 🔎 **[A Reinforcement Learning-Driven Multi-Agent Cooperative Grey Wolf Algorithm for Influence Maximization](https://doi.org/10.3390/electronics15184148)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-13 · `query-hint` · `crossref`  
+  Labels: `Diffusion`  
+  Authors: Yukai Yao, Chenglong Zhang, Qirui Guo, Zechen Zhang  
+  Venue: Electronics
+
+- 🔎 **[North Small Translate: Advanced Cost-Effective Translation (Cohere CAT+)](https://arxiv.org/abs/2609.13916)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-12 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `Agent` · `Reasoning`  
+  Authors: Tom Kocmi, Alexandre Berard, Phil Blunsom, Samuel Cahyawijaya, S. Cassini, Nick Frosst, Ona de Gibert, Aidan Gomez, et al.
+
+- 🔎 **[HarnessBandit: Joint Learnability-Transferability Scheduling for Multi-Harness Agentic Reinforcement Learning](https://arxiv.org/abs/2609.13739)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-12 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Agent`  
+  Authors: Hong-Liang Wei, Xiao-Bing Tu, Yinggui Wang, Zheng-Xi Liu, Rong-Kun Xue, Jin-Kui Ren, Xian-Tao Zhang, Derek Zhao, et al.
+
+- 🔎 **[GraMRAG: Orchestrating Multi-Agent Multi-Step Reasoning via Graph Memory with Reinforcement Learning](https://arxiv.org/abs/2609.14066)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-12 · `query-hint` · `semantic-scholar`  
+  Labels: `Long-horizon` · `Multimodal` · `Reasoning`  
+  Authors: Zhong-Yu Wang
+
 - 🔎 **[P‐4.28: Reinforcement Learning‐Based Embodied Intelligence Training](https://doi.org/10.1002/sdtp.70003_343)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-11 · `query-hint` · `crossref`  
   Labels: pending  
   Authors: Chengyang Zhang, Ruile Zhang, Lijun Wang  
   Venue: SID Symposium Digest of Technical Papers
 
+- 🔎 **[ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-11 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `Curriculum` · `Agent` · `Tool Use` · `Reasoning` · `Math`  
+  Authors: Ji-Yan He, Guang Liang, Hao Liu, Haoxiang Guan, Jin-Bo Sun, Jun-Yi Guo, Wen-Jun Feng, Yangfan Xie, et al.
+
+- 🔎 **[Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language](https://arxiv.org/abs/2609.11523)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-10 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO`  
+  Authors: Lianru Gao, Yujie Guo, Yong Qin
+
+- 🔎 **[T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](https://arxiv.org/abs/2609.11042)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-10 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier` · `Long-horizon` · `Code`  
+  Authors: Jun-Yao Yang, Yucheng Shi, Zhongzhi Li, Ru-Han Wang, Zongxia Li, Haitao Mi, Leowei Liang
+
 - 🔎 **[Learning Progression Informed Multi-Agent AI Feedback System for STEM Sensemaking (Stage 3 - 12:17 pm)](https://doi.org/10.3102/2352951)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-09 · `query-hint` · `crossref`  
   Labels: `RLAIF`  
   Authors: Leonora Kaldaras  
   Venue: Proceedings of the 2026 AERA Annual Meeting
+
+- 🔎 **[SocialRL: Refining LLMs'Social Intelligence through Multi-turn Reinforcement Learning and Reward Design](https://arxiv.org/abs/2609.09764)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-09 · `query-hint` · `semantic-scholar`  
+  Labels: `PPO` · `Reward Model` · `Multi-turn` · `Long-horizon`  
+  Authors: Jia-Ning Wang, Xin-Tao Wang, Aili Chen, Jie Shi, Hong-Cheng Guo, Jun Gao, Wen-Xuan Zhao, Cheng-Kun Lang, et al.
+
+- 🔎 **[TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards](https://arxiv.org/abs/2609.10315)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-09 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `Reasoning`  
+  Authors: Rui Sun, Zhan Shi, B. He
 
 - 🔎 **[Advances in Reinforcement Learning for Retrieval-Augmented Generation in Large Language Model](https://doi.org/10.54254/2755-2721/2026.36624)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-08 · `query-hint` · `crossref`  
