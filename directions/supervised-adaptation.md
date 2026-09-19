@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3337 papers**: 2 curated and 3335 academic discovery candidates.
+**3354 papers**: 2 curated and 3352 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓27 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓104 · [Nov](#2025-11) ✓125 · [Oct](#2025-10) ✓184 · [Sep](#2025-09) ✓143 · [Aug](#2025-08) ✓128 · [Jul](#2025-07) ✓90 · [Jun](#2025-06) ✓135 · [May](#2025-05) ✓192 · [Apr](#2025-04) ✓93 · [Mar](#2025-03) ✓112 · [Feb](#2025-02) ✓93 · [Jan](#2025-01) ✓52
 - [2024](#2024) — [Dec](#2024-12) ✓77 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓110 · [Sep](#2024-09) ✓52 · [Aug](#2024-08) ✓51 · [Jul](#2024-07) ✓58 · [Jun](#2024-06) ✓100 · [May](#2024-05) ✓76 · [Apr](#2024-04) ✓55 · [Mar](#2024-03) ✓62 · [Feb](#2024-02) ✓97 · [Jan](#2024-01) ✓41
 - [2023](#2023) — [Oct](#2023-10) ◐1
@@ -28,11 +28,97 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 > **Audit status:** ✓ Complete · scanned 14 academic records · 6 eligible · checked 2026-09-02T04:49:21.372598+00:00.
 
+- 🔎 **[Form Over Content In Gradient-Based Data Attribution Methods](https://arxiv.org/abs/2609.19589)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Sunwoo Kim, Seokwon Jung, Sohyung Kim, Seong Joon Oh, Alice Oh
+
+- 🔎 **[Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis](https://arxiv.org/abs/2609.20124)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `Preference Optimization` · `GRPO`  
+  Authors: Zi-Fan Guan, Long-Yu Lu, Ju-Nan Zhang, Zhizheng Wu, Mei-Guang Jin, Jun-Feng Ma
+
+- 🔎 **[Recovering Aggressively Pruned Vision-Language-Action Models with Offline Hidden-State Distillation](https://arxiv.org/abs/2609.19579)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `VLA`  
+  Authors: Chiyoung Kim, S. Choi, Minhyeok Lee
+
+- 🔎 **[A Survey of Joint Online-Offline Fine-tuning for Large Language Models](https://doi.org/10.24963/ijcai.2026/899)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `crossref`  
+  Labels: `SFT` · `RLVR`  
+  Authors: Taihang Zhen, Guang Yang, Chenzhang Li, Nuo Yan, Shilong Zhou, Guangyu Liu, Xiaotong Tang, Jing Huo, et al.  
+  Venue: Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence
+
+- 🔎 **[Voice of Reason: Reinforcement Learning for Spoken Math](https://arxiv.org/abs/2609.18677)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `Reasoning` · `Math` · `Hallucination`  
+  Authors: Timothée Weisselberger, Edouard Graves, Alexandre Défossez
+
+- 🔎 **[MiST: Mid-Training LLMs for Cybersecurity](https://arxiv.org/abs/2609.18496)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Synthetic Data`  
+  Authors: O. Ovadia, Elad Ben Zaken, Elad Guttman, Orly Moreno Kadosh
+
+- 🔎 **[Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training](https://arxiv.org/abs/2609.19242)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Diffusion`  
+  Authors: Tarun Suresh, Pranshu Chaturvedi, Hangoo Kang, Parth Shroff, Ishan S. Khare, Hermann Kumbong, Azalia Mirhoseini
+
+- 🔎 **[AgenTeeth: A Model-Agnostic Framework for Suppressing Hallucination in Frozen Vision-Language Models on Dental X-Rays via Tool Evidence Injection](https://arxiv.org/abs/2609.17800)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Tool Use` · `VLM` · `Reasoning` · `Hallucination`  
+  Authors: A. Rafid, Fariya Ahmed, Rumman Adib, M. Ahamed, Ajwad Abrar, T. Chowdhury
+
+- 🔎 **[RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.17728)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `VLA` · `Autonomous Driving`  
+  Authors: Dogun Kim, Y. Lee, Joonhee Lim, Yeina Lee, Junhyeok Park, Moogeun Park, Dongsuk Kum
+
+- 🔎 **[Inoculation Midtraining with Learned Neologisms](https://arxiv.org/abs/2609.15886)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Kyle O'Brien, Edward James Young, Puria Radmard, N. Kirch, Cameron Tice, Tomasz Korbak, D. Africa
+
+- 🔎 **[PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models](https://arxiv.org/abs/2609.14973)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal` · `VLM`  
+  Authors: DeepCybo Team, Yue Bin, Hai-Peng Cao, Zheng Chang, Kai Chen, You-Ning Chen, Kai-Li Deng, Ying-Chao Du, et al.
+
+- 🔎 **[Efficient Adaptation of Large Language Models: A Survey of Parameter-Efficient, Quantization-Aware, and Alignment-Stage Tuning](https://doi.org/10.2139/ssrn.7460118)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `crossref`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `RLHF` · `Multimodal`  
+  Authors: Yogesh Kale, Daniel Ocansey
+
+- 🔎 **[Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World](https://arxiv.org/abs/2609.14615)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-13 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `VLM` · `Reasoning`  
+  Authors: Guo-Cun Wang, Kenkun Liu, Guo-Rui Song, Jing Lin, Zheng-Yang Huang, Lu-Yuan Zhang, Da-Ke Zhong, Choo Sin Wai, et al.
+
+- 🔎 **[Earth-Agent-Pro: Towards Real-World Full-Chain Earth Observation with Agents](https://arxiv.org/abs/2609.12533)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-11 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `GRPO` · `Tool Use`  
+  Authors: Zhu-Tao Lv, Chen-Hao Dang, Yi-Cong Feng, Yan-Pei Gong, Xiao-Lei Wang, Jun-Yan Ye, Conghui He, Wei-Jia Li
+
 - 🔎 **[Language models as QSPR predictors: Unleashing potential through in-context learning and instruction tuning](https://doi.org/10.1007/s11708-026-1076-y)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-10 · `query-hint` · `crossref`  
   Labels: `SFT`  
   Authors: Chenyue Tao, Chengcheng Liu, Chenxuan Li, Bin Yang  
   Venue: ENGINEERING Energy
+
+- 🔎 **[SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ](https://arxiv.org/abs/2609.11355)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-10 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: H. Le, L. Nguyen, Minh Tri Dao
+
+- 🔎 **[Nuha-Speech: Building General-Purpose Arabic Speech-LLMs](https://arxiv.org/abs/2609.11892)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-10 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Yingzhi Wang, Reem S. Alhazzani, Muhammad Alqurishi
+
+- 🔎 **[LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents](https://arxiv.org/abs/2609.13287)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-09 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal`  
+  Authors: Zhangxuan Gu, Haoxin Chen, Qiujieli Qin, Yi Xin, Kailei Gan, Lin Liu, Long Cui, Xiao-Mei Wang, et al.
 
 - 🔎 **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-03 · `query-hint` · `arxiv`  

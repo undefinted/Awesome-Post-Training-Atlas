@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**722 papers**: 3 curated and 719 academic discovery candidates.
+**729 papers**: 3 curated and 726 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓5 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓31 · [Nov](#2025-11) ✓28 · [Oct](#2025-10) ✓35 · [Sep](#2025-09) ✓29 · [Aug](#2025-08) ✓17 · [Jul](#2025-07) ✓18 · [Jun](#2025-06) ✓25 · [May](#2025-05) ✓25 · [Apr](#2025-04) ✓15 · [Mar](#2025-03) ✓13 · [Feb](#2025-02) ✓26 · [Jan](#2025-01) ✓8
 - [2024](#2024) — [Dec](#2024-12) ✓16 · [Nov](#2024-11) ✓8 · [Oct](#2024-10) ✓15 · [Sep](#2024-09) ✓8 · [Aug](#2024-08) ✓6 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓5 · [May](#2024-05) ✓11 · [Apr](#2024-04) ✓7 · [Mar](#2024-03) ✓13 · [Feb](#2024-02) ✓9 · [Jan](#2024-01) ✓1
 - [2022](#2022) — [Mar](#2022-03) ◐1
@@ -26,6 +26,42 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 10 academic records · 4 eligible · checked 2026-09-02T04:49:32.141699+00:00.
+
+- 🔎 **[UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning](https://arxiv.org/abs/2609.20089)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Verifier` · `Self-improvement` · `Agent` · `Multi-turn` · `Reasoning` · `Math`  
+  Authors: Wen-Jie Liao, Liang Zhao, Ze-Hong Cao
+
+- 🔎 **[VideoResearcher: Self-Improving Tool Design for Long-Video Understanding](https://arxiv.org/abs/2609.19664)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Tool Use` · `Reasoning`  
+  Authors: Ding-Qiang Ye, Dong-Di Zhao, Kaishen Wang, Qing-Qiao Hu, Jing-Chen Sun, Yijun Liang, Yu-Qi Jia, Yi-Qiao Huang, et al.
+
+- 🔎 **[STRETCH the Boundaries: A Unified Self-Taught Framework for Progressive LLM Evolution](https://arxiv.org/abs/2609.18642)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Ya-Jie Yu, Mark G. Lee, Yue Feng
+
+- 🔎 **[Artificial Intelligence, Machine Learning, and Deep Learning Concepts, Methods, and Real-World Impact](https://doi.org/10.64823/ijcsa.2601011)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Diffusion` · `Reasoning`  
+  Authors: N. Sasikala  
+  Venue: International Journal of Computer Science and Artificial Intelligence
+
+- 🔎 **[ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement](https://arxiv.org/abs/2609.14857)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Tool Use` · `Long-horizon` · `Reasoning` · `Code`  
+  Authors: Siwei Wu, Jin-Cheng Ren, Yi-Zhi Li, Haau-Sing Li, Cheng-Ran Yang, Yuxuan Zhang, Wei-Cheng Gu, Jian Yang, et al.
+
+- 🔎 **[Proof-Carrying Cognition: Closing the Verification Gap with Reality-Settled Reward](https://arxiv.org/abs/2609.09776)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-09 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `On-policy` · `Reward Model` · `Verifier` · `Reasoning`  
+  Authors: M. EshwarReddy, Sourav Karmakar
+
+- 🔎 **[Harnessing Image Question Dependence for Better VLM Test-time Reinforcement Learning](https://arxiv.org/abs/2609.13296)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-09 · `query-hint` · `semantic-scholar`  
+  Labels: `VLM`  
+  Authors: Xinrui He, Ting-Wei Li, Jun-Ting Wang, Meng-Ting Ai, Xin-Yu He, Hang-Hang Tong, Jingrui He
 
 - 🔎 **[Gradients Know What Outcomes Don't: Unlocking Reinforcement Learning for LLM Reasoning with Gradient-Aligned Rewards](https://arxiv.org/abs/2609.03342)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-03 · `query-hint` · `arxiv`  
@@ -62,7 +98,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](https://arxiv.org/abs/2608.31100)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Verifier` · `Self-improvement`  
-  Authors: Jiajun Shi, Siyuan Tao, Yuhao Wu, Zexuan Wang, Jingyuan Zhang, Jiaheng Liu, Xinping Lei, Xinrong Zhang, et al.
+  Authors: Jiajun Shi, Siyuan Tao, Yuhao Wu, Zexuan Wang, Jingyuan Zhang, Jiaheng Liu, Xinping Lei, Xinrong Zhang, et al.  
+  Institutions*: University of British Columbia
 
 - 🔎 **[S3C-LLM: Skill-Code Guided Agentic Language Models for Spectrum-to-Structure Elucidation](https://arxiv.org/abs/2608.30910)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -77,7 +114,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[WebWorld: The Browser as a World Model for Self-Improving Web Code](https://arxiv.org/abs/2608.30530)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Self-improvement` · `VLM`  
-  Authors: Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, et al.
+  Authors: Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, et al.  
+  Institutions*: University of British Columbia
 
 - 🔎 **[Recursive Criticality of AI Self-Improvement](https://arxiv.org/abs/2609.00137)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -112,7 +150,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment](https://arxiv.org/abs/2608.28490)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement` · `Reasoning`  
-  Authors: Jingjing Nie, Jiawei Guo, Krishna Meda, Haipeng Cai
+  Authors: Jingjing Nie, Jiawei Guo, Krishna Meda, Haipeng Cai  
+  Institutions*: University at Buffalo
 
 - 🔎 **[Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search](https://arxiv.org/abs/2608.27266)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
