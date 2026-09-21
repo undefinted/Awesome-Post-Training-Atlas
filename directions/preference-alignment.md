@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2741 papers**: 5 curated and 2736 academic discovery candidates.
+**2748 papers**: 5 curated and 2743 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓132 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓95 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -27,6 +27,38 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 7 academic records · 7 eligible · checked 2026-09-02T04:49:23.243243+00:00.
+
+- 🔎 **[Beyond Client Clustering: Fine-Grained Preference Alignment in Federated RLHF via Self-Evolving Routing](https://doi.org/10.24963/ijcai.2026/552)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `crossref`  
+  Labels: `Distillation` · `RLHF` · `Self-improvement`  
+  Authors: Ke Wang, Shaojing Fu, Yuchuan Luo, Guilin Deng, Silong Chen, Zheng Yuan, Lin Liu  
+  Venue: Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence
+
+- 🔎 **[A Zeroth-Order Paradigm for LLM Preference Alignment](https://arxiv.org/abs/2609.19144)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `semantic-scholar`  
+  Labels: `Preference Optimization`  
+  Authors: Peter Chen, Xi Chen, Wo-Tao Yin, Tian-Yi Lin
+
+- 🔎 **[Hunk-Constrained DPO: Segment-Level Optimization for Secure and Correct LLM Code Generation](https://doi.org/10.1145/3816250)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-15 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Synthetic Data` · `Code`  
+  Authors: Qian-Shuo Huang, Xin Yin, Xin-Rui Li, Chao Ni  
+  Venue: ACM Transactions on Software Engineering and Methodology
+
+- 🔎 **[Style-Debiased DPO: Updating LLM Knowledge with Factuality-Aware Synthetic Preference Data](https://arxiv.org/abs/2609.16532)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-15 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Synthetic Data` · `Hallucination`  
+  Authors: Takayuki Yamamoto, Daisuke Kawahara
+
+- 🔎 **[Direct Preference Density Alignment for Conversational Audio Equalization](https://arxiv.org/abs/2609.12607)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-11 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `GRPO` · `Reward Model`  
+  Authors: Ioannis Stylianou, S. Shepstone, Jon Francombe, Pablo Martinez Nuevo, Zheng-Hua Tan
+
+- 🔎 **[Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner](https://arxiv.org/abs/2609.12651)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-11 · `query-hint` · `semantic-scholar`  
+  Labels: `RLHF` · `On-policy`  
+  Authors: Kazusato Oko, Annie Ulichney, Nika Haghtalab, Bao Han
 
 - 🔎 **[Reinforcement Learning Methods and Optimization Strategies in Preference Alignment Techniques for Large Language Models](https://doi.org/10.54254/2755-2721/2026.ba36530)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-08 · `query-hint` · `crossref`  
@@ -1632,6 +1664,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-05-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: pending  
   Authors: Lijie Ding, Changwoo Do
+
+- 🔎 **[Generating AI Feedback for TESOL Writing Using Large Language Models](https://doi.org/10.1145/3832928.3833045)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-05-15 · `query-hint` · `crossref`  
+  Labels: `RLAIF`  
+  Authors: Yue Liang  
+  Venue: Proceedings of the 2026 3rd International Conference on Machine Learning, Natural Language Processing and Modeling
 
 - 🔎 **[GRLO: Towards Generalizable Reinforcement Learning in Open-Ended Environments from Zero](https://arxiv.org/abs/2605.15464)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-05-14 · `direction-month-query` · `arxiv-monthly-backfill`  
