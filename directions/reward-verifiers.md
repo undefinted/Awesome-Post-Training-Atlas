@@ -252,7 +252,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ◐ Incomplete or truncated · scanned 1000 academic records · 339 eligible · checked 2026-09-02T04:46:16.762026+00:00.
+> **Audit status:** ⚠ Failed — `HTTPError: HTTP Error 406: Not Acceptable` · checked 2026-09-26T05:22:16.301055+00:00.
 
 - 🔎 **[Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](https://arxiv.org/abs/2608.31077)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
