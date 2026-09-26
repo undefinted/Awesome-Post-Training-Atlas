@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**829 papers**: 2 curated and 827 academic discovery candidates.
+**831 papers**: 2 curated and 829 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓36 · [Oct](#2025-10) ✓43 · [Sep](#2025-09) ✓37 · [Aug](#2025-08) ✓26 · [Jul](#2025-07) ✓26 · [Jun](#2025-06) ✓34 · [May](#2025-05) ✓35 · [Apr](#2025-04) ✓12 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓7
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
@@ -26,6 +26,16 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 13 academic records · 5 eligible · checked 2026-09-02T04:49:35.361284+00:00.
+
+- 🔎 **[NV-Reason-CT: 3D Visual Language Model for CT Analysis](https://arxiv.org/abs/2609.27511)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `GRPO` · `Multi-turn` · `Multimodal` · `Reasoning`  
+  Authors: Andriy Myronenko, Dong Yang, Yu-Cheng Tang, B. Turkbey, Benjamin D. Simon, Stephanie A. Harmon, R. Makwana, M. Aboian, et al.
+
+- 🔎 **[DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real](https://arxiv.org/abs/2609.21045)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `Synthetic Data` · `Multimodal` · `VLM`  
+  Authors: Jin Wu, Lian-Jie Yuan, Ze-Yang Sun, Yuan-Yuan Lei, A. Disi, Bi-Cheng Han, Fang-Zhou Xia
 
 - 🔎 **[Review of: "Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning"](https://doi.org/10.32388/k1w9s4)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-15 · `query-hint` · `crossref`  
