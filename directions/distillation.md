@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**371 papers**: 23 curated and 348 academic discovery candidates.
+**382 papers**: 23 curated and 359 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
+- [2026](#2026) — [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
 - [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · [Jan](#2025-01) ✓0
 - [2024](#2024) — [Dec](#2024-12) ✓3 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓3 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓1 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓0 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓3 · [Feb](#2024-02) ✓1 · [Jan](#2024-01) ✓1
 
@@ -25,6 +25,64 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 3 academic records · 3 eligible · checked 2026-09-02T04:49:28.867031+00:00.
+
+- 🔎 **[Reinforcement Learning-Driven Multimodal Medical Foundation Model for Unified Understanding, Reasoning and Generation](https://doi.org/10.1016/j.ijrobp.2026.06.1081)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-25 · `query-hint` · `crossref`  
+  Labels: `Multimodal` · `Reasoning`  
+  Authors: W. Chen, L. Xing  
+  Venue: International Journal of Radiation Oncology*Biology*Physics
+
+- 🔎 **[TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation](https://arxiv.org/abs/2609.29464)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-24 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy`  
+  Authors: Yu-Jie Guo, Hong-Jie Chen, Jian Kang, Jie Li, Yong-Xiang Li, Yong Qin
+
+- 🔎 **[Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://arxiv.org/abs/2609.29233)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-24 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Reasoning` · `Code`  
+  Authors: Zi-Yang Zhang, Yu-Bin Jing, Yuan-Hao Zeng, Yu-Yao Li, Hao-Fan Wang, Yi-Chen Gong
+
+- 🔎 **[On-Policy Distillation for Vision-Language Model Adaptation, an Effective Paradigm on Low-Quality Multimodal Data](https://doi.org/10.1016/j.inffus.2026.104812)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `crossref`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Multimodal` · `VLM`  
+  Authors: Hongyuan Zhang, Xianda Guo, Yanlun Peng, Qianlong Yang, Yubin Guo, Pinhan Fu, Mulin Chen, Xiaozhen Qiao, et al.  
+  Venue: Information Fusion
+
+- 🔎 **[Reward-Tilted On-Policy Distillation for Acoustic Grounding in Audio-Language Models](https://arxiv.org/abs/2609.28778)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy`  
+  Authors: Kai-Yang Li, Shao-Bo Han, Yue Tian, Shi-Hao Ji
+
+- 🔎 **[Look Where It Counts: A Free, Label-Free Visual Evidence Signal for Fine-Grained Vision-Language Reasoning](https://arxiv.org/abs/2609.24244)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `RLVR` · `On-policy` · `Verifier` · `Self-training` · `Multimodal` · `Reasoning`  
+  Authors: Santiram Tiwari, N. Naik, Devbrat Pandey, Nishant Sinha
+
+- 🔎 **[Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction](https://arxiv.org/abs/2609.25176)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `GRPO` · `On-policy` · `Self-improvement` · `Agent` · `Tool Use` · `Reasoning`  
+  Authors: Lu-Jia Bao, Qian Chen, Luyao Cheng, Chong Deng, Yu-Xiang Kong, Xian-Gang Li, Xu Li, Jia-Qing Liu, et al.
+
+- 🔎 **[Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks](https://arxiv.org/abs/2609.23435)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-20 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Reasoning`  
+  Authors: Jie Ying, Zhe-Fan Wang, Zi-Hong Chen, Zheng-Qing Li, Jin-Zhe Li, Gang Li, Jian Liu, Fang Hu, et al.
+
+- 🔎 **[Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://arxiv.org/abs/2609.23038)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-19 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Self-training` · `Curriculum` · `Long-horizon` · `VLM` · `Reasoning`  
+  Authors: Kai-Xiang Yao, Xu Wang, Miao Pan, Xi-Yue Hu, Wei-Shi Wang, Daniel Dahlmeier, Jintao Chen, Yong-Liang Shen, et al.
+
+- 🔎 **[Stable Offline Reinforcement Learning for Switched Reluctance Motor Drives via Multi-Demonstrator Policy Distillation](https://doi.org/10.3390/electronics15184289)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-19 · `query-hint` · `crossref`  
+  Labels: `Distillation`  
+  Authors: Franklin Sánchez, María Isabel Milanés-Montero, Enrique Romero-Cadaval  
+  Venue: Electronics
+
+- 🔎 **[GVPO++: Group Variance Policy Optimization for LLM Post-Training and On-Policy Distillation](https://arxiv.org/abs/2609.21432)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-18 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `GRPO` · `On-policy` · `Reasoning`  
+  Authors: Kaichen Zhang, Yuzhong Hong, Jun-Wei Bao, Hong-Fei Jiang, Yang Song, Dingqian Hong, Hui Xiong
 
 - 🔎 **[StageGuard: Learning Stage Transitions for Long-Horizon Robot Tasks via Agentic Distillation](https://arxiv.org/abs/2609.20791)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  

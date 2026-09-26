@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**728 papers**: 3 curated and 725 academic discovery candidates.
+**737 papers**: 3 curated and 734 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓11 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓19 · [Aug](#2026-08) ✓51 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓31 · [Nov](#2025-11) ✓28 · [Oct](#2025-10) ✓35 · [Sep](#2025-09) ✓29 · [Aug](#2025-08) ✓17 · [Jul](#2025-07) ✓18 · [Jun](#2025-06) ✓25 · [May](#2025-05) ✓25 · [Apr](#2025-04) ✓15 · [Mar](#2025-03) ✓13 · [Feb](#2025-02) ✓26 · [Jan](#2025-01) ✓8
 - [2024](#2024) — [Dec](#2024-12) ✓16 · [Nov](#2024-11) ✓8 · [Oct](#2024-10) ✓15 · [Sep](#2024-09) ✓8 · [Aug](#2024-08) ✓6 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓5 · [May](#2024-05) ✓11 · [Apr](#2024-04) ✓7 · [Mar](#2024-03) ✓13 · [Feb](#2024-02) ✓9 · [Jan](#2024-01) ✓1
 - [2022](#2022) — [Mar](#2022-03) ◐1
@@ -26,6 +26,48 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 10 academic records · 4 eligible · checked 2026-09-02T04:49:32.141699+00:00.
+
+- 🔎 **[SELF-EVOLVING AI AGENT WITH SKILL MEMORY](https://doi.org/10.62643/ijerst.2026.v22.n3.4654)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-24 · `query-hint` · `crossref`  
+  Labels: `Self-improvement` · `Agent` · `Reasoning`  
+  Authors: R Uma, B Shravani, M Shivani, C Komal, N Dinesh Kumar  
+  Venue: International Journal of Engineering Research and Science &amp; Technology
+
+- 🔎 **[EvoAudio: Recursive Self-Improvement for Audio Understanding](https://arxiv.org/abs/2609.27389)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement`  
+  Authors: Yu-Xiang Wang, Sheng-Bo Cai, Ying-Da Shen, Ming-Hao Hsu, Qin-Ke Ni, Li-Qiang Zhang, Teddy Sun, Steve Yevs, et al.
+
+- 🔎 **[Agent-Editing World Model: Rethinking World Modeling for LLM Agents](https://arxiv.org/abs/2609.28416)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Rejection Sampling` · `Long-horizon` · `Reasoning`  
+  Authors: Shuang Sun, Guo-Xin Chen, Fan-Zhen Meng, Jia Deng, Hua-Tong Song, Jin-Hao Jiang, Wayne Xin Zhao, Hong-Teng Xu, et al.
+
+- 🔎 **[UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation](https://arxiv.org/abs/2609.28206)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Diffusion`  
+  Authors: Run-Wu Shi, Kai Li, Yu-Jin Wang, Dong Yang, Jia-Hui Li, Jiang Wang, Chang Zeng, Benjamin Yen, et al.
+
+- 🔎 **[ACLArena: Agent Continue Learning in Multi-stage Post-training](https://arxiv.org/abs/2609.23989)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Agent` · `Reasoning`  
+  Authors: Hai-Xin Wang, Xiao-Xuan Wang, Jun-Kai Zhang, Han Zhang, Ren-Liang Sun, Alexander Taylor, Yi-Dan Shi, Hao-Ran Deng, et al.
+
+- 🔎 **[MedRSI: Recursive Self-Improvement for Medical Agents via Clinically Aligned Self-Evolution](https://arxiv.org/abs/2609.24838)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Multimodal` · `Reasoning`  
+  Authors: Jun-De Wu, Jiayuan Zhu, Min-Hao Hu, Feng-Lin Liu, Jiazhen Pan
+
+- 🔎 **[PrismGPT: Proxy-Guided Learning for Region-Aware Photo Editing with Self-Synthesized Reasoning](https://arxiv.org/abs/2609.24768)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `VLM` · `Reasoning`  
+  Authors: Ke Zhao, Hue Nguyen, Abhijith Punnappurath, Zhong-Ling Wang, I. Mohomed, Michael S. Brown
+
+- 🔎 **[A multi-agent multi-modal LLM with Monte Carlo tree search for interpretable plant disease classification](https://doi.org/10.3389/fpls.2026.1937679)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-training` · `Multimodal` · `Reasoning`  
+  Authors: Ri-Xiong Wu, Hua Zou, Zhi-Jie Li, Qianying Zhou, Zi-Jiang Yi  
+  Venue: Frontiers in Plant Science
 
 - 🔎 **[UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning](https://arxiv.org/abs/2609.20089)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  
@@ -233,6 +275,12 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Distillation` · `Self-training` · `Self-improvement`  
   Authors: Cheng Xu, Nan Yan, Liming Chen, M-Tahar Kechadi  
   Institutions*: University College Dublin
+
+- 🔎 **[Uncertainty-Budgeted Rollout Allocation for Self-Improving Reasoning Models](https://doi.org/10.71465/gmssrj223)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-20 · `query-hint` · `crossref`  
+  Labels: `Self-improvement` · `Reasoning` · `Math`  
+  Authors: Isla Price  
+  Venue: Global Media and Social Sciences Research Journal
 
 - 🔎 **[PertMind: Eliciting Emergent Biological Reasoning in LLM via Reinforcement Learning on Cellular Perturbation Data](https://arxiv.org/abs/2608.16419)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3927,5 +3975,6 @@ _No visible paper records in this cell yet._
   2022-03-28 · `rationale` · `bootstrapping` · `self-training`  
   Labels: `Self-training` · `Reasoning`  
   Authors: Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman  
+  Institutions*: Stanford University  
   Method family: `Reasoning & Self-Improvement`  
   Change axes: `self-improvement, data, objective`

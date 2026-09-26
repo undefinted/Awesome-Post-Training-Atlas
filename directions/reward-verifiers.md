@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3036 papers**: 1 curated and 3035 academic discovery candidates.
+**3052 papers**: 1 curated and 3051 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓44 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓60 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓92 · [Nov](#2025-11) ✓104 · [Oct](#2025-10) ✓178 · [Sep](#2025-09) ✓132 · [Aug](#2025-08) ✓83 · [Jul](#2025-07) ✓60 · [Jun](#2025-06) ✓102 · [May](#2025-05) ✓119 · [Apr](#2025-04) ✓41 · [Mar](#2025-03) ✓69 · [Feb](#2025-02) ✓70 · [Jan](#2025-01) ✓23
 - [2024](#2024) — [Dec](#2024-12) ✓48 · [Nov](#2024-11) ✓26 · [Oct](#2024-10) ✓64 · [Sep](#2024-09) ✓20 · [Aug](#2024-08) ✓13 · [Jul](#2024-07) ✓18 · [Jun](#2024-06) ✓30 · [May](#2024-05) ✓27 · [Apr](#2024-04) ✓17 · [Mar](#2024-03) ✓17 · [Feb](#2024-02) ✓22 · [Jan](#2024-01) ✓14
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -26,6 +26,76 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 41 academic records · 15 eligible · checked 2026-09-02T04:49:25.741567+00:00.
+
+- 🔎 **[From Self-Distillation to Self-Practice: Privileged Information for Multi-Turn Agents](https://arxiv.org/abs/2609.29051)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-24 · `query-hint` · `semantic-scholar`  
+  Labels: `OPSD` · `Distillation` · `GRPO` · `On-policy` · `Self-training` · `Multi-turn`  
+  Authors: Xing-Yu Su, Abhishek Kumar, Qing Ping, You-Zhi Luo, Jonathan Buck, Zach Zhang, Subramanian Chidambaram, Vinayak Arannil
+
+- 🔎 **[EAGER: Enhancing Generative Event Extraction via Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2609.29230)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-24 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR`  
+  Authors: Omar Adjali, Si-Ting Liang, Omair Shahzad Bhatti, Daniel Sonntag
+
+- 🔎 **[Learning to Ideate for Scientific Impact](https://arxiv.org/abs/2609.29802)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-24 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reward Model`  
+  Authors: Shubham Kale, Aniketh Garikaparthi, Manasi S. Patwardhan
+
+- 🔎 **[Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](https://arxiv.org/abs/2609.30177)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-24 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `Curriculum`  
+  Authors: Nayoung Choi, Sheng-Jian Chen, Xiao-Kai Wei, Wen-Zheng Zhang, Dai-Yao Yi, Rachit Pareek, Vincent Su, Michelle Gong, et al.
+
+- 🔎 **[DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs](https://arxiv.org/abs/2609.28570)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Long-horizon` · `Multimodal` · `Reasoning` · `Hallucination`  
+  Authors: Ying-Xuan Zhuang, Miao Pan, Wang-Jie Gan, Jing-Xiao Yang, Fan Wang, Wei-Ming Liu, Cheng Tan, Xu-Hong Zhang, et al.
+
+- 🔎 **[The Limits of Simulated Societies: How Post-Training and Survey Fine-Tuning Erase Cross-Cultural Variance](https://arxiv.org/abs/2609.25760)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-22 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `GRPO`  
+  Authors: Rojin Ziaei
+
+- 🔎 **[Giving Credit Where It's Due: Redundancy-Aware Learning for Efficient Reasoning](https://arxiv.org/abs/2609.27156)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-22 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Reward Model` · `PRM` · `Reasoning` · `Math`  
+  Authors: Yu-Qing Zhou, Hong Wang, Man-Qing Mao, Zhuo-Er Wang, Samson Koelle, Jie Yuan, Yan-Jun Lin, James Feng, et al.
+
+- 🔎 **[TelecomGPT-R1: Unified Post-Training for Reasoning Across Heterogeneous Telecom Tasks](https://arxiv.org/abs/2609.25356)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reasoning`  
+  Authors: Bohao Wang, Chen-Wei Wu, Han Zou, Yu Tian, Lina Bariah, Li Wei, Chong-Wen Huang, Yongliang Shen, et al.
+
+- 🔎 **[ChartJudgeBench: Evaluating LMM Judges for Chart-to-Code Generation](https://arxiv.org/abs/2609.24210)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Agent` · `Multimodal` · `Reasoning` · `Code`  
+  Authors: Li-Jian Wu, Henry Hengyuan Zhao, Zi-Jian Zhang, Jia-Hao Tang, Jia-Jun Wu, Alex Jinpeng Wang
+
+- 🔎 **[Monitorable Chart Reasoning Agents via Verifiable Process Rewards](https://arxiv.org/abs/2609.24071)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reasoning`  
+  Authors: Sanchit Sinha, Oana Frunza, Kashif Rasul, Aidong Zhang
+
+- 🔎 **[Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement](https://arxiv.org/abs/2609.24243)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-21 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Xu-Tao Mao, Jianing Zhu, Jin-Man Zhao, Tongliang Liu, Xiaowen Chu, Cong Wang, Bo Han
+
+- 🔎 **[SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations](https://arxiv.org/abs/2609.21650)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-18 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `PPO` · `VLA`  
+  Authors: Hiroaki Kingetsu, Hiroaki Kurihara, Kaoru Yokoo, K. Fukumizu, Manohar Kaul
+
+- 🔎 **[AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](https://arxiv.org/abs/2609.22592)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-18 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier` · `Curriculum` · `Reasoning`  
+  Authors: Aarati Andrea Noronha, Kavya Ravikumar, Carl Lin
+
+- 🔎 **[Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation](https://arxiv.org/abs/2609.21208)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-18 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Verifier` · `Self-play` · `Code`  
+  Authors: Ana Nunez, Peyman Najafirad
 
 - 🔎 **[Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol](https://arxiv.org/abs/2609.20712)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  
@@ -47,6 +117,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `SFT` · `Reasoning`  
   Authors: Aiwei Zhang, Nimra Ishfaq, Mohit Chandra, Santiago Alvarez Lesmes, Adam Coscia, K. Moon, Xiao-Han Ding, M. de Choudhury
 
+- 🔎 **[Verification Reward Model for Reinforcement Learning in Chip Design Verification](https://arxiv.org/abs/2609.22347)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model`  
+  Authors: Shashank Chaurasia
+
 - 🔎 **[Look Less, Hear Better: Jointly Rewarded GRPO for Streaming ASR](https://arxiv.org/abs/2609.18333)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-16 · `query-hint` · `semantic-scholar`  
   Labels: `SFT` · `GRPO`  
@@ -61,6 +136,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-09-16 · `query-hint` · `semantic-scholar`  
   Labels: `Reasoning` · `Math`  
   Authors: Naveen Vakada, Ming-Yuan Li, Shaoxiong Ji
+
+- 🔎 **[Visual Graph Reasoning via Knowledge Compilation](https://arxiv.org/abs/2609.22327)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-16 · `query-hint` · `semantic-scholar`  
+  Labels: `VLM` · `Reasoning`  
+  Authors: Rong-Zheng Wang, Zhe Wang, Ke Qin, Rong Wang, Mu-Quan Li, Yi-Zhuo Ma, Yi-Hong Huang, Jie-Lei Wang, et al.
 
 - 🔎 **[VideoScout: Learning Agentic Active Exploration with Adaptive Reasoning Pacing for Long Video Understanding](https://arxiv.org/abs/2609.15606)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-14 · `query-hint` · `semantic-scholar`  

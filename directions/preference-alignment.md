@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2748 papers**: 5 curated and 2743 academic discovery candidates.
+**2752 papers**: 5 curated and 2747 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Sep](#2026-09) ✓24 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓95 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -27,6 +27,28 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 7 academic records · 7 eligible · checked 2026-09-02T04:49:23.243243+00:00.
+
+- 🔎 **[GeoToken-DPO: Token-Level Preference Alignment of Geoscience Language Models under Observational Evidence Sparsity](https://doi.org/10.22541/essoar.15009290/v1)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-22 · `query-hint` · `crossref`  
+  Labels: `SFT` · `DPO` · `Preference Optimization`  
+  Authors: Zeyu Pan, Hanrui Lian, Yuxuan Zong, Qirui Ke, Zihan Niu Zhongnan
+
+- 🔎 **[AI Alignment Training Paradigms and Cross-Model Differences in AI Persuasive Behavior](https://doi.org/10.54254/2753-7048/2026.37048)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-22 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `RLHF`  
+  Authors: Bo-Yang Xia  
+  Venue: Lecture Notes in Education Psychology and Public Media
+
+- 🔎 **[Learning Progression Informed Multi-Agent AI Feedback System for STEM Sensemaking (Poster 15)](https://doi.org/10.3102/ip.26.2322603)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-22 · `query-hint` · `crossref`  
+  Labels: `RLAIF`  
+  Authors: Leonora Kaldaras  
+  Venue: AERA 2026
+
+- 🔎 **[Geometry of Values: Task Vector Composition for Ethical Preference Alignment in Language Models](https://arxiv.org/abs/2609.21094)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization`  
+  Authors: Utkarsh Agarwal, Monojit Choudhury
 
 - 🔎 **[Beyond Client Clustering: Fine-Grained Preference Alignment in Federated RLHF via Self-Evolving Routing](https://doi.org/10.24963/ijcai.2026/552)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-16 · `query-hint` · `crossref`  
