@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**539 papers**: 2 curated and 537 academic discovery candidates.
+**542 papers**: 2 curated and 540 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓60 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓20 · [Oct](#2025-10) ✓33 · [Sep](#2025-09) ✓33 · [Aug](#2025-08) ✓14 · [Jul](#2025-07) ✓11 · [Jun](#2025-06) ✓13 · [May](#2025-05) ✓16 · [Apr](#2025-04) ✓6 · [Mar](#2025-03) ✓8 · [Feb](#2025-02) ✓7 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓6 · [Nov](#2024-11) ✓4 · [Oct](#2024-10) ✓6 · [Sep](#2024-09) ✓2 · [Aug](#2024-08) ✓4 · [Jul](#2024-07) ✓0 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓7 · [Feb](#2024-02) ✓4 · [Jan](#2024-01) ✓3
 - [2023](#2023) — [Feb](#2023-02) ◐1
@@ -164,7 +164,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 245 academic records · 110 eligible · checked 2026-09-02T04:47:38.023177+00:00.
+> **Audit status:** ✓ Complete · scanned 258 academic records · 115 eligible · checked 2026-10-03T05:41:10.233894+00:00.
 
 - 🔎 **[VisLens: Single-Pass Interpretable Visual Search for Multimodal LLMs](https://arxiv.org/abs/2608.30705)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -394,6 +394,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Agent`  
   Authors: Hanlin Jiang, Puyi Wang, Jiandong Jin, Shaofei Li, Zhan Shen, Pengli Wang, Ziming Wang, Yifeng Cai, et al.
 
+- 🔎 **[Compiling VGDL into Causal Models](https://arxiv.org/abs/2609.05459)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual` · `Agent` · `Reasoning`  
+  Authors: Mohit Jiwatode, Bodo Rosenhahn, Alexander Dockhorn
+
 - 🔎 **[Learning from Environmental Feedback: Credit Assignment across Multiple Timescales for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.08255)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-08 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Agent` · `Long-horizon`  
@@ -420,6 +425,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Agent` · `Tool Use` · `Multimodal` · `Reasoning`  
   Authors: Kai Li, Conggai Li, Sarah Ali Siddiqui, Syed Sohail Ahmed, Xin Yuan, Shenghong Li, Wei Ni
 
+- 🔎 **[Boosting Deepresearch and LongContext Ability with Self-Generated Deepresearch Rollouts Traces](https://arxiv.org/abs/2609.20844)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multi-turn` · `Hallucination`  
+  Authors: Zihan Wang, Hao Wang, Boyuan Jiang, Yiqun Zhang, Shi Feng, Xiaocui Yang, Yiwen Ye, Jianghang Lin, et al.
+
 - 🔎 **[Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning](https://arxiv.org/abs/2608.03571)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Curriculum` · `Agent` · `Multimodal`  
@@ -434,6 +444,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `Agent` · `Multi-turn` · `Long-horizon`  
   Authors: Ranxu Zhang, Guinan Chen,  Chenshaodong, Jinghao Lin, Xiaozhou Xu,  Sunzhe, Yanyong Zhang, Chao Wang
+
+- 🔎 **[Large language models for partial differential equation workflows](https://arxiv.org/abs/2608.03600)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Tool Use` · `Multimodal` · `Reasoning` · `Math` · `Code`  
+  Authors: Han Wan, Rui Zhang, Hao Sun
 
 - 🔎 **[Don't Regenerate, Debug: A Domain-Specific Agent for Repairing Near-Miss Hardware Operators](https://arxiv.org/abs/2608.02712)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  

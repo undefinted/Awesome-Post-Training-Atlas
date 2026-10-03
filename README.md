@@ -50,15 +50,15 @@ Radar last scanned academic sources: **2026-09-21T11:04:13+08:00** (China Standa
 
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
-| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3337 | **3339** | 2026-09-16 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2743 | **2748** | 2026-09-16 |
-| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3035 | **3036** | 2026-09-17 |
+| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3346 | **3348** | 2026-09-16 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2746 | **2751** | 2026-09-16 |
+| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3047 | **3048** | 2026-09-17 |
 | [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 743 | **746** | 2026-09-17 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 348 | **371** | 2026-09-17 |
-| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 725 | **728** | 2026-09-17 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 537 | **539** | 2026-09-17 |
-| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 827 | **829** | 2026-09-15 |
-| [Generative Media Post-Training](directions/generative-media.md) | 2 | 399 | **401** | 2026-09-15 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 350 | **373** | 2026-09-17 |
+| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 727 | **730** | 2026-09-17 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 540 | **542** | 2026-09-17 |
+| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 829 | **831** | 2026-09-15 |
+| [Generative Media Post-Training](directions/generative-media.md) | 2 | 400 | **402** | 2026-09-15 |
 | [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 373 | **374** | 2026-09-17 |
 <!-- PAPERS:END -->
 
