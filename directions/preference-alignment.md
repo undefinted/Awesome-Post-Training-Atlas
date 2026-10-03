@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2748 papers**: 5 curated and 2743 academic discovery candidates.
+**2760 papers**: 5 curated and 2755 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Oct](#2026-10) ◐2 · [Sep](#2026-09) ✓30 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓95 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -22,11 +22,80 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[An LLM Based Framework for Automated MILP Modeling in Dynamic Multi-Robot Task Scheduling](https://doi.org/10.1109/LRA.2026.3723332)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `DPO` · `Preference Optimization`  
+  Authors: Zhen-Dong Chen, Ming-Ming Peng, Hao Zhang, Jin Huang, Xin-Yu Li, Liang Gao  
+  Venue: IEEE Robotics and Automation Letters
+
+- 🔎 **[GAW-PO: Preference Optimization with Gradient-Aligned Token Weights](https://arxiv.org/abs/2610.01511)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Reasoning` · `Code`  
+  Authors: Andreea Dutulescu, Stefan Ruseti, Mihai Masala, Traian Rebedea, Mihai Dascalu
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 7 academic records · 7 eligible · checked 2026-09-02T04:49:23.243243+00:00.
+
+- 🔎 **[LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models](https://arxiv.org/abs/2609.39071)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Reward Model` · `Reasoning`  
+  Authors: Yi-Da Cai, Xin Dai, Bing-Xiang He, Hui-Yuan Xie, Yu-Xiao Ye, Zhenghao Liu, Yang Bai, Zhi-Yuan Liu
+
+- 🔎 **[Decoding user satisfaction during reading of pre-defined question–answer pairs: BCI approach using delta and gamma EEG](https://doi.org/10.3389/fnins.2026.1934150)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `RLHF`  
+  Authors: Wanjoo Park, Salma S. Mansour, Laehyun Kim, Mohamad A. Eid  
+  Venue: Frontiers in Neuroscience
+
+- 🔎 **[BA-DPO: Bias-Adjusted Direct Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2609.35044)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization`  
+  Authors: Antonio Ferrara, Alberto Rumi, Francesco Bonchi
+
+- 🔎 **[Faithful Activation Verbalization: Reducing Hallucinations in LLM Representation Interpretation](https://arxiv.org/abs/2609.34033)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-27 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Hallucination`  
+  Authors: Hai-Yan Zhao, Zi-Rui Hei, Wei Shi, Huiqi Deng, Na Zou, Meng-Nan Du
+
+- 🔎 **[The Alignment Paradox: How Post-Training Amplifies Confident Hallucinations in Language Models](https://arxiv.org/abs/2609.32617)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-26 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Reasoning` · `Hallucination`  
+  Authors: Qing-Jia Huang, Ya-Kai Li, Jian-Guo Wu, Qi-Hang Zhou, Ai-Min Yu, Xiao-Qi Jia, Lu-Ping Ma, Wei-Juan Zhang
+
+- 🔎 **[Masking Frequent Tokens Sharpens Direct Preference Optimization](https://arxiv.org/abs/2609.32445)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-26 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `RLHF`  
+  Authors: Harshvardhan Saini, Samyak Jha, Yi-Ming Tang, Dian-Bo Liu
+
+- 🔎 **[MACBT: A Multi-Agent Cognitive Behavioral Therapy Decision Support System with Longitudinal Memory](https://arxiv.org/abs/2609.30939)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-25 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization`  
+  Authors: Deng-Du Jiang, Shuo Zhang, Wei-Wei Liao, Jian-Ying Zhang, Chuan-Hui Yu, Hon-Gen Liao, Ke-Hong Yuan
+
+- 🔎 **[Improving Medical Calculation of LLMs with Embedded Coding](https://arxiv.org/abs/2609.31908)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-25 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `Code`  
+  Authors: Tianshi Ming, Ying-Ying Zhang, Xian Wu
+
+- 🔎 **[GeoToken-DPO: Token-Level Preference Alignment of Geoscience Language Models under Observational Evidence Sparsity](https://doi.org/10.22541/essoar.15009290/v1)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-22 · `query-hint` · `crossref`  
+  Labels: `SFT` · `DPO` · `Preference Optimization`  
+  Authors: Zeyu Pan, Hanrui Lian, Yuxuan Zong, Qirui Ke, Zihan Niu Zhongnan
+
+- 🔎 **[Investigating student engagement with personalised generative AI feedback: Effects on creative problem-solving and feedback uptake](https://doi.org/10.14742/ajet.11512)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-17 · `query-hint` · `crossref`  
+  Labels: `RLAIF`  
+  Authors: Yixuan Chen, Changqin Huang, Zhongmei Han, Di Zhang, Yiheng Lou, Yihua Zhong  
+  Venue: Australasian Journal of Educational Technology
 
 - 🔎 **[Beyond Client Clustering: Fine-Grained Preference Alignment in Federated RLHF via Self-Evolving Routing](https://doi.org/10.24963/ijcai.2026/552)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-16 · `query-hint` · `crossref`  
@@ -161,7 +230,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation](https://arxiv.org/abs/2608.30397)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `DPO` · `GRPO` · `Verifier`  
-  Authors: Jinyoung Kim, Muhammad Khalifa, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang
+  Authors: Jinyoung Kim, Muhammad Khalifa, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
+  Institutions*: University of Michigan
 
 - 🔎 **[PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback](https://arxiv.org/abs/2608.30241)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3339 papers**: 2 curated and 3337 academic discovery candidates.
+**3349 papers**: 2 curated and 3347 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐1 · [Sep](#2026-09) ✓21 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓104 · [Nov](#2025-11) ✓125 · [Oct](#2025-10) ✓184 · [Sep](#2025-09) ✓143 · [Aug](#2025-08) ✓128 · [Jul](#2025-07) ✓90 · [Jun](#2025-06) ✓135 · [May](#2025-05) ✓192 · [Apr](#2025-04) ✓93 · [Mar](#2025-03) ✓112 · [Feb](#2025-02) ✓93 · [Jan](#2025-01) ✓52
 - [2024](#2024) — [Dec](#2024-12) ✓77 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓110 · [Sep](#2024-09) ✓52 · [Aug](#2024-08) ✓51 · [Jul](#2024-07) ✓58 · [Jun](#2024-06) ✓100 · [May](#2024-05) ✓76 · [Apr](#2024-04) ✓55 · [Mar](#2024-03) ✓62 · [Feb](#2024-02) ✓97 · [Jan](#2024-01) ✓41
 - [2023](#2023) — [Oct](#2023-10) ◐1
@@ -22,11 +22,67 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[CineMR: Tool-Integrated Vision-Language Reasoning for Quantitative Cardiac MRI Assessment](https://arxiv.org/abs/2610.01166)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `Tool Use` · `VLM` · `Reasoning`  
+  Authors: Kun-Yang Li, H. Nguyen, Joshua Lowe, Chen-Guang Zhao, Peace C. Madueme, M. Moghari, Mubarak Shah, Pegah Khosravi, et al.
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 14 academic records · 6 eligible · checked 2026-09-02T04:49:21.372598+00:00.
+
+- 🔎 **[MedForge-RSI: Medical Deepfake Detection via Recursive Self-Improvement](https://arxiv.org/abs/2609.36549)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Self-improvement` · `VLM` · `Reasoning`  
+  Authors: Zhi-Hui Chen, Meng-Ling Feng
+
+- 🔎 **[MOBA-VL: Event-Localized Multi-Turn Reinforcement Learning for Real-Time MOBA Commentary](https://arxiv.org/abs/2609.38428)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multi-turn` · `VLM`  
+  Authors: Sheng-Yun Zhong, Xin-Kang Zhao, Zi-Yuan Chu, Lin-Chao Zhu
+
+- 🔎 **[Cooperative Multi-Agent Vision-Language-Action Models via Reinforced Fine Tuning](https://arxiv.org/abs/2609.36588)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `VLA`  
+  Authors: Rui-Xiao Xu, W. Kenny, Zhi-Qian Liu, Jia-Ni Guo, Han-Xiao Li, Ke-Jian Shi, Shu-Ning Zhang, Pu Feng, et al.
+
+- 🔎 **[Momentum-Coupled Rubric Adaptation for Detailed Image Captioning](https://arxiv.org/abs/2609.36893)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO`  
+  Authors: Zhen-Wen Ji, Lei Jin, Shan-Yong Wang, Jia-Ming Lu, Cheng-Qiang Lu, Yi Wu, Yao Hu, Li-Zhen Cui, et al.
+
+- 🔎 **[Video2Skill: From Streaming Experience to Reusable Embodied Skills](https://arxiv.org/abs/2609.36691)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Counterfactual` · `SFT` · `VLM` · `Robotics`  
+  Authors: Jian-Shu Zhang, Ce Zhang, Xi-Yuan Yang, Chen-Wei Xu, Haoran Lu, Yi-Jiang Li, Ya-Qi Xie, Katia Sycara, et al.
+
+- 🔎 **[FocusVTC: Efficient and High-Performance Visual Text Compression with Adaptive Resolution](https://arxiv.org/abs/2609.36651)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Fang-Zhi Zhong, Xue-Rui Qiu, Yu-Qi Pan, Ya Liu, Shao-Wei Gu, Bo-Xing Xu, Guo-Qi Li
+
+- 🔎 **[Fine-Tuning Diffusion Language Models with Context Selection and Target Weighting](https://arxiv.org/abs/2609.38385)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Diffusion` · `Reasoning` · `Code`  
+  Authors: L. Mualem, L. Pastor-Pérez, Vinh Tong, Andrei Manolache, Tanja Bien, Steffen Staab, Mathias Niepert
+
+- 🔎 **[On Trajectory-Aware Training for Masked Diffusion Language Models](https://arxiv.org/abs/2609.37974)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Diffusion`  
+  Authors: Manuel Madeira, Amitis Shidani, Alice Bizeul, V. Turrisi, Louis Béthune, Bhavika Devnani, D. Busbridge, Pierre Ablin, et al.
+
+- 🔎 **[Improving Large Language Models for Code through Runtime Program-State Reasoning](https://arxiv.org/abs/2609.34359)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reasoning`  
+  Authors: Hong-Wei Li, Spandan Garg, Yu-Fan Huang
 
 - 🔎 **[A Survey of Joint Online-Offline Fine-tuning for Large Language Models](https://doi.org/10.24963/ijcai.2026/899)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-16 · `query-hint` · `crossref`  
@@ -351,7 +407,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://arxiv.org/abs/2608.14132)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-14 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Multimodal`  
-  Authors: Xiaokai Yan, Jingtao Ding, Yong Li, Zhiwen Yu
+  Authors: Xiaokai Yan, Jingtao Ding, Yong Li, Zhiwen Yu  
+  Venue: [Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut)
 
 - 🔎 **[AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution](https://arxiv.org/abs/2608.13833)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `academic-query-vote` · `arxiv-backfill`  

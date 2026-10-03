@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**728 papers**: 3 curated and 725 academic discovery candidates.
+**740 papers**: 3 curated and 737 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓11 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐1 · [Sep](#2026-09) ✓22 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓31 · [Nov](#2025-11) ✓28 · [Oct](#2025-10) ✓35 · [Sep](#2025-09) ✓29 · [Aug](#2025-08) ✓17 · [Jul](#2025-07) ✓18 · [Jun](#2025-06) ✓25 · [May](#2025-05) ✓25 · [Apr](#2025-04) ✓15 · [Mar](#2025-03) ✓13 · [Feb](#2025-02) ✓26 · [Jan](#2025-01) ✓8
 - [2024](#2024) — [Dec](#2024-12) ✓16 · [Nov](#2024-11) ✓8 · [Oct](#2024-10) ✓15 · [Sep](#2024-09) ✓8 · [Aug](#2024-08) ✓6 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓5 · [May](#2024-05) ✓11 · [Apr](#2024-04) ✓7 · [Mar](#2024-03) ✓13 · [Feb](#2024-02) ✓9 · [Jan](#2024-01) ✓1
 - [2022](#2022) — [Mar](#2022-03) ◐1
@@ -21,11 +21,79 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Adaptive moral compass framework for ethical reasoning and self-oversight in autonomous AI agents](https://doi.org/10.4038/jmtr.v11i4.371)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-02 · `query-hint` · `crossref`  
+  Labels: `RLHF` · `Agent` · `Reasoning`  
+  Authors: Sidath Ravindra Liyanage, Shalini Rajasingham  
+  Venue: Journal of Multidisciplinary &amp; Translational Research
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 10 academic records · 4 eligible · checked 2026-09-02T04:49:32.141699+00:00.
+
+- 🔎 **[Mitigating the Length-Scaling Tax with Online Distillation](https://arxiv.org/abs/2609.38854)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Self-training` · `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Xu Wan, Wen-Yue Xu, Sheng-Jie Zhao, Ming-Yang Sun
+
+- 🔎 **[GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics](https://arxiv.org/abs/2609.38798)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Self-training` · `Agent` · `Reasoning`  
+  Authors: Wei Jiang, Yu-Chen Ying, Rui Wang, Kaixuan Chen, Bing-De Hu, Shunyu Liu, Yu Wang, Tong-Ya Zheng
+
+- 🔎 **[SpatialCORE: Confidence-Aware Grounded Spatial Reasoning in Large Vision--Language Models](https://arxiv.org/abs/2609.38716)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `VLM` · `Reasoning`  
+  Authors: Rafi Ibn Sultan, Xiang-Yu Zhou, Mohammad O. S. Chowdhury, Chengyin Li, Prashant Khanduri, Marco Brocanelli, Dong-Xiao Zhu
+
+- 🔎 **[PhysFieldBench: Can Multimodal Models Understand Physical Fields?](https://arxiv.org/abs/2609.34072)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal` · `Reasoning`  
+  Authors: Yue-Zhou Ma, Hui-Kun Weng, Jialong Wu, Chen Zhao, Hang Zhou, Hao-Nan Shangguan, Jian-Min Wang, Ming-Sheng Long
+
+- 🔎 **[Nudgeability: Reasoning Models Follow Confidence Signals Without Tracking Their Own Competence](https://arxiv.org/abs/2609.34572)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `Counterfactual` · `Reasoning`  
+  Authors: Rohit Saxena, U. Upadhyay
+
+- 🔎 **[Teach to Learn: Hint Annealing for Self-improving LLM Reasoning](https://arxiv.org/abs/2609.34975)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Self-improvement` · `Reasoning` · `Math`  
+  Authors: Zi-Le Wang, Zi-Jian Li, Hao-Dong Wang, Jian Liu, Qian-Li Liu, Lucas Muli, Blaze Chen, Song Guo
+
+- 🔎 **[Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?](https://arxiv.org/abs/2609.35897)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-27 · `query-hint` · `semantic-scholar`  
+  Labels: `PPO` · `Self-improvement`  
+  Authors: H. Cambridge, AI Models
+
+- 🔎 **[RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-26 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Agent` · `Long-horizon` · `Robotics`  
+  Authors: Jing-Song Liang, Shu-Hao Liao, Shi-Zhe Zhang, Di-Yuan Hou, Yu-Xin Cai, Xin-Jian Deng, Cheng-Yang He, Wen-Hui Huang, et al.
+
+- 🔎 **[Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation](https://arxiv.org/abs/2609.31186)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-25 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Chang Gong, Jing-Ping Bi, Di Yao, Xin-Jian Liang, Chao-Zhao Xiang, Rui-Jie Guo
+
+- 🔎 **[SELF-EVOLVING AI AGENT WITH SKILL MEMORY](https://doi.org/10.62643/ijerst.2026.v22.n3.4654)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-24 · `query-hint` · `crossref`  
+  Labels: `Self-improvement` · `Agent` · `Reasoning`  
+  Authors: R Uma, B Shravani, M Shivani, C Komal, N Dinesh Kumar  
+  Venue: International Journal of Engineering Research and Science &amp; Technology
+
+- 🔎 **[Agent-Editing World Model: Rethinking World Modeling for LLM Agents](https://arxiv.org/abs/2609.28416)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Rejection Sampling` · `Long-horizon` · `Reasoning`  
+  Authors: Shuang Sun, Guo-Xin Chen, Fan-Zhen Meng, Jia Deng, Hua-Tong Song, Jin-Hao Jiang, Wayne Xin Zhao, Hong-Teng Xu, et al.
 
 - 🔎 **[UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning](https://arxiv.org/abs/2609.20089)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  
@@ -94,7 +162,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](https://arxiv.org/abs/2608.31100)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Verifier` · `Self-improvement`  
-  Authors: Jiajun Shi, Siyuan Tao, Yuhao Wu, Zexuan Wang, Jingyuan Zhang, Jiaheng Liu, Xinping Lei, Xinrong Zhang, et al.
+  Authors: Jiajun Shi, Siyuan Tao, Yuhao Wu, Zexuan Wang, Jingyuan Zhang, Jiaheng Liu, Xinping Lei, Xinrong Zhang, et al.  
+  Institutions*: University of British Columbia
 
 - 🔎 **[S3C-LLM: Skill-Code Guided Agentic Language Models for Spectrum-to-Structure Elucidation](https://arxiv.org/abs/2608.30910)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -109,7 +178,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[WebWorld: The Browser as a World Model for Self-Improving Web Code](https://arxiv.org/abs/2608.30530)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Self-improvement` · `VLM`  
-  Authors: Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, et al.
+  Authors: Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, et al.  
+  Institutions*: University of British Columbia
 
 - 🔎 **[Recursive Criticality of AI Self-Improvement](https://arxiv.org/abs/2609.00137)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -144,7 +214,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment](https://arxiv.org/abs/2608.28490)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement` · `Reasoning`  
-  Authors: Jingjing Nie, Jiawei Guo, Krishna Meda, Haipeng Cai
+  Authors: Jingjing Nie, Jiawei Guo, Krishna Meda, Haipeng Cai  
+  Institutions*: University at Buffalo
 
 - 🔎 **[Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search](https://arxiv.org/abs/2608.27266)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
@@ -263,7 +334,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement`  
   Authors: Tianxin Wei, Zhan Shi, Minhua Lin, Bing He, Zewen Liu, Yisi Sang, Yuanchen Bei, Xuying Ning, et al.  
-  Institutions*: Univeristy of Illinois Urbana Champaign; University of Illinois Urbana-Champaign
+  Institutions*: The Pennsylvania State University; Univeristy of Illinois Urbana Champaign; University of Illinois Urbana-Champaign
 
 - 🔎 **[AQuA: Recursively Self-Improving Quantitative Trading Research Agents](https://arxiv.org/abs/2608.12841)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3927,5 +3998,6 @@ _No visible paper records in this cell yet._
   2022-03-28 · `rationale` · `bootstrapping` · `self-training`  
   Labels: `Self-training` · `Reasoning`  
   Authors: Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman  
+  Institutions*: Stanford University  
   Method family: `Reasoning & Self-Improvement`  
   Change axes: `self-improvement, data, objective`
