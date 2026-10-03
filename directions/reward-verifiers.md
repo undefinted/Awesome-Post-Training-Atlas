@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3036 papers**: 1 curated and 3035 academic discovery candidates.
+**3057 papers**: 1 curated and 3056 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓44 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐6 · [Sep](#2026-09) ✓59 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓92 · [Nov](#2025-11) ✓104 · [Oct](#2025-10) ✓178 · [Sep](#2025-09) ✓132 · [Aug](#2025-08) ✓83 · [Jul](#2025-07) ✓60 · [Jun](#2025-06) ✓102 · [May](#2025-05) ✓119 · [Apr](#2025-04) ✓41 · [Mar](#2025-03) ✓69 · [Feb](#2025-02) ✓70 · [Jan](#2025-01) ✓23
 - [2024](#2024) — [Dec](#2024-12) ✓48 · [Nov](#2024-11) ✓26 · [Oct](#2024-10) ✓64 · [Sep](#2024-09) ✓20 · [Aug](#2024-08) ✓13 · [Jul](#2024-07) ✓18 · [Jun](#2024-06) ✓30 · [May](#2024-05) ✓27 · [Apr](#2024-04) ✓17 · [Mar](#2024-03) ✓17 · [Feb](#2024-02) ✓22 · [Jan](#2024-01) ✓14
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -21,11 +21,123 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](https://arxiv.org/abs/2610.02206)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `Agent` · `Tool Use`  
+  Authors: Peng-Fei Li, Naufal Suryanto, Si-Cheng Zhang, Muzammal Naseer
+
+- 🔎 **[Range-GRPO: Policy Optimization via Pairwise Relations among Reward Intervals](https://arxiv.org/abs/2610.01548)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Verifier`  
+  Authors: Ryunyi Lee, Kangjun Noh, Somin Kim, Heedong Kim, Kyungwoo Song
+
+- 🔎 **[Dependency-Aware Reward Shaping for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.01207)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Agent` · `Reasoning`  
+  Authors: Zi-Yi Chen, Yan Zhang, Jian-Hui Wei, Dao-An Zhang, Zuo-Zhu Liu
+
+- 🔎 **[Probe with Participation Trophies: Random-Reward RL as a Probe of LLM Capability](https://arxiv.org/abs/2610.01066)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Yu-Zhu Mao, Lei Yu, Zi-Ning Zhu, Yu-Sheng Zheng, Hao-Hang Li, Freda Shi, Yu-Tong Yin, Zhao-Ran Wang, et al.
+
+- 🔎 **[Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization](https://arxiv.org/abs/2610.02019)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `VLM` · `Safety`  
+  Authors: Guang-Yu Yang, Jing-Biao Mei, Ming-Shen Sun, Jing-Hong Chen, Ying-Tong Bu, Peng-Da Qin, Da Chen, Bill Byrne
+
+- 🔎 **[Semantic-Driven Asynchronous Channel Prediction and Reconstruction with Edge LLMs for RIS-Assisted ISAC Systems](https://doi.org/10.1109/MWC.2026.3715563)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Multimodal` · `Reasoning` · `Hallucination`  
+  Authors: Meng-Yao Wang, Xing-Wang Li, Yuan Gao, Ming Zeng, Cheng Yin, Ji Wang, Arumgam Nallanathan, Chau Yuen  
+  Venue: IEEE wireless communications
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 41 academic records · 15 eligible · checked 2026-09-02T04:49:25.741567+00:00.
+
+- 🔎 **[Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training](https://arxiv.org/abs/2609.40111)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier` · `Agent`  
+  Authors: Kun-Lun Zhu, Xu-Yan Ye, Yi-Bo Li, Cheng Qian, Bei-Bin Li, Heng Ji
+
+- 🔎 **[EHR-RobustGym: Benchmarking and Training Agents for Robust Clinical Reasoning](https://arxiv.org/abs/2609.39371)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reasoning`  
+  Authors: Yi-Tong Qiao, Yan-Cheng Jin, Lei Liu, Yue Shen, Jian Wang, Jin-Jie Gu, Zhi-Xuan Chu
+
+- 🔎 **[Aligning Thoughts with Answers: Probability Rewards to Tame Thinking Drift](https://arxiv.org/abs/2609.39183)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `VLM` · `Reasoning`  
+  Authors: Peng-Zhan Sun, Shiu-hong Kao, Shi-Jie Li, Yong-Yi Su, Jun-Bin Xiao, A. Akula, Angela Yao
+
+- 🔎 **[Seeing What Should Be Heard: Diagnosing and Repairing Cross-Modal Shortcuts in Omni-Modal LLMs](https://arxiv.org/abs/2609.36798)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal`  
+  Authors: Yue-Ran Ma, Ronghao Lin
+
+- 🔎 **[Inducing Process Supervision from Outcome-Only Reinforcement Learning](https://arxiv.org/abs/2609.36641)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `PRM` · `Reasoning`  
+  Authors: Sheng-Da Fan, Xin Cong, Zhong Zhang, Hao-Tian Chen, Yan-Kai Lin
+
+- 🔎 **[Unlocking the Critic: Reward-Free Policy Optimization for LLM Post-Training](https://arxiv.org/abs/2609.37119)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `PPO` · `Long-horizon` · `Reasoning`  
+  Authors: Hong-Yang Li, Xiao Li, Caesar Wu, S. Mammar, Grégoire Danoy, P. Bouvry
+
+- 🔎 **[Teaching LLMs to Generate Challenging MILP Instances via Solver Feedback](https://arxiv.org/abs/2609.37356)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Verifier` · `Self-play` · `Curriculum`  
+  Authors: Jitin Singla, Parikshit Pareek, P. Jawanpuria, Parag Singla
+
+- 🔎 **[Seek Before You Move: Evidence Seeking for Progress Grounding in Vision-Language Navigation](https://arxiv.org/abs/2609.37353)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Counterfactual` · `SFT` · `Long-horizon` · `VLM` · `Reasoning`  
+  Authors: Zhi-Min Wang, Mei-Yuan Zhu, Duo Wu, Lin-Jia Kang, Ya-Jun Wang, Yuan Ni, Xiao-Hang Wang, Tian-Lu Pan, et al.
+
+- 🔎 **[SemOPT: Fixing Semantic Errors in LLM-based Optimization Modeling via Reward-Guided Search](https://arxiv.org/abs/2609.37361)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model`  
+  Authors: Ze-Tong Zhou, Wen-Tao Zhang, Jing-Yuan Wang, Yi-Fan Yang, Zi-Zhuo Wang, Shi-Xiu Hu
+
+- 🔎 **[Provable Test-Time Scaling for Beam Search in LLM Reasoning](https://arxiv.org/abs/2609.38672)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Long-horizon` · `Reasoning`  
+  Authors: Qi-Jia He, Yu Huang, Yuan Cheng, Yu-Xin Chen, Ying-Bin Liang
+
+- 🔎 **[EasyPPO: Stabilizing the Critic Is Key](https://arxiv.org/abs/2609.36802)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `PPO` · `Multi-turn` · `Reasoning` · `Math` · `Code`  
+  Authors: Xuan-Yi Zhou, Qiu-Yang Mang, Huan-Zhi Mao, Da-Cheng Li, Wen-Hao Chai, Mayank Mishra, Yi-Chuan Wang, Karthik Narasimhan, et al.
+
+- 🔎 **[ReSight-SMC: Two-Stage Power Sampling via Island SMC with Visual Scouts](https://arxiv.org/abs/2609.34905)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Yao Zhang, Xiang-Yu Qiu, Jun-Yi Hu, Zhi Lu, Wen-Wen Tian, Ao Wang, Jun-Hai Luo, Zhen-Ming Peng
+
+- 🔎 **[Why Deterministic PRM Guidance Underperforms in Discrete Diffusion Reasoning](https://arxiv.org/abs/2609.35472)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `PRM` · `Verifier` · `Diffusion` · `Reasoning`  
+  Authors: Yan-Yan Zhan, Shao-Bo Liu, Zhi-Jun Gao
+
+- 🔎 **[Reinforcement Learning from Intermediate Renders for Image-to-Code Generation](https://arxiv.org/abs/2609.34587)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `PRM` · `VLM` · `Code`  
+  Authors: Omri Kaduri, Kate Feingold, Phillip Isola, Tali Dekel
+
+- 🔎 **[Using Context Is Not Enough: Test-Time Training for Personalized Reward Modeling](https://arxiv.org/abs/2609.35109)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `RLHF` · `Reward Model`  
+  Authors: Bo-Hao Wang, Xiao-Yan Zhao, Yang Zhang, Jing-Hang Guo, Chun Chen, Can Wang, Jia-Wei Chen
 
 - 🔎 **[Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol](https://arxiv.org/abs/2609.20712)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  
@@ -262,7 +374,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[HSRM: Hidden-State Reward Models for Test-Time Verification](https://arxiv.org/abs/2608.30841)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Reward Model` · `PRM` · `Verifier` · `Reasoning` · `Math`  
-  Authors: Xianzhi Li, Xiaodan Zhu
+  Authors: Xianzhi Li, Xiaodan Zhu  
+  Institutions*: Queen's University
 
 - 🔎 **[VIBE: Video Instruction-aligned Background music gEneration](https://arxiv.org/abs/2608.30125)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -338,7 +451,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-29 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `Verifier` · `Self-training`  
   Authors: Yepeng Liu, Tianyi Chen, Xuandong Zhao, Dawn Song, Yuheng Bu  
-  Institutions*: University of California, Santa Barbara
+  Institutions*: UC Berkeley; University of California, Santa Barbara
 
 - 🔎 **[Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation](https://arxiv.org/abs/2608.28886)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
@@ -358,7 +471,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents](https://arxiv.org/abs/2608.28458)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT`  
-  Authors: Nan Li
+  Authors: Nan Li  
+  Institutions*: Utrecht University
 
 - 🔎 **[Strategic Verification for Long-Running LLM Agents](https://doi.org/10.20944/preprints202608.2057.v1)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `query-hint` · `crossref`  

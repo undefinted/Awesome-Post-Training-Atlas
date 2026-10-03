@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**746 papers**: 3 curated and 743 academic discovery candidates.
+**769 papers**: 3 curated and 766 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐6 · [Sep](#2026-09) ✓30 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓50 · [Nov](#2025-11) ✓43 · [Oct](#2025-10) ✓65 · [Sep](#2025-09) ✓32 · [Aug](#2025-08) ✓47 · [Jul](#2025-07) ✓43 · [Jun](#2025-06) ✓38 · [May](#2025-05) ✓44 · [Apr](#2025-04) ✓29 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓11 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓1 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓1 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓1 · [Jun](#2024-06) ✓2 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓1
 - [2017](#2017) — [Jul](#2017-07) ◐1
@@ -21,11 +21,134 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[LineupRL: Verifiable Reinforcement Learning for Time Series Captioning via Caption-to-Series Identification](https://arxiv.org/abs/2610.01800)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `RLVR` · `Reward Model` · `Verifier` · `VLM`  
+  Authors: H. Zhang, Laura Yao, Z. Plotkin, Geng-Wei Zhang, Tian-Long Chen
+
+- 🔎 **[On Language Drift during RLVR Post-Training](https://arxiv.org/abs/2610.02015)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `Reasoning`  
+  Authors: Michael Sullivan, Alexander Koller
+
+- 🔎 **[Improving Math Reasoning through Value-guided Informative Search](https://arxiv.org/abs/2610.01080)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Verifier` · `Reasoning` · `Math`  
+  Authors: Shao-Huai Liu, Yu-Ning Wu, Hao Liu, Enzo Jia, Devin Chen, Kai-Tai Wei
+
+- 🔎 **[Same Reward, Different Skills: When Multimodal RL Learns to Look](https://arxiv.org/abs/2610.01908)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Counterfactual` · `RLVR` · `GRPO` · `Multimodal`  
+  Authors: Hao-Cun Ye, Xin-Long Jiang, Qi-Le Chen, Bing-Yu Wang, Teng Zhang, Shu-Bai Chen, Ting-Yu Wu, Zhen-Kun Zheng, et al.
+
+- 🔎 **[Low-cost fine-tuning of SmolVLA with smoothness regularization and chunk-aware auxiliary supervision for language-conditioned manipulation](https://doi.org/10.3389/fnbot.2026.1890245)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `crossref`  
+  Labels: `VLA` · `Safety`  
+  Authors: Chenkai He  
+  Venue: Frontiers in Neurorobotics
+
+- 🔎 **[Securing Enterprise Language Model Applications Against Data Leakage and Response Manipulation](https://doi.org/10.66104/3m1m5x77)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `crossref`  
+  Labels: `Preference Optimization`  
+  Authors: Kaik Tavares Barroso  
+  Venue: Nexus Science Review
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 11 academic records · 7 eligible · checked 2026-09-02T04:49:27.520267+00:00.
+
+- 🔎 **[From Search to Signal: Online Post-Training in Automatic Heuristic Design](https://arxiv.org/abs/2609.39383)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR`  
+  Authors: Yi-Lun Yuan, Tian-Yu Zhou, Zhen-Zhou Tang
+
+- 🔎 **[CATCH: A Controllable Analysis Testbed for Reward Hacking in Coding RL](https://arxiv.org/abs/2609.39533)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `Reasoning` · `Code`  
+  Authors: Shou-Li Wang, Yan-Feng Jia, Zhi-Hao Ou, Zi-Tao Su, Rui-Ze He, Hao-Tong Xie, Hao Peng, Juan-Zi Li, et al.
+
+- 🔎 **[Reinforcing Multimodal Reasoning via Token-Level Perception-Grounded Advantage Estimation](https://arxiv.org/abs/2609.39168)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Multimodal` · `Reasoning`  
+  Authors: Zhi-Han Zhang, Li-Zi Liao
+
+- 🔎 **[Exploring More, Reasoning Better: Stepwise Risk-Sensitive GRPO for Diffusion Language Models](https://arxiv.org/abs/2610.00661)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Diffusion` · `Reasoning` · `Math`  
+  Authors: Yu Yue, Bo-Wen Zuo, David J. Crandall, Ying-Lun Zhu, Dong-Ruo Zhou
+
+- 🔎 **[GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed](https://arxiv.org/abs/2609.39600)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `VLM`  
+  Authors: Qi-Ze Yu, Lian-Rui Fan, Bo-Wen Ping, Xi-Ni Ding, Ze-Tian Song, Jun-Bo Niu, Kai-Xuan Wang, Tian-Xing Chen, et al.
+
+- 🔎 **[Semifactual Credit-Augmented Policy Optimization](https://arxiv.org/abs/2609.40360)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Reasoning` · `Math`  
+  Authors: Jun-Shu Pan, Zhi-Zhang Fu, Shu-Lin Huang, Yi-Ran Ding, Zi-Fan Cheng, Wen-Qi Shao, Qiao-Sheng Zhang, Yue Zhang
+
+- 🔎 **[BRIDGE: Bilevel Retrieval-Credit-Aware Agentic Reinforcement Learning](https://arxiv.org/abs/2609.36505)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Agent` · `Reasoning`  
+  Authors: Quan Xiao, Ming-Da Liu, Gao-Wen Liu, Katsuki Fujisawa, Tian-Yi Chen
+
+- 🔎 **[ArgGYM: A Procedural, Engine-Verified Benchmark for Structured Defeasible Reasoning](https://arxiv.org/abs/2609.38409)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Verifier` · `Curriculum` · `Reasoning`  
+  Authors: Ibrahim Ethem Deveci, Funda Tan Çalık, Barış Deniz Sağlam, Duygu Ataman
+
+- 🔎 **[Visual sensitivity is not claim retractability: persistence-aware credit assignment for multimodal reinforcement learning](https://arxiv.org/abs/2609.36572)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Counterfactual` · `RLVR` · `GRPO` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Zhong-An Bi, Ke-Peng Lin, Xuan-Ang Gao, Yu-Han Sun, Lian-Run Zhang
+
+- 🔎 **[Can Language Models Learn to Forecast Stock Prices](https://arxiv.org/abs/2609.36914)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `PPO` · `Tool Use` · `Reasoning` · `Math`  
+  Authors: Jia-Cheng Guo, Suo-Zhi Huang, Shu-Zhen Li, Yun-Long Gao, Ze-Rui Cheng, J. Ge, Shuang Liang, Zi-Hao Li, et al.
+
+- 🔎 **[InfiMed2: A Generalist Medical Multimodal Foundation Model from Contextual Evidence and Stability-Aware Supervision](https://arxiv.org/abs/2609.34798)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `Multimodal` · `Reasoning`  
+  Authors: Guang-Hao Zhu, Ze-Yu Liu, Zhitian Hou, Peng-Kai Wang, Zhi-Jie Sang, Shuo Cai, Yang Yu, Yuan-Yi Wang, et al.
+
+- 🔎 **[Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors](https://arxiv.org/abs/2609.34344)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Yu-Chen Cai, Ding Cao, Qi-Xiang Yin, Xin Xu, Kai Yang, Si-Ye Wu, Peng-Yuan Wang, Jia-Xuan Wang, et al.
+
+- 🔎 **[Verifier Errors in RLVR: Reward Hacking, Limits of Feedback, and Selective Control](https://arxiv.org/abs/2609.35677)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Verifier`  
+  Authors: Christian Moya, E. Thornley, Guang Lin
+
+- 🔎 **[Summarize Before Grounding: Query-Guided Chunk Condensation for Long-Video Temporal Grounding](https://arxiv.org/abs/2609.34598)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Nan-Xing Hu, Xiao-Yue Duan, Qi-Wei Yan, Kailin Lyu, Jin-Chao Zhang, Guo-Liang Kang
+
+- 🔎 **[MaPP: A Unified Marginalized Posterior-Predictive Framework for Data-Efficient RLVR](https://arxiv.org/abs/2609.34990)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Reasoning`  
+  Authors: Yang-Yang Ren, Hao-Dong Zhu, Sheng Xu, Yanjing Li, N. Zolotykh, Wen-Tao Zhang, Bao-Chang Zhang
+
+- 🔎 **[Learning to Sell: Reinforcement Learning for Strategic Large Language Model Agents in Multi-Product Markets](https://arxiv.org/abs/2609.33289)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-27 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR`  
+  Authors: S. Liu, Claire Chen, Jiuqi Wang, David Simchi-Levi, Thorsten Joachims
+
+- 🔎 **[Shared Experience, Separate Learning: Companion Confidence Calibration for LLMs](https://arxiv.org/abs/2609.33721)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-27 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Verifier`  
+  Authors: Shi-Yu Ni, Ke-Ping Bi, Jia-Feng Guo, Yilong Xu, Jing-Tong Wu, Zeng-Xin Han, Xue-Qi Cheng
 
 - 🔎 **[EmbodiedMind: Adaptive Data Curation and Prefix-Tree Reinforcement Learning for Efficient Embodied Intelligence](https://arxiv.org/abs/2609.19659)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  

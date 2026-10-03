@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**401 papers**: 2 curated and 399 academic discovery candidates.
+**413 papers**: 2 curated and 411 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐2 · [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓17 · [Nov](#2025-11) ✓19 · [Oct](#2025-10) ✓26 · [Sep](#2025-09) ✓17 · [Aug](#2025-08) ✓12 · [Jul](#2025-07) ✓9 · [Jun](#2025-06) ✓15 · [May](#2025-05) ✓18 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓9 · [Sep](#2024-09) ✓4 · [Aug](#2024-08) ✓3 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓3 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓4 · [Feb](#2024-02) ✓8 · [Jan](#2024-01) ✓2
 - [2023](#2023) — [Nov](#2023-11) ◐1 · [May](#2023-05) ◐1
@@ -21,11 +21,80 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Formalism-Aware Rewards: Turning Model Analysis into Training Feedback for Sketch-to-Model Generation](https://doi.org/10.1145/3822455.3838780)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-03 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `VLM`  
+  Authors: Mersedeh Sadeghi, Simon Scholz, Adrian Psoch-Bajraktari  
+  Venue: Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems
+
+- 🔎 **[Token-Level Video Reinforcement Learning](https://arxiv.org/abs/2610.01973)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Reward Model` · `VLM` · `Video Generation`  
+  Authors: Yi-Fan Wang, G. Qian, Yan-Yu Li, Anil Kag, Yun Fu
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 10 academic records · 0 eligible · checked 2026-09-02T04:49:37.032946+00:00.
+
+- 🔎 **[GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `Multimodal` · `VLA` · `Robotics` · `Autonomous Driving`  
+  Authors: Qi-Ze Yu, Lian-Rui Fan, Bo-Yu Chen, Jia-Qi Liang, Xi-Ni Ding, Yue Chen, Ze-Tian Song, Yu-Ran Wang, et al.
+
+- 🔎 **[EPIC: Epipolar-Consistent 360{\deg} Immersive Stereo Video Generation](https://arxiv.org/abs/2609.38689)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Diffusion` · `Video Generation`  
+  Authors: Debabrata Mandal, D. Fu, Jonathon Miller, W. Villareal, Peng Xi, Praneeth Chakravarthula
+
+- 🔎 **[Grounding with Confidence: Controllable Generative Video Temporal Grounding](https://arxiv.org/abs/2609.39883)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier`  
+  Authors: Jin-Hao Chen, Ben-Lei Cui, Rui-Jian Jia, Zi-Heng Wang, Tian-Yu Wo, Peng-Fei Sun, Long-Tao Huang, Hui Xue, et al.
+
+- 🔎 **[Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](https://arxiv.org/abs/2609.37200)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Diffusion`  
+  Authors: Song-Lin Yang, Xiao-Tong Zhao, Jia-Cheng Zhang, Zhe Wang, Toyota Li, Eric Liu, Alan Zhao, A. Rao
+
+- 🔎 **[Personalized Shopping Agents from Human Feedback (PSHF)](https://doi.org/10.1109/iccta70480.2026.11706453)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Gaurang Munje, Nishank Soni  
+  Venue: 2026 International Conference on Computer Technology Applications (ICCTA)
+
+- 🔎 **[FestDPO: Few-step Generator Alignment with Direct Preference Optimization](https://arxiv.org/abs/2609.34673)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Reward Model` · `Image Generation`  
+  Authors: Jaewoo Lee, Kyuil Sim, Hyeongyu Kang, Kanghoon Lee, Woocheol Shin, Jinkyoo Park
+
+- 🔎 **[Hybrid RLHF-AIF: Uncertainty-Guided Routing of Human and AI Feedback for Cost-Efficient Safety Alignment of Large Language Models](https://doi.org/10.3390/math14193523)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `crossref`  
+  Labels: `RLHF` · `RLAIF` · `PPO` · `Safety`  
+  Authors: Tianyu Sun, Yanzhou Li  
+  Venue: Mathematics
+
+- 🔎 **[Tilted Schr\"odinger Bridge Matching](https://arxiv.org/abs/2609.34642)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `Diffusion`  
+  Authors: S. Kholkin, Evgeny Burnaev, A. Korotin
+
+- 🔎 **[CoRe: Co-Evolving Reward Models for Mitigating Latent Reward Hacking in Video Diffusion Models](https://arxiv.org/abs/2609.36245)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Diffusion`  
+  Authors: Zhao-Long Su, Yu-Jin Han, Feng Wang, Jameson Dong, Hins Hu, Di-Fan Zou
+
+- 🔎 **[Constraint-Satisfying Floor Plan Generation Based on Domain-Specific Tokens and Reinforcement Learning with Verifiable Rewards](https://doi.org/10.2139/ssrn.7511748)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `crossref`  
+  Labels: `RLVR`  
+  Authors: Jonghwa Shim, Eunbeen Kim, Eenjun Hwang
 
 - 🔎 **[Interleaved Prompt Generation for Continual Instruction Tuning of Multimodal Large Language Model](https://doi.org/10.1109/tip.2026.3732640)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-15 · `query-hint` · `crossref, semantic-scholar`  
@@ -57,7 +126,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization](https://arxiv.org/abs/2608.31079)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `DPO` · `Preference Optimization` · `Safety`  
-  Authors: Camila Blank, Zhuofan Ying, Christopher Potts, Peter Hase, Jing Huang
+  Authors: Camila Blank, Zhuofan Ying, Christopher Potts, Peter Hase, Jing Huang  
+  Institutions*: Stanford University
 
 - 🔎 **[DiffPDE: Masked Diffusion Language Models as PDE Solver](https://arxiv.org/abs/2608.30532)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -67,7 +137,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model](https://arxiv.org/abs/2608.29904)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-30 · `academic-query-vote` · `arxiv-backfill`  
   Labels: pending  
-  Authors: Hai Nguyen-Truong, Tuan-Anh Vu, Dang Huynh
+  Authors: Hai Nguyen-Truong, Tuan-Anh Vu, Dang Huynh  
+  Institutions*: The Hong Kong University of Science and Technology
 
 - 🔎 **[ReNFT: Repairing Mode Collapse in Reward Post-Training via Internal Probability-Mass Recalibration](https://arxiv.org/abs/2609.00061)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -87,7 +158,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[VGA-BenchV2: An Expanded Unified Benchmark and Multi-Model Framework for Evaluating Video Aesthetics and Generation Quality](https://arxiv.org/abs/2608.25452)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Reward Model` · `VLM` · `Video Generation`  
-  Authors: Longteng Jiang, DanDan Zheng, Qianqian Qiao, Heng Huang, Huaye Wang, Yihang Bo, Bao Peng, Jingdong Chen, et al.
+  Authors: Longteng Jiang, DanDan Zheng, Qianqian Qiao, Heng Huang, Huaye Wang, Yihang Bo, Bao Peng, Jingdong Chen, et al.  
+  Venue: Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence
 
 - 🔎 **[Scaling Reinforcement Learning for Diffusion Models via Velocity Matching](https://arxiv.org/abs/2608.23664)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**829 papers**: 2 curated and 827 academic discovery candidates.
+**840 papers**: 2 curated and 838 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓21 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓36 · [Oct](#2025-10) ✓43 · [Sep](#2025-09) ✓37 · [Aug](#2025-08) ✓26 · [Jul](#2025-07) ✓26 · [Jun](#2025-06) ✓34 · [May](#2025-05) ✓35 · [Apr](#2025-04) ✓12 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓7
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
@@ -26,6 +26,61 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### September
 
 > **Audit status:** ✓ Complete · scanned 13 academic records · 5 eligible · checked 2026-09-02T04:49:35.361284+00:00.
+
+- 🔎 **[From Image Interpretation to Clinical Reasoning: Upstream Physician-Context-Aware Multimodal Learning with Causal Reinforcement Learning](https://arxiv.org/abs/2609.38924)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Jia-Lu Pi, Ya-Nan Ma, Wei-Jie Chen, O. Crystal, S. Trivedi, Stephen Z. Xie, A. Silverman, M. Stib, et al.
+
+- 🔎 **[Computational Validation of a Kinetic PDE for Reinforcement Learning in Market-Entry Games](https://doi.org/10.21203/rs.3.rs-11202562/v1)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Esther Bou Dagher
+
+- 🔎 **[Beyond Binary Preferences: Graded Preference Optimization for Limb-Motion Captioning](https://arxiv.org/abs/2609.36628)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Multimodal` · `VLM` · `Hallucination`  
+  Authors: Ya-Nan Wang, Ting-Song Li, Kai-Xun Jiang, Chong-Yang Zhong, Chenwei Xoe, Zhao-He Liao
+
+- 🔎 **[SAM Meets VLM: Parameter-Decoupled Full-Parameter Training for Unified Medical Reasoning and Segmentation](https://arxiv.org/abs/2609.37283)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Xu-Yang Cao, En-You Liu, Jun Zhao, Zhuo-Yun Liu, Jin-Tao Fei, Leo
+
+- 🔎 **[FLOORA: A Human-Aligned Domain-Specific Language Model for Architectural Design](https://arxiv.org/abs/2609.36064)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `VLM`  
+  Authors: S. Rezaei-Shoshtari, Patryk Wozniczka, Shu Ishida, Gregg Streuber, Farnoosh Javadi, Jeffrey M. Landes, Angela Ju, Muhammad Azam, et al.
+
+- 🔎 **[See, Measure, and Reason: Learning Visually Grounded Reasoning in Pathology](https://arxiv.org/abs/2609.34277)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `VLM` · `Reasoning`  
+  Authors: Cheng-Yang Zhang, Wen-Chuan Zhang, Bo Li, Meng-Ran Li, Xin-Yu Liu, Jia-Ming Yang, Jie Chen, Zhang Zhang, et al.
+
+- 🔎 **[Render Before Reading: Visual Rendering as a Prompt Injection Defense](https://arxiv.org/abs/2609.36121)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-28 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal`  
+  Authors: Jie Zhang, Andrei Baroian, J. V. van Rijn, Avital Shafran, Florian Tramèr
+
+- 🔎 **[SciGen-Verifier: A Multimodal Reasoner for Explainable Verification in Scientific Image Generation](https://arxiv.org/abs/2609.33399)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-27 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Verifier` · `Curriculum` · `Multimodal` · `Image Generation` · `Reasoning`  
+  Authors: Jia-Li Chen, Zheng-Teng Lin, Zu-Qi Wang, Shi-Rong Lin, Xi Yu, Xu-Sen Hei, Ding-Ba Fu, Jia-Yuan Xie, et al.
+
+- 🔎 **[RCVLA: 4D Radar-Grounded Semantic Reasoning and Trajectory Arbitration for Autonomous Driving](https://arxiv.org/abs/2609.32681)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-26 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `VLA` · `Autonomous Driving` · `Reasoning`  
+  Authors: Lian-Qing Zheng, Xiao-Kai Bai, Yi-Xuan Luo, Run-Wei Guan, Ming-Hao Liu, Zhi-Qiang Wei, Hui-Liang Shen, Xi-Chan Zhu, et al.
+
+- 🔎 **[DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models](https://arxiv.org/abs/2609.31103)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-25 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal` · `Reasoning`  
+  Authors: Jiang-Ning Wei, Yuan Yao, Miao-Miao Cui, Ming-Sheng Li, Hu-Men Zhong, Shuai Bai, Zhi-Bo Yang
+
+- 🔎 **[NV-Reason-CT: 3D Visual Language Model for CT Analysis](https://arxiv.org/abs/2609.27511)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-23 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `GRPO` · `Multi-turn` · `Multimodal` · `Reasoning`  
+  Authors: Andriy Myronenko, Dong Yang, Yu-Cheng Tang, B. Turkbey, Benjamin D. Simon, Stephanie A. Harmon, R. Makwana, M. Aboian, et al.
 
 - 🔎 **[Review of: "Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning"](https://doi.org/10.32388/k1w9s4)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-15 · `query-hint` · `crossref`  
