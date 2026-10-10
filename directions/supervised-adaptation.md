@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3339 papers**: 2 curated and 3337 academic discovery candidates.
+**3348 papers**: 2 curated and 3346 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓128 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓104 · [Nov](#2025-11) ✓125 · [Oct](#2025-10) ✓184 · [Sep](#2025-09) ✓143 · [Aug](#2025-08) ✓128 · [Jul](#2025-07) ✓90 · [Jun](#2025-06) ✓135 · [May](#2025-05) ✓192 · [Apr](#2025-04) ✓93 · [Mar](#2025-03) ✓112 · [Feb](#2025-02) ✓93 · [Jan](#2025-01) ✓52
 - [2024](#2024) — [Dec](#2024-12) ✓77 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓110 · [Sep](#2024-09) ✓52 · [Aug](#2024-08) ✓51 · [Jul](#2024-07) ✓58 · [Jun](#2024-06) ✓100 · [May](#2024-05) ✓76 · [Apr](#2024-04) ✓55 · [Mar](#2024-03) ✓62 · [Feb](#2024-02) ✓97 · [Jan](#2024-01) ✓41
 - [2023](#2023) — [Oct](#2023-10) ◐1
@@ -94,7 +94,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 284 academic records · 178 eligible · checked 2026-09-02T04:45:13.381576+00:00.
+> **Audit status:** ✓ Complete · scanned 295 academic records · 185 eligible · checked 2026-10-10T06:17:41.244964+00:00.
 
 - 🔎 **[Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS](https://arxiv.org/abs/2608.30325)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -121,6 +121,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `SFT` · `On-policy` · `Verifier` · `Multimodal`  
   Authors: Feng-Ji Ma, Yan Rong, Xu Li, Chen Zhang, Pengfei Wan, Li Liu
 
+- 🔎 **[A Pinch of SFT, A Dash of RL: When Reinforcement Learning Helps Long-Horizon Advertising Agents](https://arxiv.org/abs/2609.22194)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Tool Use` · `Long-horizon` · `Reasoning`  
+  Authors: Aakash Kolekar, Sahika Genc, Bunyamin Sisman, Shahriar Shariat, Shree Vandana Kachroo, Avishek Saha, Qianli Wu, Ari Singer, et al.
+
 - 🔎 **[Post-Training VLMs for Video Mistake Detection](https://arxiv.org/abs/2608.28406)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `VLM`  
@@ -130,6 +135,16 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `VLM`  
   Authors: Chanho Park, Daehyeon Choi, Jihyun Lee, Minhyuk Sung
+
+- 🔎 **[Beyond Task Completion: Training Capable and Safe Computer-Use Agents](https://arxiv.org/abs/2609.22178)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Safety`  
+  Authors: Zeyu Kang, Zhenyun Yin, Yang Zhang, Shan He, Shanzhe Lei, Yanjiu Zhong, Xinquan Chen, Xuhong Wang
+
+- 🔎 **[BananaVLM: A Domain-Adapted Vision Language Model for Banana Crop Disease Diagnosis](https://arxiv.org/abs/2609.25040)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Multimodal` · `VLM`  
+  Authors: Sangam Kumar Jena, Pandarasamy Arjunan
 
 - 🔎 **[Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training](https://arxiv.org/abs/2608.25826)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
@@ -151,6 +166,16 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Verifier` · `Diffusion` · `Reasoning`  
   Authors: Minhae Oh, Nakyung Lee, Jungwoo Lee
+
+- 🔎 **[GRRR: The Geometry of Reshaping, Rotation, and Routing in Decoder LLM post-training](https://arxiv.org/abs/2609.22146)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT`  
+  Authors: Jianing Qi, Hao Tang, Zhigang Zhu
+
+- 🔎 **[Do Language Models Know Their Own Constraints?](https://arxiv.org/abs/2609.22151)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `GRPO`  
+  Authors: Arin Agarwal
 
 - 🔎 **[Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment](https://arxiv.org/abs/2608.25114)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-25 · `academic-query-vote` · `arxiv-backfill`  
@@ -183,6 +208,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `Distillation` · `SFT` · `Reasoning`  
   Authors: Yan Zhou, Sara Kangaslahti, Jonathan Geuter, Nihal V. Nayak, Marco Fumero, Francesco Locatello, David Alvarez-Melis  
   Institutions*: Harvard University; Microsoft Research
+
+- 🔎 **[Who Put the I in AI? Provenance and the Admissibility of Machine Self-Report](https://arxiv.org/abs/2609.29494)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `Preference Optimization`  
+  Authors: Kristina Šekrst
 
 - 🔎 **[Beyond What Meets the Eye: Unveiling Situational Illusions for Multimodal Large Language Models](https://arxiv.org/abs/2608.22232)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-23 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -531,6 +561,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Labels: `SFT` · `Reasoning`  
   Authors: Hongxiang Gao, He-yang Xu, Yuwen Li, Minghui Zhao, Zhipeng Cai, Xingyao Wang, Chenxi Yang, Jianqing Li, et al.
 
+- 🔎 **[From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning](https://arxiv.org/abs/2608.10317)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `VLM` · `Reasoning`  
+  Authors: Han Zhang, Yilin Zhao, Zaid Pervaiz Bhat, Zheng Tang, Varun Praveen, Vidya N. Murali, David C. Anastasiu, Tomasz Kornuta
+
 - 🔎 **[Domain Agnostic Text Redaction from Natural Language Rules using Instruction Tuning](https://arxiv.org/abs/2608.14693)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-09 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT`  
@@ -575,6 +610,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-06 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `SFT` · `Long-horizon` · `Multimodal` · `Reasoning`  
   Authors: Linqiang Guo, Wei Liu, Li Gu, Yang Wang,  Tse-Hsun,  Chen
+
+- 🔎 **[R2VC: Modular Fact-Checking with Retrieval, Verification, and Confidence Calibration](https://arxiv.org/abs/2609.11955)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `DPO` · `Verifier` · `Reasoning`  
+  Authors: Dhruv Dixit, Paritosh Pandey
 
 - 🔎 **[Hierarchical Data Selection via Manifold Coverage and Sparse Feature Coverage in LLM Post-training](https://arxiv.org/abs/2608.16927)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-05 · `academic-query-vote` · `arxiv-backfill`  
@@ -646,6 +686,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `SFT` · `Multimodal` · `Robotics` · `Reasoning`  
   Authors: Jiakai Lin, Zijun Li, Guoyu Lu
+
+- 🔎 **[COAL-SQL: Coverage-Guided Augmentation and Failure-Driven Learning for Text-to-SQL Post-Training](https://arxiv.org/abs/2609.20842)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `SFT` · `GRPO` · `Reasoning`  
+  Authors: Qifeng Cai, Xuanguang Pan, Hao Liang, Chang Xu, Wentao Zhang
 
 - 🔎 **[Antares: Foundation Models for Agentic Vulnerability Localization](https://arxiv.org/abs/2608.02407)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
