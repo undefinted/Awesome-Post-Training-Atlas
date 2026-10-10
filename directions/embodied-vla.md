@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**374 papers**: 1 curated and 373 academic discovery candidates.
+**386 papers**: 1 curated and 385 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
+- [2026](#2026) — [Oct](#2026-10) ◐10 · [Sep](#2026-09) ✓22 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -21,11 +21,81 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[AI-Driven Digital Twin Architectures with Multimodal Foundation Models and Reinforcement Learning for Adaptive Cancer Therapy Optimization](https://doi.org/10.1109/assic70037.2026.11717066)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-09 · `query-hint` · `crossref`  
+  Labels: `Multimodal`  
+  Authors: Latha Kiran Krishna Rajendran, Rajatha Maradi Hemanth Kumar  
+  Venue: 2026 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)
+
+- 🔎 **[PathTime-VLA: Path-Time Decoupling for Factorized Post-Training of Vision-Language-Action Policies](https://arxiv.org/abs/2610.11771)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA`  
+  Authors: Qing Huang, Yi-Fei Yang, Zi-Qing Zou, An-Jen Chen, Zhen-Jie Zhu, Yu-Fei Wei, Rong Xiong, Yue Wang
+
+- 🔎 **[YUBI-STAG: Contact and Semantic-Rich Alignment for VLAs via Automated Video-Language Grounding](https://arxiv.org/abs/2610.09718)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `VLM` · `VLA`  
+  Authors: Masatoshi Tateno, Takehiko Ohkawa, Yueh-Hua Wu, Han-Long Li, Tatsuya Matsushima, Yoichi Sato, Keita Ota
+
+- 🔎 **[VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation](https://arxiv.org/abs/2610.08220)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA`  
+  Authors: Yu-Tian Zhang, Xing-Rui Xiong, Si-Yuan Ma, Yang Li, Jia-Wen Wen, Jia-Qi Zhai, Li-Wen Yang, Ce Hao, et al.
+
+- 🔎 **[How (and How Not) to Use Data Augmentation in VLA Post-Training](https://arxiv.org/abs/2610.05994)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA` · `Robotics`  
+  Authors: Bram Grooten, J. Vanschoren
+
+- 🔎 **[ExStereo: Lifting 2D Vision-Language-Action Models to 3D with Explicit Stereo Representations](https://arxiv.org/abs/2610.04805)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-03 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA` · `Robotics`  
+  Authors: I. Liu, Jason Chen, Gaurav S. Sukhatme, Daniel Seita
+
+- 🔎 **[UniWAM: Unified World-Action Model](https://arxiv.org/abs/2610.02054)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Long-horizon` · `VLM` · `Diffusion` · `Video Generation` · `VLA` · `Reasoning`  
+  Authors: Wen-Xuan Song, Jia-Yi Chen, Jing-Bo Wang, Shuai Zhou, Xi-Cheng Gong, Ze-Hua Fan, Zi-Yang Zhou, E. Junwu, et al.
+
+- 🔎 **[Low-cost fine-tuning of SmolVLA with smoothness regularization and chunk-aware auxiliary supervision for language-conditioned manipulation](https://doi.org/10.3389/fnbot.2026.1890245)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `VLA` · `Safety`  
+  Authors: Chen He  
+  Venue: Frontiers in Neurorobotics
+
+- 🔎 **[Emotionally intelligent preference optimization for conversational behavior change support](https://doi.org/10.1038/s41598-026-71119-8)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Reasoning`  
+  Authors: Ben Chen, Nina Dethlefs  
+  Venue: Scientific Reports
+
+- 🔎 **[FutureWorlds: Learning Robotic World Models from Alternative Futures](https://arxiv.org/abs/2610.01019)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Multimodal` · `Robotics`  
+  Authors: Hao Wu, Sheng-Ju Qian, Wei-Yan Wang, Fang-Hua Xu, Fan Zhang, Yuan-Peng He, Qing-Song Wen, Yuxuan Liang
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 2 academic records · 2 eligible · checked 2026-09-02T04:49:38.494374+00:00.
+
+- 🔎 **[IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining](https://arxiv.org/abs/2609.39403)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA` · `Reasoning`  
+  Authors: Hui-Min Pan, Y. Ren, Kun-Peng Song, Si-Yang Wang, Xi-Wen Zhang, Xiao-Yun Hu, Zhuo-Xu Duan, Han-Rui Zheng, et al.
+
+- 🔎 **[Fine-Tuning Large Language Models for Financial Applications Using Direct Preference Optimization](https://doi.org/10.47839/ijc.25.3.4844)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Verifier`  
+  Authors: Bohdan Pavlyshenko, Ivan Bulka  
+  Venue: International Journal of Computing
 
 - 🔎 **[Towards High-DoF Dexterous Manipulation through VLA Post-Training](https://arxiv.org/abs/2609.19666)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  

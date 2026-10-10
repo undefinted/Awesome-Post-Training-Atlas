@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3339 papers**: 2 curated and 3337 academic discovery candidates.
+**3351 papers**: 2 curated and 3349 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐12 · [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓104 · [Nov](#2025-11) ✓125 · [Oct](#2025-10) ✓184 · [Sep](#2025-09) ✓143 · [Aug](#2025-08) ✓128 · [Jul](#2025-07) ✓90 · [Jun](#2025-06) ✓135 · [May](#2025-05) ✓192 · [Apr](#2025-04) ✓93 · [Mar](#2025-03) ✓112 · [Feb](#2025-02) ✓93 · [Jan](#2025-01) ✓52
 - [2024](#2024) — [Dec](#2024-12) ✓77 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓110 · [Sep](#2024-09) ✓52 · [Aug](#2024-08) ✓51 · [Jul](#2024-07) ✓58 · [Jun](#2024-06) ✓100 · [May](#2024-05) ✓76 · [Apr](#2024-04) ✓55 · [Mar](#2024-03) ✓62 · [Feb](#2024-02) ✓97 · [Jan](#2024-01) ✓41
 - [2023](#2023) — [Oct](#2023-10) ◐1
@@ -21,6 +21,74 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Successive Training Stages and Large Language Model Persuasion: Effects of Misalignment, Supervised Fine-Tuning, and Preference Optimization](https://arxiv.org/abs/2610.09964)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Preference Optimization`  
+  Authors: Antony Dalmiere, Pascal Marchand, G. Auriol, Vincent Nicomette
+
+- 🔎 **[OrthCoder: Balancing Security and Utility in Secure Code Generation via Orthogonal Adaptation](https://doi.org/10.1145/3832783.3837499)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Preference Optimization` · `Code`  
+  Authors: Meng Tian, Youliang Yuan, Zhiqing Zhong, Pin-Jia He  
+  Venue: Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering
+
+- 🔎 **[Q-Learning with Scalar Adjoint Matching](https://arxiv.org/abs/2610.10437)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Off-policy` · `VLA`  
+  Authors: Yong Dong, Minsung Yoon, Jaehyuk Kim, Jungwoo Park, Changyeon Kim, Jin-Woo Shin
+
+- 🔎 **[SoccerNet-FoulRet: Retrieving Semantically Similar Soccer Foul Videos](https://arxiv.org/abs/2610.09742)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Jacobus Arthur, Ahmad M. Sait, Batool Hani, Merey Ramazanova, Jan Held, Marc Van Droogenbroeck, Bernard Ghanem, Anthony Cioppa, et al.
+
+- 🔎 **[Enhancing Diffusion Language Models with Autoregressive Post-Training Weights](https://arxiv.org/abs/2610.08108)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Diffusion` · `Reasoning` · `Math` · `Code`  
+  Authors: Yi-Ming Qin, Ke Wang, Amel Abdelraheem, Adam Hazimeh, Pascal Frossard
+
+- 🔎 **[Reading, Not Manipulating: Leveraging Router Logits for Multimodal Safety in MoE Vision-Language Models](https://arxiv.org/abs/2610.07774)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal` · `VLM` · `Safety`  
+  Authors: Zi-Yuan Yang, Wen-Xuan Ding, Shang-Bin Feng, Yulia Tsvetkov
+
+- 🔎 **[VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction](https://arxiv.org/abs/2610.06293)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Agent` · `Multimodal` · `Reasoning`  
+  Authors: Qiu-Tong Chen, Yu-Chan Guo, Zhenlong Yuan, Hao Yang, Fan Lin, Xin-Yi Long, Yin Wang, Zi-Jian Song, et al.
+
+- 🔎 **[Abstract Concept Grounding through Safety Alignment in Multimodal Large Language Models](https://doi.org/10.1145/3776591.3836639)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Multimodal` · `Reasoning` · `Safety`  
+  Authors: Ying-Xu Wang, Oliver Lemon  
+  Venue: Companion Publication of the 28th International Conference on Multimodal Interaction
+
+- 🔎 **[Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment](https://arxiv.org/abs/2610.07023)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-04 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLHF` · `Safety`  
+  Authors: Jin-Hao Pang, Jitai Hao, Qiang Huang, Zhao-Chun Ren, Jun Yu
+
+- 🔎 **[TrustMed-RL: Long-Horizon Reinforcement Learning for Evidence-Grounded Clinical Diagnosis](https://arxiv.org/abs/2610.04387)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-03 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Long-horizon` · `Reasoning`  
+  Authors: Wen-Xin Zhan, Yi-Zheng Jiao, Hai-Feng Song, Shuai Xu, Chen-Cheng Pan, Jia-Yi Feng, An-Jie Xie
+
+- 🔎 **[Text-Centric Post-Training for Omni-Modal Reasoning](https://arxiv.org/abs/2610.02819)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reasoning`  
+  Authors: Zi-Yang Cheng, Yu-Hao Wang, Hong-Cheng Liu, Qi-Min Wu, Jing-Ru Fan, Cheng-Xuan Qian, Yan-Feng Wang, Yu Wang
+
+- 🔎 **[Toward SLM-based agentic task-tool intent matching](https://arxiv.org/abs/2610.03213)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `Agent`  
+  Authors: C. Troiani, Arash Salarian, Majed El Helou, Benjamin Ryder, Jean Diaconu, H. Muyal, M. Yannuzzi
 
 <a id="2026-09"></a>
 
@@ -324,7 +392,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[MoE Router-Guided Clustering for Heterogeneous Federated Instruction Tuning](https://arxiv.org/abs/2608.15311)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-15 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT`  
-  Authors: Ankita Sharma, Bahar Farahani, Sanaz Rahimi Moosavi, Amir Rrahmani, Farshad Firouzi, Krishnendu Chakrabarty
+  Authors: Ankita Sharma, Bahar Farahani, Sanaz Rahimi Moosavi, Amir Rrahmani, Farshad Firouzi, Krishnendu Chakrabarty  
+  Venue: Coins
 
 - 🔎 **[MetaReason: Precise Interleaved Multimodal Reasoning via Editing Meta Information for Solving Geometry Problems](https://arxiv.org/abs/2608.15006)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-15 · `academic-query-vote` · `arxiv-backfill`  
@@ -351,7 +420,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://arxiv.org/abs/2608.14132)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-14 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Multimodal`  
-  Authors: Xiaokai Yan, Jingtao Ding, Yong Li, Zhiwen Yu
+  Authors: Xiaokai Yan, Jingtao Ding, Yong Li, Zhiwen Yu  
+  Venue: [Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut)
 
 - 🔎 **[AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution](https://arxiv.org/abs/2608.13833)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `academic-query-vote` · `arxiv-backfill`  

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**829 papers**: 2 curated and 827 academic discovery candidates.
+**841 papers**: 2 curated and 839 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐11 · [Sep](#2026-09) ✓11 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓36 · [Oct](#2025-10) ✓43 · [Sep](#2025-09) ✓37 · [Aug](#2025-08) ✓26 · [Jul](#2025-07) ✓26 · [Jun](#2025-06) ✓34 · [May](#2025-05) ✓35 · [Apr](#2025-04) ✓12 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓7
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
@@ -21,11 +21,80 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Vision-Aided Proactive Spectrum Management using Transformer-based Deep Reinforcement Learning](https://doi.org/10.2139/ssrn.7589323)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-09 · `query-hint` · `crossref`  
+  Labels: `Multimodal`  
+  Authors: Aditya Joshi, Navrati Saxena, Abhishek Roy, Sai  Sashank Peddibhotla
+
+- 🔎 **[Towards Robust Deep Reinforcement Learning against Environmental State Perturbation](https://doi.org/10.26599/air.2026.9150014)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-09 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Chenxu Wang, Bang You, Huaping Liu  
+  Venue: CAAI Artificial Intelligence Research
+
+- 🔎 **[EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams](https://arxiv.org/abs/2610.12248)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Multimodal`  
+  Authors: Heeseung Kim
+
+- 🔎 **[CriticGPT: A Multimodal Large Language Model as a Critic for Robot Manipulation](https://doi.org/10.3390/electronics15194567)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `crossref`  
+  Labels: `Distillation` · `Reward Model` · `Multimodal` · `Robotics`  
+  Authors: Yifu Yuan, Jinyi Liu, Jianye Hao, Fei Ni, Lingzhi Fu, Yibin Chen, Yan Zheng  
+  Venue: Electronics
+
+- 🔎 **[Mid-Training Language Models on Raw Video](https://arxiv.org/abs/2610.11019)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal`  
+  Authors: Jaedong Hwang, Xiaoqian Shen, Er-Nie Chang, Changsheng Zhao, Chong Zhou, Saksham Suri, Qi Qian, Ze-Chun Liu, et al.
+
+- 🔎 **[Beyond Report Imitation: Clinically Aware Multi-Image Ultrasound Report Generation from Visible Evidence](https://arxiv.org/abs/2610.11610)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT`  
+  Authors: Yu-Chen Yang, Xin Wang, Lu-Fan Wang, Ying-Hong Pan, Yu-Juan Feng, Yu-Qing Yang
+
+- 🔎 **[MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `query-hint` · `semantic-scholar`  
+  Labels: `Multimodal` · `VLM`  
+  Authors: Haozhen Zhang, Hao-Dong Yue, Quan-Yu Long, Jian-Zhu Bao, Qing-Yu Liu, Tao Feng, Bo-Han Liu, Wei-Da Liang, et al.
+
+- 🔎 **[AgroGround: Multi-Granularity Grounded Recognition in Agriculture](https://arxiv.org/abs/2610.04425)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-03 · `query-hint` · `semantic-scholar`  
+  Labels: `VLM`  
+  Authors: Abdulla Alshehhi, Zong-Yan Han, R. Anwer
+
+- 🔎 **[Hallucination Reduction for LLM-Based Audio Understanding via Multimodal Direct Preference Optimization](https://arxiv.org/abs/2610.04004)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-02 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Multimodal` · `Reasoning` · `Hallucination`  
+  Authors: Bebe Cosgrove, A. Grace, Wei-Ran Wang
+
+- 🔎 **[RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning](https://doi.org/10.1109/TAI.2026.3688221)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Preference Optimization` · `Multimodal` · `Reasoning`  
+  Authors: Chiang-Hsuan Hsu, Jun-En Ding, Hsin-Ling Hsu, Chih-Ho Hsu, Shi-Hao Yang, Li-Hung Yao, Chun-Chieh Liao, Feng Liu, et al.  
+  Venue: IEEE Transactions on Artificial Intelligence
+
+- 🔎 **[THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS](https://arxiv.org/abs/2610.02378)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `query-hint` · `semantic-scholar`  
+  Labels: `Counterfactual` · `DPO` · `Preference Optimization` · `Multimodal` · `Reasoning`  
+  Authors: Meng-Di Liang, Guan-Bo Feng, Hao-Zhuang Chi, Shi-Long Zhao, Zhi-Xin Xiong, Yu-Hang He, Wen-Feng Han, Tian-Hao Zhao, et al.
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 13 academic records · 5 eligible · checked 2026-09-02T04:49:35.361284+00:00.
+
+- 🔎 **[From Image Interpretation to Clinical Reasoning: Upstream Physician-Context-Aware Multimodal Learning with Causal Reinforcement Learning](https://arxiv.org/abs/2609.38924)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `semantic-scholar`  
+  Labels: `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Jia-Lu Pi, Ya-Nan Ma, Wei-Jie Chen, O. Crystal, S. Trivedi, Stephen Z. Xie, A. Silverman, M. Stib, et al.
 
 - 🔎 **[Review of: "Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning"](https://doi.org/10.32388/k1w9s4)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-15 · `query-hint` · `crossref`  
