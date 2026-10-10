@@ -6,11 +6,12 @@ from the repository data; a zero is not considered audited unless the matching
 cell in `data/monthly_audit.yaml` is complete.
 
 <!-- COVERAGE:START -->
-Coverage window: **2024-01 through 2026-09**.
+Coverage window: **2024-01 through 2026-10**.
 
 | Month | supervised adaptation | preference alignment | reward verifiers | reinforcement learning | distillation | reasoning self improvement | agentic | multimodal | generative media | embodied vla | Total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 2026-09 | 12 | 20 | 44 | 13 | 14 | 11 | 25 | 10 | 4 | 20 | **173** |
+| 2026-10 | 12 | 6 | 21 | 14 | 30 | 16 | 35 | 11 | 12 | 10 | **167** |
+| 2026-09 | 12 | 22 | 44 | 13 | 14 | 11 | 29 | 11 | 8 | 22 | **186** |
 | 2026-08 | 119 | 59 | 228 | 59 | 85 | 50 | 57 | 68 | 34 | 22 | **781** |
 | 2026-07 | 135 | 71 | 229 | 35 | 50 | 35 | 38 | 34 | 9 | 35 | **671** |
 | 2026-06 | 196 | 101 | 322 | 45 | 39 | 45 | 30 | 46 | 13 | 23 | **860** |
