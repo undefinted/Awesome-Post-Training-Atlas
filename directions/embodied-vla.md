@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**374 papers**: 1 curated and 373 academic discovery candidates.
+**392 papers**: 1 curated and 391 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
+- [2026](#2026) — [Oct](#2026-10) ◐17 · [Sep](#2026-09) ✓21 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -21,11 +21,110 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation](https://arxiv.org/abs/2610.20504)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reward Model` · `Long-horizon` · `VLA` · `Robotics`  
+  Authors: Xiao-Man Li, Zhi-Qiang Yang, Jia-Yu Hu, Ji-Peng Kong, Yang Zhang, Jing-Wei Zhang, Fang-Zheng Yan, Chun-Hua Shen, et al.
+
+- 🔎 **[Paraphrase Consensus Is Not Self-Consistency: Instruction Reliance and Robustness in VLA Policies](https://arxiv.org/abs/2610.19438)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA`  
+  Authors: Han-Long Li, Si-Han Tan, Takeshi Ashizawa, Benjamin Yen, Kazuhiro Nakadai
+
+- 🔎 **[Human Demonstrations as Post-Training Data for Any Robot Body: Retargeting the Object, Not the Hand](https://arxiv.org/abs/2610.20351)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA`  
+  Authors: Nagasrikanth Kallakuri
+
+- 🔎 **[VLRLA: Deployment-Time Adaptation of Vision-Language-Action Models through In-Context Reinforcement Learning](https://arxiv.org/abs/2610.19517)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA`  
+  Authors: Di-Yuan Shi, Yiqi Tang, Hong-Yin Zhang, You Wu, Dong-Lin Wang
+
+- 🔎 **[DriveWLA: Unifying Future Dynamics and Scene Semantics through World-Language-Action Modeling for Autonomous Driving](https://arxiv.org/abs/2610.17903)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `VLM` · `Autonomous Driving`  
+  Authors: Shu-Zheng Wang, Hao-Xuan Li, Sheng-Zhen Li, Chen-Xi Wu, Ya-Jing Sun, Lu Hou, Wen-Yu Liu, Xing-Gang Wang
+
+- 🔎 **[ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models](https://arxiv.org/abs/2610.18596)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `On-policy` · `Off-policy` · `VLA`  
+  Authors: Changyeon Kim, Kimin Lee, Yashraj Narang, Yi-Jie Guo
+
+- 🔎 **[Interaction Latents as Actions for Contact-Rich Manipulation](https://arxiv.org/abs/2610.18855)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA` · `Robotics`  
+  Authors: Yu-Hang Zheng, Yujie Zang, Yu-Chen Liu, Yu-Peng Zheng, Zhen-Nan Jiang, Ze-Bin Xing, Shuai Tian, Song-En Gu, et al.
+
+- 🔎 **[Post-Training, Finetuning, and Steering:A Field Guide for Curating Training Data](https://arxiv.org/abs/2610.19143)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `semantic-scholar`  
+  Labels: `Off-policy` · `VLA`  
+  Authors: Maria Attarian, Yi-Fan Ruan, Claas A Voelcker, Chenyang Cao, Amy Zhang, Peter Stone, Nicholas Rhinehart, Igor Gilitschenski
+
+- 🔎 **[DriveVLA-RL: Lightweight Closed-Loop Reinforcement Learning for Vision-Language-Action Autonomous Driving](https://doi.org/10.1109/tvt.2026.3742364)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `crossref`  
+  Labels: `VLA` · `Autonomous Driving`  
+  Authors: Yuqing Liu, Jian Wang, Shuyi Jiang, Chunhui Fan  
+  Venue: IEEE Transactions on Vehicular Technology
+
+- 🔎 **[D-World: An Explicit World-Language-Action Model with Recursive Self-Improvement under Dual Control](https://arxiv.org/abs/2610.17114)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Robotics`  
+  Authors: Wen-Kai Xuan, Bai-Chao Wang
+
+- 🔎 **[Trust-Calibrated VLA Policy Post-Training with Evolving Imagination](https://arxiv.org/abs/2610.16517)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA`  
+  Authors: Wen-Zhan Li, Yi-Ran Qin, Heng Zhou, Hui-Rui Wang, Yu-Lan Guo, Rui-Mao Zhang
+
+- 🔎 **[Exploring the Limits of Combinatorial Generalization in Embodied Manipulation](https://arxiv.org/abs/2610.15425)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-11 · `query-hint` · `semantic-scholar`  
+  Labels: `Long-horizon` · `VLA`  
+  Authors: Xu-Peng Zhang, Yan-Tai Yang, Chang Guo, Zhao-Kai Yin, Zhi-Peng Zhang
+
+- 🔎 **[DEFT-VLA: Stage-Localized Force Specialization for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2610.14854)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-10 · `query-hint` · `semantic-scholar`  
+  Labels: `Curriculum` · `VLA` · `Robotics`  
+  Authors: Zan Huang, Yi-Bo Qiu, Kang-Li Ding, Xuan-Ping Zhang, Ao Tian, Ronald X. Xu, Ming-Zhai Sun
+
+- 🔎 **[OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models](https://arxiv.org/abs/2610.12914)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-09 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `VLA` · `Robotics`  
+  Authors: Xu-Le Gao, Xi Wang, Ze-Hua Zang, Rui Wang, Chang-Wen Zheng, Chu-Xiong Sun
+
+- 🔎 **[AI-Driven Digital Twin Architectures with Multimodal Foundation Models and Reinforcement Learning for Adaptive Cancer Therapy Optimization](https://doi.org/10.1109/assic70037.2026.11717066)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-09 · `query-hint` · `crossref`  
+  Labels: `Multimodal`  
+  Authors: Latha Kiran Krishna Rajendran, Rajatha Maradi Hemanth Kumar  
+  Venue: 2026 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)
+
+- 🔎 **[PathTime-VLA: Path-Time Decoupling for Factorized Post-Training of Vision-Language-Action Policies](https://arxiv.org/abs/2610.11771)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `semantic-scholar`  
+  Labels: `VLA`  
+  Authors: Qing Huang, Yi-Fei Yang, Zi-Qing Zou, An-Jen Chen, Zhen-Jie Zhu, Yu-Fei Wei, Rong Xiong, Yue Wang
+
+- 🔎 **[YUBI-STAG: Contact and Semantic-Rich Alignment for VLAs via Automated Video-Language Grounding](https://arxiv.org/abs/2610.09718)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `VLM` · `VLA`  
+  Authors: Masatoshi Tateno, Takehiko Ohkawa, Yueh-Hua Wu, Hang Li, T. Matsushima, Yoichi Sato, Keita Ota
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 2 academic records · 2 eligible · checked 2026-09-02T04:49:38.494374+00:00.
+
+- 🔎 **[Fine-Tuning Large Language Models for Financial Applications Using Direct Preference Optimization](https://doi.org/10.47839/ijc.25.3.4844)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-30 · `query-hint` · `crossref`  
+  Labels: `DPO` · `Preference Optimization` · `Verifier`  
+  Authors: Bohdan Pavlyshenko, Ivan Bulka  
+  Venue: International Journal of Computing
 
 - 🔎 **[Towards High-DoF Dexterous Manipulation through VLA Post-Training](https://arxiv.org/abs/2609.19666)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  

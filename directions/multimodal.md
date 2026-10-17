@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**829 papers**: 2 curated and 827 academic discovery candidates.
+**842 papers**: 2 curated and 840 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐13 · [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓36 · [Oct](#2025-10) ✓43 · [Sep](#2025-09) ✓37 · [Aug](#2025-08) ✓26 · [Jul](#2025-07) ✓26 · [Jun](#2025-06) ✓34 · [May](#2025-05) ✓35 · [Apr](#2025-04) ✓12 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓7
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
@@ -20,6 +20,79 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Retrofitting Recurrent Vision-Language Models from Pretrained Backbones](https://arxiv.org/abs/2610.22075)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `VLM` · `Reasoning`  
+  Authors: Madhav Iyengar, Andreas Geiger, Hilde Kühne
+
+- 🔎 **[CART: Compatible Routing for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2610.22137)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal`  
+  Authors: Ling Zhang, Tao Hu, Da-Wei Zhou
+
+- 🔎 **[Player-1: Learning to Play from Synthetic Experience](https://arxiv.org/abs/2610.20584)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `PPO` · `Reasoning`  
+  Authors: Ming-Yu Ouyang, Yi-Ran Wang, Si-Yuan Hu, Xingyilang Yin, Hui Sun, Guang-Zhi Wang, Junfu Pu, Cheng Cheng, et al.
+
+- 🔎 **[DPOison-VL: Clean Preference Poisoning in Vision-Language Direct Preference Optimization](https://arxiv.org/abs/2610.18609)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Multimodal` · `VLM`  
+  Authors: Cheng-Tao Jian, Kai Yang
+
+- 🔎 **[Learning Subject Tags from Incomplete Labels: A Recall-Oriented VLM Pipeline for Historical Photographs](https://doi.org/10.1145/3805696.3846050)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `VLM`  
+  Authors: Lin-Han Wang, Mei-Zi Song, Shengkun Wang, Chang-Tien Lu, Yin-Lin Chen  
+  Venue: Proceedings of the 26th ACM/IEEE Joint Conference on Digital Libraries
+
+- 🔎 **[XRL: An Intrinsically Explainable Reinforcement Learning Framework for Cloud Load Balancing](https://doi.org/10.2139/ssrn.7602702)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `crossref`  
+  Labels: `Distillation`  
+  Authors: Maanit Shah, Divyesh Patel, Jitendra Bhatia, Harshal Trivedi, Yash Shah
+
+- 🔎 **[EviStress: Evidence Stress Learning for Generalizable Face Forgery Detection with Textual Explanations](https://arxiv.org/abs/2610.16879)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal`  
+  Authors: Jiu-Yao Jing, Xuanyu Yi, Yu Zheng, Chun-Lei Peng
+
+- 🔎 **[EviScene: Beyond"Is It AI?"for Agentic Image Factuality Assessment](https://arxiv.org/abs/2610.14609)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-10 · `query-hint` · `semantic-scholar`  
+  Labels: `OPSD` · `Distillation` · `SFT` · `On-policy` · `Self-training` · `Agent` · `Multimodal` · `Hallucination`  
+  Authors: Zian Wang, Rui-Qi Liu, Zheng-Bo Zhang, Yi Han, Jia-Liang Shen, Ruo-Xin Chen, Man-Ni Cui, Xi-Mo Zhu, et al.
+
+- 🔎 **[Vision-Aided Proactive Spectrum Management using Transformer-based Deep Reinforcement Learning](https://doi.org/10.2139/ssrn.7589323)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-09 · `query-hint` · `crossref`  
+  Labels: `Multimodal`  
+  Authors: Aditya Joshi, Navrati Saxena, Abhishek Roy, Sai  Sashank Peddibhotla
+
+- 🔎 **[EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams](https://arxiv.org/abs/2610.12248)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Multimodal`  
+  Authors: Heeseung Kim
+
+- 🔎 **[CriticGPT: A Multimodal Large Language Model as a Critic for Robot Manipulation](https://doi.org/10.3390/electronics15194567)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `Distillation` · `Reward Model` · `Multimodal` · `Robotics`  
+  Authors: Yi-Fu Yuan, Jin-Yi Liu, Jian-Ye Hao, Fei Ni, Ling-Zhi Fu, Yi-Bin Chen, Yan Zheng  
+  Venue: Electronics
+
+- 🔎 **[Mid-Training Language Models on Raw Video](https://arxiv.org/abs/2610.11019)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal`  
+  Authors: Jaedong Hwang, Xiaoqian Shen, Er-Nie Chang, Changsheng Zhao, Chong Zhou, Saksham Suri, Qi Qian, Ze-Chun Liu, et al.
+
+- 🔎 **[Beyond Report Imitation: Clinically Aware Multi-Image Ultrasound Report Generation from Visible Evidence](https://arxiv.org/abs/2610.11610)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-08 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT`  
+  Authors: Yu-Chen Yang, Xin Wang, Lu-Fan Wang, Ying-Hong Pan, Yu-Juan Feng, Yu-Qing Yang
 
 <a id="2026-09"></a>
 
