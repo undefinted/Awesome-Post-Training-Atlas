@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3036 papers**: 1 curated and 3035 academic discovery candidates.
+**3060 papers**: 1 curated and 3059 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓44 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐24 · [Sep](#2026-09) ✓44 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓92 · [Nov](#2025-11) ✓104 · [Oct](#2025-10) ✓178 · [Sep](#2025-09) ✓132 · [Aug](#2025-08) ✓83 · [Jul](#2025-07) ✓60 · [Jun](#2025-06) ✓102 · [May](#2025-05) ✓119 · [Apr](#2025-04) ✓41 · [Mar](#2025-03) ✓69 · [Feb](#2025-02) ✓70 · [Jan](#2025-01) ✓23
 - [2024](#2024) — [Dec](#2024-12) ✓48 · [Nov](#2024-11) ✓26 · [Oct](#2024-10) ✓64 · [Sep](#2024-09) ✓20 · [Aug](#2024-08) ✓13 · [Jul](#2024-07) ✓18 · [Jun](#2024-06) ✓30 · [May](#2024-05) ✓27 · [Apr](#2024-04) ✓17 · [Mar](#2024-03) ✓17 · [Feb](#2024-02) ✓22 · [Jan](#2024-01) ✓14
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -20,6 +20,133 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Not X, but When: Diagnosing a Mandarin LLM Writing Tic through Contextual Appropriateness](https://arxiv.org/abs/2610.22249)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Preference Optimization` · `Reward Model` · `Verifier`  
+  Authors: Yi-Hang Peng, Yi Jing, De-Wen Liu, Wei-Hang Meng, Ying Liu
+
+- 🔎 **[Reinforcement Learning-driven Diffusion Models: Language, Vision, and Beyond](https://arxiv.org/abs/2610.21539)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `RLHF` · `Multimodal` · `Diffusion` · `Robotics` · `Reasoning`  
+  Authors: Zhi-Yuan Ma, Jia-Bao Wei, Tian-Yu Wang, Han-Qing Wang, Jia-Dong Pan, Hao-Wen Xu, Liang-Liang Zhao, Rui-Xun Liu, et al.
+
+- 🔎 **[Progress Reward Model for Reinforcement Learning via Large Language Models](https://arxiv.org/abs/2610.22056)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `PRM` · `Robotics`  
+  Authors: Xiu-Hui Zhang, Ninghang Gao, Xing-Yu Jiang, Yi-Hui Chen, Yuheng Pan, Mo-Han Zhang, Yue Deng  
+  Venue: Neural Information Processing Systems
+
+- 🔎 **[Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL](https://arxiv.org/abs/2610.21439)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Verifier` · `Tool Use`  
+  Authors: Skylar Zhai, Hao-Nan Wang, Zhingging Liu, Linxin Song, Xu-Wei Ding, Jing Liang, Jian Kang
+
+- 🔎 **[The Self-Improvement Problem](https://arxiv.org/abs/2610.21646)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Self-improvement` · `Agent`  
+  Authors: Brian B. Moser, Stanislav Frolov, T. Nauen, Federico Raue, Andreas Dengel
+
+- 🔎 **[Baselines and Score Centering in Policy Gradient Estimation](https://arxiv.org/abs/2610.22263)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Off-policy`  
+  Authors: Shuo Han, Zi-Qing Hu
+
+- 🔎 **[Rubric Judgments Lack Uncertainty: Conformal Weighting for LLM Evaluation](https://arxiv.org/abs/2610.21214)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier`  
+  Authors: Li-Cheng Pan, Hao Yang, Hao-Xuan Li, Yu-Zhou Chen, Yi-Chen Sun, Yuan Lu, Xiao-Xi Li, Hao Wang, et al.
+
+- 🔎 **[TextVerifier: Seeing Beyond Recognition to Verify Chinese Text Rendering](https://arxiv.org/abs/2610.19551)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Verifier` · `VLM` · `Image Generation`  
+  Authors: Yi-Yang Chen, G. Wang, Yao-Li Liu, Qing-Guo Chen, Zhao Xu, Wei-Hua Luo, Xiu-Jun Ma
+
+- 🔎 **[BioPRM: Step-Level Consistency Verification of Biological Protocols](https://arxiv.org/abs/2610.19657)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `PRM`  
+  Authors: Bo-Wen Shao, Zi-Yang Ling, Ronald X. Xu, Ming-Zhai Sun
+
+- 🔎 **[Training Language Models to Fail Gracefully](https://arxiv.org/abs/2610.20401)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier`  
+  Authors: Daman Arora, Xue-Chen Liu, H. Singh, Fahim Tajwar, Abitha Thankaraj, Ruslan Salakhutdinov, Hai-Wen Feng, Yu-Da Song, et al.
+
+- 🔎 **[How to Train Your Little Dragon: Teaching a Small Language Model to Construct and Refine GPU Optimization Scripts](https://arxiv.org/abs/2610.20980)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Annabelle Sujun Tang, Wei Tang, Song-Yao Jiang, Tian-Hui Li, Sheng-Zhe Xu, Jiin Woo, Kaan Ozkara, Youngsuk Park, et al.
+
+- 🔎 **[Manac\'a-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge](https://arxiv.org/abs/2610.20570)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Verifier` · `Safety`  
+  Authors: Bruno Leonardo Santos Menezes, Carlos Cardoso, Fábio Porto
+
+- 🔎 **[AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety](https://arxiv.org/abs/2610.19422)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Tool Use` · `Multi-turn`  
+  Authors: Chen-Xu Wang, Xiaoyu Wen, Han Qi, Zi-Yuan Zhou, Cheng-Bao Jin, Chao-Chao Lu, Qiao-Sheng Zhang
+
+- 🔎 **[Tail Competition Explains Scaling in Best-of-N Sampling for Verifiable Problems](https://arxiv.org/abs/2610.19362)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Synthetic Data` · `Safety`  
+  Authors: Taro Yano, Yoichi Ishibashi, Masafumi Oyamada
+
+- 🔎 **[C3: Rethinking Process Supervision via Confidence-Guided Credit Correction in Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2610.19695)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `PRM` · `Multi-turn`  
+  Authors: Ai Jian, Hao-Ran Pan, Er-Yu Guo, Hao-Jin Yang, Jing-Han He, Xiao-Yun Zhang, Jiangbo Pei, Pei-Yu Liu
+
+- 🔎 **[Do Factuality Methods Make LLMs More Factual? Reproducibility and Fair Comparison](https://arxiv.org/abs/2610.18415)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `RLHF` · `GRPO` · `PPO` · `On-policy` · `Hallucination`  
+  Authors: Pratuat Amatya, Vinay Setty, V. Venktesh, Avishek Anand
+
+- 🔎 **[Unlocking Token Rewards via Training-Free Reward Attribution](https://arxiv.org/abs/2610.18704)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `PRM` · `Reasoning`  
+  Authors: Si-Tong Wu, Hao-Ru Tan, Bin Xia, Xi-Chen Zhang, Jing-Yao Li, Shao-Feng Zhang, Xiao-Juan Qi, Bei Yu, et al.
+
+- 🔎 **[StageBreaker: Shifting Video RL Post-Training Scheduling from Stages down to Data Dependencies](https://arxiv.org/abs/2610.16691)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Reasoning`  
+  Authors: Li-Hui Peng, Cheng-Hua Huang, Zi-Yang Ma, Jing Lyu, Xiang Chen, Jie Zhang
+
+- 🔎 **[Efficient Resource-Shiftable RL Post-training with Generative Rewards](https://arxiv.org/abs/2610.16866)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model`  
+  Authors: Yan-Feng Zhao, Hao-Yang Li, Sheng Lin, Yu-Ming Zhou, Jia-Wei Jiang, Bin Cui, Fang-Cheng Fu
+
+- 🔎 **[WeFair: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search](https://arxiv.org/abs/2610.16927)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `GRPO` · `On-policy` · `Curriculum` · `Reasoning`  
+  Authors: Ying-Tao Ren, Ao-Lin Li, Chen Cheng, Hui-Yun Hu, Hua-Sheng Liang, Bao-Xing Xie, Jun-Bin Yuan, Hai Wu, et al.
+
+- 🔎 **[RL Post-Training Diffusion Language Models Along Their Own Generation Paths](https://arxiv.org/abs/2610.17266)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `semantic-scholar`  
+  Labels: `Diffusion`  
+  Authors: Vaibhav Singh, Eugene Belilovsky
+
+- 🔎 **[What Matters in Preference Post-Training of Continuous Autoregressive Speech Language Models](https://arxiv.org/abs/2610.16276)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `query-hint` · `semantic-scholar`  
+  Labels: pending  
+  Authors: Ying Shen, Yao Qian, De-Kun Chen, Yu-Fei Liu, Ju-Nan Zhang, Chong Jing, Han Wang, Yu-Xiang Wang, et al.
+
+- 🔎 **[ADAPT: Audio-Depth Action Planning with Transition-Aware Rewards for Lights-Out Industrial Navigation](https://arxiv.org/abs/2610.15956)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-11 · `query-hint` · `semantic-scholar`  
+  Labels: `Multimodal` · `VLA`  
+  Authors: Wen-Jun Huang, Sheng-Hao Fu, Yi-Ming Jin, Yang Ni, Yi-Fan Li, Li-Chi Li, Xingjian Diao, Peng-Fei Zhang, et al.
+
+- 🔎 **[Lingdan-V2: Large language models for clinically grounded reasoning in traditional Chinese medicine](https://arxiv.org/abs/2610.14705)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-10 · `query-hint` · `semantic-scholar`  
+  Labels: `Reasoning`  
+  Authors: Rui Hua, Yu Wei, Zi-Cai Jin, Zhuo Sun, Kai Chang, Jia-Nan Xia, Zi-Xin Shu, Xiao-Dong Li, et al.
 
 <a id="2026-09"></a>
 
@@ -262,7 +389,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[HSRM: Hidden-State Reward Models for Test-Time Verification](https://arxiv.org/abs/2608.30841)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Reward Model` · `PRM` · `Verifier` · `Reasoning` · `Math`  
-  Authors: Xianzhi Li, Xiaodan Zhu
+  Authors: Xianzhi Li, Xiaodan Zhu  
+  Institutions*: Queen's University
 
 - 🔎 **[VIBE: Video Instruction-aligned Background music gEneration](https://arxiv.org/abs/2608.30125)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -338,7 +466,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-29 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Distillation` · `Verifier` · `Self-training`  
   Authors: Yepeng Liu, Tianyi Chen, Xuandong Zhao, Dawn Song, Yuheng Bu  
-  Institutions*: University of California, Santa Barbara
+  Institutions*: UC Berkeley; University of California, Santa Barbara
 
 - 🔎 **[Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation](https://arxiv.org/abs/2608.28886)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
@@ -358,7 +486,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents](https://arxiv.org/abs/2608.28458)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT`  
-  Authors: Nan Li
+  Authors: Nan Li  
+  Institutions*: Utrecht University
 
 - 🔎 **[Strategic Verification for Long-Running LLM Agents](https://doi.org/10.20944/preprints202608.2057.v1)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `query-hint` · `crossref`  

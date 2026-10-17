@@ -46,20 +46,20 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-09-21T11:04:13+08:00** (China Standard Time). `Latest` below is the paper's first-publication date, not the scan date.
+Radar last scanned academic sources: **2026-10-17T10:47:18+08:00** (China Standard Time). `Latest` below is the paper's first-publication date, not the scan date.
 
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
-| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3337 | **3339** | 2026-09-16 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2743 | **2748** | 2026-09-16 |
-| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3035 | **3036** | 2026-09-17 |
-| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 743 | **746** | 2026-09-17 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 348 | **371** | 2026-09-17 |
-| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 725 | **728** | 2026-09-17 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 537 | **539** | 2026-09-17 |
-| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 827 | **829** | 2026-09-15 |
-| [Generative Media Post-Training](directions/generative-media.md) | 2 | 399 | **401** | 2026-09-15 |
-| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 373 | **374** | 2026-09-17 |
+| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3348 | **3350** | 2026-10-15 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2748 | **2753** | 2026-10-14 |
+| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3059 | **3060** | 2026-10-15 |
+| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 758 | **761** | 2026-10-14 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 378 | **401** | 2026-10-15 |
+| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 736 | **739** | 2026-10-15 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 580 | **582** | 2026-10-16 |
+| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 840 | **842** | 2026-10-15 |
+| [Generative Media Post-Training](directions/generative-media.md) | 2 | 409 | **411** | 2026-10-15 |
+| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 391 | **392** | 2026-10-14 |
 <!-- PAPERS:END -->
 
 ## Paper Radar
