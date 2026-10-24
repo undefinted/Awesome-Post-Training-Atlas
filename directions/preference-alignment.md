@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2748 papers**: 5 curated and 2743 academic discovery candidates.
+**2755 papers**: 5 curated and 2750 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Oct](#2026-10) ◐7 · [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓95 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -21,6 +21,48 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Within-person reciprocal processes between AI feedback literacy and agentic engagement: a three-wave random-intercept cross-lagged panel study](https://doi.org/10.3389/fpsyg.2026.1893874)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `query-hint` · `crossref`  
+  Labels: `RLAIF` · `Agent`  
+  Authors: Shuai Xu  
+  Venue: Frontiers in Psychology
+
+- 🔎 **[Robotic Photography System based on Vision-Language-Action Model](https://arxiv.org/abs/2610.26287)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `VLA` · `Robotics` · `Reasoning`  
+  Authors: Song-Li Wu, Chu-Bin Zhang, Wen-Bo Ding, Yan-Song Tang
+
+- 🔎 **[Auditing Safety Preference Supervision with Recorded Derivations](https://arxiv.org/abs/2610.27266)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Safety`  
+  Authors: Chenhan Lyu, Amir M. Rahmani
+
+- 🔎 **[When Empathy Misses the Goal: A Benchmark for Goal Displacement in LLM Advice](https://arxiv.org/abs/2610.25522)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-18 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization`  
+  Authors: D. Ariel, Guy Laban
+
+- 🔎 **[Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI](https://arxiv.org/abs/2610.25298)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-18 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization`  
+  Authors: Silvia Fernández-Sabido, J. Reyes-Magaña, Jesús Adrián Chay Tun, Jean Carlos Buenfil, Victor González Nahuat, Francisco Morales
+
+- 🔎 **[Long Listening Thoughts: Eliciting Open Auditory Reasoning with Deliberative Perception and Cognitive Refinement](https://arxiv.org/abs/2610.24409)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-17 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `Reasoning`  
+  Authors: Jaeyeon Kim, Chao-Han Huck Yang, Luo-Yi Zhang, Chan-Jan Hsu, Fernando Ruiloba Portilla, Jin-Chuan Tian, Shinji Watanabe, Carlos Busso
+
+- 🔎 **[DeLoop: Repeated Actions as Self-Supervision for Long-Horizon Agents](https://arxiv.org/abs/2610.19376)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Long-horizon`  
+  Authors: Tian-Le Chen, Pushkar Singh, K. Todi, Biswajit Paria, Qi-Jia He, Wen-Qi Wang, Yu-Jie Tan, Ji-Ke Zhong, et al.
 
 <a id="2026-09"></a>
 
@@ -161,7 +203,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation](https://arxiv.org/abs/2608.30397)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `DPO` · `GRPO` · `Verifier`  
-  Authors: Jinyoung Kim, Muhammad Khalifa, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang
+  Authors: Jinyoung Kim, Muhammad Khalifa, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
+  Institutions*: University of Michigan
 
 - 🔎 **[PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback](https://arxiv.org/abs/2608.30241)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -354,7 +397,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Rules or Character? Scaling Laws for AI Safety Design](https://arxiv.org/abs/2608.13345)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `RLHF` · `Safety`  
-  Authors: Satoshi Takahashi, Nobuji Kouno, Masaaki Komatsu, Ryuji Hamamoto
+  Authors: Satoshi Takahashi, Nobuji Kouno, Masaaki Komatsu, Ryuji Hamamoto  
+  Venue: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
 
 - 🔎 **[Behavioral Reprogramming of Open-Weights Models: Cognitive Plasticity and Alignment Bounds](https://arxiv.org/abs/2608.13069)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**371 papers**: 23 curated and 348 academic discovery candidates.
+**402 papers**: 23 curated and 379 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,13 +12,174 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
+- [2026](#2026) — [Oct](#2026-10) ◐31 · [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
 - [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · [Jan](#2025-01) ✓0
 - [2024](#2024) — [Dec](#2024-12) ✓3 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓3 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓1 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓0 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓3 · [Feb](#2024-02) ✓1 · [Jan](#2024-01) ✓1
 
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Spark-Audio 1.0 Technical Report](https://arxiv.org/abs/2610.31292)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Reasoning`  
+  Authors: Chen-Yue Zhang, Cong Liu, Ding-Shu Tian, Dong-Ze Sun, Gen-Shun Wan, Guan-Ming Meng, Guo-Long Zhong, Hang Chen, et al.
+
+- 🔎 **[Tracing Subliminal Learning Through Pretraining](https://arxiv.org/abs/2610.30884)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy`  
+  Authors: Angela Tang, V. Anand, Gonçalo Paulo
+
+- 🔎 **[DIAL: Steerable Language Models with Distilled Instruction-Adherence Levels](https://arxiv.org/abs/2610.31438)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy`  
+  Authors: Thanh Q. Tran, John Russell Himawan, A. Verma, Kiwan Wong, Wei Xiao, Daniela Rus, B. Low
+
+- 🔎 **[Reverse-KL Policy Distillation: Statistical Guarantees and Limits](https://arxiv.org/abs/2610.30844)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation`  
+  Authors: Haolin Liu, Chen-Yu Wei, Julian Zimmert
+
+- 🔎 **[Edit, Don't Imitate: Minimal-Edit On-Policy Distillation for Multimodal Reasoning](https://arxiv.org/abs/2610.30231)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Multimodal` · `VLM` · `Reasoning` · `Math`  
+  Authors: Wen Ye, Ai-Lin Deng, Zi-Rui Wang, Shi-Xing Yu, Han Zhang, Tian Yun, Nikhil Mehta, Tarun Kalluri, et al.
+
+- 🔎 **[TeachBack: Learning to Teach via Bidirectional Preference Optimization for On-Policy Self-Distillation](https://arxiv.org/abs/2610.29167)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `OPSD` · `Distillation` · `Preference Optimization` · `On-policy` · `Self-training` · `Reasoning`  
+  Authors: Lin-Fei Ji, Jia-Yu Li, Hao-Zhao Wang, Si-Yu Jiang, Ze-Hao Wang, Long-Tao Xiao, Yu-Jie Yuan, Ruixuan Li Huazhong University of Science, et al.
+
+- 🔎 **[Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories](https://arxiv.org/abs/2610.29378)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Long-horizon` · `Reasoning`  
+  Authors: Bo-Yuan Zheng, Jing Xiong, Chen-Wei Wu, Hui Shen, Ze-Sen Zhao, Hei-Ting Chan, Xue-Shen Liu, Zhen Zhang, et al.
+
+- 🔎 **[Enhancing Bug-Exposing Test Generation via Step-Level Credit Assignment and Self-Distillation from Valuable Failures](https://arxiv.org/abs/2610.27694)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `OPSD` · `Distillation` · `On-policy` · `Self-training` · `Reasoning` · `Code`  
+  Authors: Wen-Jie Gan, Zhao-Xi Zhang, Jia-Hui Liang, Wei-Kang Li, Wan-Yuan Wang, Li Zhang, Jian Dong
+
+- 🔎 **[Building Telecom Language Models with RSOD: Domain Data, Specialist Post-Training, Memory-Conscious Distillation, and Networking Evaluation](https://arxiv.org/abs/2610.27993)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Synthetic Data`  
+  Authors: Anil Srirangapatna Nagesh, Nitin Gupta, Anuj Taneja, V. Singh, Shane Eleniak, Theo Zhao, N. Moulidharan, Shashank Keshetty
+
+- 🔎 **[Staged Continual Adaptation of Multimodal Foundation Models for Japanese Financial Documents](https://arxiv.org/abs/2610.27904)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Multimodal` · `Reasoning`  
+  Authors: Genshin Kakimoto, A. Yanagisawa
+
+- 🔎 **[OPDArena: Understanding Learning and Forgetting in On-Policy Distillation](https://arxiv.org/abs/2610.25651)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `RLVR` · `On-policy`  
+  Authors: Yuan-Ze Xu, Tian-Zhu Ye, Hui Sun, Wen-Hui Wang, Li Dong, Fu-Ru Wei
+
+- 🔎 **[Asynchronous On-Policy Self-Distillation](https://arxiv.org/abs/2610.25880)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `OPSD` · `Distillation` · `On-policy` · `Self-training` · `Reasoning` · `Math`  
+  Authors: Xi-Dong Wu, Qi Qi, Yu-Qiong Ji, Shang-Qian Gao
+
+- 🔎 **[LOOP: Recovery-Aligned Iterative Layer Pruning via On-Policy Distillation](https://arxiv.org/abs/2610.25679)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Reasoning`  
+  Authors: Liang-Sheng Xu, Shu-Fan Shen, Zhong-Ni Hou, Yu-Fei Zhang, Wei Lin, Guo-Jun Yin, Shu-Hui Wang
+
+- 🔎 **[Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://arxiv.org/abs/2610.26855)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Long-horizon` · `Multimodal` · `Robotics`  
+  Authors: Tian-Qi Liu, Han-Fei Zhao, Qin Liang, Hui Pang, Jia-Rui Xu, San Mu, Peng-Hao Qiu, Ying-Sheng Zhang, et al.
+
+- 🔎 **[TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models](https://arxiv.org/abs/2610.25376)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-18 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Reward Model` · `Robotics`  
+  Authors: Yuxiang Lu, Yan-Tong Liu, Jing-Hua Hou, Xue-Li Sun, Rui-Hua Han, Zhe Liu, Heng-Shuang Zhao
+
+- 🔎 **[OfficeTown: Generative Organizations for Evolving Agent Intelligence](https://arxiv.org/abs/2610.23194)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Agent`  
+  Authors: Hong-Chen Wei, Dao-Hong Ying, Zhi-Cong Hong, Ai-Dan Wu, Bei Liu, Rui-Chun Ma, Yi-Fan Yang, Qi Dai, et al.
+
+- 🔎 **[Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models](https://arxiv.org/abs/2610.22217)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Multimodal` · `VLM`  
+  Authors: Yu-Qi Xiong, Chun-Yi Peng, Zhi-Peng Xu, Qing Yang, Zheng-Hao Liu, Zu-Long Chen, Yu Gu, Ge Yu
+
+- 🔎 **[Multi-Teacher On-Policy Distillation for Flow-Based Vision-Language-Action Models](https://arxiv.org/abs/2610.21522)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `VLA`  
+  Authors: Li-Chao Ni, Yu-Han Liu, Peng-Fei Li, Guang-Huan Fang
+
+- 🔎 **[Predicting Privileged Information Effectiveness for On-Policy Self-Distillation](https://arxiv.org/abs/2610.22512)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPSD` · `Distillation` · `GRPO` · `On-policy` · `Self-training` · `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Kai-Jian Zou, Emiliano Penaloza, MohammadHossein Rezaei, Anisha Gunjal, Mohit Raghavendra, Lu Wang, Yun-Zhong He, Anas Mahmoud
+
+- 🔎 **[Hy-Memory-30B-A3B: Attributed Reinforcement Learning for Long-Term Memory Writing](https://arxiv.org/abs/2610.22196)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `GRPO` · `On-policy`  
+  Authors: Tian-Xiang Fei, Jia-Zheng Kang, Mao Zheng, Xing-Yan He, Xiang-Yu Yu
+
+- 🔎 **[Towards Continual Learning: Mitigating Forgetting With Subspace Tuning](https://arxiv.org/abs/2610.22293)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Self-training`  
+  Authors: Arnav Chavan, Kusha Sareen, Rishabh Tiwari, A. Chandra, Johan Obando-Ceron, Kurt Keutzer, S. Niekum, I. Dhillon, et al.
+
+- 🔎 **[EgoP$^{2}$C: Internalizing Plan-Perceive-Compose for Spatial Reasoning in Egocentric Video](https://arxiv.org/abs/2610.22681)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Agent` · `VLM` · `Reasoning`  
+  Authors: Chaoyu Li, Arka Sadhu, Yu-Liang Li, H. Kim, Yu-Ning Chai, Pooyan Fazli
+
+- 🔎 **[Learning from Unverified Peers via Shared Residual Distillation](https://arxiv.org/abs/2610.22080)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPSD` · `Distillation` · `On-policy` · `Self-training` · `Reasoning`  
+  Authors: Fei-Yang Chen, Run-Ze Ma, Zi-Chen Wang, Jiong Lou, Zi-Han Wang, Shuang-Jia Zheng, Jie Li
+
+- 🔎 **[Condition-Contrastive Extrapolation for On-Policy Distillation of Language Models](https://arxiv.org/abs/2610.21195)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Reasoning`  
+  Authors: Wen-Xuan Luo, Chen-Xi Li, Hao-Yue Liu, Yong-Xin Guo, Xiao-Ying Tang
+
+- 🔎 **[Perception or Reasoning? Diagnosing and Tackling Reinforcement Learning Bottlenecks in VLMs](https://arxiv.org/abs/2610.21380)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Ze-Yuan Yang, Zhuo-Hao Chen, Jia-Ben Chen, Yao-Wen Zhang, Mao-Hao Shen, Chuang Gan
+
+- 🔎 **[Do As I Do, Not As I Say: On-Policy Distillation Inherits the Teacher in Vision-Language Models](https://arxiv.org/abs/2610.20989)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `VLM` · `Reasoning`  
+  Authors: Frank Yang, Kefei Yan, Yi-Ren Wang, Yi-Yang Wang
+
+- 🔎 **[ActionOPD: Distilling Decisions, Not Tokens](https://arxiv.org/abs/2610.19820)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Tool Use` · `Reasoning`  
+  Authors: Hui-Ning Yuan, Xiang-Min Yi, Ze-Lai Xu, Zi-Xu Wang, Xin-Lei Chen, Xiao-Ping Zhang, Yu Wang, Chao Yu
+
+- 🔎 **[Function-Space Temporal Self-Distillation for Policy Optimization](https://arxiv.org/abs/2610.19687)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `RLVR` · `Self-training` · `Tool Use` · `Reasoning`  
+  Authors: Aryan Das, Arnab Bhattacharya, Vinay Kumar Verma
+
+- 🔎 **[Beyond Correctness: Compute-Responsive Data Selection for Reasoning Model Post-Training](https://arxiv.org/abs/2610.20057)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Reasoning`  
+  Authors: Liang He, Xiang-Yu Li, Yuxuan Wang, Han-Bin Zhang, Ming-Yu Cao, Zhao-Miao Guo, Xi-Lu Wang
+
+- 🔎 **[PA1-OPD: One-Step Prefix-Augmented On-Policy Distillation for Language Model Pretraining](https://arxiv.org/abs/2610.19601)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy`  
+  Authors: Zhen-He Wu, Jian Yang, Ya-Ping Jin, Xin-Lai Kang, Jie Hu, Han-Ting Chen
+
+- 🔎 **[Divergence-Routed On-Policy Distillation for Language Models](https://arxiv.org/abs/2610.19572)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy`  
+  Authors: Tian-Tian Peng, Guan-Nan Lv, Hong-Yang Li, Qiu-He Hong, Han Cheng, Hong-Jian Dou, Xiang-Yu Wu, Yu-Yang Liu
 
 <a id="2026-09"></a>
 
@@ -108,7 +269,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `OPSD` · `SFT` · `GRPO`  
-  Authors: Yuhan Wang, Zhengxi Lu, Yuchen Yan, Kaitao Song, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, et al.
+  Authors: Yuhan Wang, Zhengxi Lu, Yuchen Yan, Kaitao Song, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, et al.  
+  Institutions*: Zhejiang University
 
 - 🔎 **[Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://arxiv.org/abs/2608.31046)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -350,7 +512,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing](https://arxiv.org/abs/2608.11660)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-12 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `OPD` · `Distillation` · `On-policy` · `Self-training` · `Reasoning`  
-  Authors: Tianci Liu, Zihan Dong, Tianchun Li, Yi-Chung Chen, Qiming Cao, Xingchen Wang, Shiyang Wang, Zichen Miao, et al.
+  Authors: Tianci Liu, Zihan Dong, Tianchun Li, Yi-Chung Chen, Qiming Cao, Xingchen Wang, Shiyang Wang, Zichen Miao, et al.  
+  Institutions*: Purdue University
 
 - 🔎 **[Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation](https://arxiv.org/abs/2608.11191)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-11 · `direction-month-query` · `arxiv-monthly-backfill`  

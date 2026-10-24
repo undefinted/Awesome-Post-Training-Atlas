@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**746 papers**: 3 curated and 743 academic discovery candidates.
+**763 papers**: 3 curated and 760 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐17 · [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓50 · [Nov](#2025-11) ✓43 · [Oct](#2025-10) ✓65 · [Sep](#2025-09) ✓32 · [Aug](#2025-08) ✓47 · [Jul](#2025-07) ✓43 · [Jun](#2025-06) ✓38 · [May](#2025-05) ✓44 · [Apr](#2025-04) ✓29 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓11 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓1 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓1 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓1 · [Jun](#2024-06) ✓2 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓1
 - [2017](#2017) — [Jul](#2017-07) ◐1
@@ -20,6 +20,98 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Flat-RLVR: Sharpness-Aware Reinforcement Learning with Verifiable Rewards for Reasoning Capacity in LLMs](https://arxiv.org/abs/2610.29281)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Reasoning`  
+  Authors: Yeonbum Kim, Hyun Lee, Sung Whan Yoon
+
+- 🔎 **[SLoSa: Small, Low-Power, and Safe Foundation Models for Robotic Task Planning](https://arxiv.org/abs/2610.28955)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Verifier` · `Robotics` · `Safety`  
+  Authors: Wei-Zhe Xu, Jia-Liang Fan, Essien Taylor, Zi-Jun Wang, Russell Joseph, Fan-Xin Kong
+
+- 🔎 **[Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties](https://arxiv.org/abs/2610.26496)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Reward Model` · `Multi-turn` · `Reasoning`  
+  Authors: Afonso Baldo, António Farinhas, Marcos V. Treviso, Ricardo Rei, Nuno M. Guerreiro
+
+- 🔎 **[Exploration via Activation-Space Steering for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2610.27012)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Verifier` · `Reasoning` · `Math`  
+  Authors: Yu-Nan Zeng, Jin-Hao Jing, Xi Cheng, Yu-Wang Wang
+
+- 🔎 **[Where RL Breaks: Localizing and Repairing Failures via Targeted Continued Pretraining](https://arxiv.org/abs/2610.25836)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Xin-Yi Wang, Dan-Qi Chen
+
+- 🔎 **[From Unverifiable Domain Text to Cross-Lingual RLVR via Code-Switched Task Synthesis](https://arxiv.org/abs/2610.25399)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-18 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Cheonbok Park, Jihwan Kim, Shinyoung Joo, Joosung Lee, Hwiyeol Jo, Jeonghoon Kim, Jaegul Choo
+
+- 🔎 **[ProbePO: Sparse Probes, Redistributed Credit for Critic-Free LLM Reinforcement Learning](https://arxiv.org/abs/2610.24515)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-17 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Verifier` · `Reasoning`  
+  Authors: Di-Yi Hu, Rui-Zhong Qiu, Lin Qiu, Hang-Hang Tong, Han-Qing Zeng
+
+- 🔎 **[Same Participation Count, Different Memorization: A Controlled Canary Study of Participation Timing in Federated LoRA Fine-Tuning](https://doi.org/10.3390/systems14101319)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-17 · `query-hint` · `crossref`  
+  Labels: `SFT`  
+  Authors: Jongwook Kim  
+  Venue: Systems
+
+- 🔎 **[Preserving Reasoning Diversity in Reinforcement Learning with Verifiable Rewards via Adaptive Replay](https://arxiv.org/abs/2610.24236)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `On-policy` · `Reasoning` · `Math`  
+  Authors: Wen-Zhi Li, Sainyam Galhotra, C. Cardie
+
+- 🔎 **[Alliance of Stochastic Routing and Reinforcement Fusion for Multi-Model Reasoning](https://arxiv.org/abs/2610.24054)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: S. Tekin, Ling Liu
+
+- 🔎 **[Analyzing Occupational Gender Bias across the LLM Training Lifecycle](https://arxiv.org/abs/2610.23587)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `RLVR`  
+  Authors: Manthan Gadhia, A. Hoyle, Karolina Stanczak
+
+- 🔎 **[Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2610.26904)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Code`  
+  Authors: Koki Takeshita, Kenji Uebayashi, Hikaru Tomonari, Masaya Tsunokake, Koichiro Yawata, Tatsuya Sasaki, Yusuke Ohtsubo, Kota Dohi, et al.
+
+- 🔎 **[Diverse Reasoning Paths Matter: Symbolic Equivalence Augmentation for Enhancing RL Exploration](https://arxiv.org/abs/2610.22665)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `GRPO` · `Reasoning`  
+  Authors: Xia-Oou Liu, Tie-Jin Chen, Han-Yang Chen, Yuan Ling, Hua Wei
+
+- 🔎 **[When Does Momentum Help in Reinforcement Learning with Verifiable Rewards?](https://arxiv.org/abs/2610.20413)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR`  
+  Authors: Kai-Fei Wang, Zikang Shan, Li-Wei Wang, Yin-Yu Ye, Han Zhong
+
+- 🔎 **[Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling](https://arxiv.org/abs/2610.20497)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `Verifier` · `Reasoning` · `Code`  
+  Authors: Wei Chen, Yu-Bing Wu, Zhou-Shi Xu, Hao-Yue Zhang, De-Lu Zeng, Jia-Hao Wang, Jun-Mei Yang, Tie-Wen Pan, et al.
+
+- 🔎 **[A Comparative Analysis of In-Context Learning vs. Fine-Tuning for Biomedical Causal Discovery](https://doi.org/10.2139/ssrn.7611938)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `crossref`  
+  Labels: `SFT` · `Preference Optimization`  
+  Authors: Elizabeth Crooner, Elizabeth Harrison
+
+- 🔎 **[Gibbs-Gap Policy Optimization for Off-Policy RL with Verifiable Rewards](https://arxiv.org/abs/2610.20814)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `On-policy` · `Off-policy` · `Reasoning` · `Math`  
+  Authors: Xuan-Chang Zhang, Tong Zhang
 
 <a id="2026-09"></a>
 

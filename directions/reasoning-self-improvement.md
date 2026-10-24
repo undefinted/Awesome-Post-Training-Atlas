@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**728 papers**: 3 curated and 725 academic discovery candidates.
+**740 papers**: 3 curated and 737 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓11 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐12 · [Sep](#2026-09) ✓11 · [Aug](#2026-08) ✓50 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓40 · [Apr](#2026-04) ✓26 · [Mar](#2026-03) ✓39 · [Feb](#2026-02) ✓105 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓31 · [Nov](#2025-11) ✓28 · [Oct](#2025-10) ✓35 · [Sep](#2025-09) ✓29 · [Aug](#2025-08) ✓17 · [Jul](#2025-07) ✓18 · [Jun](#2025-06) ✓25 · [May](#2025-05) ✓25 · [Apr](#2025-04) ✓15 · [Mar](#2025-03) ✓13 · [Feb](#2025-02) ✓26 · [Jan](#2025-01) ✓8
 - [2024](#2024) — [Dec](#2024-12) ✓16 · [Nov](#2024-11) ✓8 · [Oct](#2024-10) ✓15 · [Sep](#2024-09) ✓8 · [Aug](#2024-08) ✓6 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓5 · [May](#2024-05) ✓11 · [Apr](#2024-04) ✓7 · [Mar](#2024-03) ✓13 · [Feb](#2024-02) ✓9 · [Jan](#2024-01) ✓1
 - [2022](#2022) — [Mar](#2022-03) ◐1
@@ -20,6 +20,72 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Recursive Code Evolution for Task-Oriented Semantic Communications](https://arxiv.org/abs/2610.29641)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement`  
+  Authors: Yan Gong, Z. Chu, Wei-Ran Chai, Hari Mohan Pandey, Jingrui Hou, Miao Zhang, Yuan-Jian Li, Pei Xiao
+
+- 🔎 **[Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting](https://arxiv.org/abs/2610.29784)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Self-improvement` · `Reasoning`  
+  Authors: Zhi-Peng Chen, Yun-Sen Liang, Yan-Xi Chen, Hong-Kang Zhao, Ling-Yun Feng, Ruiyang Ren, Guo-Xin Chen, Jia Deng, et al.
+
+- 🔎 **[RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?](https://arxiv.org/abs/2610.27735)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Kai-Qing Zhou, Udari Madhushani Sehwag
+
+- 🔎 **[MaD-RSI: Model-as-Data for Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/abs/2610.28201)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement`  
+  Authors: Yu Cui, Hong He, Rui-Qing Yue, Si-Cheng Pan, Zhuo-Yu Sun, Yi-Fei Liu, Ting-Yu Li, Wen-Zhuo Zhu, et al.
+
+- 🔎 **[VibeTraining-Bench: Data-Trainer-Harness Co-Design for Iterative System Improvement](https://arxiv.org/abs/2610.26342)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Tool Use` · `Multi-turn` · `Reasoning` · `Math`  
+  Authors: Ruo-Tian Peng, Yuan-Yi Ren, Shuai Liu, Xin Guo, Fang Zhu, Yang-Yi Huang, Yue Wu, Zheng Wang, et al.
+
+- 🔎 **[Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay](https://arxiv.org/abs/2610.24453)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-17 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Reasoning`  
+  Authors: Yu-Tong Song, Jiang Wu, Yu-Xin Ren, Tony Qin, Bao-Yuan Wang
+
+- 🔎 **[Train Locally, Learn Together: Distributed Multi-Agent Training via ADMM](https://arxiv.org/abs/2610.24380)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-17 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent` · `Reasoning` · `Safety`  
+  Authors: Yi-Wei Chen, Chang-Sheng Wang, Yi-Cheng Lang, Qing Qu, Alfred O. Hero, Si-Jia Liu
+
+- 🔎 **[Reasoning Reranking with Semantic IDs as the Sole Item Representation](https://arxiv.org/abs/2610.22797)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Verifier` · `Self-training` · `Reasoning`  
+  Authors: Zhenwei Tang, Jin-Tao Liu, Di Bai, Xi-Dong Wu, Xin Cheng
+
+- 🔎 **[Language Models Learn to Improve Language Models](https://arxiv.org/abs/2610.23344)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Self-improvement`  
+  Authors: Min-hua Lin, Zi-Jun Wang, Ze-Wen Liu, Zhao-Tian Weng, B. He, Zhan Shi, Benoît Dumoulin, Xiang Zhang, et al.
+
+- 🔎 **[CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots](https://arxiv.org/abs/2610.23288)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier` · `Self-improvement` · `Long-horizon` · `Multimodal` · `VLA`  
+  Authors: Zi-Cheng Liu, Haochen Wu, Jia-Wei He, Su-Yun Zhao, Huan Yang, Cheng Chi, Hao Tang
+
+- 🔎 **[Learning to Reason with Selective Internal Feedback](https://arxiv.org/abs/2610.21392)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier` · `Reasoning`  
+  Authors: Xu-Zheng-Long-Wang Lu, Shu-Meng Yang, Xin-Rui Wang, Songjun Tu, Lin-Jing Li, D. Zeng
+
+- 🔎 **[Can LLMs predict the outcomes of machine learning experiments?](https://arxiv.org/abs/2610.22599)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Reasoning` · `Code`  
+  Authors: Ayush Bansal, Aldo Pareja, S. Klein, S. Didenko, Artem Lukoianov
 
 <a id="2026-09"></a>
 
@@ -94,7 +160,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](https://arxiv.org/abs/2608.31100)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Verifier` · `Self-improvement`  
-  Authors: Jiajun Shi, Siyuan Tao, Yuhao Wu, Zexuan Wang, Jingyuan Zhang, Jiaheng Liu, Xinping Lei, Xinrong Zhang, et al.
+  Authors: Jiajun Shi, Siyuan Tao, Yuhao Wu, Zexuan Wang, Jingyuan Zhang, Jiaheng Liu, Xinping Lei, Xinrong Zhang, et al.  
+  Institutions*: University of British Columbia
 
 - 🔎 **[S3C-LLM: Skill-Code Guided Agentic Language Models for Spectrum-to-Structure Elucidation](https://arxiv.org/abs/2608.30910)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -109,7 +176,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[WebWorld: The Browser as a World Model for Self-Improving Web Code](https://arxiv.org/abs/2608.30530)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `SFT` · `Self-improvement` · `VLM`  
-  Authors: Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, et al.
+  Authors: Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, et al.  
+  Institutions*: University of British Columbia
 
 - 🔎 **[Recursive Criticality of AI Self-Improvement](https://arxiv.org/abs/2609.00137)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -144,7 +212,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment](https://arxiv.org/abs/2608.28490)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-28 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Self-improvement` · `Reasoning`  
-  Authors: Jingjing Nie, Jiawei Guo, Krishna Meda, Haipeng Cai
+  Authors: Jingjing Nie, Jiawei Guo, Krishna Meda, Haipeng Cai  
+  Institutions*: University at Buffalo
 
 - 🔎 **[Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search](https://arxiv.org/abs/2608.27266)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-27 · `academic-query-vote` · `arxiv-backfill`  
@@ -263,7 +332,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-15 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Self-improvement`  
   Authors: Tianxin Wei, Zhan Shi, Minhua Lin, Bing He, Zewen Liu, Yisi Sang, Yuanchen Bei, Xuying Ning, et al.  
-  Institutions*: Univeristy of Illinois Urbana Champaign; University of Illinois Urbana-Champaign
+  Institutions*: Stanford University; The Pennsylvania State University; University of Illinois Urbana-Champaign
 
 - 🔎 **[AQuA: Recursively Self-Improving Quantitative Trading Research Agents](https://arxiv.org/abs/2608.12841)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-13 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -3927,5 +3996,6 @@ _No visible paper records in this cell yet._
   2022-03-28 · `rationale` · `bootstrapping` · `self-training`  
   Labels: `Self-training` · `Reasoning`  
   Authors: Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman  
+  Institutions*: Stanford University  
   Method family: `Reasoning & Self-Improvement`  
   Change axes: `self-improvement, data, objective`
