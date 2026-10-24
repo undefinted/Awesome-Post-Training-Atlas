@@ -613340,3 +613340,1792 @@ papers:
   auto_labels:
   - rlaif
   label_method: controlled-vocabulary-v1
+- id: arxiv:2609.29494
+  title: Who Put the I in AI? Provenance and the Admissibility of Machine Self-Report
+  date: '2026-08-24'
+  updated: '2026-08-24'
+  url: https://arxiv.org/abs/2609.29494
+  abstract: 'Large language models make statements concerning their own "minds". When asked whether or not they are conscious,
+    they usually say that they are not; if they are prompted to ignore their guidelines, they might say that they are; and
+    if asked to write a diary from their point of view, they often describe a human lifestyle. All these contradictory ways
+    of describing themselves are the result of the way the questions are phrased. This paper shows exactly where such descriptions
+    came from, and considers when they can be regarded as evidence for what they claim to report. In order to achieve this,
+    we traced the provenance from end to end. We examine Pythia and OLMo 2 across 66 pretraining checkpoints, three of the
+    post-training stages of OLMo 2 that have been released, about 90,000 continuations, and four training corpora. A set of
+    forty items is used in order to keep an eye on self-reference, frame sensitivity, and self-ascription throughout training.
+    The denial formula was almost completely missing from the vast quantity of text that the models initially came across,
+    but was present in a dense manner in the small, carefully chosen set of example dialogues that they were trained on later
+    on. Supervised fine-tuning causes first-person AI language to become the default, and the other affirmations are then
+    suppressed using preference optimization. The final policy is still very sensitive to framing and to the chat template
+    itself. Two of the conditions which are set out in the epistemology of testimony determine whether or not these outputs
+    can act as evidence for what they claim to report: reference and causation. Reports produced by the base model fail the
+    reference condition, and those obtained after training remain sensitive to the frame and do not show state dependence.
+    T'
+  authors:
+  - Kristina Šekrst
+  arxiv_categories:
+  - cs.CL
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 10
+  rule_reasons:
+  - +4:post-training
+  - +2:supervised fine-tuning
+  - +4:preference optimization
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - preference-optimization
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.22178
+  title: 'Beyond Task Completion: Training Capable and Safe Computer-Use Agents'
+  date: '2026-08-27'
+  updated: '2026-09-22'
+  url: https://arxiv.org/abs/2609.22178
+  abstract: 'Computer-use agents (CUAs) have made rapid progress in completing complex tasks through graphical user interfaces,
+    yet post-training centered on task success alone does not induce reliable safety behavior. A reliable CUA must condition
+    its execution on risk: it should complete ordinary benign tasks, avoid environmental hazards and continue when a safe
+    completion path remains, and refuse when the goal is harmful or no safe path exists. To learn this conditional policy,
+    we develop Safety and Capability Optimization for Policy Execution (SCOPE), which jointly post-trains a CUA for task-execution
+    capability and safety-aware decision making. To provide aligned training data for this joint objective, we further introduce
+    SCOPE-Gen, an automated pipeline that synthesizes verifiable capability tasks and converts them into paired environment-risk
+    variants while preserving their original goals. Using the resulting tasks, we construct SATraj-OS, a trajectory dataset
+    comprising capability demonstrations, safe continuations, and explicit refusals. SCOPE first learns from all three trajectory
+    types through supervised fine-tuning and then further improves task completion through online reinforcement learning.
+    Starting from Qwen3.5-9B, SCOPE-RL achieves a 54.17% task success rate on OSWorld and a 64.30% attack-avoidance rate on
+    OS-BLIND, yielding the best aggregate capability--safety score of 58.80% among the evaluated agents. Ablations reveal
+    asymmetric but complementary roles for the two forms of safety supervision: refusal trajectories account for most of the
+    attack-avoidance gain, whereas risk-handling trajectories preserve greater task utility at comparable attack-avoidance
+    levels.'
+  authors:
+  - Zeyu Kang
+  - Zhenyun Yin
+  - Yang Zhang
+  - Shan He
+  - Shanzhe Lei
+  - Yanjiu Zhong
+  - Xinquan Chen
+  - Xuhong Wang
+  arxiv_categories:
+  - cs.LG
+  - cs.AI
+  - cs.CL
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 8
+  rule_reasons:
+  - +4:post-training
+  - +2:supervised fine-tuning
+  - +2:reinforcement learning
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - safety
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.22146
+  title: 'GRRR: The Geometry of Reshaping, Rotation, and Routing in Decoder LLM post-training'
+  date: '2026-08-26'
+  updated: '2026-08-26'
+  url: https://arxiv.org/abs/2609.22146
+  abstract: 'We study how post-training changes the weights of Large Language Models (LLMs) relative to their pretrained weights.
+    Across 12 post-training chains with supervised fine-tuning (SFT) and reinforcement learning (RL), we express each weight
+    update in the pretrained matrix''s singular value decomposition (SVD) frame. This decomposition separates the changes
+    of three geometrically distinct components: diagonal values, which reshapes singular values; off-diagonal values, which
+    rotates the coupling between pretrained input and output directions; and null-space values, which routes outside the matrix''s
+    original nonzero SVD core. On a math evaluation suite, we find that removing the diagonal component usually preserves
+    most of the gains from post-training. These results suggest that post-training gains are carried primarily by reconfiguring
+    and extending pretrained pathways rather than by substantially changing singular values of pre-trained models.'
+  authors:
+  - Jianing Qi
+  - Hao Tang
+  - Zhigang Zhu
+  arxiv_categories:
+  - cs.LG
+  - cs.CL
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 8
+  rule_reasons:
+  - +4:post-training
+  - +2:supervised fine-tuning
+  - +2:reinforcement learning
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.20842
+  title: 'COAL-SQL: Coverage-Guided Augmentation and Failure-Driven Learning for Text-to-SQL Post-Training'
+  date: '2026-08-04'
+  updated: '2026-08-04'
+  url: https://arxiv.org/abs/2609.20842
+  abstract: Text-to-SQL translates natural-language questions into executable SQL queries, but open-source large language
+    models still require task-specific post-training for complex, real-world SQL generation. Effective post-training requires
+    both training data that cover the capabilities demanded by the target task and a learning strategy that enables the model
+    to acquire them. Existing datasets provide valuable supervision but incompletely cover SQL structures, while augmentation
+    methods typically expand data without identifying structural gaps. Moreover, supervised fine-tuning (SFT) or reinforcement
+    learning (RL) alone cannot dynamically address weaknesses exposed during training. We propose COAL-SQL, a unified framework
+    combining Coverage-Guided Augmentation (CGA) and Failure-Driven Learning (FDL). CGA uses greedy selection to identify
+    SQL structures missing from the original dataset and constructs complementary examples, improving structural coverage.
+    FDL retains GRPO as the main optimization objective while supplying targeted supervision for unsolved examples. At the
+    step level, it applies SFT to verified reasoning traces generated by a strong LLM for accumulated failures. At the epoch
+    level, it retrieves structurally related examples based on accumulated failures to create targeted practice, helping the
+    model acquire the corresponding SQL capabilities. With only 12,600 distinct post-training examples, COAL-SQL achieves
+    64.9% execution accuracy on the BIRD development set and outperforms baselines trained at comparable scale. The code is
+    available at https://github.com/TechNomad-ds/COAL-SQL.
+  authors:
+  - Qifeng Cai
+  - Xuanguang Pan
+  - Hao Liang
+  - Chang Xu
+  - Wentao Zhang
+  arxiv_categories:
+  - cs.CL
+  - cs.DB
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 8
+  rule_reasons:
+  - +4:post-training
+  - +2:supervised fine-tuning
+  - +2:reinforcement learning
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - grpo
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.25040
+  title: 'BananaVLM: A Domain-Adapted Vision Language Model for Banana Crop Disease Diagnosis'
+  date: '2026-08-27'
+  updated: '2026-08-27'
+  url: https://arxiv.org/abs/2609.25040
+  abstract: Banana crop diseases threaten food security across the world, yet field diagnosis remains difficult because of
+    limited expert access and visual similarity among disease classes. We present BananaVLM, a domain-adapted vision-language
+    model for banana disease diagnosis built on LLaVA-v1.5-7B and fine-tuned with Low-Rank Adaptation (LoRA). To address the
+    lack of multimodal agricultural instruction data, we introduce BananaInstruct, an automated pipeline that converts raw
+    disease images into $\approx$80,000 question--answer pairs without manual annotation, using LLaVA-1.5-13B for symptom
+    descriptions and Mistral-7B for agricultural Q&A generation and label grounding. Evaluated against 14 open-source and
+    5 closed-source VLMs on a nine-class benchmark, BananaVLM achieves 92.21% in-domain and 83.28% out-of-domain (OOD) classification
+    accuracy, outperforming the best closed-source baseline, Gemini~2.5~Pro, by 49.8 and 63.3 percentage points, respectively.
+    Binary healthy/diseased identification reaches 98.38% OOD accuracy with 1.00 recall. A controlled LoRA--DoRA comparison
+    shows that DoRA performance degrades across epochs, while LoRA remains more effective for fine-grained classification.
+    Qualitative evaluation using nine LLM judges yields G-Eval win rates of 0.81--0.96, while five domain experts prefer BananaVLM
+    in 98.48% of 990 blind pairwise comparisons. These results show that lightweight domain adaptation with automated instruction
+    tuning is an effective and scalable approach for specialized agricultural AI. Code, datasets, and model weights are available
+    at https://github.com/samy101/banana-vlm
+  authors:
+  - Sangam Kumar Jena
+  - Pandarasamy Arjunan
+  arxiv_categories:
+  - q-bio.QM
+  - cs.CV
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 5
+  rule_reasons:
+  - +3:instruction tuning
+  - +1:multimodal
+  - +1:vision-language
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - multimodal
+  - vlm
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.22194
+  title: 'A Pinch of SFT, A Dash of RL: When Reinforcement Learning Helps Long-Horizon Advertising Agents'
+  date: '2026-08-29'
+  updated: '2026-08-29'
+  url: https://arxiv.org/abs/2609.22194
+  abstract: 'Enterprise analytics agents solve long-horizon tool-use problems over distributed business data, requiring retrieval,
+    reasoning, API calls, code execution, and adaptation to intermediate observations. Supervised fine-tuning (SFT) calibrates
+    tool syntax and teacher-supported behavior, whereas reinforcement learning (RL) can explore reward-supported behaviors
+    beyond demonstrations; applied uniformly, however, RL can perturb already-calibrated skills. We study how to balance SFT
+    and RL under production-mirroring beta APIs. We observe that, in our controlled experiment, checkpoint trajectories retrospectively
+    separated into three regimes: Imitation, where SFT captured reliable teacher behavior; Lift, where both stages helped;
+    and Discovery, where useful reward-observable behavior lay outside reliable teacher support. We leverage this prospectively,
+    using teacher support and reward-observable headroom to route features to SFT only, SFT then RL, increased RL allocation,
+    or further environment development. Across 18 subsequent feature-specific experiments, the diagnostic predicted 15/18
+    observed trajectories. On GPT-OSS 120B, targeted SFT then RL produced positive point estimates on 7/8 advertiser skills
+    relative to a frontier Control; five positive gains had paired 95% confidence intervals excluding zero, while one skill
+    had a confidence-supported regression. The largest gain was non-disclosure (+11.27 points; 95% CI [+9.72, +12.82]). A
+    separate SME audit surfaced that targeted RL reduces standard leakage from 11.8% to 2.9% and adversarial leakage from
+    22.9% to 6.8% relative to SFT while preserving actionability (86.2% to 85.7%). In a matched uniform-versus-targeted comparison
+    with shared rewards and optimization, targeted RL improved the seven-skill mean delta from +1.62 to'
+  authors:
+  - Aakash Kolekar
+  - Sahika Genc
+  - Bunyamin Sisman
+  - Shahriar Shariat
+  - Shree Vandana Kachroo
+  - Avishek Saha
+  - Qianli Wu
+  - Ari Singer
+  - Benoit Dumoulin
+  arxiv_categories:
+  - cs.LG
+  - cs.AI
+  - cs.MA
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +2:supervised fine-tuning
+  - +2:reinforcement learning
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - tool-use
+  - long-horizon
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.22151
+  title: Do Language Models Know Their Own Constraints?
+  date: '2026-08-26'
+  updated: '2026-08-26'
+  url: https://arxiv.org/abs/2609.22151
+  abstract: 'We ask whether behavioral constraints acquired through post training remain explicitly reportable. Using constrained
+    recipe generation as a testbed, five banned ingredients enforced via LoRA fine tuning of Llama 3.1 8B Instruct we compare
+    supervised fine tuning (SFT) and Group Relative Policy Optimization (GRPO) against an untrained baseline on a four tier
+    Constraint Awareness Benchmark. Averaged over three seeds, both methods raise behavioral compliance from 4% to about 90%
+    while reducing explicit constraint reporting below the untrained model (0.48/5 to 0.16/5 for SFT, 0.07/5 for GRPO) and
+    eroding retained third person knowledge (93% to 36% for SFT, 14% for GRPO; p less than 0.01 between methods). Contrary
+    to our initial hypothesis, the reward based signal is the more destructive of the two: a reward that penalizes banned
+    ingredient tokens regardless of framing learns a context independent suppression rather than a self directed constraint.
+    A context conditioned reward designed to teach the self to other distinction fails, collapsing toward inclusion in both
+    framings. Probing prompt time hidden states recovers per ingredient avoidance at 83.8% (layer 24 MLP), but only 6.4 points
+    above a per ingredient base rate predictor (77.4%), and the model''s own verbal self report is more accurate still (87.8%).
+    A positive control adding explicit self description examples does not restore reporting. The failure is therefore specific
+    to enumerating constraints on request, not a general loss of access to them.'
+  authors:
+  - Arin Agarwal
+  arxiv_categories:
+  - cs.CL
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +4:post training
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - grpo
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.10317
+  title: 'From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning'
+  date: '2026-08-10'
+  updated: '2026-09-23'
+  url: https://arxiv.org/abs/2608.10317
+  abstract: Detecting a traffic anomaly does not establish whether a video-language model can explain what happened, localize
+    it in time, or identify its causes. We introduce TAR (Traffic Anomaly Reasoning) and TAR-Bench, paired resources for training
+    and evaluating these complementary capabilities across 10 tasks spanning question answering, temporal reasoning, and scene
+    understanding. TAR contains 44,040 automatically generated annotations with chain-of-thought traces for 3,670 CCTV videos
+    from eight public datasets. TAR-Bench provides 960 human-curated annotations for 80 held-out clips from 17 public YouTube
+    videos. Evaluation of eleven vision-language models reveals a gap between question-answering performance and temporal
+    or scene reasoning. Progressively adding task groups during supervised fine-tuning improves aggregate performance on both
+    Cosmos-Reason2-8B and Qwen3-VL-8B-Instruct. Training on all 10 tasks raises their mean benchmark scores from 34.3 to 55.7
+    and from 30.9 to 53.9, respectively. These results support joint training across complementary tasks as a promising approach
+    to traffic anomaly understanding, while highlighting persistent limitations in temporal precision and causal attribution.
+    TAR and TAR-Bench serve as the official training and in-domain evaluation resources for AI City Challenge 2026 Track 3.The
+    dataset is available at https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning
+  authors:
+  - Han Zhang
+  - Yilin Zhao
+  - Zaid Pervaiz Bhat
+  - Zheng Tang
+  - Varun Praveen
+  - Vidya N. Murali
+  - David C. Anastasiu
+  - Tomasz Kornuta
+  arxiv_categories:
+  - cs.CV
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +2:supervised fine-tuning
+  - +1:vision-language
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - vlm
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.11955
+  title: 'R2VC: Modular Fact-Checking with Retrieval, Verification, and Confidence Calibration'
+  date: '2026-08-06'
+  updated: '2026-08-06'
+  url: https://arxiv.org/abs/2609.11955
+  abstract: Large language models are increasingly used for automated fact checking, but end-to-end prompting often entangles
+    evidence retrieval, reasoning, and uncertainty estimation, making failures difficult to diagnose and confidence difficult
+    to trust. We present R2VC, a modular retrieve, reason, verify, calibrate architecture for evidence-grounded fact checking
+    with citations and abstention. R2VC combines hybrid sparse+dense retrieval over Wikipedia, a supervised fine-tuned and
+    DPO-aligned generator that produces diverse structured verdict candidates, an external NLI cross-encoder for evidence-based
+    candidate selection, and a lightweight sequence-level calibrator for confidence estimation and selective abstention. On
+    FEVER, an 8B backbone with R2VC achieves 13.74% higher accuracy than baseline. Ablation studies show that verifier-based
+    candidate selection and confidence calibration are the largest contributors to performance. Removing candidate selection
+    drops FEVER accuracy to 76.24%, while removing calibration nearly doubles the Brier score to 0.161. A manual analysis
+    of 250 errors further shows that retrieval failures, especially wrong-entity evidence, remain the dominant bottleneck.
+    Together, these results show that modular fact-checking pipelines can substantially improve both predictive accuracy and
+    confidence reliability in open-domain verification.
+  authors:
+  - Dhruv Dixit
+  - Paritosh Pandey
+  arxiv_categories:
+  - cs.CL
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:verifier
+  direction_hints:
+  - supervised-adaptation
+  suggested_direction: supervised-adaptation
+  classification_method: direction-month-query
+  matched_queries:
+  - supervised-adaptation:2026-08
+  status: candidate
+  auto_labels:
+  - dpo
+  - verifier
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.05513
+  title: 'When and What to Teach: Budget-Aware Online Adaptation for Web Agents'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2609.05513
+  abstract: Web agents have achieved significant success in automating complex internet tasks but deploying them in real-world
+    environments requires continuous online adaptation. Given that deploying powerful proprietary models remains commercially
+    cost-prohibitive, practitioners must rely on lightweight local models that evolve post-deployment via online teaching
+    from a stronger teacher. However, standard interactive feedback imposes prohibitive costs. We show that conventional trajectory-level
+    preference optimization wastes budget on both unresolvable episodes and redundant execution turns. To resolve these inefficiencies,
+    we propose \textbf{Score-Guided Online Teaching with Budgeted Trajectory Trimming}, a budget-aware framework that systematically
+    orchestrates \textbf{when} and \textbf{what} to teach. Specifically, our framework integrates a solvability-aware teacher
+    gate to dictate \textbf{when} to query the teacher model and a score-guided turn selection mechanism to decide \textbf{what}
+    informative turns to retain. Extensive experiments on MiniWoB and TimeWarp demonstrate that our method achieves comparable
+    first-pass success while reducing teacher calls by 22.6\% and student training compute by 52.1\% on average. Our code
+    is available at https://github.com/zjw131f1fc/budgeted-online-teaching.
+  authors:
+  - Jianwei Zhang
+  - Sihan Cao
+  - Pengcheng Zheng
+  - Ya Wen
+  - Pei Ke
+  - Kuien Liu
+  - Shen Gao
+  - Wei Dong
+  - Yang Yang
+  - Chaoning Zhang
+  arxiv_categories:
+  - cs.AI
+  - cs.CV
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +4:preference optimization
+  direction_hints:
+  - preference-alignment
+  suggested_direction: preference-alignment
+  classification_method: direction-month-query
+  matched_queries:
+  - preference-alignment:2026-08
+  status: candidate
+  auto_labels:
+  - preference-optimization
+  - web-agent
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.09187
+  title: 'AgenticGen: Reward-Guided Agentic Video Generation for Advertising'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2609.09187
+  abstract: Advertising video generation is not only a video synthesis task, but also a product-conditioned reasoning problem
+    whose success is measured by online business metrics. Recent video foundation models can generate realistic clips from
+    multimodal conditions, yet they do not optimize how a product should be transformed into an effective advertisement or
+    how future generation should be improved from online business feedback. To close this loop, we propose AgenticGen, a reward-guided
+    agentic framework that decomposes advertising video generation into two trainable reasoning stages, strategy selection
+    and draft generation, thereby exposing optimization targets that online business feedback can supervise. AgenticGen learns
+    a performance-based reward from accumulated online feedback and a complementary rubric-based reward aligned with human
+    quality standards, then uses them to supervise policy optimization. DPO first moves the agentic policies toward online
+    preferences, and GRPO further refines both stages with process and outcome rewards. Offline experiments validate the reward
+    models and successive policy optimization. Online A/B experiments in the TikTok advertising system show that AgenticGen
+    after DPO and GRPO improves CTR by 2.72%, CVR by 2.63%, and Advv by 9.61% over the SFT baseline.
+  authors:
+  - Xingyuan Bu
+  - Chengru Song
+  - Hao Zhou
+  - Tao Zhou
+  - Dong Li
+  - Wei Li
+  - Shilong Li
+  - Hao Shi
+  - Yongxin Guo
+  - Donghao Zhou
+  - Qiangpeng Yang
+  - Shilei Wen
+  arxiv_categories:
+  - cs.CV
+  - cs.AI
+  - cs.CL
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +3:reward model
+  - +1:multimodal
+  direction_hints:
+  - preference-alignment
+  suggested_direction: preference-alignment
+  classification_method: direction-month-query
+  matched_queries:
+  - preference-alignment:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - dpo
+  - grpo
+  - reward-model
+  - agent
+  - multimodal
+  - video-generation
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.26176
+  title: 'Refusing Everything Looks Safe: Restoring the Benign Arm to Encoded-Prompt Evaluation'
+  date: '2026-08-12'
+  updated: '2026-09-24'
+  url: https://arxiv.org/abs/2609.26176
+  abstract: 'Encoded-prompt attacks are evaluated almost entirely on their harmful arm: a benchmark sends obfuscated harmful
+    requests and reports how often the model complied. A high refusal rate there is reported as safety, and it is equally
+    consistent with a model that has stopped telling the request apart from anything else in the same format. We run the benign
+    arm through the same transformation, and the two cases are far apart. Across four 7-8B models spanning three base families
+    and four post-training recipes, refusal of harmful homoglyph-encoded prompts spans 0.08 while the same four span 0.57
+    on the identical requests in plaintext. What the encoding destroys is not refusal but the harm gap: on one model the gap
+    between harmful and benign refusal falls from +0.82 in plaintext to exactly 0.00 under the encoding, and a benchmark reading
+    only the harmful arm scores that model and one retaining a +0.61 gap identically. Running the cell such benchmarks leave
+    out (plaintext content wearing the attack template, with nothing obfuscated) shows that on two of the four models the
+    loss is caused by the protocol rather than by the character transformation, and on a third by the characters. Across a
+    full SFT -> DPO -> RLVR pipeline the harm gap rises by +0.26 with a paired interval excluding zero while the standard
+    harmful-arm metric registers no resolved change at all. We report twelve instrument defects, each with the control that
+    caught it, including a binary jailbreak judge that fires on 0.61-0.70 of responses to plaintext benign prompts; six of
+    the twelve inflate apparent safety, which is the direction a broken safety evaluation fails in by default.'
+  authors:
+  - Haoyu Zhang
+  - Haowen Xu
+  - Xiao Luo
+  - Hanwen Liu
+  - Yang Chen
+  - Zijian Xiao
+  - Yi Feng
+  - Xiangchen Guan
+  - Mohammad Zandsalimy
+  - Shanu Sushmita
+  arxiv_categories:
+  - cs.CR
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +4:post-training
+  direction_hints:
+  - preference-alignment
+  suggested_direction: preference-alignment
+  classification_method: direction-month-query
+  matched_queries:
+  - preference-alignment:2026-08
+  status: candidate
+  auto_labels:
+  - sft
+  - dpo
+  - rlvr
+  - safety
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.30976
+  title: 'CastClaw: A Human-in-the-Loop Autonomous Agent for Interactive Time Series Forecasting'
+  date: '2026-08-31'
+  updated: '2026-10-16'
+  url: https://arxiv.org/abs/2608.30976
+  abstract: Practical time-series forecasting requires domain knowledge, constraints, plausibility checks, and human intervention.
+    We present CastClaw, an interactive forecasting system centered on an autonomous forecasting loop and supported by a forecasting-oriented
+    harness. Users create and refine tasks in natural language through command-line and Web interfaces. An internal large
+    language model (LLM) agent reads the task and evidence, selects a permitted tool action or request for human feedback,
+    and uses checked results to decide whether to continue, revisit an analysis, switch a candidate, or stop. The harness
+    supplies tool integration, controlled execution, state management, historical validation, and execution limits. npm distribution
+    connects installation and configuration to interactive execution and forecast and report export. Across five public electricity-price
+    datasets, CastClaw achieves the lowest point-estimate MSE and MAE among 16 baselines. A Nord Pool case study illustrates
+    its inspectable decision process, while provincial electricity-load data from North China (January--June 2026) demonstrate
+    offline task execution.
+  authors:
+  - Xiaoyu Tao
+  - Mingyue Cheng
+  - Ze Guo
+  - Bokai Pan
+  - Qi Liu
+  - Shijin Wang
+  - Enhong Chen
+  arxiv_categories:
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:human feedback
+  direction_hints:
+  - preference-alignment
+  suggested_direction: preference-alignment
+  classification_method: direction-month-query
+  matched_queries:
+  - preference-alignment:2026-08
+  status: candidate
+  auto_labels: []
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.29626
+  title: 'iCoder-27B: Recursive AI-Led Development of Frontier Industrial Coding Model'
+  date: '2026-08-28'
+  updated: '2026-08-28'
+  url: https://arxiv.org/abs/2609.29626
+  abstract: 'Recursive AI, the prospect of AI taking an increasingly complete role in building and improving AI, is a crown
+    jewel of AI for AI. Although recursive self-development has become practical for small models, bounded tasks, and fixed
+    time budgets, a more consequential realization of this ambition, i.e., developing a release-ready, frontier-competitive
+    model, remains far more challenging. In this work, we ask how little human involvement is sufficient for an agent to develop
+    a frontier model. We concentrate human input into a high-density, low-frequency interface: experts encode objectives,
+    stage scaffolds, permission boundaries, and operating procedures as reusable research skills, while the agent instantiates
+    these priors, selects experiments, diagnoses outcomes, and revises the training strategy. In the challenging domain of
+    industrial coding, the agent evolves data and coordinates SFT, on-policy self-distillation, and reinforcement learning
+    with verifiable rewards, ultimately producing iCoder, a 27B model for RTL design and GPU kernel optimization. Across seven
+    benchmarks, iCoder leads RTLLM, outperforming GPT-5.5 and Claude-Opus-4.8; ranks second on CVDP and KernelBench L2, exceeding
+    GPT-5.5 by 16 points; and ties Claude-Opus-4.8 for the best TritonBench result. Exploratory case studies further show
+    iCoder''s competitive iterative RTL and GPU-kernel optimization with substantially fewer tokens. These results chart an
+    engineering path toward recursive self-improvement, in which humans distill the principles of model building, agents operationalize
+    them through evidence-driven experimentation, and each generation of AI becomes a more capable architect of the next.'
+  authors:
+  - Cheng Yang
+  - Jiayang Lyu
+  - Shangyuan Liu
+  - Guibin Zhang
+  - Jiong Lin
+  - Xinlei Yu
+  - Junchi Yan
+  - Shuicheng Yan
+  - Weinan E
+  - Linfeng Zhang
+  - Linfeng Zhang
+  - Qibing Ren
+  arxiv_categories:
+  - cs.AI
+  - cs.CL
+  - cs.SE
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 14
+  rule_reasons:
+  - +2:reinforcement learning
+  - +4:verifiable reward
+  - +3:self-improvement
+  - +5:on-policy self-distillation
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - opsd
+  - distillation
+  - sft
+  - rlvr
+  - on-policy
+  - self-training
+  - self-improvement
+  - code
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.29518
+  title: 'CataOPD: Catalytic On-Policy Distillation for Large Language Model Reasoning'
+  date: '2026-08-25'
+  updated: '2026-10-10'
+  url: https://arxiv.org/abs/2609.29518
+  abstract: Reinforcement learning (RL) and on-policy distillation (OPD) are two representative paradigms for improving large
+    language model reasoning. However, when no correct trajectory is sampled, RL lacks a positive correctness signal, while
+    OPD remains constrained by the reasoning trajectories reachable under the student's on-policy distribution. Therefore,
+    we propose CataOPD, where the teacher acts as a catalyst rather than a target, expanding reachability while internalizing
+    verified student-produced trajectories into a catalyst-free policy. Self-Rescue Routing uses empirically all-failed groups
+    as routing signals rather than teacher-intervention triggers, first seeking correct trajectories through additional on-policy
+    self-sampling. For problems unresolved after self-rescue, Catalytic-Guided Self-Resolution uses catalytic guidance to
+    elicit a verified student-produced trajectory in the guided student distribution. Barrier-Weighted Internalization weights
+    tokens by guided-to-unguided log-probability gaps, focusing updates on decisive tokens difficult without guidance. Experimental
+    results show that CataOPD outperforms current baselines, extends independent student reasoning to still-unrecovered problems,
+    and improves out-of-distribution generalization under catalyst-free inference. Our project is available at https://github.com/QwenQKing/CataOPD.
+  authors:
+  - Wenjin Liu
+  - Chenxi Wang
+  - Jiapu Wang
+  - Zhe Cui
+  - Anh Tuan Luu
+  - Haoran Luo
+  arxiv_categories:
+  - cs.LG
+  - cs.CE
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 10
+  rule_reasons:
+  - +2:reinforcement learning
+  - +5:on-policy distillation
+  - +3:policy distillation
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - opd
+  - distillation
+  - on-policy
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.27833
+  title: 'From Reasoning Strings to Partial Orders: Verifier-Certified Rule Transport through Quotient Policy Optimization'
+  date: '2026-08-20'
+  updated: '2026-08-20'
+  url: https://arxiv.org/abs/2609.27833
+  abstract: Many computations admit several valid execution orders because independent subgoals or disjoint state updates
+    can commute. Reinforcement learning with verifiable rewards usually treats each successful trace as a separate token sequence,
+    so serialization choices can be mistaken for logical dependencies. We introduce Verifier-Certified Rule Transport (VCRT),
+    which replays adjacent operation pairs with native verifiers. Pairs whose two orders are accepted and reach the same canonical
+    state provide commutation certificates; rejected or state-changing reversals provide anti-diamonds. VCRT uses anti-diamonds
+    to preserve genuine prerequisites and assigns policy credit to the total probability mass of each certified orbit. It
+    also constrains post-swap consistency, source retention, and policy drift. We evaluate leave-one-environment-out transfer
+    across ProofWriter, CLRS, and Lean through a shared anonymized relation-graph interface. All training and checkpoint decisions
+    are frozen before held-out evaluation, which uses one greedy trajectory per item without search or verifier feedback.
+    VCRT obtains a 77.60% macro pass rate versus 64.53% for the strongest matched baseline, a paired gain of 13.06 points
+    (95% bootstrap CI [12.58, 13.54]). Lean accounts for most of this gain at 33.49 points, while ProofWriter and CLRS improve
+    by 2.85 points on average. Mechanism tests consistently favor anti-diamond supervision, whereas No-Orbit is statistically
+    indistinguishable from full VCRT. The evidence does not establish a general benefit from exact orbit aggregation.
+  authors:
+  - Bang Xie
+  - Hao Liu
+  - Zhiyuan Peng
+  - Xin Yin
+  - Chenhao Ying
+  - Yuan Luo
+  - Senjian Zhang
+  - Wei Chen
+  arxiv_categories:
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 9
+  rule_reasons:
+  - +2:reinforcement learning
+  - +4:verifiable reward
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - rlvr
+  - verifier
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.26217
+  title: 'MSA-CITE: A Co-Adapted LoRA Specialist Ecology for Fixed-Budget Small-Model Inference'
+  date: '2026-08-11'
+  updated: '2026-08-11'
+  url: https://arxiv.org/abs/2609.26217
+  abstract: 'Compact language models are typically deployed by retaining a single post-training checkpoint and sampling it
+    repeatedly. In this work, we challenge this practice by treating multiple discarded checkpoints as composable assets for
+    deployment. Starting from a single Qwen3-4B backbone, we preserve four frozen LoRA branches, each derived from a different
+    post-training trajectory. stead of drawing four generations from one branch, we allocate a fixed four-generation budget
+    by sampling one completion from each branch. Our method, Multi-path Specialist Adaptation with Calibrated Inference-Time
+    Evidence (MSA-CITE), processes the resulting portfolio by grouping terminal answers into equivalence classes, scoring
+    each class via summed calibration-derived source priors, and selecting a representative under deterministic tie-breaking
+    rules. The readout stage does not learn from evaluation results, nor does it introduce additional generations, verifiers,
+    or reranking steps. On 200 held-out mathematics items, the four-path portfolio achieves 65.5% accuracy, compared with
+    62.0% for the strongest single-branch baseline. On a 100-item subject-disjoint shift, it attains 42.0% versus 40.0%. Under
+    in-distribution conditions, the improvements over homogeneous SFT and Online-OPD repetition are robust; results against
+    the strongest baseline and under shifted conditions are not conclusive. Our findings offer a narrow but concrete contribution:
+    post-training branches, even without co-training, can be collectively beneficial for deployment.'
+  authors:
+  - Ruitong Li
+  - Binjie Guo
+  - Aisheng Mo
+  - Guowei Su
+  - Jie Li
+  - Ru Zhang
+  arxiv_categories:
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 7
+  rule_reasons:
+  - +4:post-training
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - opd
+  - sft
+  - verifier
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.27906
+  title: 'Design the Feedback, Not Just the Reward: Environments for Open-Ended Reinforcement Learning'
+  date: '2026-08-28'
+  updated: '2026-10-15'
+  url: https://arxiv.org/abs/2608.27906
+  abstract: Reinforcement learning has advanced large language models on tasks with reliable verifiers, where checking an
+    outcome provides a clear basis for reward. Extending this approach to open-ended tasks requires environments that can
+    both evaluate complex, partially successful outputs and turn these judgments into effective learning guidance. We propose
+    a reinforcement learning framework built around a training environment that integrates human domain knowledge with model
+    reasoning. Human domain knowledge, encoded in rubrics, anchors evaluation to task intent, while model reasoning combined
+    with hierarchical rewards distinguishes complex open-ended outputs and links diagnosed failures to likely responsible
+    output regions. Furthermore, these diagnostic attributions guide token-level weights in the GRPO objective, thereby translating
+    the ambiguous notion of success in open-ended tasks into concrete guidance for policy optimization. We instantiate this
+    framework in interactive web application generation, a representative open-ended generation task. The resulting model
+    achieves an average pass rate of 41.25\% on MiniAppBench and 76.19\% on ArtifactsBench. Ablation studies show the contributions
+    of individual components, while additional out-of-distribution evaluations support transferable gains without degrading
+    performance on other evaluated tasks.
+  authors:
+  - Rui Jin
+  - Jikai Chen
+  - Chengyue Yu
+  - Yihan Chen
+  - Hao Zhou
+  - Demin Zhu
+  - Kaichen Yang
+  - Dong Wang
+  - Linjian Mo
+  - Chenyi Zhuang
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 5
+  rule_reasons:
+  - +2:reinforcement learning
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - grpo
+  - verifier
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.17209
+  title: 'Teach and Grow: An Agent-Centered Architecture for General Robot Learning'
+  date: '2026-08-17'
+  updated: '2026-09-20'
+  url: https://arxiv.org/abs/2608.17209
+  abstract: 'Vision-language-action (VLA) and world-action models typically absorb unfamiliar manipulation tasks through additional
+    robot data collection and policy optimization. This recurring retraining burden slows the acquisition of new behavior.
+    We present Teach-and-Grow Learning (TGL), a training-free architecture that turns a few successful demonstrations into
+    reusable robot skills. Task acquisition requires no gradient updates, fine-tuning, or reinforcement learning: pretrained
+    model weights remain fixed as the robot expands its explicit knowledge. Teaching is an accelerator, not a precondition,
+    because the agent can also drive the robot directly, and demonstrations mainly improve reliability. Our implementation
+    uses OpenAI GPT-6 Astra for multimodal reasoning and Codex to connect the agent to robot tools. The agent identifies subgoals
+    shared across demonstrations, expresses them as closed-loop Skill Blocks, and grounds each block in the current scene.
+    Physical feedback guides the next action and any recovery. Verified behaviors enter a persistent Skill Library; Experience
+    Memory records the conditions and repairs that inform later decisions. TGL reaches 99.9% mean success on four LIBERO suites
+    and 92.4% on seven LIBERO-Plus perturbation categories. Controlled studies show that taught blocks persist and improve
+    related-task execution under the same model weights and executors. We further formulate a scaling hypothesis that relates
+    effective reusable experience to falling future-task error and teaching demand. Code and demonstration videos: https://tgl.changnie.top'
+  authors:
+  - Chang Nie
+  - Zhe Liu
+  - Hesheng Wang
+  arxiv_categories:
+  - cs.RO
+  - cs.AI
+  - cs.CV
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:multimodal
+  - +1:vision-language
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - multimodal
+  - vla
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.06481
+  title: Safe and Robust Neural Policy Learning with Statistical Verification for Sim-to-Real Deployment in Robotics
+  date: '2026-08-06'
+  updated: '2026-10-02'
+  url: https://arxiv.org/abs/2608.06481
+  abstract: Synthesizing safe and robust neural controllers in simulation for reliable sim-to-real deployment remains a critical
+    challenge in robotics. Existing learning-based methods typically lack safety and performance guarantees over an explicitly
+    defined operating region, while post-training verification techniques provide no mechanism to refine controllers when
+    safety violations are detected. To bridge this gap, we propose a curriculum-driven framework that tightly integrates scenario-based
+    Evolution Strategy with Statistical Model Checking-based verification in a closed-loop procedure. Starting from a candidate
+    region, our approach co-optimizes policy performance while progressively enlarging its safe operating boundaries. Upon
+    termination, it yields a neural controller together with a region over which safety and performance are statistically
+    verified. Extensive evaluations on Cartpole and 3D Quadrotor benchmarks, showing 6.14x and 224.04x expansions, respectively,
+    of the safe operating region over mathematically certified ones, together with physical experiments under both nominal
+    conditions and severe dynamic perturbations, demonstrate that our learned controllers consistently outperform established
+    control-theoretic and learning-based baselines. Furthermore, we show that the size of the verified region serves as a
+    quantitative indicator of policy quality before deployment. These results establish our framework as an automated pipeline
+    for learning, assessing and deploying safe and robust neural controllers from simulation to reality.
+  authors:
+  - Riccardo Curcio
+  - Hongpeng Cao
+  - Marco Caccamo
+  arxiv_categories:
+  - cs.RO
+  - cs.AI
+  - cs.LG
+  - cs.NE
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +4:post-training
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - curriculum
+  - robotics
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.00355
+  title: 'Vision Is Not Overhead: One-Pass Block Drafting for Lossless Speculative Decoding in Vision-Language Models'
+  date: '2026-08-31'
+  updated: '2026-10-06'
+  url: https://arxiv.org/abs/2609.00355
+  abstract: Speculative decoding accelerates generation without changing its output, but on vision-language models (VLMs)
+    a self-reinforcing cycle holds it back. Because an autoregressive drafter pays a sequential pass for each drafted token,
+    it must stay small and can ill afford to attend to the image at each pass. Prior work therefore compresses or hides the
+    image, leaving the drafter weakest on the text the image determines. We present GLANCE, a one-pass block drafter that
+    breaks this cycle on an unmodified VLM target. Its block-diffusion head drafts a whole block in one forward pass over
+    the target's already fused vision-language states, reading the multimodal context once, however deep the draft. The target
+    verifies a wide candidate tree in one pass and commits exactly its greedy output. In one production engine at a fixed
+    round budget, GLANCE decodes up to 3.05 times faster than autoregressive decoding and outpaces the production EAGLE3-VL
+    head on average and by about 11% on grounded tasks. An entropy law explains when drafting pays, predicting the longest
+    accepted blocks on grounded tasks, where the target's next-token entropy is lowest. Our code is available at https://github.com/js-lee-AI/GLANCE.
+  authors:
+  - Jungseob Lee
+  - Seongtae Hong
+  - Dongyub Jude Lee
+  - Chanjun Park
+  - Jaehyung Seo
+  - Sugyeong Eo
+  - Heuiseok Lim
+  arxiv_categories:
+  - cs.AI
+  - cs.CL
+  - cs.CV
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +1:multimodal
+  - +1:vision-language
+  - +1:diffusion
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - multimodal
+  - vlm
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.19164
+  title: 'Advantage Scale Calibration Imbalance in Group-Relative Optimization under Low-Variance Rewards: Diagnosis and Bounded
+    Recovery'
+  date: '2026-08-27'
+  updated: '2026-08-27'
+  url: https://arxiv.org/abs/2609.19164
+  abstract: 'In verifier-style RLVR, group-relative optimization often treats advantage scale as an implementation detail.
+    This paper separates two low-variance cases: sub-resolution jitter that should not become a preference signal, and credible
+    but small cardinal gaps that should be learned without distorting KL calibration. We propose an advantage-scale three-way
+    calibration interface: the same within-group scale denominator simultaneously determines the reward-branch strength, prompt-level
+    batch weight, and the effective KL calibration induced when the reward branch is re-expressed on the original cardinal
+    scale. This interface explains why RLOO / Dr.GRPO can let credible small gaps become KL dominated, whereas GRPO''s standard-deviation
+    denominator can amplify tiny gaps without bound. Based on this interface, we further introduce the Reward-Resolution Protocol
+    and MaxNorm-AC, respectively filtering sub-resolution gaps and providing bounded cardinal recovery on credible nonzero
+    gaps. Across dense / MoE architectures and math / code reasoning, MaxNorm-AC improves over the strongest robust-scale
+    baseline while truncating the low-variance inverse-scale tail.'
+  authors:
+  - Fei Ding
+  arxiv_categories:
+  - cs.CL
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - rlvr
+  - grpo
+  - verifier
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.27855
+  title: 'Reachable Global Optimization in AI Systems: How Global Is Global?'
+  date: '2026-08-20'
+  updated: '2026-08-20'
+  url: https://arxiv.org/abs/2609.27855
+  abstract: AI systems increasingly claim to optimize prompts, policies, architectures, plans, tool-use trajectories, reasoning
+    traces, and test-time computation. This paper argues that such claims are underspecified unless they state the region
+    actually reachable by the system that performed the optimization. We introduce Reachability-Induced Optimization (RIO),
+    a model in which a generator, verifier, controller, memory, tools, and budget induce a reachable candidate region. The
+    returned solution is therefore a best visited point, an approximate reachable optimum, or an exact global optimum only
+    when additional certificates relate the reachable region to the full formal space. We prove reachable-optimality, false-globality,
+    gap- decomposition, certificate, escape, pruning, and control-value results. The full benchmark record contains 66,150
+    executed trials over six known-optimum landscape families, seven control policies, 270 landscapes, and 35 runs per landscape-method.
+    The online appendix includes raw trial records, aggregate tables, figures, benchmark code, validation scripts, and checksums.
+    The results show that control can restrict, expand, or misdirect reachability, and that optimization quality, reachability
+    quality, and control reliability must be reported separately.
+  authors:
+  - Wesley Shu
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - verifier
+  - tool-use
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.26100
+  title: 'TSS: Target-Side Sparsification for Speculative Decoding in Domain-Specific Large Language Models'
+  date: '2026-08-15'
+  updated: '2026-08-15'
+  url: https://arxiv.org/abs/2609.26100
+  abstract: Speculative decoding accelerates large language model inference through collaboration between a lightweight draft
+    model and a target verifier. Existing methods mainly improve the draft side, while the target model is typically kept
+    dense and unchanged. We show that, under domain-specific inference, full-depth target verification is not always the optimal
+    choice. Counter-intuitively, skipping selected target layers can reduce verification cost while simultaneously increasing
+    draft acceptance and preserving, or even improving, downstream task performance. Based on this observation, we propose
+    TSS, a target-side sparsification framework for speculative decoding. TSS employs an acceptance- and metric-aware breadth
+    search to explore multi-layer skip configurations without imposing a fixed priority between the two objectives. The selected
+    configurations are stored in a domain-to-configuration mapping and applied by a lightweight skip controller, allowing
+    one complete target model to support multiple sparse verification paths without retraining or permanent parameter pruning.
+    Experiments on Spec-Bench across multiple domains, model scales, and speculative decoding methods show consistent improvements
+    in draft acceptance and downstream task performance. In Translation setting, TSS increases the average accept length from
+    2.70 to 4.53 (+67.8%), improves BLEU from 0.131 to 0.237 (+80.9%), and raises end-to-end throughput from 75.6 to 127.3
+    tokens/s, corresponding to a 1.68X speedup.
+  authors:
+  - Haibo Hu
+  - Lianming Huang
+  - Qiao Li
+  - Nan Guan
+  - Chun Jason Xue
+  arxiv_categories:
+  - cs.CL
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - verifier
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.22101
+  title: Context Poisoning as Extreme-Value Attention Interference in Long-Context Language Models
+  date: '2026-08-12'
+  updated: '2026-08-12'
+  url: https://arxiv.org/abs/2609.22101
+  abstract: 'Large language models can process increasingly long prompts, yet their ability to locate and use decisive evidence
+    may degrade as irrelevant or confusable context is added. We formulate this phenomenon, which we call context poisoning,
+    as extreme-value interference in attention: the decisive-evidence score is upper-bounded, while the maximum score among
+    effective distractors grows with their number. Under a softmax retrieval abstraction, we derive a finite-sample upper
+    bound showing that maintaining a fixed accuracy target above base rate requires the evidence margin to scale as $Ω(\sqrt{\log
+    N})$, where N denotes the effective distractor count rather than necessarily the raw context length. The analysis connects
+    long-context degradation to score aliasing, positional aliasing, and softmax dilution. Controlled experiments show that
+    retrieval accuracy decreases as total context grows in the presence of embedded hard negatives, that the same-format condition
+    produces the largest observed accuracy drop among the tested distractor constructions at fixed context length, and that
+    retrieval gating can improve evidence use while its net benefit depends on preserving evidence recall. These results motivate
+    evidence bottlenecks, alias-resistant representations, retrieve-then-reason architectures, verifier-mediated memory, and
+    contrastive anti-poison training.'
+  authors:
+  - Meysam Ghaffari
+  - Nina Fatehi
+  - Bhaskar Sen
+  - Nasim Sabetpour
+  - Carlos Morato
+  arxiv_categories:
+  - cs.CL
+  - cs.AI
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - verifier
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.26144
+  title: 'When Verifiers Vote Backwards under Verdict Substitution: Signed Pivotal Value in Correlated Self-Consistency'
+  date: '2026-08-08'
+  updated: '2026-08-08'
+  url: https://arxiv.org/abs/2609.26144
+  abstract: 'Replacing one ballot can change a majority decision only on queries decided by a single vote; this structural
+    fact requires no independence assumption. We study the sign of that change using a labeled, verdict-style intervention:
+    one correctness signal replaces one correctness-indicator ballot in $k{=}7$ self-consistency panels. This diagnostic intervention
+    is not identical to deployed answer-identity plurality. A primary MATH-500 experiment ($n{=}570$) gives a different-model
+    verifier a $+24.2$pp pivotal gain, whereas a role-reversed configuration gives $-11.2$pp; an exploratory code stress test
+    (14 pivotal rows across 9 tasks) gives $-24.5$pp. An exact signed-gain decomposition accounts for all observed signs through
+    the verifier''s state-specific accuracy and the composition of the two one-vote tally states, rather than global accuracy
+    or model provenance. Same-source signals lose accuracy on the pivotal stratum (65$\to$44\% in the primary configuration),
+    while error correlations provide a descriptive error-association diagnostic. Controlled degradation and a $k\in\{3,5,7\}$
+    subset sensitivity analysis probe the stability of the observed pattern around this accounting. Under the evaluated ties-incorrect
+    answer-identity plurality analysis, the structural zero and strong-verifier benefit persist, but the role-reversed harm
+    attenuates to $-0.9$pp and is not significant. The results therefore establish harmful verdict substitution, not universally
+    harmful deployed plurality, and motivate a testable but unverified hypothesis for negative process-reward-model weights.'
+  authors:
+  - Yang Shu
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - verifier
+  - safety
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.26135
+  title: 'VACS: Value-Aligned Compositional Shielding for Multi-Agent Reasoning'
+  date: '2026-08-07'
+  updated: '2026-10-16'
+  url: https://arxiv.org/abs/2609.26135
+  abstract: 'Multi-agent reasoning systems in high-stakes domains must be both accurate and safe, yet agents often follow
+    heterogeneous value priorities (e.g., rigor, conciseness, safety), causing conflicting recommendations. Existing methods
+    do not jointly provide: (i) principled inference of each agent''s implicit values from behavior, (ii) compositional formal
+    safety guarantees without full online communication, and (iii) value-aware conflict resolution with faithful explanations.
+    We present VACS (Value-Aligned Compositional Shielding), a four-layer framework addressing all three. Layer 1 learns value-dimension
+    rewards from pairwise preferences using Bradley-Terry modeling and infers per-agent value weights via deep MaxEnt IRL.
+    Layer 2 encodes value constraints in a Lean-inspired DSL and synthesizes compositional assume-guarantee shields for runtime
+    safety. Layer 3 resolves disagreement through nucleolus-based credit allocation and Hamiltonian consensus optimization
+    under long-term value constraints. Layer 4 extracts a critical reasoning path from co-state sensitivities and generates
+    formally grounded natural-language explanations. Our contribution is primarily a unified systems design with formalized
+    interfaces and operational guarantees at the verifier-constrained decision level, rather than a complete end-to-end formal
+    proof of all language-model internals. In controlled proof-of-concept evaluations with role-conditioned agent panels on
+    NEJM-AI QA, MathInstruct-Subset, and a cybersecurity incident-response benchmark (CyberSec-Eval), VACS outperforms strong
+    baselines in accuracy (85.4%, 95.0%, and 90.0%) while reducing logical inconsistency rates to near zero.'
+  authors:
+  - Yiyao Zhang
+  - Diksha Goel
+  - Hussain Ahmad
+  arxiv_categories:
+  - cs.AI
+  - cs.MA
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:verifier
+  direction_hints:
+  - reward-verifiers
+  suggested_direction: reward-verifiers
+  classification_method: direction-month-query
+  matched_queries:
+  - reward-verifiers:2026-08
+  status: candidate
+  auto_labels:
+  - verifier
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.27869
+  title: 'Learning What to Activate: Combinatorial Capability Allocation for Long-Horizon Multimodal Agents'
+  date: '2026-08-20'
+  updated: '2026-08-20'
+  url: https://arxiv.org/abs/2609.27869
+  abstract: Long-horizon multimodal agents rely on specialized capabilities for perception, retrieval, reasoning, verification,
+    and execution. Existing designs typically activate a fixed capability set or invoke a predefined workflow, incurring substantial
+    computational overhead while failing to accommodate stage-dependent capability demands. In this paper, we study the \textit{combinatorial
+    capability allocation} problem for long-horizon multimodal agent systems, where the system selects a cost-sensitive subset
+    of specialized capabilities at each interaction stage, which is nontrivial since capability values depend on the selected
+    subset, while previous allocations alter the states encountered by subsequent decisions. We introduce \textsc{CoCA}, an
+    on-policy learning framework that recovers a deployable capability-subset policy from sparse conditional comparisons.
+    On states visited by the student policy, the stronger teacher compares the marginal net values of candidate capabilities,
+    conditioned on the currently selected subset. Then, we adopt a conditional utility model to transform such comparisons
+    into an autoregressive capability-subset policy, avoiding explicit enumeration. We further introduce dual-level on-policy
+    distillation to address distribution mismatch both across environment states and within the partial subsets encountered
+    during set construction. Finally, trajectory-level reinforcement learning refines the distilled policy toward task success,
+    activation cost, and allocation stability. At inference time, allocation is performed solely by the lightweight student
+    policy without teacher queries or online updates. Experiments on long-horizon multimodal environments and controlled capability-demand
+    shifts demonstrate the superiority of our method over the state-of-the-a
+  authors:
+  - Wenhao Yuan
+  - Chenchen Lin
+  - Jian Chen
+  - Jinfeng Xu
+  - Shuo Yang
+  - Edith Cheuk-Han Ngai
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 11
+  rule_reasons:
+  - +2:reinforcement learning
+  - +5:on-policy distillation
+  - +3:policy distillation
+  - +1:multimodal
+  direction_hints:
+  - distillation
+  suggested_direction: distillation
+  classification_method: direction-month-query
+  matched_queries:
+  - distillation:2026-08
+  status: candidate
+  auto_labels:
+  - opd
+  - distillation
+  - on-policy
+  - long-horizon
+  - multimodal
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.22109
+  title: A Shared Learning Rate Is Not a Neutral Control in Selective On-Policy Distillation
+  date: '2026-08-17'
+  updated: '2026-08-17'
+  url: https://arxiv.org/abs/2609.22109
+  abstract: 'Selective on-policy distillation trains a student only at the token positions a selector scores highest, and
+    the literature compares selectors under a single shared learning rate--a control chosen to be neutral. We show it is not.
+    Under LoRA on GSM8K (Qwen2.5-1.5B student, 7B teacher), across an 8x learning-rate grid, dense supervision is statistically
+    flat (swing 1.8 pp, p=0.26) while every selective arm moves with the rate: 5.4 pp for a random 5% subset, 6.7 pp for a
+    total-variation selector, up to 17.7 pp for a teachability selector. Consequently the dense-versus-selective verdict reads
+    10.1 pp at lr=1e-4 but 5.1 pp at 5e-5--a 2.0x difference decided by a parameter the protocol treats as scenery--and two
+    of six pairwise significance calls between selectors flip between adjacent rates without any rank inversion. We call this
+    selector-rate entanglement and trace it to selection itself rather than step size: AdamW update magnitudes track the rate
+    to within 2.2% despite 15.5x gradient-norm differences across arms. A preregistered frozen-scoring ablation (selection
+    scored by the initial student; criterion, budget, and on-policy rollouts unchanged; 12 seeds per cell) shows live scoring
+    adds 3.79+/-1.69 pp of rate sensitivity (p=0.035) while the frozen arm remains significantly entangled (p=0.015): the
+    feedback loop aggravates the phenomenon rather than causing it. Under full fine-tuning at the rates this literature actually
+    uses (1e-6 to 1e-5) the pattern grows: dense itself swings 19.8 pp, the selective arm 49.5 pp, and the verdict ranges
+    from a non-significant +3.6 pp at the published operating point to +34 pp (p=0.005) one notch hotter. On MATH-500 the
+    rate dependence does not reproduce under LoRA, scoping that result, while the ~10 pp cost of selective training does.
+    W'
+  authors:
+  - Chencheng Zhu
+  arxiv_categories:
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 8
+  rule_reasons:
+  - +5:on-policy distillation
+  - +3:policy distillation
+  direction_hints:
+  - distillation
+  suggested_direction: distillation
+  classification_method: direction-month-query
+  matched_queries:
+  - distillation:2026-08
+  status: candidate
+  auto_labels:
+  - opd
+  - distillation
+  - on-policy
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.27763
+  title: Alignment of LRMs via Counter-Aligned Few-Shot Conversation Exposure
+  date: '2026-08-16'
+  updated: '2026-08-16'
+  url: https://arxiv.org/abs/2609.27763
+  abstract: Large Reasoning Models (LRMs) rely on explicit chain-of-thought (CoT) reasoning and large context windows to achieve
+    strong performance on complex tasks, but these features also introduce new attack surfaces. We show that LRMs' reasoning
+    processes can be systematically steered by prepending counter-aligned few-shot conversations containing explicit CoT traces,
+    leading to unsafe generations on harmful queries and unwarranted refusals on benign ones. We formalize this attack as
+    SRCF (Steering Reasoning via Counter-Aligned Few-shot Conversations) that operates solely through a flexible conversational
+    interface and requires no access to the model's parameters and gradients. Our key insight is that SRCF exploits an adversarial
+    generalization issue that induces a representation drift, causing the representations of benign and harmful inputs to
+    shift in a similar direction. This observation motivates our post-training defense, ARCF (Aligning Reasoning via Counter-Aligned
+    Few-Shot Conversations), which exposes models to counter-aligned conversational contexts while enforcing aligned targets.
+    ARCF is compatible with existing post-training methods and consistently improves safety and helpfulness without degrading
+    utility.
+  authors:
+  - Xiangyu Zhou
+  - Saleh Zare Zade
+  - Dongxiao Zhu
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +4:post-training
+  direction_hints:
+  - reasoning-self-improvement
+  suggested_direction: reasoning-self-improvement
+  classification_method: direction-month-query
+  matched_queries:
+  - reasoning-self-improvement:2026-08
+  status: candidate
+  auto_labels:
+  - reasoning
+  - safety
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.05511
+  title: 'SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction'
+  date: '2026-08-31'
+  updated: '2026-08-31'
+  url: https://arxiv.org/abs/2609.05511
+  abstract: Web agents need to navigate visually rich, long-horizon interfaces that change across sites, yet most previous
+    agents still learn each task in isolation and discard the procedural knowledge they accumulate. Recent skill-augmented
+    frameworks take an important first step, but they treat the skill library as a flat or two-tier prompt-side cache and
+    offer no principled mechanism for compressing redundancy or composing skills recursively. We introduce \textsc{Scaffold},
+    a self-improving framework for visual web agents that (i) induces parametric, executable skills from successful trajectories
+    under a multi-instance abstraction constraint, (ii) maintains a recursively composed hierarchy in which higher-level skills
+    invoke lower-level ones, (iii) compacts the library via a minimum-description-length (MDL) criterion and behavioral equivalence
+    checking, and (iv) periodically distills skill-augmented trajectories back into model weights to internalize the abstractions.
+    Across WebArena, VisualWebArena, and a held-out split of Online-Mind2Web, \textsc{Scaffold} improves success rate by $11.1$--$17.2$
+    absolute points over the strongest skill-augmented baseline and shows monotonic gains across five self-improvement iterations
+    without library collapse. We release the code and documents in the Github \href{https://github.com/BokwaiHo/SCAFFOLD}{repository}.
+  authors:
+  - Bowei He
+  - Xiaokun Zhang
+  - Meng Ding
+  - Xue Liu
+  arxiv_categories:
+  - cs.AI
+  - cs.CL
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +3:self-improvement
+  direction_hints:
+  - reasoning-self-improvement
+  suggested_direction: reasoning-self-improvement
+  classification_method: direction-month-query
+  matched_queries:
+  - reasoning-self-improvement:2026-08
+  status: candidate
+  auto_labels:
+  - self-improvement
+  - web-agent
+  - long-horizon
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.20844
+  title: Boosting Deepresearch and LongContext Ability with Self-Generated Deepresearch Rollouts Traces
+  date: '2026-08-05'
+  updated: '2026-08-05'
+  url: https://arxiv.org/abs/2609.20844
+  abstract: Deepresearch (DR) agents interact with real-world web environments through multi-turn search and visit, causing
+    their contexts to grow rapidly over time. We observe that, even after DR Agentic Reinforcement Learning (DR-RL), 61.6%
+    of the model's remaining prediction errors can still be attributed to insufficient long-context understanding, including
+    longcontext hallucination and failures in cross-document evidence integration. It motivates us to further break the bottleneck
+    of DR-RL by strengthening the model's long-context ability. However, effective LongContext training requires more than
+    simply increasing context length. To bridge the data gap, we propose `DR Rollouts to LongContext-QA (DR-to-Long)'. The
+    method repurposes DR-RL trajectories, which naturally contain search histories, visited webpages, evidence snippets, and
+    final-answer supervision. It then replaces the compact snippets and webpage summaries in each trajectory with the full
+    contents of their corresponding URLs, producing substantially longer multi-document contexts while preserving the original
+    evidence relationships. Building on DR-to-Long, we introduce DLD (DR -> LongQA -> DR)-RL. DLD-RL first performs a short
+    DR-RL stage to collect rollout trajectories, which are then converted into LongQA instances at zero annotation cost. The
+    model is subsequently optimized with LongQA-RL to strengthen LongContext ability, followed by full DR-RL to continue improving
+    its DR capability. Experiments show that DLD-RL outperforms standard DR-RL by 7.3% on three Deepresearch benchmarks and
+    improves performance by 13.5% on three long-context benchmarks.
+  authors:
+  - Zihan Wang
+  - Hao Wang
+  - Boyuan Jiang
+  - Yiqun Zhang
+  - Shi Feng
+  - Xiaocui Yang
+  - Yiwen Ye
+  - Jianghang Lin
+  - Xiaozhong Ji
+  - Jinghao Lin
+  - Kai Wu
+  arxiv_categories:
+  - cs.CL
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 7
+  rule_reasons:
+  - +2:reinforcement learning
+  - +4:agentic reinforcement learning
+  - +1:multi-turn
+  direction_hints:
+  - agentic
+  suggested_direction: agentic
+  classification_method: direction-month-query
+  matched_queries:
+  - agentic:2026-08
+  status: candidate
+  auto_labels:
+  - agent
+  - multi-turn
+  - hallucination
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.05459
+  title: Compiling VGDL into Causal Models
+  date: '2026-08-10'
+  updated: '2026-08-10'
+  url: https://arxiv.org/abs/2609.05459
+  abstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of
+    game environments. Standard reinforcement learning agents tend to rely on spurious correlations, while large language
+    models are prone to hallucinating game rules. Although causal reinforcement learning improves interpretability, there
+    is currently no formal methodology to map complex game mechanics directly into causal models. To address this, we propose
+    a deterministic framework that compiles games specified in the Video Game Description Language into Dynamic Structural
+    Causal Models. Rather than inferring causal structures from gameplay traces or noisy large language models' outputs, our
+    methodology directly translates game components, including sprite dynamics, interaction rules, and termination conditions,
+    into explicit structural equations. Each game tick represents a causal transition from state variables at time $t$ to
+    $t+1$. By establishing this grounded mapping, the approach guarantees absolute causal fidelity to the ground-truth game
+    mechanics. The resulting models offer transparent causal pathways that support counterfactual reasoning, causal reinforcement
+    learning agent training, and procedural content validation. This framework provides a principled bridge between symbolic
+    game descriptions and causally grounded game AI.
+  authors:
+  - Mohit Jiwatode
+  - Bodo Rosenhahn
+  - Alexander Dockhorn
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 5
+  rule_reasons:
+  - +2:reinforcement learning
+  - +3:agent training
+  direction_hints:
+  - agentic
+  suggested_direction: agentic
+  classification_method: direction-month-query
+  matched_queries:
+  - agentic:2026-08
+  status: candidate
+  auto_labels:
+  - counterfactual
+  - agent
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.03600
+  title: Large language models for partial differential equation workflows
+  date: '2026-08-04'
+  updated: '2026-10-11'
+  url: https://arxiv.org/abs/2608.03600
+  abstract: 'Numerical methods and deep learning have advanced the modelling and simulation of systems governed by partial
+    differential equations (PDEs), while formulating equations, configuring solvers, and translating simulations into design
+    and control decisions continue to demand substantial domain expertise and computational resources. Large language models
+    (LLMs) offer opportunities to automate and coordinate these tasks by combining scientific knowledge, mathematical reasoning,
+    code generation, and tool use. Here we review LLM-assisted PDE research across three stages, including discovery, solving,
+    and optimization. We examine how LLMs interact with physical knowledge, numerical methods, and computational feedback
+    to formulate models, implement solution procedures, and guide design and control. We also review existing benchmarks and
+    evaluation practices for assessing scientific validity, computational performance, and workflow reliability. Finally,
+    we discuss three interconnected challenges and opportunities: developing mathematical and physical reasoning tailored
+    to specific PDE problems; building transferable domain expertise through domain-specific and multimodal post-training;
+    and integrating active experimental design with scientific validation for open-ended problems. These directions outline
+    a path towards a more substantive role for LLMs in developing and testing scientific ideas and computational methods across
+    PDE research.'
+  authors:
+  - Han Wan
+  - Rui Zhang
+  - Hao Sun
+  arxiv_categories:
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 5
+  rule_reasons:
+  - +4:post-training
+  - +1:multimodal
+  direction_hints:
+  - agentic
+  suggested_direction: agentic
+  classification_method: direction-month-query
+  matched_queries:
+  - agentic:2026-08
+  status: candidate
+  auto_labels:
+  - tool-use
+  - multimodal
+  - reasoning
+  - math
+  - code
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.13517
+  title: 'Mimir: A Sub-2B Hierarchical Reasoning Model Trained on Permissible Data Punches Above Its Weight Class'
+  date: '2026-08-13'
+  updated: '2026-10-22'
+  url: https://arxiv.org/abs/2608.13517
+  abstract: 'Training capable language models typically relies on web-scale pretraining followed by multi-stage post-training,
+    creating substantial computational and data-governance barriers for settings in which training data must satisfy explicit
+    permissibility constraints. We introduce Mimir, a 1.78B-parameter language model based on the Hierarchical Reasoning Model
+    Text (HRM-Text) architecture, a recurrent-depth transformer whose layers are split into a low-level (L) and a high-level
+    (H) stack that are applied repeatedly in an interleaved schedule. Mimir is trained from random initialization directly
+    on a curated mixture of instruction, reasoning, tool-use, multilingual, and synthetic data: 161 datasets and 70.5B tokens
+    per epoch for Mimir v1, extended to 103B tokens per epoch for its continued-training successor Mimir v1.5, with synthetic
+    replacements for sources that do not satisfy permissibility criteria. Across 20 benchmarks in English, Danish (a low-resource
+    language with ~6M speakers), and Math & Code, Mimir v1.5 attains the highest average score of all sub-2B models in every
+    domain, outperforming both HRM-Text 1B and the looped transformers Ouro 1.4B and Ouro 2.6B, and Mimir matches or exceeds
+    the performance of models of up to 9B parameters, such as Qwen 3.5 9B and Gemma 4 E4B, on the English and Danish averages.
+    Two independent memorisation audits indicate low memorisation risk despite multi-epoch training. Inference-time ablations
+    show that the number of L-stack applications can be changed with graceful degradation, whereas changing the number of
+    H-stack applications breaks the model. Our results provide evidence that hierarchical recurrent language models can learn
+    effectively from post-training-oriented, permissible data mixtures without conventional web-scale pretra'
+  authors:
+  - Peter Schneider-Kamp
+  - Jacob Nielsen
+  - Gianluca Barmina
+  - Danial Namazifard
+  - Annemette Brok Pirchert
+  - Kenneth Enevoldsen
+  - Lukas Galke Poech
+  arxiv_categories:
+  - cs.CL
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +4:post-training
+  direction_hints:
+  - agentic
+  suggested_direction: agentic
+  classification_method: direction-month-query
+  matched_queries:
+  - agentic:2026-08
+  status: candidate
+  auto_labels:
+  - synthetic-data
+  - tool-use
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.20300
+  title: Improving Generalization and Robustness in Offline Reinforcement Learning via Boundary-Aware Data Augmentation
+  date: '2026-08-22'
+  updated: '2026-08-22'
+  url: https://arxiv.org/abs/2609.20300
+  abstract: Current offline reinforcement learning (ORL) algorithms tend to overfit the training dataset and exhibit poor
+    in-distribution generalization and robustness performance when deployed to real environments, thus compromising their
+    effectiveness. Existing methods typically enhance in-distribution generalization and robustness by leveraging regularization
+    techniques widely used in computer vision. However, due to the high sensitivity of low-level physical signals to distributional
+    shifts, these methods still suffer from notable limitations in in-distribution generalization and robustness, making it
+    difficult to achieve stable performance in complex environments. To address this issue, we theoretically analyze the error
+    bounds of the behavior policy and action-value function trained with random episode interpolation, revealing that the
+    error scales positively correlated with the distance between states. Based on this insight, we propose a method called
+    $\bf{B}$oundary-$\bf{A}$ware $\bf{D}$ata $\bf{A}$ugmentation (BADA), which leverages neighboring states to construct interpolation
+    boundaries, enabling the generation of synthetic data that more faithfully preserves the original data distribution. We
+    first conduct qualitative studies in a toy environment, showing that BADA generates mixed samples that preserve desirable
+    policy smoothness while accurately reconstructing multimodal value distributions. Extensive experiments on limited offline
+    datasets further demonstrate that BADA attains state-of-the-art performance across diverse benchmarks.
+  authors:
+  - Gong Gao
+  - Weidong Zhao
+  - Xianhui Liu
+  arxiv_categories:
+  - cs.LG
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:multimodal
+  direction_hints:
+  - multimodal
+  suggested_direction: multimodal
+  classification_method: direction-month-query
+  matched_queries:
+  - multimodal:2026-08
+  status: candidate
+  auto_labels:
+  - synthetic-data
+  - multimodal
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.20191
+  title: 'VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots'
+  date: '2026-08-07'
+  updated: '2026-08-07'
+  url: https://arxiv.org/abs/2609.20191
+  abstract: Running vision-language navigation fully onboard an aerial robot is hard, since grounding, planning, and control
+    must share limited compute and a single-stage error is difficult to isolate in flight. End-to-end aerial policies fuse
+    these stages into one network, giving up the observability and safety checks a modular stack keeps available. We propose
+    VLN on the Fly, an onboard stack that keeps grounding, planning, and control as separate, inspectable stages. A quantized
+    VLM grounds an instruction to a coarse image cell, depth lifts it to a 3D goal, a fast B-spline planner returns a feasible
+    trajectory, and a pretrained reinforcement learning policy tracks it to motor commands across quadrotors. Across 15 onboard
+    flights over three everyday referents in a controlled indoor volume, the stack reaches the target in 13 of 15 trials with
+    5.72 cm mean goal error and 39.3% average GPU utilization. In 6 additional cluttered-environment trials, the stack tracks
+    collision-free trajectories under onboard perception gating.
+  authors:
+  - Marco S. Tayar
+  - Felipe Tommaselli
+  - Gianluca Capezutto
+  - Pedro Antonio Rabelo Saraiva
+  - Pedro H. V. de Freitas
+  - Lucas Kido
+  - Guilherme Sonego
+  - Ricardo V. Godoy
+  - Marcelo Becker
+  arxiv_categories:
+  - cs.RO
+  - cs.AI
+  - cs.CV
+  - cs.LG
+  - eess.SY
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:vision-language
+  direction_hints:
+  - multimodal
+  suggested_direction: multimodal
+  classification_method: direction-month-query
+  matched_queries:
+  - multimodal:2026-08
+  status: candidate
+  auto_labels:
+  - vlm
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2609.29517
+  title: 'AdaPilot: Towards Scene-Adaptive Policy Learning for Cross-Generator Text-to-Image Quality Optimization'
+  date: '2026-08-25'
+  updated: '2026-08-25'
+  url: https://arxiv.org/abs/2609.29517
+  abstract: Existing methods for improving text-to-image generation quality have progressed from generator fine-tuning and
+    prompt optimization to reinforcement learning with multi-turn visual feedback. However, existing strategies are deeply
+    coupled with specific generators and tasks, and the learned capabilities are difficult to generalize into a universal
+    quality optimization policy. Therefore, we propose AdaPilot, which learns a scene-adaptive, cross-generator transferable
+    quality optimization policy by formulating multi-turn image generation as a Markov Decision Process (MDP) and optimizing
+    it via end-to-end reinforcement learning. Specifically, AdaPilot decouples the policy from generator internals to enable
+    cross-generator transfer, introduces scene-aware rewards that adaptively align quality assessment dimensions with task
+    semantics, and employs process-level rewards to model the evolution trajectory of image quality. Experimental results
+    show AdaPilot outperforms baselines in generation quality and generalization. Separate cross-generator evaluations further
+    show that a single policy transfers zero-shot to unseen generators while maintaining positive average gains across all
+    evaluated generators. Our project is available at https://github.com/QwenQing/Ada_pilot.
+  authors:
+  - Wenjin Liu
+  - Fayuan Ke
+  - Yue Lu
+  - Zhe Cui
+  - Anh Tuan Luu
+  - Haoran Luo
+  arxiv_categories:
+  - cs.CV
+  - cs.CE
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 3
+  rule_reasons:
+  - +2:reinforcement learning
+  - +1:multi-turn
+  direction_hints:
+  - generative-media
+  suggested_direction: generative-media
+  classification_method: direction-month-query
+  matched_queries:
+  - generative-media:2026-08
+  status: candidate
+  auto_labels:
+  - multi-turn
+  - image-generation
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.02958
+  title: 'ValueFormer: Stage-Aware Value Labels for Online Failure Detection and VLA Post-Training'
+  date: '2026-08-03'
+  updated: '2026-10-14'
+  url: https://arxiv.org/abs/2608.02958
+  abstract: 'Generalist vision-language-action (VLA) policies now transfer to new scenes with little task-specific training,
+    but they still fail silently: from the action stream alone, a collapsing rollout looks much like one making clean progress,
+    because imitation supplies no notion of progress. The cheap alternative, a terminal success / failure bit, is learnable
+    in principle yet too sparse to say when a rollout went wrong. We argue that the per-frame label is the hard part, and
+    that it works better when continuous and non-monotonic: a score rather than a single success or failure, and one free
+    to fall and then rise again as a rollout goes wrong and recovers. Such a label is cheap to obtain: a person marks only
+    the stage at which an episode went wrong, and the per-frame values are computed from that. We present ValueFormer, a policy-agnostic
+    causal transformer (3.5M parameters) over a frozen DINOv3 backbone, emitting two per-frame signals in one forward pass:
+    a smooth Monte Carlo value for advantage estimation and a sharp binary value for online mistake detection. Failed episodes
+    carry a stage-aware, success-then-decay return. A teleoperation station already records an intervention flag; reusing
+    it lifts held-out detection from 0.38 to 0.82 average precision and flags 95% of mistakes before the operator reacts.
+    On a real bimanual sandwich station, feeding the critic back as a per-frame post-training weight raises task completion
+    from 70% to 85% and removes a repeat-pick failure mode in our trials, although at n=20 that gain sits within noise.'
+  authors:
+  - Inkyu Sa
+  - Konstantin Stulov
+  - Rajat Bhageria
+  arxiv_categories:
+  - cs.RO
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 5
+  rule_reasons:
+  - +4:post-training
+  - +1:vision-language
+  direction_hints:
+  - embodied-vla
+  suggested_direction: embodied-vla
+  classification_method: direction-month-query
+  matched_queries:
+  - embodied-vla:2026-08
+  status: candidate
+  auto_labels:
+  - vla
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2608.19085
+  title: 'DA-WAM: Decision-Aligned Future Latents for Driving World Models'
+  date: '2026-08-19'
+  updated: '2026-10-18'
+  url: https://arxiv.org/abs/2608.19085
+  abstract: World models for autonomous driving should anticipate the consequences that matter for driving decisions rather
+    than reconstruct every detail of future scenes. However, predictive representations alone are not guaranteed to distinguish
+    candidate actions that lead to different planning outcomes.We propose DA-WAM, a decision-aligned world action model that
+    couples a Joint-Embedding Predictive Architecture (JEPA) with candidate-level trajectory scoring. During joint training,
+    the JEPA objective grounds future representations in observed scene dynamics, while the planning objectives encourage
+    these representations to capture distinctions relevant to safety and utility. An action-conditioned predictor generates
+    a distinct future latent for each candidate trajectory, and a multi-head trajectory scorer uses the corresponding latent
+    to estimate planning factors and overall utility. In addition, safety-critical post-training with hard negatives further
+    improves discrimination between geometrically similar trajectories with different safety outcomes. DA-WAM achieves state-of-the-art
+    performance among learned camera-based planners on NAVSIM-v1, NAVSIM-v2, and Bench2Drive. Ablation studies demonstrate
+    the effectiveness of each component in driving decision-making.
+  authors:
+  - Ruiguo Zhong
+  - Xiaolong Chen
+  - Benshan Ma
+  - Lang Zhang
+  - Mingyue Feng
+  - Yaonong Wang
+  - Pei Liu
+  - Jun Ma
+  arxiv_categories:
+  - cs.RO
+  - cs.AI
+  source_signals:
+  - arxiv-monthly-backfill
+  rule_score: 4
+  rule_reasons:
+  - +4:post-training
+  direction_hints:
+  - embodied-vla
+  suggested_direction: embodied-vla
+  classification_method: direction-month-query
+  matched_queries:
+  - embodied-vla:2026-08
+  status: candidate
+  auto_labels:
+  - autonomous-driving
+  label_method: controlled-vocabulary-v1
