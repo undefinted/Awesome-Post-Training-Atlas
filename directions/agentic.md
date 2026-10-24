@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**539 papers**: 2 curated and 537 academic discovery candidates.
+**585 papers**: 2 curated and 583 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐46 · [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓20 · [Oct](#2025-10) ✓33 · [Sep](#2025-09) ✓33 · [Aug](#2025-08) ✓14 · [Jul](#2025-07) ✓11 · [Jun](#2025-06) ✓13 · [May](#2025-05) ✓16 · [Apr](#2025-04) ✓6 · [Mar](#2025-03) ✓8 · [Feb](#2025-02) ✓7 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓6 · [Nov](#2024-11) ✓4 · [Oct](#2024-10) ✓6 · [Sep](#2024-09) ✓2 · [Aug](#2024-08) ✓4 · [Jul](#2024-07) ✓0 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓7 · [Feb](#2024-02) ✓4 · [Jan](#2024-01) ✓3
 - [2023](#2023) — [Feb](#2023-02) ◐1
@@ -21,6 +21,247 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[DynaSFA: Coupling bidirectional mesoscopic simulation with multi-agent reinforcement learning for coordinated service facility control in multimodal transport hubs](https://doi.org/10.2139/ssrn.7662398)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-23 · `query-hint` · `crossref`  
+  Labels: `Multimodal`  
+  Authors: Shulin He, Long Cheng, Haotian Song, Yuheng Chen, Wendong Chen
+
+- 🔎 **[Building Presentation Intelligence for High-Quality Slide Generation](https://arxiv.org/abs/2610.30888)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `GRPO` · `Synthetic Data` · `Agent`  
+  Authors: Yu-Hang Xie, Cheng Li, Chen-Liang Li, Ming-Yu Xu, Ming-Wei Sun, Su-Hang Zheng, Ming Yan, Xiao-Xiao Xu, et al.
+
+- 🔎 **[HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](https://arxiv.org/abs/2610.31162)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `query-hint` · `semantic-scholar`  
+  Labels: `Long-horizon` · `VLM` · `Robotics`  
+  Authors: Ze-Cong Tang, Zi-Feng Guan, Yun-Cheng Guo, Zhan-Qiu Zhang, Yi-Wen Guo, Bo Dai
+
+- 🔎 **[LLM Post-Training and Test-Time Reasoning: A Generate-Evaluate-Update Survey of Methods, Challenges, and Research Directions](https://doi.org/10.2139/ssrn.7646818)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `crossref`  
+  Labels: `Distillation` · `SFT` · `Rejection Sampling` · `Preference Optimization` · `Reward Model` · `Verifier` · `Reasoning`  
+  Authors: Mohammad Partohaghighi
+
+- 🔎 **[BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments](https://arxiv.org/abs/2610.29426)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `On-policy` · `Curriculum` · `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Ge Qu, Jin-Yang Li, Xiao-Han Xu, Xiao-Long Li, Bo-Wen Qin, Nan Huo, Zi-Wei Tang, Chenhao Ma, et al.
+
+- 🔎 **[Harness Scaling for Generalizable Agentic Reinforcement Learning](https://arxiv.org/abs/2610.29458)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Fei Bai, Hua-Tong Song, Chuan Hao, Ran Tao, Jian Yang, Bryan Dai, W. Zhao, Ji-Rong Wen
+
+- 🔎 **[One Act, Many Masks: Effect-Marginal Policy Optimization for Long-Horizon Agents](https://arxiv.org/abs/2610.29427)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `query-hint` · `semantic-scholar`  
+  Labels: `Multi-turn` · `Long-horizon`  
+  Authors: Shao-Jin Ma, Rui-Tao Wang, Peng-Yi Li, Jie Yang, Liang Chen, Gang-Yi Zhao, Hongyao Tang, Yan Zheng, et al.
+
+- 🔎 **[SAPD: Learning from Agent Experience without Environment Interaction](https://arxiv.org/abs/2610.27847)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Multi-turn`  
+  Authors: Jun-Cheng Diao, Hai-Bin Wang, Wei Shi, Yi-Fan Ding, Qing-Bin Li, Rong-Xiang Weng, Xun-Liang Cai
+
+- 🔎 **[FlashNext-RL: A System Optimization Study for Long-Horizon Agentic RL of Qwen3.8-Flash-Next](https://arxiv.org/abs/2610.28998)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Zhe-Wei Yao, Yu-Xiong He
+
+- 🔎 **[InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning](https://arxiv.org/abs/2610.28610)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Synthetic Data` · `Multimodal` · `Code`  
+  Authors: Jingyu Xiao, Da-Sen Dai, Yuxuan Wan, Jen-Tse Huang, Yin-Tong Huo, Hong-Yu Zhang, M. Lyu
+
+- 🔎 **[Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning](https://arxiv.org/abs/2610.28785)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model`  
+  Authors: Hieu Tran, Zonghai Yao, Sunjae Kwon, Hong Yu
+
+- 🔎 **[Elicitation or Expansion? Demystifying Gains from Agent Harness Optimization](https://arxiv.org/abs/2610.27889)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `Self-improvement` · `Tool Use`  
+  Authors: Younghyun Kim, Wooseok Seo, Minseon Kim, Seunghyuk Oh, Minjae Lee, Donghoon Kim, H. Koo, Jaehyung Kim, et al.
+
+- 🔎 **[Organization of data collection for agent training in a household financial behavior model](https://doi.org/10.47813/mip.7.2026.20.3009)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `crossref`  
+  Labels: `Agent`  
+  Authors: T.R. Mukhutdinov, E.A. Makarova  
+  Venue: VII All-Russian (National) Scientific Conference "Modernization, Innovations, Progress"
+
+- 🔎 **[Diffusion-enhanced multi-agent reinforcement learning for adaptive interference control in bilateral cognitive radar games](https://doi.org/10.1016/j.engappai.2026.116525)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Yubo Jia, Zesi Pan, Jiahao Qin, Haichuan Ding, Yan Li  
+  Venue: Engineering Applications of Artificial Intelligence
+
+- 🔎 **[ToolOPD: Credit-Aware On-Policy Distillation for Tool-Use Agents](https://arxiv.org/abs/2610.25693)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `Counterfactual` · `On-policy` · `Self-training` · `Agent` · `Tool Use` · `Long-horizon` · `Reasoning`  
+  Authors: Chu Zhao, Lei Tang, Yan-Ming Wang, Jian-Zhe Zhao, Gui-Bing Guo, Zheng-Zong Chen, Yuan-Yuan Zhao, Fei Huang
+
+- 🔎 **[Zephyrus-R1: Agentic Reinforcement Learning for Weather Reporting](https://arxiv.org/abs/2610.25625)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `Curriculum` · `Agent` · `Tool Use` · `Reasoning`  
+  Authors: Feng-Fei Yu, Marshall Fisher, Isadora White, Sumanth Varambally, Yasaman Jafari, Shivam Yadav, S. M. Bartlett, S. Roj, et al.
+
+- 🔎 **[LayerCheck: Adaptive Layer-Wise Checkpointing for Large Language Model Post-Training](https://doi.org/10.1109/cluster68337.2026.00041)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Minqiu Sun, Xin Huang, Luanzheng Guo, Nathan R. Tallent, Kento Sato, Dong Dai  
+  Venue: 2026 IEEE International Conference on Cluster Computing (CLUSTER)
+
+- 🔎 **[Perplexity-Spectrum Calibration for Post-Training Pruning of Large Language Models](https://doi.org/10.1109/ijcnn69854.2026.11728844)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Qizhu Wang, Xingzhou Zhang, Zhihao Qu, Wenfeng Xu, Wentao Wang  
+  Venue: 2026 International Joint Conference on Neural Networks (IJCNN)
+
+- 🔎 **[ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions](https://arxiv.org/abs/2610.25980)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `PPO` · `Long-horizon`  
+  Authors: Yi-Cheng Wang, Wen-Tao Tan, Yi-Dan Huang, Yi-Fei Liu, Qiong Cao
+
+- 🔎 **[Productive State-Space Exploration for Multi-turn RL in LLM Agents](https://arxiv.org/abs/2610.25957)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `semantic-scholar`  
+  Labels: `Multi-turn` · `Long-horizon`  
+  Authors: Mohammed Haroon Dupty, Yong-Liang Goh, Song Guo, Wee-Sun Lee
+
+- 🔎 **[EG-GRPO: Evidence-Guided Step-level Credit Assignment for Deep Search Agents](https://arxiv.org/abs/2610.25269)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-18 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `PRM` · `Long-horizon` · `Reasoning`  
+  Authors: Si-Jia Luo, Men-Jie Gao, Yu-Xiao He, Meng-Shu Sun, Cui-Ping Li, Hong Chen, Jing Zhang
+
+- 🔎 **[CoworkEnv: Synthesizing Training Environments for Long-Horizon Cowork Agents](https://arxiv.org/abs/2610.24960)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-18 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multi-turn` · `Long-horizon`  
+  Authors: Zhong-Wei Xie, Yi-Ming Du, Jiaxin Bai, Bai-Xuan Xu, Chun-Yang Li, Xi-Yu Ren, Wei Fan, Tianshi ZHENG, et al.
+
+- 🔎 **[Outcome-Anchored Credit Reallocation for Agentic Knowledge Graph Question Answering](https://arxiv.org/abs/2610.25384)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-18 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent` · `Multi-turn`  
+  Authors: Ming-Yuan Li, Yu-Cheng Li, Xiaxia Wang, Gong Cheng
+
+- 🔎 **[Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2610.23181)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `RLVR` · `GRPO` · `On-policy` · `Reward Model` · `PRM` · `Self-training` · `Agent` · `Long-horizon`  
+  Authors: Heming Zou, Qi Wang, Yi-Xiu Mao, Yun Qu, Yu-Yi Guo, Ze-Yuan Liu, Cheng-Lin Li, Wei-Jie Liu, et al.
+
+- 🔎 **[Where Research Ideation Begins: Forward-Citation Supervision for Actionable Limitation Generation](https://arxiv.org/abs/2610.23038)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Verifier`  
+  Authors: Li-Yang Zhao, Yong Cao, Hai-Bin Ling
+
+- 🔎 **[Agentic In-Context Learning: What Algorithms Can Transformers Learn in Closed-Loop Interaction?](https://arxiv.org/abs/2610.23051)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `PRM` · `Agent`  
+  Authors: Shi-Guang Wu, Ya-Qing Wang, Quan-Ming Yao
+
+- 🔎 **[WebCoder: Scaling General Frontend Development with Artifact-Grounded Agentic Reinforcement Learning](https://arxiv.org/abs/2610.23104)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `Verifier` · `Agent` · `Long-horizon`  
+  Authors: Zi-Jun Dou, Z. Yang, Xi-Jun Liu, Dongzhuoran Zhou, Ao-Han Zeng, Jie Tang
+
+- 🔎 **[SimpleVLN: Towards Simple and Frontier Vision-Language Navigation](https://arxiv.org/abs/2610.23203)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `semantic-scholar`  
+  Labels: `Long-horizon` · `Multimodal` · `Robotics`  
+  Authors: Ling-Yi Hong, Wei-Ren Cai, Jia-Yu Chen, Xin-Yu Zhou, Bai-Lin He, Yun-Fei Guo, Qiao Sun, Bo-Yu Ma, et al.
+
+- 🔎 **[Tiny Think: Reasoning-First Post-Training for Tiny Math and STEM Language Models](https://doi.org/10.1109/ciit68512.2026.11731575)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-16 · `query-hint` · `crossref`  
+  Labels: `Reasoning`  
+  Authors: Bojan Jakimovski, Bojan Ilijoski  
+  Venue: 2026 International Conference on Informatics and Information Technologies (CIIT)
+
+- 🔎 **[MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents](https://arxiv.org/abs/2610.22240)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `SFT` · `On-policy` · `Long-horizon` · `Multimodal` · `Reasoning`  
+  Authors: Huan-Yao Zhang, Jie-Peng Zhou, Jia-Ye Lin, On-Tai Tang, Jing-Tian Hao, Mugeng Liu, Run-Xi Peng, Lang Mei, et al.
+
+- 🔎 **[All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents](https://arxiv.org/abs/2610.21147)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Reward Model` · `PRM` · `Long-horizon`  
+  Authors: Bing-Bing Wang, Jing-Jie Lin, Wei-Ming Qiao, Jing Li, Rui-Feng Xu
+
+- 🔎 **[Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards](https://arxiv.org/abs/2610.22448)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Agent`  
+  Authors: Rui-Da Wang, Gerald Friedland, Tong Zhang, Chris Kong
+
+- 🔎 **[MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](https://arxiv.org/abs/2610.22344)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Self-improvement` · `Agent` · `Tool Use` · `Multi-turn` · `Long-horizon` · `Code`  
+  Authors: Shangheng Du, Jin-Xin Shi, Shuai-Yu Zhang, Yi-Min Wu, Jun-Peng Zhao, Shi-Yang Feng, Xin Li, Liang He, et al.
+
+- 🔎 **[WEAVE: Weaving Real-World Code Evolution into Dependency-Structured Tasks for Benchmarking and Training Code Agents](https://arxiv.org/abs/2610.22039)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `Long-horizon`  
+  Authors: Wei-Hao Li, Zi-Hang Xu, Zhong-Qiu Wang, Song-Wei Yu, Wen-Ya Zhu, Yu-Jia Luo, Jing-Xuan Xu, Ya-Nan Wu, et al.
+
+- 🔎 **[Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `SFT` · `Self-training` · `Self-improvement` · `Reasoning`  
+  Authors: Yu-Fa Zhou, Yi-Chen Wang, Jia-Kun Fan, Zi-Qi Shu, Zhi-Chao Liu, An-Ru R. Zhang, Neiwen Ling, Zi-Jun Wei
+
+- 🔎 **[ReFlow: Replay-Driven Decoupling for Efficient RL Post-Training](https://arxiv.org/abs/2610.21640)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Yu Tian, Junwei Su, Hao Xu, Lan-Song Diao, Zheng-Ping Qian, Wei-Bo Zhao, Wen-Chao Zhou, Rui-Ting Zhou, et al.
+
+- 🔎 **[AlphaBet: Reinforcement Learning for LLM Event Forecasting Agents](https://arxiv.org/abs/2610.22684)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Agent`  
+  Authors: Li-Qin Ye, Rong-Zhi Zhang, Xin Liu, Zheng Li, Yuan He, Qing-Yu Yin, Priyanka Nigam, Chao Zhang
+
+- 🔎 **[DeciCAD: Harness-Grounded Learning of Action Policies for CAD Agents](https://arxiv.org/abs/2610.21755)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Long-horizon` · `Code`  
+  Authors: Yu-Feng Peng, Yi-Xin Zhang, Zi-Yi Liu, Zhi-Kun Xu, Jia-Rong Yang, Si-Jie Wang, Wen-Jie Feng, Qi-Yu Kang
+
+- 🔎 **[KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents](https://arxiv.org/abs/2610.22331)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Multi-turn` · `Long-horizon`  
+  Authors: Si-Qi Chen, Zhengxi Lu, Yuchen Yan, Xing-Yu Wu, Qi-Peng Chen, Xin Zhang, Ai-Ting Liu, Chao Deng, et al.
+
+- 🔎 **[GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty](https://arxiv.org/abs/2610.21167)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Synthetic Data` · `Agent` · `Tool Use` · `Long-horizon` · `Reasoning`  
+  Authors: Gao-Cheng Yang, Rui-Jie Tao, Kai Ye, Sen-Hua Zhang, Zheng-Qin Zhu, Ziyang Li
+
+- 🔎 **[SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2610.19397)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `OPD` · `Distillation` · `On-policy` · `Agent` · `Multi-turn` · `Long-horizon`  
+  Authors: Ding-Yi Rong, Yue Shi, Chaofan Ma, Zong-Rui Wang, Jie-Zhang Cao, Yi-Xin Cao, Liang He, Ning Liu
+
+- 🔎 **[Co-Evolving Acting and Forecasting for Language Agents](https://arxiv.org/abs/2610.20597)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `On-policy` · `Agent` · `Long-horizon`  
+  Authors: Hao-Fei Yu, Yi-Xin Chen, Yi-Ning Zhao, Xu-Yan Ye, Yu-Xiang Liu, Zhi-Gang Hua, Yan Xie, Shuang Yang, et al.
+
+- 🔎 **[Explorer-Zero: Improving Self-Play for Long-Horizon Tasks with Decomposable Verifiable Rewards](https://arxiv.org/abs/2610.19868)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Self-play` · `Curriculum` · `Long-horizon`  
+  Authors: Tian-Yu Liu, Davide Belli, B. Major, Arash Behboodi, Tribhuvanesh Orekondy
+
+- 🔎 **[Retrieve What Helps, Only When It Helps: Agentic Reinforcement Learning for Selective Retrieval-Augmented Machine Translation](https://arxiv.org/abs/2610.19528)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent`  
+  Authors: Shi-Jun Li, Yang Liu, N. Sadoughi, Dong-Mei Wang, Xin-Jie Li, Zhu Liu, R. Kumar, Yu-Zong Liu
+
+- 🔎 **[MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning](https://arxiv.org/abs/2610.19920)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Yan-Yi Su, Chen-Yan Wang, Yu-Cong Gong, Ye-Yun Chen, Xiao-Hui Yang, Jun Cheng
+
+- 🔎 **[ActICL: Post-Training for Agentic Multimodal In-Context Learning](https://arxiv.org/abs/2610.19475)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Agent` · `Tool Use` · `Multimodal` · `Reasoning`  
+  Authors: Yanshu Li, Rui-Xiang Tang, Junyi Jessy Li, Elias Stengel-Eskin
 
 <a id="2026-09"></a>
 

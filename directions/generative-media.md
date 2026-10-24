@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**401 papers**: 2 curated and 399 academic discovery candidates.
+**407 papers**: 2 curated and 405 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐6 · [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓17 · [Nov](#2025-11) ✓19 · [Oct](#2025-10) ✓26 · [Sep](#2025-09) ✓17 · [Aug](#2025-08) ✓12 · [Jul](#2025-07) ✓9 · [Jun](#2025-06) ✓15 · [May](#2025-05) ✓18 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓9 · [Sep](#2024-09) ✓4 · [Aug](#2024-08) ✓3 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓3 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓4 · [Feb](#2024-02) ✓8 · [Jan](#2024-01) ✓2
 - [2023](#2023) — [Nov](#2023-11) ◐1 · [May](#2023-05) ◐1
@@ -20,6 +20,45 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation](https://arxiv.org/abs/2610.27782)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `query-hint` · `semantic-scholar`  
+  Labels: `Multimodal` · `Video Generation` · `Reasoning`  
+  Authors: Si-Yuan Ma, Yu Qi, C. Ye, Ruo-Tian Peng, Xin-Yi Xu, Zitiantao Lin, Ze-Dong Cai, Yi-Jiang Huang, et al.
+
+- 🔎 **[BLIX-Ray: Chest X-Ray Report Generation with Vision-Language Models and Reinforcement Learning](https://doi.org/10.1007/s10278-026-02317-z)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `query-hint` · `crossref`  
+  Labels: `VLM`  
+  Authors: Taymaz Akan, Mohanna Orujpour, Pedram Salehpour, Sergio Alvarado Montalvo, Mohammad A. N. Bhuiyan  
+  Venue: Journal of Imaging Informatics in Medicine
+
+- 🔎 **[ProactGen: Learning Proactive Clarification for Video Generation](https://arxiv.org/abs/2610.22608)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `semantic-scholar`  
+  Labels: `VLM` · `Video Generation`  
+  Authors: Zhi-Xiao Wang, Yang Chen, Yi-Fan Xu, Chen-Bin Li, Yue Chang, Kai Long, Feng-Ming Dong, Li-Min Wang
+
+- 🔎 **[Bounded Interactive Adaptation for CoT Agents: Correcting Reasoning Trajectories with Sparse Human Feedback](https://doi.org/10.1109/csmla70906.2026.11724504)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `query-hint` · `crossref`  
+  Labels: `Reasoning`  
+  Authors: Yujia Sun  
+  Venue: 2026 International Conference on Computer Science, Machine Learning and Agents (CSMLA)
+
+- 🔎 **[SaTPO: Text-to-Image Safety Alignment via Transition Preference Optimization](https://arxiv.org/abs/2610.19563)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `semantic-scholar`  
+  Labels: `Preference Optimization` · `Diffusion` · `Image Generation` · `Safety`  
+  Authors: Zi-Yi Fang, Jing-Zhi Li, Xiao-Jun Jia, Xing-Xing Wei, Wen-Qi Ren, Hai-Jun Zhang
+
+- 🔎 **[DiffLyap-MEC: Diffusion-Guided Lyapunov Optimization for Joint Offloading, Semantic Compression, and Resource Allocation in ISAC-Enabled 6G Edge Computing](https://doi.org/10.3390/math14203737)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `query-hint` · `crossref`  
+  Labels: `PPO` · `Diffusion`  
+  Authors: Abrar S. Alhazmi, Mohammed M. Alenazi  
+  Venue: Mathematics
 
 <a id="2026-09"></a>
 
@@ -57,7 +96,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization](https://arxiv.org/abs/2608.31079)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `DPO` · `Preference Optimization` · `Safety`  
-  Authors: Camila Blank, Zhuofan Ying, Christopher Potts, Peter Hase, Jing Huang
+  Authors: Camila Blank, Zhuofan Ying, Christopher Potts, Peter Hase, Jing Huang  
+  Institutions*: Stanford University
 
 - 🔎 **[DiffPDE: Masked Diffusion Language Models as PDE Solver](https://arxiv.org/abs/2608.30532)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-31 · `academic-query-vote` · `arxiv-backfill`  
@@ -67,7 +107,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model](https://arxiv.org/abs/2608.29904)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-30 · `academic-query-vote` · `arxiv-backfill`  
   Labels: pending  
-  Authors: Hai Nguyen-Truong, Tuan-Anh Vu, Dang Huynh
+  Authors: Hai Nguyen-Truong, Tuan-Anh Vu, Dang Huynh  
+  Institutions*: The Hong Kong University of Science and Technology
 
 - 🔎 **[ReNFT: Repairing Mode Collapse in Reward Post-Training via Internal Probability-Mass Recalibration](https://arxiv.org/abs/2609.00061)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-30 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -87,7 +128,8 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 - 🔎 **[VGA-BenchV2: An Expanded Unified Benchmark and Multi-Model Framework for Evaluating Video Aesthetics and Generation Quality](https://arxiv.org/abs/2608.25452)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-26 · `academic-query-vote` · `arxiv-backfill`  
   Labels: `Reward Model` · `VLM` · `Video Generation`  
-  Authors: Longteng Jiang, DanDan Zheng, Qianqian Qiao, Heng Huang, Huaye Wang, Yihang Bo, Bao Peng, Jingdong Chen, et al.
+  Authors: Longteng Jiang, DanDan Zheng, Qianqian Qiao, Heng Huang, Huaye Wang, Yihang Bo, Bao Peng, Jingdong Chen, et al.  
+  Venue: Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence
 
 - 🔎 **[Scaling Reinforcement Learning for Diffusion Models via Velocity Matching](https://arxiv.org/abs/2608.23664)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-24 · `academic-query-vote` · `arxiv-backfill`  
