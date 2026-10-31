@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**374 papers**: 1 curated and 373 academic discovery candidates.
+**376 papers**: 1 curated and 375 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
+- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓24 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -136,7 +136,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### August
 
-> **Audit status:** ✓ Complete · scanned 97 academic records · 49 eligible · checked 2026-09-02T04:48:37.579231+00:00.
+> **Audit status:** ✓ Complete · scanned 105 academic records · 53 eligible · checked 2026-10-31T06:14:25.548243+00:00.
 
 - 🔎 **[Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving](https://arxiv.org/abs/2608.29772)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-30 · `academic-query-vote` · `arxiv-backfill`  
@@ -188,6 +188,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `Distillation` · `On-policy` · `Long-horizon`  
   Authors: Jayjun Lee, Jessica Yin, Asif Rana, Nicholas Blauch, Sam Mady, Mohak Bhardwaj, Nima Fazeli, Nathan Ratliff, et al.
+
+- 🔎 **[DA-WAM: Decision-Aligned Future Latents for Driving World Models](https://arxiv.org/abs/2608.19085)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Autonomous Driving`  
+  Authors: Ruiguo Zhong, Xiaolong Chen, Benshan Ma, Lang Zhang, Mingyue Feng, Yaonong Wang, Pei Liu, Jun Ma
 
 - 🔎 **[Q-Learning With World Models](https://arxiv.org/abs/2608.17163)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-17 · `direction-month-query` · `arxiv-monthly-backfill`  
@@ -245,6 +250,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
   Labels: `VLA` · `Robotics`  
   Authors: Jin Cui, Yanbin Hu, Xinyue Long, Linkai Li, Boran Zhao, Pengju Ren
+
+- 🔎 **[ValueFormer: Stage-Aware Value Labels for Online Failure Detection and VLA Post-Training](https://arxiv.org/abs/2608.02958)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-08-03 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `VLA`  
+  Authors: Inkyu Sa, Konstantin Stulov, Rajat Bhageria
 
 - 🔎 **[GenTrack: Physical Alignment for Robot-Native Motion Generation and Zero-Shot Humanoid Tracking](https://arxiv.org/abs/2608.01410)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-08-02 · `direction-month-query` · `arxiv-monthly-backfill`  
