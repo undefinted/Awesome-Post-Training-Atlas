@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2748 papers**: 5 curated and 2743 academic discovery candidates.
+**2756 papers**: 5 curated and 2751 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Oct](#2026-10) ◐8 · [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓71 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓95 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -21,6 +21,57 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Human-AI collaborative generative AI for comfortable care: a doctor–patient–AI feedback loop for pre-operative distress and workforce shortages](https://doi.org/10.3389/fpubh.2026.2001218)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-28 · `query-hint` · `crossref`  
+  Labels: `RLAIF` · `Multimodal`  
+  Authors: Hui Sun, Yan Luan, Bo Song  
+  Venue: Frontiers in Public Health
+
+- 🔎 **[On the Sparsity of Direct Preference Optimization: Weight Disentanglement in the NTK Regime](https://arxiv.org/abs/2610.37085)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `RLHF`  
+  Authors: Kensuke Sasaki, Issei Sato
+
+- 🔎 **[Aligning Large Language Models for Safety in African Languages: A Case Study of Hausa](https://arxiv.org/abs/2610.37245)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `Preference Optimization` · `Safety`  
+  Authors: Valdini Douglace Lemofouet, Blessing Ngozi Uzor, P. Anyanwu, Danielle Blanche Kapsa, Saminu Mohammad Aliyu, S. Yimam, Shamsuddeen Hassan Muhammad
+
+- 🔎 **[R obot L earning M echanisms and F rontier P aradigms u nder the D ual C hallenges of F ew- S hot L earning and S parse R ewards](https://doi.org/10.54254/2755-2721/2026.38108)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: pending  
+  Authors: Rui-Qing Feng  
+  Venue: Applied and Computational Engineering
+
+- 🔎 **[ER-RAG: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Source](https://doi.org/10.1145/3860054)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-26 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization`  
+  Authors: Yi-Kuan Xia, Jia-Zun Chen, Yi-Rui Zhan, Sui-Feng Zhao, Lin-Ke Wang, Su-Cheng Liu, Wei-Peng Jiang, Chao-Rui Zhang, et al.  
+  Venue: ACM Transactions on Knowledge Discovery from Data
+
+- 🔎 **[Tacit Erosion: Does AI-generated Feedback Undermine Critical Feedback Competence &amp; Organisational Innovativeness? A Scoping Review](https://doi.org/10.34190/ecmlg.22.1.5108)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-26 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Bettina Falckenthal, Cláudia Figueiredo, Manuel Au-Yong-Oliveira  
+  Venue: European Conference on Management Leadership and Governance
+
+- 🔎 **[From Harness Optimization to Recursive Self-Improvement: A Survey of Language Model Agents](https://doi.org/10.20944/preprints202610.2293.v1)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-23 · `query-hint` · `crossref`  
+  Labels: `Self-improvement` · `Tool Use` · `Reasoning` · `Code`  
+  Authors: Xin Yu, Chengyuan Liu, Wenxin Long, Haochen Zhang, Lingzhou Xue
+
+- 🔎 **[Within-person reciprocal processes between AI feedback literacy and agentic engagement: a three-wave random-intercept cross-lagged panel study](https://doi.org/10.3389/fpsyg.2026.1893874)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `query-hint` · `crossref`  
+  Labels: `RLAIF` · `Agent`  
+  Authors: Shuai Xu  
+  Venue: Frontiers in Psychology
 
 <a id="2026-09"></a>
 

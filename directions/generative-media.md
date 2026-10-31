@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**401 papers**: 2 curated and 399 academic discovery candidates.
+**412 papers**: 2 curated and 410 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ◐11 · [Sep](#2026-09) ✓4 · [Aug](#2026-08) ✓34 · [Jul](#2026-07) ✓9 · [Jun](#2026-06) ✓13 · [May](#2026-05) ✓36 · [Apr](#2026-04) ✓19 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓45 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓17 · [Nov](#2025-11) ✓19 · [Oct](#2025-10) ✓26 · [Sep](#2025-09) ✓17 · [Aug](#2025-08) ✓12 · [Jul](#2025-07) ✓9 · [Jun](#2025-06) ✓15 · [May](#2025-05) ✓18 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓9 · [Sep](#2024-09) ✓4 · [Aug](#2024-08) ✓3 · [Jul](#2024-07) ✓7 · [Jun](#2024-06) ✓3 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓4 · [Feb](#2024-02) ✓8 · [Jan](#2024-01) ✓2
 - [2023](#2023) — [Nov](#2023-11) ◐1 · [May](#2023-05) ◐1
@@ -20,6 +20,75 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Reinforcement Learning for Aligning Structure-Based Molecular Generation toward Make-on-Demand Chemical Spaces](https://doi.org/10.1021/acs.jcim.6c02532)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `crossref`  
+  Labels: `DPO` · `Preference Optimization`  
+  Authors: Rebecca M. Neeser, Melih Gökay Yigit, Adrian W. Dobbelstein, Junwu Chen, Bruno Correia, Philippe Schwaller  
+  Venue: Journal of Chemical Information and Modeling
+
+- 🔎 **[Preference-Based Optimization with Automatically Constructed Preferences for Low-Resource Kazakh-to-Kazakh Sign Language Gloss Translation: A Diagnostic Study of PPO with LoRA](https://doi.org/10.3390/app162110784)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `crossref`  
+  Labels: `PPO` · `Reward Model`  
+  Authors: Aigerim Yerimbetova, Bakzhan Sakenov, Elmira Daiyrbayeva, Ulmeken Berzhanova, Madina Sambetbayeva, Mussa Turdalyuly  
+  Venue: Applied Sciences
+
+- 🔎 **[dwDPO: Training Multi-Turn LLM Agents via Divergence-Weighted Direct Preference Optimization](https://doi.org/10.18653/2026.emnlp-main.2406)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `DPO` · `Preference Optimization` · `Multi-turn`  
+  Authors: Jinghao Lin, Yuhang Wu, Yuanqing Wang, Yuchen Li, Tianxingjian Kang, Baris Coskunuzer, Xiawu Zheng  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing
+
+- 🔎 **[LLM Feedback for Topic Model with Preference Optimization and Contrastive Learning](https://doi.org/10.18653/2026.emnlp-main.265)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Preference Optimization`  
+  Authors: Tung Nguyen, Dat Phan Trong, Linh Ngo Van, Duc Anh Nguyen, Dinh Thai Hoang, Diep Nguyen  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing
+
+- 🔎 **[Knowing When to Speak: Aligning LLM Honesty via Solvability-Aware Preference Optimization](https://doi.org/10.18653/2026.findings-emnlp.2451)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Preference Optimization`  
+  Authors: Wenpeng Lu, Xueguan Zhao, Shuxia Lin, Linhai Zhang, Chaoqun Zheng, Weiyu Zhang, Jiasheng Si  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[Stabilizing Hard-Negative Preference Optimization for Medical LLMs](https://doi.org/10.18653/2026.findings-emnlp.716)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Preference Optimization`  
+  Authors: Kazuma Kobayashi, Yosuke Yamagishi, Ryota Shibaki, Azusa Sakai, Takashi Kodama, Lin Gu, Irene Li, Yuki Arase, et al.  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[Design of an AI feedback type adaptation model in English professional writing training](https://doi.org/10.1117/12.3133881)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `RLAIF` · `Code`  
+  Authors: Luwen Zhang  
+  Venue: International Conference on Optical Imaging and Deep Learning (OIDL 2026)
+
+- 🔎 **[Dual-Group Exploration: Reinforcement Learning for Video Understanding in Multimodal Large Language Models](https://doi.org/10.18653/2026.findings-emnlp.835)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Multimodal`  
+  Authors: Qucheng Peng, Rui Hou, Jingyi Zhang, Shengjie Zhu, Yingfu Xu, Haotian Xu, Noranart Vesdapunt, Chen Chen, et al.  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[A Tutorial on Generative Models for Music Audio](https://arxiv.org/abs/2610.38252)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-28 · `query-hint` · `semantic-scholar`  
+  Labels: `Preference Optimization` · `Diffusion`  
+  Authors: M. Modrzejewski, Joanna Kurkowska, Dorien Herremans
+
+- 🔎 **[VideoLVR: Latent Visual Reasoning over Grounded Video Evidence](https://arxiv.org/abs/2610.37613)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `Multimodal` · `Reasoning`  
+  Authors: Shi-Long Li, Xing-Yuan Bu, Hao Shi, Yun Xing, Wei Feng, Qiang-Peng Yang, Shi-Lei Wen
+
+- 🔎 **[ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback](https://arxiv.org/abs/2610.32966)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-23 · `query-hint` · `semantic-scholar`  
+  Labels: `DPO` · `Preference Optimization` · `Diffusion`  
+  Authors: Zi-Mo He, Tian-Yi Bian, Zi-Zhong Yang, Hongjie Li, Nan Jiang, Jie-Ming Cui, Baoxiong Jia, Yi-Zhou Wang, et al.
 
 <a id="2026-09"></a>
 

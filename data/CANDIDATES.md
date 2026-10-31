@@ -13071,6 +13071,186 @@ Automated proposals only; inclusion requires human review.
 | 2026-09-11 | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356) | semantic-scholar | 4 | `agentic` |
 | 2026-09-11 | [CanvasAnneal: Curriculum Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2609.13060) | semantic-scholar | 3 | `reward-verifiers` |
 | 2026-05-15 | [Generating AI Feedback for TESOL Writing Using Large Language Models](https://doi.org/10.1145/3832928.3833045) | crossref | 3 | `preference-alignment` |
+| 2026-10-30 | [Reinforcement Learning for Aligning Structure-Based Molecular Generation toward Make-on-Demand Chemical Spaces](https://doi.org/10.1021/acs.jcim.6c02532) | crossref | 7 | `generative-media` |
+| 2026-10-30 | [Geometric Signatures of Post-Training in LLM Reasoning Trajectories: Separating Observability from Transferability](https://doi.org/10.1162/tacl.a.819) | crossref | 4 | `agentic` |
+| 2026-10-30 | [Preference-Based Optimization with Automatically Constructed Preferences for Low-Resource Kazakh-to-Kazakh Sign Language Gloss Translation: A Diagnostic Study of PPO with LoRA](https://doi.org/10.3390/app162110784) | crossref | 3 | `generative-media` |
+| 2026-10-29 | [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://arxiv.org/abs/2610.39301) | semantic-scholar | 12 | `distillation` |
+| 2026-10-29 | [EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task Construction, Certification, and Evidence-Based Evaluation](https://arxiv.org/abs/2610.40246) | semantic-scholar | 9 | `agentic` |
+| 2026-10-29 | [Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation](https://arxiv.org/abs/2610.40574) | semantic-scholar | 9 | `distillation` |
+| 2026-10-29 | [Aligning Medical Vision Language Models at the Capability Boundary with Entropy Adaptive Rubric Grounding](https://arxiv.org/abs/2610.39835) | semantic-scholar | 6 | `reinforcement-learning` |
+| 2026-10-29 | [H$^2$R: Hierarchical Hint-Based Reward for Mathematical Reasoning via Reinforcement Learning](https://arxiv.org/abs/2610.39934) | semantic-scholar | 6 | `reinforcement-learning` |
+| 2026-10-29 | [CoPRM: A Collaborative Process Reward Model for Guiding Search Agent Reasoning](https://doi.org/10.18653/2026.emnlp-main.65) | crossref | 6 | `distillation` |
+| 2026-10-29 | [There Is No Free Lunch in RLVR: Every pass@1 Gain Has a pass@k Price](https://arxiv.org/abs/2610.39295) | semantic-scholar | 6 | `reinforcement-learning` |
+| 2026-10-29 | [SelfThinker: Self-Evolving Reasoning via Reliability-Verified Intrinsic Visual Thoughts](https://arxiv.org/abs/2610.40115) | semantic-scholar | 6 | `reasoning-self-improvement` |
+| 2026-10-29 | [Elastic Horizon: Discovering the Effective Interaction Frontier in Agentic Reinforcement Learning](https://doi.org/10.18653/2026.emnlp-main.1693) | crossref | 6 | `agentic` |
+| 2026-10-29 | [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](https://arxiv.org/abs/2610.39264) | semantic-scholar | 5 | `agentic` |
+| 2026-10-29 | [The Role of Self-Concept In Language Models](https://arxiv.org/abs/2610.39795) | semantic-scholar | 5 | `supervised-adaptation` |
+| 2026-10-29 | [dwDPO: Training Multi-Turn LLM Agents via Divergence-Weighted Direct Preference Optimization](https://doi.org/10.18653/2026.emnlp-main.2406) | crossref | 5 | `generative-media` |
+| 2026-10-29 | [Heterogeneous Co-Evolution Learning for Tool-Efficient Search Agents with Zero Labels](https://arxiv.org/abs/2610.39682) | semantic-scholar | 5 | `agentic` |
+| 2026-10-29 | [Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model](https://doi.org/10.18653/2026.emnlp-main.1660) | crossref | 5 | `distillation` |
+| 2026-10-29 | [VICT: Verifier-Instrumented Credit Tracing for Reinforcement Learning of Long-Horizon LLM Agents](https://doi.org/10.18653/2026.findings-emnlp.2395) | crossref | 5 | `agentic` |
+| 2026-10-29 | [Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://doi.org/10.18653/2026.emnlp-main.1072) | crossref | 5 | `embodied-vla` |
+| 2026-10-29 | [TSRL: Trigger-based Supervised Reinforcement Learning for Continual Agent Training](https://doi.org/10.18653/2026.findings-emnlp.19) | crossref | 5 | `agentic` |
+| 2026-10-29 | [Gradient-Aligned Iterative Fine-Tuning for Adaptive LLM Post-Training](https://doi.org/10.18653/2026.groundlm-1.36) | crossref | 4 | `agentic` |
+| 2026-10-29 | [LLM Feedback for Topic Model with Preference Optimization and Contrastive Learning](https://doi.org/10.18653/2026.emnlp-main.265) | crossref | 4 | `generative-media` |
+| 2026-10-29 | [Equitable Alignment of LLMs Across Languages with Regularized Direct Preference Optimization](https://doi.org/10.18653/2026.findings-emnlp.121) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [Navigating Intention Reasoning Trees to Guide Agentic Preference Optimization](https://doi.org/10.18653/2026.findings-emnlp.1740) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [Skill-CDPO: Evolving Agent Tool-Use via Critical Step Preference Optimization](https://doi.org/10.18653/2026.findings-emnlp.1985) | crossref | 4 | `agentic` |
+| 2026-10-29 | [Spend the Wasted Epochs: Preference Post-Training from the Saturation Checkpoint for Sample-Efficient Language Modeling](https://doi.org/10.18653/2026.babylm-main.52) | crossref | 4 | `agentic` |
+| 2026-10-29 | [Knowing When to Speak: Aligning LLM Honesty via Solvability-Aware Preference Optimization](https://doi.org/10.18653/2026.findings-emnlp.2451) | crossref | 4 | `generative-media` |
+| 2026-10-29 | [Stabilizing Hard-Negative Preference Optimization for Medical LLMs](https://doi.org/10.18653/2026.findings-emnlp.716) | crossref | 4 | `generative-media` |
+| 2026-10-29 | [Candidate Pool Design for Safer Preference-Based Post-Training of LLM Companion Chatbots](https://doi.org/10.18653/2026.findings-emnlp.476) | crossref | 4 | `agentic` |
+| 2026-10-29 | [LLMZERO: Discovering Adaptive Training Strategies for RL Post-Training via LLM Agents](https://doi.org/10.18653/2026.findings-emnlp.1866) | crossref | 4 | `agentic` |
+| 2026-10-29 | [Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training](https://doi.org/10.18653/2026.findings-emnlp.2213) | crossref | 4 | `agentic` |
+| 2026-10-29 | [The Interplay of Harness Design and Post-training in LLM Agents](https://doi.org/10.18653/2026.findings-emnlp.2207) | crossref | 4 | `reward-verifiers` |
+| 2026-10-29 | [Trains but Doesn’t Learn: A Post-Training Delivery Benchmark for LLM Agents as Forward-Deployed Engineers](https://doi.org/10.18653/2026.emnlp-industry.52) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [PRISM: Post-Training LLM Pruning via Residual Importance Signal Merging and Intra-Block Sparsity Allocation](https://doi.org/10.18653/2026.findings-emnlp.606) | crossref | 4 | `reward-verifiers` |
+| 2026-10-29 | [LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering](https://doi.org/10.18653/2026.emnlp-industry.212) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [First-Stage Groundwork Shapes Downstream RL Outcomes: Two-Stage Post-Training for LLM Personality Acquisition](https://doi.org/10.18653/2026.emnlp-main.1983) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [Rethinking the Role of Tensor Decompositions in Post-Training LLM Compression](https://doi.org/10.18653/2026.emnlp-main.2679) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [An LLM-Driven Pipeline for Extremely Low-Resource English-to-Indic Translation — From Vocabulary Injection to Post-Training and Decoding](https://doi.org/10.18653/2026.wmt-main.162) | crossref | 4 | `reward-verifiers` |
+| 2026-10-29 | [Training Foundation Models with a Single Algorithm](https://arxiv.org/abs/2610.40564) | semantic-scholar | 4 | `reinforcement-learning` |
+| 2026-10-29 | [Pareto-Dominant Clarification: Post-Training Coding LLMs via PPO-Lagrangian Budget Constraints](https://doi.org/10.18653/2026.lmplayschool-1.7) | crossref | 4 | `agentic` |
+| 2026-10-29 | [SPHERE: Automatic Music Upmixing via Audio Language Model Post-Training with Spatial Heuristics Rewards](https://doi.org/10.18653/2026.emnlp-main.2673) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [M-GOAL: Toward Accurate and Language-Consistent Reasoning in LLMs via English-Only Post-Training](https://doi.org/10.18653/2026.findings-emnlp.1232) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [MRC-MMAgent: Reinforcement Learning for Multi-Role Collaboration in Multimodal Tool-Using Agents](https://arxiv.org/abs/2610.39324) | semantic-scholar | 4 | `agentic` |
+| 2026-10-29 | [Better World Models Can Lead to Better Post-Training Performance](https://doi.org/10.18653/2026.findings-emnlp.1012) | crossref | 4 | `agentic` |
+| 2026-10-29 | [MeDocVL: Noise-Aware Post-Training of Visual Language Models for Medical Document Parsing](https://doi.org/10.18653/2026.findings-emnlp.2321) | crossref | 4 | `embodied-vla` |
+| 2026-10-29 | [Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs](https://doi.org/10.18653/2026.blackboxnlp-1.28) | crossref | 3 | `multimodal` |
+| 2026-10-29 | [Design of an AI feedback type adaptation model in English professional writing training](https://doi.org/10.1117/12.3133881) | crossref | 3 | `generative-media` |
+| 2026-10-29 | [Training language models in simulation for psychiatric intake](https://arxiv.org/abs/2610.40476) | semantic-scholar | 3 | `agentic` |
+| 2026-10-29 | [ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](https://arxiv.org/abs/2610.40627) | semantic-scholar | 3 | `reward-verifiers` |
+| 2026-10-29 | [Agentic Reward Modeling for Medical Reasoning](https://doi.org/10.18653/2026.findings-emnlp.766) | crossref | 3 | `reinforcement-learning` |
+| 2026-10-29 | [Monitorable Chart Reasoning Agents via Verifiable Process Rewards](https://doi.org/10.18653/2026.findings-emnlp.691) | crossref | 3 | `reinforcement-learning` |
+| 2026-10-29 | [GUI-PRA: Process Reward Agents for GUI Tasks](https://doi.org/10.18653/2026.emnlp-main.1304) | crossref | 3 | `reward-verifiers` |
+| 2026-10-29 | [KG-RLVR: Reinforcing LLM Reasoning with Knowledge Graph-Derived Process Rewards](https://doi.org/10.18653/2026.emnlp-main.890) | crossref | 3 | `reinforcement-learning` |
+| 2026-10-29 | [Try Before You Evolve: Ranking-Scored Trials for Recursive Self-Improvement of Recommender Systems](https://arxiv.org/abs/2610.39352) | semantic-scholar | 3 | `reasoning-self-improvement` |
+| 2026-10-29 | [SurgMind-R1: Overcoming Reasoning Collapse in Surgical Vision-Language Models via Reinforcement Learning](https://doi.org/10.18653/2026.emnlp-main.739) | crossref | 3 | `agentic` |
+| 2026-10-29 | [Human-machine interactive system for psychological intervention using multi-source data fusion and reinforcement learning](https://doi.org/10.1117/12.3133765) | crossref | 3 | `multimodal` |
+| 2026-10-29 | [Dual-Group Exploration: Reinforcement Learning for Video Understanding in Multimodal Large Language Models](https://doi.org/10.18653/2026.findings-emnlp.835) | crossref | 3 | `generative-media` |
+| 2026-10-28 | [Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI](https://arxiv.org/abs/2610.38095) | semantic-scholar | 14 | `agentic` |
+| 2026-10-28 | [Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training](https://arxiv.org/abs/2610.38851) | semantic-scholar | 13 | `reinforcement-learning` |
+| 2026-10-28 | [Distilling the Shape of Uncertainty: What On-Policy Distillation Learns and How to Predict It](https://arxiv.org/abs/2610.39020) | semantic-scholar | 12 | `distillation` |
+| 2026-10-28 | [SCOPE: Selective Critical-Step On-Policy Self-Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.38391) | semantic-scholar | 11 | `agentic` |
+| 2026-10-28 | [A Tutorial on Generative Models for Music Audio](https://arxiv.org/abs/2610.38252) | semantic-scholar | 9 | `generative-media` |
+| 2026-10-28 | [Post-Training Large Language Models with LLMON](https://arxiv.org/abs/2610.38120) | semantic-scholar | 8 | `supervised-adaptation` |
+| 2026-10-28 | [Co-Evolving Policy and Rubric via Capability Awareness for Open-Ended Generation](https://arxiv.org/abs/2610.38566) | semantic-scholar | 7 | `distillation` |
+| 2026-10-28 | [Latent Decision Flow Rewards for Clinical Guideline Reasoning](https://arxiv.org/abs/2610.38709) | semantic-scholar | 7 | `reward-verifiers` |
+| 2026-10-28 | [HaVen-Agent: Enhancing Hallucination-Mitigated Verilog Code Generation Aligned with HDL Engineers through Code Repair and Multi-Agent Orchestration](https://doi.org/10.1145/3856825) | semantic-scholar | 5 | `supervised-adaptation` |
+| 2026-10-28 | [Aligning Autoresearch: Co-Improvement between Agents and Humans](https://arxiv.org/abs/2610.38882) | semantic-scholar | 5 | `agentic` |
+| 2026-10-28 | [Human-AI collaborative generative AI for comfortable care: a doctor–patient–AI feedback loop for pre-operative distress and workforce shortages](https://doi.org/10.3389/fpubh.2026.2001218) | crossref | 4 | `preference-alignment` |
+| 2026-10-28 | [When Does Closed-Loop Curriculum Adaptation Help GRPO? An Analysis on Countdown](https://arxiv.org/abs/2610.39056) | semantic-scholar | 4 | `reward-verifiers` |
+| 2026-10-28 | [Predict the Reward, Not the World: World Reward Models for ML Agents](https://arxiv.org/abs/2610.38439) | semantic-scholar | 3 | `reward-verifiers` |
+| 2026-10-28 | [Neopep: Reinforcement Learning From Machine-Learned Force Field Energy for Non-Canonical Peptide Structure Prediction](https://doi.org/10.64898/2026.10.22.760799) | crossref | 3 | `multimodal` |
+| 2026-10-27 | [PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions](https://arxiv.org/abs/2610.37471) | semantic-scholar | 13 | `agentic` |
+| 2026-10-27 | [Multi-Draft On-Policy Distillation for Diffusion Drafters](https://arxiv.org/abs/2610.37778) | semantic-scholar | 12 | `distillation` |
+| 2026-10-27 | [Uncovering Shortcut Amplification in Video RLVR through the Lens of Perceptual Uncertainty Collapse](https://arxiv.org/abs/2610.37211) | semantic-scholar | 11 | `reasoning-self-improvement` |
+| 2026-10-27 | [Locating Sycophancy Across Training Stages in Open Language Models](https://arxiv.org/abs/2610.37788) | semantic-scholar | 10 | `supervised-adaptation` |
+| 2026-10-27 | [EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning](https://arxiv.org/abs/2610.37609) | semantic-scholar | 9 | `agentic` |
+| 2026-10-27 | [Nemotron-Labs-Diffusion-Uni: Elastic Self-Refining Unified Diffusion LLM with Cross-Paradigm On-Policy Distillation](https://arxiv.org/abs/2610.36466) | semantic-scholar | 9 | `distillation` |
+| 2026-10-27 | [Efficient On-Policy Distillation for Language Models: A Survey of Costs, Trade-Offs, and Evaluation](https://doi.org/10.20944/preprints202610.2702.v1) | crossref | 8 | `distillation` |
+| 2026-10-27 | [KL-MOPD: Discrepancy-Aware Multi-Objective On-Policy Distillation for Generative Recommendation](https://arxiv.org/abs/2610.36973) | semantic-scholar | 8 | `distillation` |
+| 2026-10-27 | [Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding](https://arxiv.org/abs/2610.37093) | semantic-scholar | 7 | `supervised-adaptation` |
+| 2026-10-27 | [On the Sparsity of Direct Preference Optimization: Weight Disentanglement in the NTK Regime](https://arxiv.org/abs/2610.37085) | semantic-scholar | 6 | `preference-alignment` |
+| 2026-10-27 | [Aligning Large Language Models for Safety in African Languages: A Case Study of Hausa](https://arxiv.org/abs/2610.37245) | semantic-scholar | 6 | `preference-alignment` |
+| 2026-10-27 | [Collective Dynamics of Self-Reinforcement: How Cross-Task Coupling Drives Policy Collapse in Unsupervised RLVR](https://arxiv.org/abs/2610.37553) | semantic-scholar | 6 | `reasoning-self-improvement` |
+| 2026-10-27 | [When All Rollouts Fail: Policy-Compatible Joint Decoding for Hard-Problem Reasoning](https://arxiv.org/abs/2610.36849) | semantic-scholar | 6 | `reinforcement-learning` |
+| 2026-10-27 | [Guided-RLVR: Guided Exploration in Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2610.37041) | semantic-scholar | 6 | `reinforcement-learning` |
+| 2026-10-27 | [Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2610.37195) | semantic-scholar | 6 | `agentic` |
+| 2026-10-27 | [AudioRSI: Recursively Self-Improving Audio Reasoners](https://arxiv.org/abs/2610.36578) | semantic-scholar | 5 | `reasoning-self-improvement` |
+| 2026-10-27 | [An Analysis of Zero-Sum Game Agent Training Based on Large Language Models and Self-Play Mechanisms](https://doi.org/10.54254/2755-2721/2026.38118) | crossref, semantic-scholar | 5 | `agentic` |
+| 2026-10-27 | [HiLo-RD: Cross-Budget Self-Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2610.36901) | semantic-scholar | 5 | `distillation` |
+| 2026-10-27 | [Modularity or compression? A unified comparison of mixture-of-experts and policy distillation as execution modules for LLM-planned agents](https://doi.org/10.5937/oteh26101c) | crossref | 5 | `distillation` |
+| 2026-10-27 | [What a Weight Update Buys: Leverage Across Training Stages](https://arxiv.org/abs/2610.37719) | semantic-scholar | 4 | `reinforcement-learning` |
+| 2026-10-27 | [Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces](https://arxiv.org/abs/2610.37255) | semantic-scholar | 4 | `agentic` |
+| 2026-10-27 | [Latent Visual Contrastive Reasoning with Multi-Branch Exploration](https://arxiv.org/abs/2610.36809) | semantic-scholar | 3 | `supervised-adaptation` |
+| 2026-10-27 | [R obot L earning M echanisms and F rontier P aradigms u nder the D ual C hallenges of F ew- S hot L earning and S parse R ewards](https://doi.org/10.54254/2755-2721/2026.38108) | semantic-scholar | 3 | `preference-alignment` |
+| 2026-10-27 | [Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers](https://arxiv.org/abs/2610.37405) | semantic-scholar | 3 | `reward-verifiers` |
+| 2026-10-27 | [Driving on manifolds: A stochastic manifold mapping paradigm for generalizable end-to-end autonomous driving](https://doi.org/10.1177/02783649261498059) | crossref, semantic-scholar | 3 | `embodied-vla` |
+| 2026-10-27 | [VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning](https://arxiv.org/abs/2610.37378) | semantic-scholar | 3 | `distillation` |
+| 2026-10-27 | [VideoLVR: Latent Visual Reasoning over Grounded Video Evidence](https://arxiv.org/abs/2610.37613) | semantic-scholar | 3 | `generative-media` |
+| 2026-10-26 | [When Fine-Grained Credit Assignment Helps and Hurts: Multimodal Agentic Reinforcement Learning through Video Editing](https://arxiv.org/abs/2610.35497) | semantic-scholar | 15 | `agentic` |
+| 2026-10-26 | [EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided On-Policy Distillation](https://arxiv.org/abs/2610.35690) | semantic-scholar | 13 | `agentic` |
+| 2026-10-26 | [OmniBrain-0: A Unified Agentic Model for Embodied Intelligence](https://arxiv.org/abs/2610.36013) | semantic-scholar | 13 | `reasoning-self-improvement` |
+| 2026-10-26 | [Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO](https://arxiv.org/abs/2610.35716) | semantic-scholar | 9 | `reward-verifiers` |
+| 2026-10-26 | [FOCUS: Active Critic Learning for Long-Horizon Language Model Agents](https://arxiv.org/abs/2610.35801) | semantic-scholar | 6 | `agentic` |
+| 2026-10-26 | [MemVLN: Streaming Episodic Memory for Vision-Language Navigation](https://arxiv.org/abs/2610.35066) | semantic-scholar | 6 | `embodied-vla` |
+| 2026-10-26 | [Search-Guided Reasoning Trace Curation for Verilog Generation](https://arxiv.org/abs/2610.37706) | semantic-scholar | 5 | `distillation` |
+| 2026-10-26 | [PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds](https://arxiv.org/abs/2610.34921) | semantic-scholar | 5 | `reasoning-self-improvement` |
+| 2026-10-26 | [Reinforcement learning with GSPO enables vision language model (VLM) to detect structural heart disease from 12-lead electrocardiography](https://doi.org/10.1093/eurheartj/ehag785.4285) | crossref | 5 | `multimodal` |
+| 2026-10-26 | [ER-RAG: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Source](https://doi.org/10.1145/3860054) | semantic-scholar | 4 | `preference-alignment` |
+| 2026-10-26 | [Selective Tie Learning: Mitigating Spurious Correlations in Preference Optimization](https://arxiv.org/abs/2610.35787) | semantic-scholar | 4 | `reward-verifiers` |
+| 2026-10-26 | [Archive-Protected Survival Selection for Response Evolution in Large Language Model Post-Training_supp1-3745406.pdf](https://doi.org/10.1109/tevc.2026.3745406/mm1) | crossref | 4 | `reinforcement-learning` |
+| 2026-10-26 | [CURE: unsupervised and reliable domain-specific data synthesis for instruction tuning via efficient multi-agent collaboration](https://doi.org/10.1007/s42486-026-00278-4) | crossref | 3 | `multimodal` |
+| 2026-10-26 | [Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent](https://arxiv.org/abs/2610.35817) | semantic-scholar | 3 | `supervised-adaptation` |
+| 2026-10-26 | [Tacit Erosion: Does AI-generated Feedback Undermine Critical Feedback Competence &amp; Organisational Innovativeness? A Scoping Review](https://doi.org/10.34190/ecmlg.22.1.5108) | crossref | 3 | `preference-alignment` |
+| 2026-10-26 | [ClinVerse: A Realistic Multi-Agent Diagnostic Environment for Training and Evaluating Medical Agents](https://arxiv.org/abs/2610.34878) | semantic-scholar | 3 | `reasoning-self-improvement` |
+| 2026-10-26 | [Linear Probes Transfer from Base to Distilled Language Models despite Rotation](https://arxiv.org/abs/2610.35586) | semantic-scholar | 3 | `distillation` |
+| 2026-10-26 | [Optimization of Advertising Bidding Model With Generative AI and Deep Reinforcement Learning Collaboration: Design and Validation of Closed‐Loop Simulation Framework](https://doi.org/10.1111/exsy.70444) | crossref | 3 | `embodied-vla` |
+| 2026-10-25 | [Self-Evolution Reasoner: Continuous Optimization via Policy-Intrinsic Exploration and Exploitation](https://arxiv.org/abs/2610.34137) | semantic-scholar | 17 | `distillation` |
+| 2026-10-25 | [Audio-R1: Audio Reasoning through Reinforcement Learning on Self-Supervised Tasks](https://arxiv.org/abs/2610.34609) | semantic-scholar | 13 | `reasoning-self-improvement` |
+| 2026-10-25 | [GRASP: Group-Adaptive Hybrid RL-SFT Post-Training for Medical VQA without Reasoning Annotations](https://arxiv.org/abs/2610.34561) | semantic-scholar | 9 | `supervised-adaptation` |
+| 2026-10-25 | [ParetoRSI-Gym: Can AI Agents Improve Language Models Across Multiple Domains?](https://arxiv.org/abs/2610.34386) | semantic-scholar | 7 | `reasoning-self-improvement` |
+| 2026-10-25 | [AdvDPO: Adversarial Negative-Augmented Preference Optimization for Text-to-Image Diffusion Models](https://doi.org/10.3390/electronics15214927) | crossref, semantic-scholar | 5 | `embodied-vla` |
+| 2026-10-25 | [Large Language Models: A Plain-Language Overview for Engineers](https://arxiv.org/abs/2610.34585) | semantic-scholar | 5 | `agentic` |
+| 2026-10-25 | [ADReasoner: Acoustic-Linguistic Cue-Aware Reinforcement Learning for Explainable Alzheimer's Disease Detection from Speech](https://arxiv.org/abs/2610.34220) | semantic-scholar | 4 | `reinforcement-learning` |
+| 2026-10-25 | [CropReward: A Human-Preference Benchmark and Reward Model for Aesthetic Image Cropping](https://arxiv.org/abs/2610.34221) | semantic-scholar | 4 | `multimodal` |
+| 2026-10-24 | [A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Post-Training Alignment](https://arxiv.org/abs/2610.33451) | semantic-scholar | 13 | `multimodal` |
+| 2026-10-24 | [A Distribution-Matching Perspective on LLM Training Algorithms](https://arxiv.org/abs/2610.33740) | semantic-scholar | 10 | `distillation` |
+| 2026-10-24 | [RSI Arena: Towards Recursive Self-Improvement with Human Feedback](https://arxiv.org/abs/2610.33624) | semantic-scholar | 10 | `reasoning-self-improvement` |
+| 2026-10-24 | [EnvLunch: The Environment as a Free Lunch for Learning to Interact](https://arxiv.org/abs/2610.33817) | semantic-scholar | 9 | `agentic` |
+| 2026-10-24 | [ProtAgent: Post-Training Compact Protein Tool Agents with Interaction-Level Credit Assignment](https://arxiv.org/abs/2610.33746) | semantic-scholar | 6 | `agentic` |
+| 2026-10-24 | [Learning When to Collaborate: Selective Multi-Agent Medical Reasoning via Uncertainty-Aware Routing](https://arxiv.org/abs/2610.33544) | semantic-scholar | 5 | `reward-verifiers` |
+| 2026-10-24 | [EdgeDeID: A 0.6B Clinical De-identifier Trained Without Real Patient Data](https://arxiv.org/abs/2610.33839) | semantic-scholar | 5 | `reward-verifiers` |
+| 2026-10-24 | [The Hitchhiker's Guide to System 1 Models: Fast Decision-Making Beyond LLMS](https://arxiv.org/abs/2610.33775) | semantic-scholar | 5 | `agentic` |
+| 2026-10-24 | [Implicit Beliefs as Scalable Process Rewards for Strategic Persuasion](https://arxiv.org/abs/2610.33527) | semantic-scholar | 4 | `reward-verifiers` |
+| 2026-10-24 | [StateWise: Teaching Language Models to Track and Obey Evolving Constraints in Multi-Turn Dialogue](https://arxiv.org/abs/2610.33766) | semantic-scholar | 3 | `reasoning-self-improvement` |
+| 2026-10-23 | [On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models](https://arxiv.org/abs/2610.32770) | semantic-scholar | 15 | `distillation` |
+| 2026-10-23 | [Accordion: Elastic-Depth Inference via Fixed-Prefix Layer Looping](https://arxiv.org/abs/2610.32492) | semantic-scholar | 12 | `distillation` |
+| 2026-10-23 | [Predictive Long-Horizon Progress Modeling with Action-Aware Quantification](https://arxiv.org/abs/2610.32776) | semantic-scholar | 9 | `embodied-vla` |
+| 2026-10-23 | [ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback](https://arxiv.org/abs/2610.32966) | semantic-scholar | 9 | `generative-media` |
+| 2026-10-23 | [MusicTwins: Training Audio-Language Models to Listen like Their Persona](https://arxiv.org/abs/2610.32495) | semantic-scholar | 8 | `reinforcement-learning` |
+| 2026-10-23 | [Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning](https://arxiv.org/abs/2610.33180) | semantic-scholar | 8 | `distillation` |
+| 2026-10-23 | [SOPO: Socratic Guided Policy Optimization for Span-Level Hallucination Detection](https://arxiv.org/abs/2610.32212) | semantic-scholar | 7 | `reinforcement-learning` |
+| 2026-10-23 | [Of Chains and Gains: What Reinforcement Learning changes on Reasoning-based Image Quality Assessment](https://arxiv.org/abs/2610.33203) | semantic-scholar | 7 | `reinforcement-learning` |
+| 2026-10-23 | [Cycle-of-Thought: Self-Evaluative Iterative Reasoning for Table Visual Question Answering in Document Images](https://arxiv.org/abs/2610.32423) | semantic-scholar | 6 | `reasoning-self-improvement` |
+| 2026-10-23 | [Multiple Importance Sampling for Guided Speculative Inference](https://arxiv.org/abs/2610.33368) | semantic-scholar | 6 | `reward-verifiers` |
+| 2026-10-23 | [NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding](https://arxiv.org/abs/2610.32881) | semantic-scholar | 6 | `reasoning-self-improvement` |
+| 2026-10-23 | [From Harness Optimization to Recursive Self-Improvement: A Survey of Language Model Agents](https://doi.org/10.20944/preprints202610.2293.v1) | crossref | 4 | `preference-alignment` |
+| 2026-10-23 | [Solvent: Long-Horizon Reasoning for Multi-Step Retrosynthesis](https://arxiv.org/abs/2610.32308) | semantic-scholar | 4 | `reward-verifiers` |
+| 2026-10-23 | [ReMedI: Inference-Time Refinement and Self-Distillation for Controllable Molecular Optimization](https://arxiv.org/abs/2610.32103) | semantic-scholar | 4 | `reasoning-self-improvement` |
+| 2026-10-23 | [RynnUnify: Towards Unified Embodied Brain](https://arxiv.org/abs/2610.32965) | semantic-scholar | 4 | `agentic` |
+| 2026-10-23 | [TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](https://arxiv.org/abs/2610.32326) | semantic-scholar | 3 | `reasoning-self-improvement` |
+| 2026-10-22 | [Spark-Audio 1.0 Technical Report](https://arxiv.org/abs/2610.31292) | semantic-scholar | 14 | `distillation` |
+| 2026-10-22 | [Tracing Subliminal Learning Through Pretraining](https://arxiv.org/abs/2610.30884) | semantic-scholar | 12 | `distillation` |
+| 2026-10-22 | [Learning to Be Monitored: Causal Bounds and Intervention-Aware Post-Training Recipes for Chain-of-Thought Monitorability](https://arxiv.org/abs/2610.31733) | semantic-scholar | 11 | `distillation` |
+| 2026-10-22 | [Building Presentation Intelligence for High-Quality Slide Generation](https://arxiv.org/abs/2610.30888) | semantic-scholar | 8 | `agentic` |
+| 2026-10-22 | [DRILL: Training World Models to Improve Policies, Not Predict Pixels](https://arxiv.org/abs/2610.30814) | semantic-scholar | 7 | `embodied-vla` |
+| 2026-10-22 | [EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions](https://arxiv.org/abs/2610.31845) | semantic-scholar | 5 | `embodied-vla` |
+| 2026-10-22 | [ULME: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling](https://arxiv.org/abs/2610.30705) | semantic-scholar | 4 | `supervised-adaptation` |
+| 2026-10-22 | [FlashAttention-Compatible Modality-Mutual Attention with Virtual Reordering](https://doi.org/10.3390/math14213852) | semantic-scholar | 3 | `supervised-adaptation` |
+| 2026-10-22 | [Within-person reciprocal processes between AI feedback literacy and agentic engagement: a three-wave random-intercept cross-lagged panel study](https://doi.org/10.3389/fpsyg.2026.1893874) | crossref | 3 | `preference-alignment` |
+| 2026-10-22 | [CapeAgent: Learning to Estimate Category-level Articulation Pose from Single RGB Image with Reinforcement Learning](https://doi.org/10.2139/ssrn.7656101) | crossref | 3 | `multimodal` |
+| 2026-10-21 | [Flat-RLVR: Sharpness-Aware Reinforcement Learning with Verifiable Rewards for Reasoning Capacity in LLMs](https://arxiv.org/abs/2610.29281) | semantic-scholar | 10 | `reinforcement-learning` |
+| 2026-10-21 | [TeachBack: Learning to Teach via Bidirectional Preference Optimization for On-Policy Self-Distillation](https://arxiv.org/abs/2610.29167) | semantic-scholar | 9 | `distillation` |
+| 2026-10-21 | [Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation](https://arxiv.org/abs/2610.29264) | semantic-scholar | 9 | `embodied-vla` |
+| 2026-10-21 | [Agentic Music Post-Production](https://arxiv.org/abs/2610.29093) | semantic-scholar | 7 | `multimodal` |
+| 2026-10-21 | [AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2610.30097) | semantic-scholar | 7 | `embodied-vla` |
+| 2026-10-21 | [DynaWeave: Learning to Adapt through Dynamic Scenario Synthesis](https://arxiv.org/abs/2610.29443) | semantic-scholar | 5 | `reward-verifiers` |
+| 2026-10-21 | [Aligning Flow-Matching Vision-Language-Action Models via Advantage-Guided Action Preference Optimization](https://doi.org/10.1109/icist71072.2026.11727767) | crossref | 5 | `embodied-vla` |
+| 2026-10-21 | [SimPT: An Automated Simulation Framework for Intervention-Based VLA Post-Training](https://arxiv.org/abs/2610.29161) | semantic-scholar | 5 | `embodied-vla` |
+| 2026-10-21 | [Archive-Protected Survival Selection for Response Evolution in Large Language Model Post-Training](https://doi.org/10.1109/tevc.2026.3745406) | crossref | 4 | `embodied-vla` |
+| 2026-10-23 | [HarnessMM: Recursive Self-Improvement for Harness Token Efficiency](https://arxiv.org/abs/2610.32813) | semantic-scholar | 3 | `reasoning-self-improvement` |
+| 2026-10-23 | [DynaSFA: Coupling bidirectional mesoscopic simulation with multi-agent reinforcement learning for coordinated service facility control in multimodal transport hubs](https://doi.org/10.2139/ssrn.7662398) | crossref | 3 | `agentic` |
+| 2026-10-22 | [DIAL: Steerable Language Models with Distilled Instruction-Adherence Levels](https://arxiv.org/abs/2610.31438) | semantic-scholar | 8 | `distillation` |
+| 2026-10-22 | [Model-intrinsic, Weight-level, and Training-free Spectral Fingerprinting for Large Language Models](https://arxiv.org/abs/2610.30626) | semantic-scholar | 7 | `reward-verifiers` |
+| 2026-10-22 | [RECAP: Looking Once Is Not Enough for Vision-Language Reasoning](https://arxiv.org/abs/2610.30834) | semantic-scholar | 3 | `reward-verifiers` |
+| 2026-10-22 | [Abstract Priorities, Concrete Rewards: How Stated Preferences Relate to What People Reward in AI Responses](https://arxiv.org/abs/2610.30763) | semantic-scholar | 3 | `reward-verifiers` |
+| 2026-10-22 | [Memory-Aware Reward Modeling: Learning Human Preferences for LLM Memory Use](https://arxiv.org/abs/2610.31272) | semantic-scholar | 3 | `reward-verifiers` |
+| 2026-10-22 | [Reverse-KL Policy Distillation: Statistical Guarantees and Limits](https://arxiv.org/abs/2610.30844) | semantic-scholar | 3 | `distillation` |
+| 2026-10-22 | [HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](https://arxiv.org/abs/2610.31162) | semantic-scholar | 3 | `agentic` |
+| 2026-10-21 | [LLM Post-Training and Test-Time Reasoning: A Generate-Evaluate-Update Survey of Methods, Challenges, and Research Directions](https://doi.org/10.2139/ssrn.7646818) | crossref | 20 | `agentic` |
+| 2026-10-21 | [Edit, Don't Imitate: Minimal-Edit On-Policy Distillation for Multimodal Reasoning](https://arxiv.org/abs/2610.30231) | semantic-scholar | 12 | `distillation` |
 
 Review checklist:
 
