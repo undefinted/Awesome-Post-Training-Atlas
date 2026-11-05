@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**374 papers**: 1 curated and 373 academic discovery candidates.
+**389 papers**: 1 curated and 388 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
+- [2026](#2026) — [Nov](#2026-11) ◐1 · [Oct](#2026-10) ◐13 · [Sep](#2026-09) ✓21 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -21,11 +21,113 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ## 2026
 
+<a id="2026-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Typed Counterfactual Preference Optimization for Multi-Turn Conversational Recommendation Agents](https://doi.org/10.1145/3799682.3839937)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-03 · `query-hint` · `crossref`  
+  Labels: `Counterfactual` · `Preference Optimization` · `Multi-turn`  
+  Authors: Hongxu Shi, Yi Liu, Kun Liu  
+  Venue: Proceedings of the 35th ACM International Conference on Information and Knowledge Management
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://doi.org/10.18653/2026.emnlp-main.1072)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Diffusion`  
+  Authors: Injin Kong, Hyoungjoon Lee, Yohan Jo  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing
+
+- 🔎 **[Equitable Alignment of LLMs Across Languages with Regularized Direct Preference Optimization](https://doi.org/10.18653/2026.findings-emnlp.121)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `DPO` · `Preference Optimization`  
+  Authors: Thibaud Leteno, Antoine Gourru, Charlotte Laclau, Christophe Gravier  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[Navigating Intention Reasoning Trees to Guide Agentic Preference Optimization](https://doi.org/10.18653/2026.findings-emnlp.1740)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Preference Optimization` · `Agent` · `Reasoning`  
+  Authors: Ziben Yue, Hongyu Yang, Weixin Li  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[Trains but Doesn’t Learn: A Post-Training Delivery Benchmark for LLM Agents as Forward-Deployed Engineers](https://doi.org/10.18653/2026.emnlp-industry.52)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Weihang Ding, Junfei Zhan  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track
+
+- 🔎 **[LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering](https://doi.org/10.18653/2026.emnlp-industry.212)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Gopi Krishnan Rajbahadur, Amir Ebrahimi, Boyuan Chen, Ahmed E. Hassan  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track
+
+- 🔎 **[First-Stage Groundwork Shapes Downstream RL Outcomes: Two-Stage Post-Training for LLM Personality Acquisition](https://doi.org/10.18653/2026.emnlp-main.1983)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Taisei Ozaki, Tetsuya Hashimoto, Miki Ota, Keisuke Hori, Zhenyu He, Mitsuhiro Mabuchi  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing
+
+- 🔎 **[Rethinking the Role of Tensor Decompositions in Post-Training LLM Compression](https://doi.org/10.18653/2026.emnlp-main.2679)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Artur Zagitov, Alexander Miasnikov, Maxim Krutikov, Artem Tsedenov, Vladimir Aletov, Gleb Molodtsov, Nail Bashirov, Aleksandr Beznosikov  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing
+
+- 🔎 **[SPHERE: Automatic Music Upmixing via Audio Language Model Post-Training with Spatial Heuristics Rewards](https://doi.org/10.18653/2026.emnlp-main.2673)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Zixun Guo, Calvin Murdock, Sanjeel Parekh, W. Owen Brimijoin, Simon Dixon, Joshua Reiss, Ishwarya Ananthabhotla  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing
+
+- 🔎 **[M-GOAL: Toward Accurate and Language-Consistent Reasoning in LLMs via English-Only Post-Training](https://doi.org/10.18653/2026.findings-emnlp.1232)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Reasoning`  
+  Authors: Dingyuan Dai, Yuxi Chen, Jiayuan Wang  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[MeDocVL: Noise-Aware Post-Training of Visual Language Models for Medical Document Parsing](https://doi.org/10.18653/2026.findings-emnlp.2321)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Wei Wu, Liang Diao, Yuan Zhao, Wenjie Wang, Ying Liu, Xiaole Lv  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[Driving on manifolds: A stochastic manifold mapping paradigm for generalizable end-to-end autonomous driving](https://doi.org/10.1177/02783649261498059)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `crossref, semantic-scholar`  
+  Labels: `Synthetic Data` · `Autonomous Driving`  
+  Authors: Tong Li, Lu Zhang, Pei-Liang Li, Si-Kang Liu, Shao-Jie Shen  
+  Venue: The international journal of robotics research
+
+- 🔎 **[Optimization of Advertising Bidding Model With Generative AI and Deep Reinforcement Learning Collaboration: Design and Validation of Closed‐Loop Simulation Framework](https://doi.org/10.1111/exsy.70444)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-26 · `query-hint` · `crossref`  
+  Labels: `Counterfactual` · `PPO`  
+  Authors: Yuanchun Xu, Erming Xu  
+  Venue: Expert Systems
+
+- 🔎 **[AdvDPO: Adversarial Negative-Augmented Preference Optimization for Text-to-Image Diffusion Models](https://doi.org/10.3390/electronics15214927)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-25 · `query-hint` · `crossref`  
+  Labels: `DPO` · `Preference Optimization` · `Diffusion` · `Image Generation`  
+  Authors: Zhe Jing, Pin Wang, Huaibo Huang  
+  Venue: Electronics
+
 <a id="2026-09"></a>
 
 ### September
 
 > **Audit status:** ✓ Complete · scanned 2 academic records · 2 eligible · checked 2026-09-02T04:49:38.494374+00:00.
+
+- 🔎 **[Neurocognitive and Experiential Evaluation of Autonomous Driving Strategies Using EEG and a Four-Dimensional Human Experience Model](https://doi.org/10.5755/j01.itc.55.3.45022)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-09-25 · `query-hint` · `crossref`  
+  Labels: `Multimodal` · `Autonomous Driving`  
+  Authors: Peijiang Zhang, Tao Cheng, Luyao Jiang, Yunlong Wu  
+  Venue: Information Technology and Control
 
 - 🔎 **[Towards High-DoF Dexterous Manipulation through VLA Post-Training](https://arxiv.org/abs/2609.19666)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-09-17 · `query-hint` · `semantic-scholar`  
