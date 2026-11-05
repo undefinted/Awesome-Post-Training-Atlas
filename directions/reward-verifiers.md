@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3036 papers**: 1 curated and 3035 academic discovery candidates.
+**3053 papers**: 1 curated and 3052 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓44 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Nov](#2026-11) ◐2 · [Oct](#2026-10) ◐15 · [Sep](#2026-09) ✓44 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓92 · [Nov](#2025-11) ✓104 · [Oct](#2025-10) ✓178 · [Sep](#2025-09) ✓132 · [Aug](#2025-08) ✓83 · [Jul](#2025-07) ✓60 · [Jun](#2025-06) ✓102 · [May](#2025-05) ✓119 · [Apr](#2025-04) ✓41 · [Mar](#2025-03) ✓69 · [Feb](#2025-02) ✓70 · [Jan](#2025-01) ✓23
 - [2024](#2024) — [Dec](#2024-12) ✓48 · [Nov](#2024-11) ✓26 · [Oct](#2024-10) ✓64 · [Sep](#2024-09) ✓20 · [Aug](#2024-08) ✓13 · [Jul](#2024-07) ✓18 · [Jun](#2024-06) ✓30 · [May](#2024-05) ✓27 · [Apr](#2024-04) ✓17 · [Mar](#2024-03) ✓17 · [Feb](#2024-02) ✓22 · [Jan](#2024-01) ✓14
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -20,6 +20,108 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Trusting Imagined Futures: Auditing Imagined Rewards for VLA Post-Training](https://arxiv.org/abs/2611.04873)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-03 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `VLA`  
+  Authors: Zi-Chen Kong, Zhen-Bo Xu, Hao-Yan Zhang, Jing-Han Yang, Zhen-Zhen Li, Yi-Wei Ru, Liu-Yu Xiang, Wan-Ting Xu, et al.
+
+- 🔎 **[D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models](https://arxiv.org/abs/2611.03622)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-02 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `VLM` · `Robotics`  
+  Authors: Marius Memmel, Shawn Yin, Urvi Rutia, A. Wadhwa, Eldon Li, Gavin Angeloff, Ankit Goyal, Jesse Zhang, et al.
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA](https://arxiv.org/abs/2611.00828)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-31 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `VLM`  
+  Authors: T. N. Rickesh, Pranav Vinodh, S. SowmyaKamath
+
+- 🔎 **[Are Fake Citations a Form of Reward Hacking? A Pre-Registered Study of Post-Training and Citation Cues](https://arxiv.org/abs/2611.01313)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-31 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model`  
+  Authors: Zain Naboulsi
+
+- 🔎 **[TalentRL: Strategy-Guided Reinforcement Learning for Hierarchical Skill Routing](https://arxiv.org/abs/2610.41143)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Agent`  
+  Authors: Huan-Cheng Chen, Xi Sun, Zhao-Qiong Huang, Michelle Chang, Jing-Wen Lu
+
+- 🔎 **[LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling.](https://arxiv.org/abs/2610.41165)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Safety`  
+  Authors: Ai-Shan Liu, Yi-Song Xiao, Xiang-Long Liu, Yong-Xin Huang, Si-Yuan Liang, Zong-Hao Ying, Yang Qu, Jian Yang, et al.  
+  Venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+- 🔎 **[Do Transaction Prices Reflect Visual Preference? A Diagnostic Study with Multimodal Language Models](https://arxiv.org/abs/2610.41358)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model` · `Multimodal`  
+  Authors: Feng-Xian Ji, Jing-Pu Yang, Fan Zhang, Jun-Hong Liang, Qian Jiang, Yu-Ke Li, Jinri Guo, Rong-Xin Zhu, et al.
+
+- 🔎 **[Search When Needed, Proceed When Reliable: Metacognitive Reliability Supervision for Efficient Agentic Search](https://arxiv.org/abs/2610.41738)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Agent` · `Reasoning`  
+  Authors: Min-Hao Sun, Zhi-Jing Wu, Xian-Ling Mao
+
+- 🔎 **[The Interplay of Harness Design and Post-training in LLM Agents](https://doi.org/10.18653/2026.findings-emnlp.2207)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Kyungmin Kim, Youngbin Choi, Seoyeon Lee, Suhyeon Jun, Dongwoo Kim, Sangdon Park  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[PRISM: Post-Training LLM Pruning via Residual Importance Signal Merging and Intra-Block Sparsity Allocation](https://doi.org/10.18653/2026.findings-emnlp.606)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Keyu Wen, Jianing Zhu, Kaiyang HU, Lijun Yang, Rui Lin  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[An LLM-Driven Pipeline for Extremely Low-Resource English-to-Indic Translation — From Vocabulary Injection to Post-Training and Decoding](https://doi.org/10.18653/2026.wmt-main.162)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Lu Ruan, Shaoying Jia, Fan Ning, Wei Wang, Zhengzhen Cai, Fei Hu, Heng Hu, Chenzi Wang  
+  Venue: Proceedings of the Eleventh Conference on Machine Translation
+
+- 🔎 **[ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](https://arxiv.org/abs/2610.40627)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Multi-turn` · `Safety`  
+  Authors: Qi-Yao Ma, Xiao-Dong Liu, Wei-Wei Yang, Ming-Qian Feng, Cheng-Quan Guo, Jia-Lin Song, Carolyn Buractaon, Zhe Zhao, et al.
+
+- 🔎 **[CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak](https://arxiv.org/abs/2610.40926)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Multi-turn` · `Safety`  
+  Authors: Jia-Lin Song, Xiao-Dong Liu, Wei-Wei Yang, Ming-Qian Feng, Cheng-Quan Guo, Qi-Yao Ma, Carolyn Buractaon, Anson Ho, et al.
+
+- 🔎 **[GUI-PRA: Process Reward Agents for GUI Tasks](https://doi.org/10.18653/2026.emnlp-main.1304)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: pending  
+  Authors: Tao Xiong, Xueyu Hu, Yurun Chen, Yuhang Liu, Changqiao Wu, Pengzhi Gao, Wei Liu, Jian Luan, et al.  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing
+
+- 🔎 **[When Does Closed-Loop Curriculum Adaptation Help GRPO? An Analysis on Countdown](https://arxiv.org/abs/2610.39056)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-28 · `query-hint` · `semantic-scholar`  
+  Labels: `GRPO` · `Curriculum` · `Reasoning`  
+  Authors: Yuv Raj Pant, Moshiur Rahman Tonmoy, Kaiqun Fu
+
+- 🔎 **[Predict the Reward, Not the World: World Reward Models for ML Agents](https://arxiv.org/abs/2610.38439)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-28 · `query-hint` · `semantic-scholar`  
+  Labels: `Reward Model`  
+  Authors: Yu-Xiao Lee, Zhe-Rui Yang, Fan Liu, Hao Liu
+
+- 🔎 **[Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers](https://arxiv.org/abs/2610.37405)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: pending  
+  Authors: Zong-Yuan Sun, Shuai Zhao, Ying-Jun Du, Kei-Shea Shu, Zi-Yue Zhu, Hao-Ran Luo
 
 <a id="2026-09"></a>
 

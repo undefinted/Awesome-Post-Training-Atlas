@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3339 papers**: 2 curated and 3337 academic discovery candidates.
+**3356 papers**: 2 curated and 3354 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Nov](#2026-11) ◐9 · [Oct](#2026-10) ◐8 · [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓104 · [Nov](#2025-11) ✓125 · [Oct](#2025-10) ✓184 · [Sep](#2025-09) ✓143 · [Aug](#2025-08) ✓128 · [Jul](#2025-07) ✓90 · [Jun](#2025-06) ✓135 · [May](#2025-05) ✓192 · [Apr](#2025-04) ✓93 · [Mar](#2025-03) ✓112 · [Feb](#2025-02) ✓93 · [Jan](#2025-01) ✓52
 - [2024](#2024) — [Dec](#2024-12) ✓77 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓110 · [Sep](#2024-09) ✓52 · [Aug](#2024-08) ✓51 · [Jul](#2024-07) ✓58 · [Jun](#2024-06) ✓100 · [May](#2024-05) ✓76 · [Apr](#2024-04) ✓55 · [Mar](#2024-03) ✓62 · [Feb](#2024-02) ✓97 · [Jan](#2024-01) ✓41
 - [2023](#2023) — [Oct](#2023-10) ◐1
@@ -21,6 +21,105 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Unifying and Beyond the Theory of Pervasive Capability Degradation in LLM Post-training SFT from Feature Interference](https://arxiv.org/abs/2611.05003)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-03 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Hang Chen, Jia-Ying Zhu, Wen-Ya Wang
+
+- 🔎 **[Feeling of Knowing in Large Language Models](https://arxiv.org/abs/2611.04834)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-03 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `On-policy`  
+  Authors: Zi-Chuan Fu, Xian Wu, Jing-Tong Gao, Wen-Lin Zhang, Jia-Xuan Li, Bin-Hao Wang, Yi-Min Deng, Guo-Jing Li, et al.
+
+- 🔎 **[NightIQA: A Comprehensive Dataset and Benchmark for MLLM-Based Nighttime Image Quality Assessment](https://arxiv.org/abs/2611.04811)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-03 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `Multimodal` · `Reasoning`  
+  Authors: Yi-Ding Tian, Jiao-Jiao Yi, Ji-Yuan Lu, Pu-Fan Xu, Jin-Lin Wu, Chang-Yuan Wen, Hongyuan Yu
+
+- 🔎 **[TrafficInstruct: A Multi-Task Network Traffic Dataset and Benchmark for Instruction Tuning](https://arxiv.org/abs/2611.03319)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Zheng-Dao Li, Hui Wen, Zi-Xuan Wan, Wei-Feng Zhang, Yang-Qian Wu, Ben-Long Wu, Neng-Hai Yu, Wei-Ming Zhang, et al.
+
+- 🔎 **[SurgEye: Instruction Tuning-Free Perception-Reasoning Framework for Surgical Scene Understanding](https://arxiv.org/abs/2611.04012)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Agent` · `VLM` · `Reasoning`  
+  Authors: Qing Xu, Xie-Cheng Shen, Xiang-Jian He, Gu-Qiao Liang, Zi-Xiao Chai, Jia-Le Qin, Yi-Fan Chen, Si-Ying Li, et al.
+
+- 🔎 **[AlgoPilot: Cross-Paradigm Reasoning in Language Models via Strategy Selection and Guidance](https://arxiv.org/abs/2611.04079)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reasoning`  
+  Authors: Yi-Lun Hao, Rui-Xiao Yang, Hudson Hilal, Yong-Chao Chen, Kai-Zhi Qian, Ya-Da Zhu, Yang Zhang, Chu-Chu Fan
+
+- 🔎 **[Trace4D: Grounded Spatiotemporal Reasoning via 4D State Sequences](https://arxiv.org/abs/2611.02759)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `GRPO` · `VLM` · `Reasoning`  
+  Authors: Wooseok Jang, Seungryong Kim, Ya-Fen Lu, Lei Ji
+
+- 🔎 **[Enhancing Power Grid Model Generation With Large Language Models via Progressive Fine-Tuning](https://doi.org/10.1109/TPWRS.2026.3723876)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-01 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Kai-Hang Deng, Yan-Zhen Zhou, Ying Yang, Xu Yang, Wei Dong, Qing-Lai Guo  
+  Venue: IEEE Transactions on Power Systems
+
+- 🔎 **[Phase-wise MLLM Tuning for Multi-framework WebUI Code Generation](https://arxiv.org/abs/2611.01692)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-01 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal` · `Code`  
+  Authors: Hao-Ran Ma, Lin-Xiao Li, Chen-Yue Wang, Hao-Chen Sui, Jie-Chao Gao
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[From Weeks to Hours: Fast and Principled SFT Data Generation for Reasoning LLMs](https://arxiv.org/abs/2611.00554)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-31 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Reasoning` · `Math`  
+  Authors: H. Jin, Wen-Han Yang, Meysam Ghaffari, Carlos Morato, Baharan Mirzasoleiman
+
+- 🔎 **[Multimodal In-Context Learning with Explicit Rule Induction](https://arxiv.org/abs/2610.41754)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal` · `Reasoning`  
+  Authors: Yu-Quan Li, Xin-Yang Jiang, Yu-Hao Xue, Cai-Rong Zhao
+
+- 🔎 **[The Role of Self-Concept In Language Models](https://arxiv.org/abs/2610.39795)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Self-improvement`  
+  Authors: Yi-Jie Hao, Joyce C. Ho
+
+- 🔎 **[Post-Training Large Language Models with LLMON](https://arxiv.org/abs/2610.38120)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-28 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Basel Shbita, Michael Hind, Chad DeLuca, N. Fulton, Shubhi Asthana, Farhan Ahmed, Anisa Halimi, Ya-Da Zhu, et al.
+
+- 🔎 **[HaVen-Agent: Enhancing Hallucination-Mitigated Verilog Code Generation Aligned with HDL Engineers through Code Repair and Multi-Agent Orchestration](https://doi.org/10.1145/3856825)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-28 · `query-hint` · `semantic-scholar`  
+  Labels: `Rejection Sampling` · `Verifier` · `Reasoning` · `Code` · `Hallucination`  
+  Authors: Yi-Yao Yang, Fu Teng, Peng-Ju Liu, Meng-Nan Qi, Chen Zou, Shuo Yang, Rui-Tong An, Chen Nie, et al.  
+  Venue: ACM Transactions on Design Automation of Electronic Systems
+
+- 🔎 **[Locating Sycophancy Across Training Stages in Open Language Models](https://arxiv.org/abs/2610.37788)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Preference Optimization`  
+  Authors: Jiarui Yao, Shweta Parihar, Nghia Bui, Guergana K. Savova, Li-Jing Wang
+
+- 🔎 **[Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding](https://arxiv.org/abs/2610.37093)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multi-turn` · `Multimodal` · `VLM` · `Reasoning`  
+  Authors: Rui-Lin Yao, Xin-Yu Qiu, Tian-Yu Zou, Yi Rong, Sheng-Wu Xiong, Shu-Heng Shen, Chang-Hua Meng
+
+- 🔎 **[Latent Visual Contrastive Reasoning with Multi-Branch Exploration](https://arxiv.org/abs/2610.36809)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `Multimodal` · `Reasoning`  
+  Authors: Ke-Geng Tang, Jing-Bo Wang, Yang-Ming Zhang, Huanshu Zhang, Shao-Gang Ren, Zi-Hao Wang
 
 <a id="2026-09"></a>
 

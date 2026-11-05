@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**746 papers**: 3 curated and 743 academic discovery candidates.
+**765 papers**: 3 curated and 762 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Nov](#2026-11) ◐5 · [Oct](#2026-10) ◐14 · [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓50 · [Nov](#2025-11) ✓43 · [Oct](#2025-10) ✓65 · [Sep](#2025-09) ✓32 · [Aug](#2025-08) ✓47 · [Jul](#2025-07) ✓43 · [Jun](#2025-06) ✓38 · [May](#2025-05) ✓44 · [Apr](#2025-04) ✓29 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓11 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓1 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓1 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓1 · [Jun](#2024-06) ✓2 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓1
 - [2017](#2017) — [Jul](#2017-07) ◐1
@@ -20,6 +20,116 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-11"></a>
+
+### November
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[ReSI-Math: Exploring Recoverable Capability Frontiers for Efficient Reasoning Improvement](https://arxiv.org/abs/2611.04787)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-03 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Verifier` · `Reasoning` · `Math`  
+  Authors: Yao Cui, Zhen Yang, Yuan-Dong Wang, Yang-Fu Zhu, Tian-Yu Wo, Zhen-Zhou Shao
+
+- 🔎 **[The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning](https://arxiv.org/abs/2611.03260)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-02 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR` · `On-policy` · `Reasoning` · `Math`  
+  Authors: Lian-Min Chen, Jun-Bin Qiu, Chen-Xing Wei, Yao Shu, Xiaosen Wang
+
+- 🔎 **[Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR](https://arxiv.org/abs/2611.03627)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-02 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `PRM` · `Reasoning`  
+  Authors: Zi-Qi Pang, Yu-Xiong Wang
+
+- 🔎 **[On the Primacy Bias in RLVR Training](https://arxiv.org/abs/2611.04061)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-02 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Phuc Minh Nguyen, Ngoc-Hieu Nguyen, P. Shojaee, Chinh D. La, D. M. H. Nguyen, Rui Zhang, Khoa D. Doan, Hua Ting, et al.
+
+- 🔎 **[NAS-PO: Native Attention-Strategy Policy Optimization for Vision-Language Models](https://arxiv.org/abs/2611.02008)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-01 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `VLM` · `Reasoning`  
+  Authors: Ke An, Shi-Zhe Xiang, Yue Liu, Liang Chen, Pei Fu, Shao-Jie Zhang, Xiao-Xing Hu, Yu-Pei Wang
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Fewer Tokens, More Answers: Verifiable-Reward Tuning of an Ornith-Style VLM for Multi-View Driving QA](https://arxiv.org/abs/2611.00833)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-31 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `VLM` · `Reasoning`  
+  Authors: T. N. Rickesh, Pranav Vinodh, S. SowmyaKamath
+
+- 🔎 **[From Representation to Readout: Mechanistic Analysis of Membership Signals in Language Models](https://arxiv.org/abs/2610.41445)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `RLVR`  
+  Authors: Wen-Xi Dai, Jing-Yu Hu, Yan-Ting Yang, Meng-Nan Du
+
+- 🔎 **[GRIT: Gradient Masking for Visually Misgrounded Tokens in Text-Rich Reasoning](https://arxiv.org/abs/2610.41629)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-30 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `VLM` · `Reasoning`  
+  Authors: Chanseul Cho, No-Chan Bae, Dongheon Lee, Youngmin Ro
+
+- 🔎 **[Aligning Medical Vision Language Models at the Capability Boundary with Entropy Adaptive Rubric Grounding](https://arxiv.org/abs/2610.39835)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `semantic-scholar`  
+  Labels: `Distillation` · `Counterfactual` · `SFT` · `Preference Optimization` · `VLM` · `Reasoning`  
+  Authors: Hong-Yu Bai, Jia-Qi Zeng, Chun-Zheng Zhu
+
+- 🔎 **[H$^2$R: Hierarchical Hint-Based Reward for Mathematical Reasoning via Reinforcement Learning](https://arxiv.org/abs/2610.39934)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Reasoning` · `Math`  
+  Authors: He Tu, Si-Ye Li, Hong-Yi Wen
+
+- 🔎 **[There Is No Free Lunch in RLVR: Every pass@1 Gain Has a pass@k Price](https://arxiv.org/abs/2610.39295)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Yi-Nuo Liu
+
+- 🔎 **[Training Foundation Models with a Single Algorithm](https://arxiv.org/abs/2610.40564)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT`  
+  Authors: Yu-Da Song, Alvin Zhang, Fahim Tajwar, Daman Arora, Jeff G. Schneider, Daniel Khashabi, Ruslan Salakhutdinov, J. Bagnell, et al.
+
+- 🔎 **[Agentic Reward Modeling for Medical Reasoning](https://doi.org/10.18653/2026.findings-emnlp.766)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Agent` · `Reasoning`  
+  Authors: Hang Zhang, Ruheng Wang, Yuelyu Ji, Min Gu Kwak, Xizhi Wu, Chenyu Li, Li Zhang, Wenqi Shi, et al.  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[Monitorable Chart Reasoning Agents via Verifiable Process Rewards](https://doi.org/10.18653/2026.findings-emnlp.691)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `Reasoning`  
+  Authors: Sanchit Sinha, Oana Frunza, Kashif Rasul, Aidong Zhang  
+  Venue: Findings of the Association for Computational Linguistics: EMNLP 2026
+
+- 🔎 **[KG-RLVR: Reinforcing LLM Reasoning with Knowledge Graph-Derived Process Rewards](https://doi.org/10.18653/2026.emnlp-main.890)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `query-hint` · `crossref`  
+  Labels: `RLVR` · `Reasoning`  
+  Authors: Aoran Gan, Guoxuan Zhang, Ya Li, Qiangbing Wang, Quan Liu, Qi Liu, Guoping Hu  
+  Venue: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing
+
+- 🔎 **[Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training](https://arxiv.org/abs/2610.38851)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-28 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `On-policy` · `Verifier` · `Reasoning`  
+  Authors: Albert Bou, Javier Valdes-Aleman, Jon M. Laurent, Samuel G. Rodriques, Andrew D. White, Michaela M. Hinks, Siddharth Narayanan
+
+- 🔎 **[When All Rollouts Fail: Policy-Compatible Joint Decoding for Hard-Problem Reasoning](https://arxiv.org/abs/2610.36849)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `GRPO` · `On-policy` · `Off-policy` · `Agent` · `Reasoning`  
+  Authors: Ze-Hao Wang, Han-Zhu Chen, Run-Quan Gui, Zhe-Shun Wang, Lin F. Yang
+
+- 🔎 **[Guided-RLVR: Guided Exploration in Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2610.37041)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `RLVR` · `Reasoning` · `Math` · `Code`  
+  Authors: Bo-Sen Yang, Z. Zhang, Wei-Hua Li, Qin-Nan Zhang, Si-Jia Wen, Hainan Zhang
+
+- 🔎 **[What a Weight Update Buys: Leverage Across Training Stages](https://arxiv.org/abs/2610.37719)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `query-hint` · `semantic-scholar`  
+  Labels: `SFT` · `DPO` · `RLVR`  
+  Authors: Shikhar Shiromani
 
 <a id="2026-09"></a>
 
