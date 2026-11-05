@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**539 papers**: 2 curated and 537 academic discovery candidates.
+**605 papers**: 2 curated and 603 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Oct](#2026-10) ✓66 · [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓20 · [Oct](#2025-10) ✓33 · [Sep](#2025-09) ✓33 · [Aug](#2025-08) ✓14 · [Jul](#2025-07) ✓11 · [Jun](#2025-06) ✓13 · [May](#2025-05) ✓16 · [Apr](#2025-04) ✓6 · [Mar](#2025-03) ✓8 · [Feb](#2025-02) ✓7 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓6 · [Nov](#2024-11) ✓4 · [Oct](#2024-10) ✓6 · [Sep](#2024-09) ✓2 · [Aug](#2024-08) ✓4 · [Jul](#2024-07) ✓0 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓7 · [Feb](#2024-02) ✓4 · [Jan](#2024-01) ✓3
 - [2023](#2023) — [Feb](#2023-02) ◐1
@@ -21,6 +21,343 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-10"></a>
+
+### October
+
+> **Audit status:** ✓ Complete · scanned 454 academic records · 193 eligible · checked 2026-11-05T07:18:26.291296+00:00.
+
+- 🔎 **[Sandman: A Sandbox Service for Production Agentic Reinforcement Learning](https://arxiv.org/abs/2610.39711)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Code`  
+  Authors: Yiming Yan, Hongyang Wang, Wenbo Chen, Xuan Wang, Yichuan Li, Jingguo Liu, Xian Li, Leo Fan, et al.
+
+- 🔎 **[Heterogeneous Co-Evolution Learning for Tool-Efficient Search Agents with Zero Labels](https://arxiv.org/abs/2610.39682)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Reasoning`  
+  Authors: Qin-Wen Luo, Sheng Ren, Xiang Chen, Rui Liu, Jun Fang, Naiqiang Tan, Jun Wang, Hua Chai, et al.
+
+- 🔎 **[Training language models in simulation for psychiatric intake](https://arxiv.org/abs/2610.40476)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-29 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn`  
+  Authors: Samuel Schmidgall, Tim Strother, Alex Bijamov, Min Woo Sun, Anil Palepu, Akshay Goel, Ulysse Marteau-Ferey, Théo Moutakanni, et al.
+
+- 🔎 **[Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning](https://arxiv.org/abs/2610.37195)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Yingjian Chen, Lang Zhou, Zixin Zhao, Pingfan Li, Weishi Zheng, Zhilin Zhao
+
+- 🔎 **[Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces](https://arxiv.org/abs/2610.37255)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Code`  
+  Authors: Jian Mu, Ruibo Shen, Yao Shu
+
+- 🔎 **[WebAnything: From the Wild Web to Scalable Agent Environments](https://arxiv.org/abs/2610.37786)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-27 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `Web Agent`  
+  Authors: Tianci Xie, Zikun Cai, Chaoyun Zhang, Pinxue Guo, Bingxuan Li, Rui Zheng, Hang Yan
+
+- 🔎 **[Test-Time Confidence Adaptation under RL-Induced Trajectory Shift](https://arxiv.org/abs/2610.35500)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Reasoning`  
+  Authors: Zhenzhen Ren, Xiaoqing Zhang, GuoBiao Li, Bowen Fang, Yanxi Wang, Xinpeng Zhang, Ke Han
+
+- 🔎 **[Belief-Conditioned Multi-Agent Actor Critic for Decentralized LLM Collaboration](https://arxiv.org/abs/2610.35398)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn`  
+  Authors: Tianle Chen, Shuo Liu, Christopher Amato
+
+- 🔎 **[ClinVerse: A Realistic Multi-Agent Diagnostic Environment for Training and Evaluating Medical Agents](https://arxiv.org/abs/2610.34878)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-26 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent`  
+  Authors: Sirry Chen, Fangke Chen, Xuanwen Ding, Wei Chen, Zhongyu Wei
+
+- 🔎 **[BE-CTDE: Blockchain-Enabled Multi-Agent Reinforcement Learning with Anomaly Detection and Token Economics](https://arxiv.org/abs/2610.34121)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-25 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier`  
+  Authors: Chih-Wei Huang, Hsin-Chieh Lee, Yun-Chen Yu, Ibrahim Althamary, Rongxing Lu, Phone Lin
+
+- 🔎 **[HA-DiPO: Diffusion Policy Optimization for Heterogeneous Cooperative Transport](https://arxiv.org/abs/2610.33584)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-24 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Xuebin Li, Jinpeng Xiao, Zong Chen, Pierluigi Arpenti, Bruno Siciliano, Jiebao Sun, Yiqun Li
+
+- 🔎 **[Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.31544)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual` · `GRPO` · `Agent`  
+  Authors: Zeropy Surio, Tobias Engel, Mei-Lin Chou, Anika Raman, Samuel Okafor
+
+- 🔎 **[Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training](https://arxiv.org/abs/2610.30792)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-22 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Code`  
+  Authors: Zezhou Wang, Hanzhang Zhou, Panrong Tong, Quyu Kong, Pengxiang Li, Steven Hoi, Zhuzhong Qian, Yue Wang
+
+- 🔎 **[BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments](https://arxiv.org/abs/2610.29426)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `On-policy` · `Curriculum` · `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Ge Qu, Jinyang Li, Xiaohan Xu, Xiaolong Li, Bowen Qin, Nan Huo, Ziwei Tang, Chenhao Ma, et al.
+
+- 🔎 **[Harness Scaling for Generalizable Agentic Reinforcement Learning](https://arxiv.org/abs/2610.29458)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Fei Bai, Huatong Song, Chuan Hao, Ran Tao, Jian Yang, Bryan Dai, Wayne Xin Zhao, Ji-Rong Wen
+
+- 🔎 **[CORD: Conflict-Aware Optimization for Joint RL and Distillation in Agents](https://arxiv.org/abs/2610.29965)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Self-training` · `Agent`  
+  Authors: Wenhao Yu, Zhengcheng Wang, Jiahong Liu, Zexuan Qiu, Minda Hu, Shaohang Wei, Jiafei Lyu, Junyan Lyu, et al.
+
+- 🔎 **[One Act, Many Masks: Effect-Marginal Policy Optimization for Long-Horizon Agents](https://arxiv.org/abs/2610.29427)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-21 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn` · `Long-horizon`  
+  Authors: Shaojin Ma, Ruitao Wang, Pengyi Li, Jie Yang, Liangyu Chen, Gangyi Zhao, Hongyao Tang, Yan Zheng, et al.
+
+- 🔎 **[FlashNext-RL: A System Optimization Study for Long-Horizon Agentic RL of Qwen3.8-Flash-Next](https://arxiv.org/abs/2610.28998)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Zhewei Yao, Yuxiong He
+
+- 🔎 **[RACE: RoPE-Aligned Attention Compression Based on Query-Key Activation Energies](https://arxiv.org/abs/2610.28385)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Irene Tenison, Abdulrahman Alabdulkareem, Daniel Karl I. Weidele, Nima Dehmamy, Dan Gutfreund
+
+- 🔎 **[CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents](https://arxiv.org/abs/2610.27645)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-20 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `Long-horizon`  
+  Authors: Xu Hu, Haoming Li, Yuxiang Wang, Jinxin Yang, Kangshuo Li, Licheng Wang, Dingyi Kang, Jiayu Song, et al.
+
+- 🔎 **[LoWAgent: A Low-Resource Multilingual Benchmark for Web Agents](https://arxiv.org/abs/2610.27205)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-19 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Web Agent`  
+  Authors: Ocean Monjur, Daud Ahmad Nisar, Shahriar Kabir Nahin, Tadesse Destaw Belay, Sushruti Mishra, Israel Abebe Azime, Anshuman Chhabra
+
+- 🔎 **[Trackable Skill Library Lifecycle Management for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.25126)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-18 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Counterfactual` · `GRPO` · `Agent` · `Long-horizon` · `Safety`  
+  Authors: Xi Zhu, Yuanlin Duan, Changyi Yang, Kai Mei, Riyang Bao, Shichao Zhu, Dimitris N. Metaxas
+
+- 🔎 **[Train Locally, Learn Together: Distributed Multi-Agent Training via ADMM](https://arxiv.org/abs/2610.24380)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-17 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Reasoning` · `Safety`  
+  Authors: Yiwei Chen, Changsheng Wang, Yicheng Lang, Qing Qu, Alfred O. Hero, Sijia Liu
+
+- 🔎 **[Mosaic: Multi-Session Agentic Reinforcement Learning](https://arxiv.org/abs/2610.22174)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-15 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent`  
+  Authors: Yilong Xu, Minrui Xu, Xinyu Zhou, Xiang Long, Haochen Tan, Zhijiang Guo
+
+- 🔎 **[More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning](https://arxiv.org/abs/2610.19789)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `GRPO` · `Self-training` · `Agent`  
+  Authors: Linhao Zhong, Bozhen Fang, Xuehao Wang, Duochao Shi, Zekai Luo, Guangming Yao, Yi Yuan, Hao Chen, et al.  
+  Resources: [project page](https://aim-uofa.github.io/Self-Distillation-AgentRL/)
+
+- 🔎 **[Co-Evolving Acting and Forecasting for Language Agents](https://arxiv.org/abs/2610.20597)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `On-policy` · `Agent` · `Long-horizon`  
+  Authors: Haofei Yu, Yixing Chen, Yining Zhao, Xuyan Ye, Yuxiang Liu, Zhigang Hua, Yan Xie, Shuang Yang, et al.
+
+- 🔎 **[MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning](https://arxiv.org/abs/2610.19920)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Yanyi Su, Chenyan Wang, Yulei Gong, Yeyun Chen, Xiaohui Yang, Jun Cheng
+
+- 🔎 **[Retrieve What Helps, Only When It Helps: Agentic Reinforcement Learning for Selective Retrieval-Augmented Machine Translation](https://arxiv.org/abs/2610.19528)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent`  
+  Authors: Shijun Li, Yang Liu, Najmeh Sadoughi, Dongmei Wang, Xinjie Li, Zhu Liu, Rohith Mysore Vijaya Kumar, Yuzong Liu
+
+- 🔎 **[ActICL: Post-Training for Agentic Multimodal In-Context Learning](https://arxiv.org/abs/2610.19475)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Multimodal` · `Reasoning`  
+  Authors: Yanshu Li, Ruixiang Tang, Junyi Jessy Li, Elias Stengel-Eskin
+
+- 🔎 **[$τ$-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions](https://arxiv.org/abs/2610.19560)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Long-horizon`  
+  Authors: Rishitosh Kumar Singh, Amir Saeidi, Shamanthak Hegde, Shrinidhi Kumbhar, Chitta Baral
+
+- 🔎 **[AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety](https://arxiv.org/abs/2610.19422)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Tool Use` · `Multi-turn`  
+  Authors: Chenxu Wang, Xiaoyu Wen, Han Qi, Ziyuan Zhou, Cheng Jin, Chaochao Lu, Qiaosheng Zhang
+
+- 🔎 **[Beyond Corrected Actions: Training LLM Agents on Textual Critiques](https://arxiv.org/abs/2610.19367)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-14 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Agent` · `Multi-turn`  
+  Authors: Thomas Zeng, Zelei Cheng, Mingyang Zhou, Sambit Sahu, William Campbell, Genta Indra Winata
+
+- 🔎 **[Adaptive-Group Process Rewards for GUI Agents](https://arxiv.org/abs/2610.17710)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Long-horizon`  
+  Authors: Zirui Shang, Yang Liu, Xin Shu, Zhi Gao, Xinxiao Wu, Lifeng Fan
+
+- 🔎 **[Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://arxiv.org/abs/2610.18356)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-13 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `VLM`  
+  Authors: Yu Wang, Rui Dai, Wei Chen, Yi Wang, Bo Dang, Kaikui Liu, Xiangxiang Chu, Yansheng Li
+
+- 🔎 **[Prorsa: Unleashing the Potential of Prefill-Decode Disaggregation in Agentic Reinforcement Learning](https://arxiv.org/abs/2610.16592)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-12 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multi-turn`  
+  Authors: Chiheng Lou, Xiangwei Deng, Bangjun Xiao, Xiaodong Ji, Yikai Zhao, Xin Jin, Hailin Zhang
+
+- 🔎 **[ObsSpec: Accelerating Agentic Reinforcement Learning with Observation Speculation](https://arxiv.org/abs/2610.15246)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multi-turn`  
+  Authors: Kyle Montgomery, Wang Zhang, Chenguang Wang
+
+- 🔎 **[AlphaPilot: Multi-Turn Tool-Using LLM Agents for Adaptive Alpha Mining with Reinforcement Learning](https://arxiv.org/abs/2610.15488)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-11 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn`  
+  Authors: Peiqi Jiang, Fan Zhang, Xin Xu, Tianhao Chen, Can Yang
+
+- 🔎 **[PEARL: Process-Experience Aware Reinforcement Learning for Multi-Turn Agents](https://arxiv.org/abs/2610.14636)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-10 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn`  
+  Authors: Jie Yang, Mianqiu Huang, Yiwei Zhao, Bo Wang, Yang Liu, Yuxin Wang
+
+- 🔎 **[SPROUT: Scaling Agentic Reinforcement Learning for Long-Horizon Software Engineering](https://arxiv.org/abs/2610.14405)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Verifier` · `Agent` · `Coding Agent` · `Long-horizon` · `Code`  
+  Authors: Mengyang Liu, Weiming Wang, Haixin Nan, Yu Wu, Peize Li, Shihong Huang, Xuning He, Xue Jiang, et al.
+
+- 🔎 **[TreeHCA: Hindsight-Guided Exploration and Credit Assignment for Multi-Turn LLM Agents](https://arxiv.org/abs/2610.12828)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-09 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Debajoy Mukherjee, Jeremy Carleton, Sushil Vemuri, Srinivas Shakkottai, Dileep Kalathil
+
+- 🔎 **[NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime](https://arxiv.org/abs/2610.10787)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon` · `Robotics` · `Reasoning`  
+  Authors: Gengze Zhou, Yicong Hong, Jiazhao Zhang, Xunyi Zhao, Jian Zhou, Zixing Lei, Zun Wang, Chongyang Zhao, et al.
+
+- 🔎 **[Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models](https://arxiv.org/abs/2610.10478)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `Agent` · `Code`  
+  Authors: Tan Yu, Alexander Bukharin, Khushi Bhardwaj, Jennifer Williams, Zirui Liu, Jonathan Lingjie Li, Soumye Singhal, Joseph Jennings, et al.
+
+- 🔎 **[World Potential Model: Pretrained World Knowledge as Progress Potentials](https://arxiv.org/abs/2610.09560)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-07 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reward Model` · `PRM` · `Agent` · `Long-horizon`  
+  Authors: Jun Zhao, Jixin Tang, Yang Shu, Jinyang Wu, Yuyang Lu, Jingqi Tong, Hao Xu, Weifeng Ge, et al.
+
+- 🔎 **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent`  
+  Authors: Songlin Jiang, Zhiyu Li, Terry Kong, Yu Yao, Youngeun Kwon, Bernard Nguyen, Ashwath Aithal, Mario Di Francesco
+
+- 🔎 **[FC-SWE: Failure-Conditioned RL for Long-Horizon Software Engineering Agents](https://arxiv.org/abs/2610.07898)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Verifier` · `Tool Use` · `Coding Agent` · `Multi-turn` · `Long-horizon`  
+  Authors: Jia Liufu, Bin Hu, Linglin Jing, Terry Kong, Yuki Huang, Ashwath Aithal, Wenming Yang, Jun Yang
+
+- 🔎 **[ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation](https://arxiv.org/abs/2610.09163)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `Agent` · `Multi-turn`  
+  Authors: Arkajyoti Chakraborty, Aryan Tayal, Ishika Agarwal, Tanner Sorensen, Justin Chiu, Alessandro Di Bari, Neha Gupta, Andreas Stolcke
+
+- 🔎 **[SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation](https://arxiv.org/abs/2610.08941)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Video Generation` · `Robotics`  
+  Authors: Yunheng Liu, Ziqi Cai, Siqi Yang, Yimu Wang, Minggui Teng, Jiaming Tan, Shuchen Weng, Erwin Wu, et al.
+
+- 🔎 **[Sherpa: Teaching LLMs to Teach Adaptively](https://arxiv.org/abs/2610.08778)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn`  
+  Authors: Weixian Xu, Yanzhe Zhang, Zora Zhiruo Wang, Changyu Chen, Diyi Yang
+
+- 🔎 **[Cooperating with Future Collaborators: Multi-Agent RL under Staggered Participation](https://arxiv.org/abs/2610.07578)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-06 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: pending  
+  Authors: Jianglin Qiao, Siyi Hu, Thien Hoang Nguyen, Zehong Cao, Salah Sukkarieh
+
+- 🔎 **[Structuring MoE Expert Selection for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.07332)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Bolian Li, Ting-Yao Hu, Cheng-Yu Hsieh, Sanjoy Chowdhury, Oncel Tuzel, Raviteja Vemulapalli
+
+- 🔎 **[CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](https://arxiv.org/abs/2610.06829)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `Agent` · `Web Agent`  
+  Authors: Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu, Zeyuan Chen
+
+- 🔎 **[RELACE: retrospective likelihood-based action credit estimation for long-horizon language agents](https://arxiv.org/abs/2610.07349)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `GRPO` · `Reward Model` · `Agent` · `Multi-turn` · `Long-horizon`  
+  Authors: Sayak Chakrabarti, Sathish Reddy Indurthi
+
+- 🔎 **[Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training](https://arxiv.org/abs/2610.05861)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Synthetic Data` · `Agent` · `VLM`  
+  Authors: Yongxin Ning, Runliang Niu, Qianli Xing, Zhiyi Duan, Qingzu He, Pan Wang, Qi Wang
+
+- 🔎 **[The Assistance Dilemma: Learning to Teach via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2610.06446)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multi-turn`  
+  Authors: Jakub Macina, Manu Kapur, Mrinmaya Sachan
+
+- 🔎 **[MiniCorp: The Last Mile to an AI Agent Corporation](https://arxiv.org/abs/2610.05912)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent`  
+  Authors: Jingying Zeng, Zhenwei Dai, Jinning Li, Changho Shin, Dylan Zhang, Yuxuan Lu, Qi He, Dakuo Wang, et al.
+
+- 🔎 **[Selecting Long-Horizon Trajectories for Reliable and Efficient Terminal-Agent Training](https://arxiv.org/abs/2610.05831)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-05 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Cuong Dang, Hoang Anh Just, Ruoxi Jia
+
+- 🔎 **[Rewrite What Matters: Adaptive Multilingual Query Rewriting for Reasoning via Agentic Reinforcement Learning](https://arxiv.org/abs/2610.04899)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Multi-turn` · `Reasoning`  
+  Authors: Rui Qi, Yufeng Chen, Yunlong Liang, Chuan Meng, Sijin Lu, Ge Shi, Jinan Xu, Fandong Meng, et al.
+
+- 🔎 **[MMPostTrainBench: Benchmarking Autonomous Research for Multimodal Post-Training](https://arxiv.org/abs/2610.05398)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Yuxin Liu, Yuxuan Wang, Zhenxin Lei, Lingchen Meng, Yuchong Sun, Junming Lin, Hongcheng Liu, Yunfei Chu, et al.
+
+- 🔎 **[AIProver: Agentic Auto-Formalization of Mathematical Research via Certificate-Driven Evolving Harness](https://arxiv.org/abs/2610.05367)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-04 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `Agent` · `Coding Agent` · `Reasoning` · `Code`  
+  Authors: Prithwish Jana, Viet Bach Hoang, Logan Luna, Viresh Pati, Akash Singirikonda, Cy Xie, Lisa Carbone, Wuyang Chen, et al.
+
+- 🔎 **[AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.03223)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Long-horizon`  
+  Authors: Xin Wang, Wenhao Wu, Menghao Zhang, Zhi Wang, Kun Shao, Jian Luan
+
+- 🔎 **[Pareto-Dominant Clarification: Post-Training Coding LLMs via PPO-Lagrangian Budget Constraints](https://arxiv.org/abs/2610.04089)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-02 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `PPO` · `Coding Agent` · `Code`  
+  Authors: Abhinav Rajput, Acey Vogelstein
+
+- 🔎 **[Sharpening Tax in Post-Training](https://arxiv.org/abs/2610.01509)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Agent` · `Tool Use` · `Multi-turn` · `Code`  
+  Authors: Changdae Oh, Qi Zeng, Qi Qi, Andrey Zhmoginov, Deren Lei, Yun He, Hoang Phan, Hangoo Kang, et al.
+
+- 🔎 **[When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge](https://arxiv.org/abs/2610.02405)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `Agent`  
+  Authors: Xi Qin, Isabel Kurth, Xin Cui, Elin Park, Alexander Schaefer, Yaad Oren
+
+- 🔎 **[Dependency-Aware Reward Shaping for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.01207)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Distillation` · `Agent` · `Reasoning`  
+  Authors: Ziyi Chen, Yan Zhang, Jianhui Wei, Daoan Zhang, Zuozhu Liu
+
+- 🔎 **[Cross-Benchmark Transfer from RL on Agentic Coding Tasks](https://arxiv.org/abs/2610.00890)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Verifier` · `Agent` · `Coding Agent` · `Code`  
+  Authors: Sushant Mehta, Logan Ritchie, Edwin Chen
+
+- 🔎 **[Flowing Faster to Coordinate: One-Step Online Multi-Agent Flow Policies](https://arxiv.org/abs/2610.01882)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-10-01 · `direction-month-query` · `arxiv-monthly-backfill`  
+  Labels: `Multimodal`  
+  Authors: Zhuoran Li, Yunzhan Li, Xun Wang, Yihan Du, Longbo Huang
 
 <a id="2026-09"></a>
 
