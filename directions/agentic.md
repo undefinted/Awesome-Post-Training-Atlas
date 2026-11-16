@@ -3348,4 +3348,4 @@ _No visible paper records in this cell yet._
   Labels: `Tool Use`  
   Authors: Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, et al.  
   Method family: `Agentic Feedback & Tool Use`  
-  Change axes: `feedback, environment, data`
+  Change axes: `feedback, environment, data`\n\n## Community-curated additions (2026-11-16)\n\n- **[Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction (ToolMaster)](https://arxiv.org/abs/2601.12762)** — Learns tool use through environment-grounded trials and self-correction, combining supervised trial traces with reinforcement learning to coordinate trial and execution for unseen tools. [Code](https://github.com/NEUIR/ToolMaster)  \n  2026-01-19 · tool-use · environment-interaction · grpo · self-correction\n
