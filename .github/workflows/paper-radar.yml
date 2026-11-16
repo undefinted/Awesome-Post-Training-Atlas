@@ -7,10 +7,6 @@ on:
         description: Lookback window in days
         default: "2"
         required: true
-  schedule:
-    # GitHub Actions uses UTC; 00:00 UTC = 08:00 China Standard Time (UTC+8).
-    - cron: "0 0 * * *"
-
 permissions:
   contents: write
   pull-requests: write
