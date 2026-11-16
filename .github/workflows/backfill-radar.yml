@@ -13,10 +13,6 @@ on:
         description: Maximum arXiv results inspected per direction-month cell
         default: "1000"
         required: true
-  schedule:
-    # GitHub Actions uses UTC; 00:30 UTC = 08:30 China Standard Time (UTC+8).
-    - cron: "30 0 * * *"
-
 permissions:
   contents: write
   pull-requests: write
