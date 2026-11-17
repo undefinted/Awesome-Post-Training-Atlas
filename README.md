@@ -6,7 +6,7 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
-[![Paper Radar](https://github.com/undefinted/Awesome-Post-Training-Atlas/actions/workflows/paper-radar.yml/badge.svg)](https://github.com/undefinted/Awesome-Post-Training-Atlas/actions/workflows/paper-radar.yml)
+[![Codex Radar: daily 08:00 CT](https://img.shields.io/badge/Codex_Radar-daily_08%3A00_CT-10a37f)](CODEX_RADAR.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 🔎 **[Open the searchable research website](https://undefinted.github.io/Awesome-Post-Training-Atlas/)** · [Browse the controlled label directory](LABELS.md)
@@ -51,42 +51,45 @@ Radar last scanned academic sources: **2026-11-16** (Codex trial run). See the [
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
 | [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3597 | **3599** | 2026-10-31 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 5 | 2857 | **2862** | 2026-10-31 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-10-31 |
 | [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3373 | **3374** | 2026-10-31 |
 | [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 840 | **843** | 2026-10-31 |
 | [Distillation & Policy Transfer](directions/distillation.md) | 23 | 494 | **517** | 2026-10-31 |
 | [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 861 | **864** | 2026-10-31 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 2 | 603 | **605** | 2026-10-29 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 603 | **606** | 2026-10-29 |
 | [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 884 | **886** | 2026-10-29 |
 | [Generative Media Post-Training](directions/generative-media.md) | 2 | 433 | **435** | 2026-10-28 |
 | [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 425 | **426** | 2026-10-31 |
 <!-- PAPERS:END -->
 
-## Paper Radar
+## Codex Paper Radar
 
-The repository contains complementary discovery and curation agents:
+Discovery is maintained by a **Codex-operated radar**, rather than a scheduled
+GitHub Actions workflow. The maintainer's local Codex task is scheduled for
+**08:00 America/Chicago every day**; it requires the host computer to be awake
+and its GitHub CLI session to be authenticated.
 
-1. the Daily Radar searches 31 direction-specific arXiv queries with pagination
-   and adds Hugging Face Daily Papers popularity and code signals;
-2. the Direction-Month Coverage Radar audits every direction × month cell
-   directly on arXiv, records exact queries, scan limits, counts, and failures,
-   then rebuilds all chronological pages and the website in its pull request;
-3. the historical Backfill Radar walks paginated arXiv results over a declared
-   date range and persists a cursor for every taxonomy query;
-4. candidate slots are balanced per direction so a high-volume topic cannot
-   starve multimodal, agentic, generative-media, or embodied work;
-5. all agents deduplicate curated, rejected, and already queued records and
-   preserve the academic query and primary-source provenance;
-6. a controlled-vocabulary extractor assigns auditable labels such as OPD,
-   OPSD, counterfactual, distillation, RLVR, agent, VLM, and VLA; the website
-   supports ANY/ALL multi-label filtering together with year and month;
-7. an optional LLM judges scope, classifies direction, and drafts a
-   one-sentence key idea;
-8. each run opens a reviewable pull request instead of silently modifying the
-   curated list.
+The operating model is:
 
-It works without an API key. To enable semantic triage, add `OPENAI_API_KEY`
-as a GitHub Actions secret. `OPENAI_MODEL` is optional.
+1. the daily lightweight pass searches recent primary-source metadata across
+   arXiv post-training queries and records traceable candidates;
+2. candidates are deduplicated by arXiv ID, DOI, and normalized title, then
+   classified into the atlas taxonomy;
+3. primary-paper URLs, dates, authors, venue claims, and code links are
+   verified before promotion;
+4. borderline results remain visibly marked discovery candidates instead of
+   entering the curated catalog automatically;
+5. a deeper review pass promotes accepted work into `data/papers.yaml` and
+   preserves the **direction → year → month → paper** ordering;
+6. GitHub Actions workflows remain available as manual validation, rendering,
+   and deployment fallbacks; they no longer schedule paper discovery.
+
+The latest recorded run is the
+[2026-11-16 Codex radar report](data/codex-radar/2026-11-16.md). Full cadence,
+review rules, and safety constraints are documented in
+[CODEX_RADAR.md](CODEX_RADAR.md).
+
+To run the repository pipeline manually:
 
 ```bash
 python -m pip install -r requirements.txt
