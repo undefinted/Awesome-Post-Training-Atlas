@@ -4,6 +4,8 @@ The paper radar is intentionally scheduled and curated by Codex rather than by G
 
 ## Cadence
 
+- Scheduled time: **08:00 America/Chicago every day** on the maintainer's local Codex host.
+- Runtime requirement: the host must be awake and logged in, and GitHub CLI authentication must be valid.
 - Daily lightweight pass: inspect the previous 48 hours of arXiv metadata from `cs.CL`, `cs.LG`, and `cs.AI`.
 - Weekly deep pass: review the accumulated candidates, deduplicate them, classify them by direction, and prepare a proposed repository update.
 - The daily pass must not edit `data/papers.yaml` or open a pull request.
