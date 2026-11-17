@@ -2229,3 +2229,36 @@ papers:
   - objective
   transfer_ideas:
   - Replace static tool-call imitation with environment-grounded trials and self-correction for robust generalization to unseen tools.
+
+- id: arxiv:2611.08016
+  title: Learning Dynamics of On-Policy Distillation
+  date: 2026-11-05
+  direction: distillation
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - on-policy-distillation
+  - learning-dynamics
+  - rollout-distribution
+  - failure-analysis
+  key_idea: Mechanistically separates how teacher signals become parameter updates from how those updates reshape student rollouts, explaining limited responsiveness and degeneration in on-policy distillation.
+  url: https://arxiv.org/abs/2611.08016
+  authors:
+  - Guan Zhe Hong
+  - Sumeet Ramesh Motwani
+  - Liang Chen
+  - Yangchen Pan
+  - Junchi Yu
+  - Jialin Yu
+  - Philip Torr
+  - Yi Ren
+  author_source: arxiv
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - objective
+  - optimization
+  - feedback
+  transfer_ideas:
+  - Separate local teacher agreement from downstream rollout quality when diagnosing on-policy distillation updates.
