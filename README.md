@@ -54,7 +54,7 @@ Radar last scanned academic sources: **2026-11-17** (Codex daily pass). See the 
 | [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-10-31 |
 | [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3373 | **3374** | 2026-10-31 |
 | [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 840 | **843** | 2026-10-31 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 23 | 494 | **517** | 2026-10-31 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 24 | 494 | **518** | 2026-11-05 |
 | [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 861 | **864** | 2026-10-31 |
 | [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 603 | **606** | 2026-10-29 |
 | [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 884 | **886** | 2026-10-29 |
