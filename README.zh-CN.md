@@ -5,7 +5,7 @@
 
 **[English](README.md)** · 简体中文
 
-[![Paper Radar](https://github.com/undefinted/Awesome-Post-Training-Atlas/actions/workflows/paper-radar.yml/badge.svg)](https://github.com/undefinted/Awesome-Post-Training-Atlas/actions/workflows/paper-radar.yml)
+[![Codex Radar: 每日 08:00 CT](https://img.shields.io/badge/Codex_Radar-%E6%AF%8F%E6%97%A5_08%3A00_CT-10a37f)](CODEX_RADAR.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 🔎 **[打开可搜索的研究网站](https://undefinted.github.io/Awesome-Post-Training-Atlas/)**(网站右上角可切换 EN / 中文)· [浏览受控标签目录](LABELS.md)
@@ -64,30 +64,28 @@
 或直接在[研究网站](https://undefinted.github.io/Awesome-Post-Training-Atlas/)上
 按方向浏览。
 
-## Paper Radar(论文雷达)
+## Codex 论文雷达
 
-本仓库包含互补的发现与精选自动化代理:
+论文发现已经迁移到 **Codex 维护的雷达**，不再由 GitHub Actions 定时触发。
+维护者本机的 Codex 任务设为每天 **08:00（America/Chicago）** 运行；运行时
+需要电脑处于开机登录状态，并且 GitHub CLI 授权有效。
 
-1. 每日雷达(Daily Radar)以分页方式检索 31 个方向专属的 arXiv 查询,
-   并叠加 Hugging Face Daily Papers 的热度与代码信号;
-2. 方向-月份覆盖雷达(Direction-Month Coverage Radar)直接在 arXiv 上
-   审计每一个“方向 × 月份”格子,记录精确的查询、扫描上限、计数与
-   失败情况,然后在它的 pull request 中重建全部编年页面与网站;
-3. 历史回填雷达(Backfill Radar)在声明的日期范围内遍历分页的
-   arXiv 结果,并为每条分类查询持久化游标;
-4. 候选名额按方向均衡分配,避免高产出的主题挤占多模态、智能体、
-   生成式媒体或具身方向的名额;
-5. 所有代理都会对精选、已拒绝与已排队记录去重,并保留学术查询与
-   一手来源的出处信息;
-6. 一个受控词表提取器会赋予可审计的标签,如 OPD、OPSD、
-   counterfactual(反事实)、distillation(蒸馏)、RLVR、agent、VLM、
-   VLA;网站支持多标签的 ANY/ALL 组合过滤,并可与年月筛选联用;
-7. 可选的 LLM 负责判断范围、分类方向,并起草一句话要点;
-8. 每次运行都会开启一个可评审的 pull request,而不是悄悄修改精选
-   列表。
+当前工作方式如下：
 
-无需 API key 即可运行。如需启用语义分诊,请在 GitHub Actions secret
-中添加 `OPENAI_API_KEY`,`OPENAI_MODEL` 可选。
+1. 每日轻量扫描检索近期 arXiv 后训练论文的一手元数据，并记录可追溯候选；
+2. 按 arXiv ID、DOI 和规范化标题去重，再映射到本图谱的研究方向；
+3. 晋升前核验论文链接、日期、作者、会议/期刊信息和代码仓库；
+4. 边界不明确的结果继续保留为醒目标记的发现候选，不会自动进入精选层；
+5. 深度评审通过后才写入 `data/papers.yaml`，并维持
+   **方向 → 年份 → 月份 → 论文** 的层级；
+6. GitHub Actions 仅保留为手动验证、渲染与部署的备用入口，不再负责
+   定时检索论文。
+
+最近一次有记录的运行是
+[2026-11-16 Codex 雷达报告](data/codex-radar/2026-11-16.md)。完整频率、
+审核规则与安全约束见 [CODEX_RADAR.md](CODEX_RADAR.md)。
+
+手动运行仓库流水线：
 
 ```bash
 python -m pip install -r requirements.txt
