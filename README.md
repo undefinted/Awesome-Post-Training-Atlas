@@ -46,7 +46,7 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-11-16** (Codex trial run). See the [Codex radar report](data/codex-radar/2026-11-16.md). `Latest` below is the paper's first-publication date, not the scan date.
+Radar last scanned academic sources: **2026-11-17** (Codex daily pass). See the [Codex radar report](data/codex-radar/2026-11-17.md). `Latest` below is the paper's first-publication date, not the scan date.
 
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
@@ -85,7 +85,7 @@ The operating model is:
    and deployment fallbacks; they no longer schedule paper discovery.
 
 The latest recorded run is the
-[2026-11-16 Codex radar report](data/codex-radar/2026-11-16.md). Full cadence,
+[2026-11-17 Codex radar report](data/codex-radar/2026-11-17.md). Full cadence,
 review rules, and safety constraints are documented in
 [CODEX_RADAR.md](CODEX_RADAR.md).
 
