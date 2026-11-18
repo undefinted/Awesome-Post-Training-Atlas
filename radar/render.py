@@ -262,7 +262,7 @@ def render_index(taxonomy: list[dict], records: list[dict]) -> str:
         candidate_count = len(selected) - curated_count
         latest = max((str(paper["date"]) for paper in selected), default="—")
         lines.append(
-            f"| [{direction[\'title\']}](directions/{direction[\'id\']}.md) | {curated_count} | {candidate_count} | **{len(selected)}** | {latest} | {scan_date} |"
+            f"| [{direction['title']}](directions/{direction['id']}.md) | {curated_count} | {candidate_count} | **{len(selected)}** | {latest} | {scan_date} |"
         )
     return "\n".join(lines) + "\n"
 
