@@ -16,7 +16,7 @@ The paper radar is intentionally scheduled and curated by Codex rather than by G
 1. Search arXiv for post-training terms: SFT, instruction tuning, preference optimization, reward model, RLHF, RLVR, GRPO, verifier, reasoning training, distillation, self-improvement, tool use, agent RL.
 2. Exclude pretraining-only, inference-only, generic application, and unrelated modality papers.
 3. Deduplicate by arXiv ID, DOI, and normalized title.
-4. Append structured records to `data/candidates.yaml` with `status: candidate`.
+4. Persist structured records in an append-only `data/candidates/YYYY-MM-DD.yaml` shard; do not rely on a report-only entry.
 5. Record the search date, source, query, and a short reason for inclusion.
 
 ## Weekly pass
@@ -32,6 +32,7 @@ The paper radar is intentionally scheduled and curated by Codex rather than by G
 ## Safety rules
 
 - Never auto-merge a paper into the curated catalog solely from a keyword hit.
+- Every report candidate that affects direction freshness must also be persisted in a candidate shard.
 - Never replace existing curated metadata without preserving the old value in the PR diff.
 - Keep borderline papers in candidates with an explicit rationale.
 - Keep GitHub Actions for validation and Pages deployment only; the paper radar workflows are manual fallback workflows.
