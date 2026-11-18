@@ -50,16 +50,16 @@ Radar last scanned academic sources: **2026-11-17** (Codex daily pass). See the 
 
 | Direction | Curated | Discovery | Total | Latest |
 |---|---:|---:|---:|---:|
-| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3597 | **3599** | 2026-10-31 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-10-31 |
-| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3373 | **3374** | 2026-10-31 |
-| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 840 | **843** | 2026-10-31 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 24 | 494 | **518** | 2026-11-05 |
-| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 861 | **864** | 2026-10-31 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 603 | **606** | 2026-10-29 |
-| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 884 | **886** | 2026-10-29 |
-| [Generative Media Post-Training](directions/generative-media.md) | 2 | 433 | **435** | 2026-10-28 |
-| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 425 | **426** | 2026-10-31 |
+| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2858 | **2864** | 2026-11-17 |
+| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 |
+| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 |
+| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 |
+| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 885 | **887** | 2026-11-17 |
+| [Generative Media Post-Training](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 |
+| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 |
 <!-- PAPERS:END -->
 
 ## Codex Paper Radar
