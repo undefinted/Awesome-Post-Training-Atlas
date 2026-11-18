@@ -1,0 +1,92 @@
+papers:
+- id: arxiv:2611.23229
+  title: 'Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching'
+  date: 2026-11-17
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.23229
+  authors: [Giannis Daras, Marios Papachristou, Adam Klivans, Antonio Torralba, Constantinos Daskalakis]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [supervised-fine-tuning, data-efficiency, temperature-matching]
+- id: arxiv:2611.23179
+  title: 'Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models'
+  date: 2026-11-17
+  direction: preference-alignment
+  url: https://arxiv.org/abs/2611.23179
+  authors: [Hansang Lee]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [preference-optimization, vision-language-model, hallucination]
+- id: arxiv:2611.22495
+  title: Motion-Aware Reward Modeling for Instruction-Guided Video Editing
+  date: 2026-11-17
+  direction: reward-verifiers
+  url: https://arxiv.org/abs/2611.22495
+  authors: [Li Li, Xiangbo Gao, Bo Ni, Samyadeep Basu, Viet Dac Lai, Jing Shi, Seunghyun Yoon, Gang Wu, Yu Wang, Thien Huu Nguyen, Tyler Derr, Franck Dernoncourt, Zhengzhong Tu, Yue Zhao]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [reward-model, video-editing, motion]
+- id: arxiv:2611.23124
+  title: Get Hint-Augmented GRPO Done Right Through Activation Steering
+  date: 2026-11-17
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.23124
+  authors: [Khiem Le, Ting Hua, Nitesh V. Chawla]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [grpo, activation-steering, reasoning]
+- id: arxiv:2611.23034
+  title: 'M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation'
+  date: 2026-11-17
+  direction: distillation
+  url: https://arxiv.org/abs/2611.23034
+  authors: [Nguyen Quang Trung, Hoang Phan, Shuo Sun, Longyin Zhang, AiTi Aw]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [on-policy-distillation, multi-teacher, multimodal-reasoning]
+- id: arxiv:2611.23219
+  title: Do LLM Agents Still Need to Be Told How to Self-Improve?
+  date: 2026-11-17
+  direction: reasoning-self-improvement
+  url: https://arxiv.org/abs/2611.23219
+  authors: [Shobhita Sundaram, Cansu Sancaktar, Phillip Isola]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [self-improvement, autonomous-learning, curriculum]
+- id: arxiv:2611.22777
+  title: 'CrossEnv: Synthesizing Verifiable Cross-Environment Tasks for Long-Horizon Agent Training'
+  date: 2026-11-17
+  direction: agentic
+  url: https://arxiv.org/abs/2611.22777
+  authors: [Zhengfeng Yu, Tian Lan, Zhijing Wu, Enbo Zhao, Xuannan Liu, Feihu Jiang, Qianghuai Jia, Longyue Wang, Zhao Xu, Weihua Luo, Xian-Ling Mao]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [agent-training, long-horizon, verifiable-tasks]
+- id: arxiv:2611.23034#multimodal
+  canonical_id: arxiv:2611.23034
+  title: 'M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation'
+  date: 2026-11-17
+  direction: multimodal
+  url: https://arxiv.org/abs/2611.23034
+  authors: [Nguyen Quang Trung, Hoang Phan, Shuo Sun, Longyin Zhang, AiTi Aw]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: cross-direction-index
+  tags: [multimodal, vision-language-model, on-policy-distillation]
+- id: arxiv:2611.23038
+  title: 'When Anchors Shift the Target: Advantage-Gated Adaptation for Diffusion Reinforcement Learning'
+  date: 2026-11-17
+  direction: generative-media
+  url: https://arxiv.org/abs/2611.23038
+  authors: [Pu Cao, Min Zhou, Ying Shu, Tiezheng Ge, Qing Song, Lu Yang]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [diffusion, reinforcement-learning, preference-alignment]
+- id: arxiv:2611.22878
+  title: Outcome-Balanced PPO and Policy-Induced Flow Rectification for Flow-Based VLA Policies
+  date: 2026-11-17
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.22878
+  authors: [Yuhan Wang, Ruiyang Wang, Jiaguan Zhu]
+  source_signals: [codex-daily-radar, arxiv]
+  classification_method: primary-source-review
+  tags: [vla, ppo, flow-policy, robotics]
