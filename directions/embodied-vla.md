@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**426 papers**: 1 curated and 425 academic discovery candidates.
+**427 papers**: 1 curated and 426 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Oct](#2026-10) ✓52 · [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
+- [2026](#2026) — [Nov](#2026-11) ◐1 · [Oct](#2026-10) ✓52 · [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓22 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓23 · [May](#2026-05) ✓28 · [Apr](#2026-04) ✓9 · [Mar](#2026-03) ✓19 · [Feb](#2026-02) ✓26 · [Jan](#2026-01) ✓19
 - [2025](#2025) — [Dec](#2025-12) ✓23 · [Nov](#2025-11) ✓17 · [Oct](#2025-10) ✓19 · [Sep](#2025-09) ✓25 · [Aug](#2025-08) ✓7 · [Jul](#2025-07) ✓6 · [Jun](#2025-06) ✓16 · [May](#2025-05) ✓21 · [Apr](#2025-04) ✓1 · [Mar](#2025-03) ✓11 · [Feb](#2025-02) ✓3 · [Jan](#2025-01) ✓1
 - [2024](#2024) — [Dec](#2024-12) ✓5 · [Nov](#2024-11) ✓2 · [Oct](#2024-10) ✓2 · [Sep](#2024-09) ✓3 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓0
 - [2023](#2023) — [Jul](#2023-07) ◐1
@@ -20,6 +20,17 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 <a id="2026"></a>
 
 ## 2026
+
+<a id="2026-11"></a>
+
+### November
+
+> **Audit status:** ◐ Incomplete daily scan · checked 2026-11-18.
+
+- 🔎 **[Outcome-Balanced PPO and Policy-Induced Flow Rectification for Flow-Based VLA Policies](https://arxiv.org/abs/2611.22878)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  
+  Labels: `VLA` · `PPO` · `Robotics`  
+  Authors: Yuhan Wang, Ruiyang Wang, Jiaguan Zhu
 
 <a id="2026-10"></a>
 
