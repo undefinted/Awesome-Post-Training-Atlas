@@ -82,7 +82,7 @@
    定时检索论文。
 
 最近一次有记录的运行是
-[2026-11-17 Codex 雷达报告](data/codex-radar/2026-11-17.md)。完整频率、
+[2026-11-18 Codex 雷达报告](data/codex-radar/2026-11-18.md)。完整频率、
 审核规则与安全约束见 [CODEX_RADAR.md](CODEX_RADAR.md)。
 
 手动运行仓库流水线：
