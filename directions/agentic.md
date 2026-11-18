@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**606 papers**: 2 curated and 604 academic discovery candidates.
+**607 papers**: 3 curated and 604 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
