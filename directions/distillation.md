@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**518 papers**: 24 curated and 494 academic discovery candidates.
+**519 papers**: 24 curated and 495 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -32,6 +32,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Authors: Guan Zhe Hong, Sumeet Ramesh Motwani, Liang Chen, Yangchen Pan, Junchi Yu, Jialin Yu, Philip Torr, Yi Ren  
   Method family: `On-Policy Distillation`  
   Change axes: `objective, optimization, feedback`
+
+- 🔎 **[M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2611.23034)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  
+  Labels: `OPD` · `Distillation` · `Multimodal` · `Reasoning`  
+  Authors: Nguyen Quang Trung, Hoang Phan, Shuo Sun, Longyin Zhang, AiTi Aw
 
 <a id="2026-10"></a>
 
