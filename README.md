@@ -46,20 +46,20 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-11-18** (all-direction Codex pass). See the [Codex radar report](data/codex-radar/2026-11-18.md). `Latest` below is the paper's first-publication date, not the scan date.
+Radar last scanned academic sources: **2026-11-18** (all-direction Codex pass). See the [Codex radar report](data/codex-radar/2026-11-18.md). `Latest paper` is the paper's first-publication date; `Last scan` is the radar date.
 
-| Direction | Curated | Discovery | Total | Latest |
-|---|---:|---:|---:|---:|
-| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2858 | **2864** | 2026-11-17 |
-| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 |
-| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 |
-| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 |
-| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 885 | **887** | 2026-11-17 |
-| [Generative Media Post-Training](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 |
-| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 |
+| Direction | Curated | Discovery | Total | Latest paper | Last scan |
+|---|---:|---:|---:|---:|---:|
+| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 | 2026-11-18 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2858 | **2864** | 2026-11-17 | 2026-11-18 |
+| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 | 2026-11-18 |
+| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 | 2026-11-18 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 | 2026-11-18 |
+| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 | 2026-11-18 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 | 2026-11-18 |
+| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 885 | **887** | 2026-11-17 | 2026-11-18 |
+| [Generative Media Post-Training](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 | 2026-11-18 |
+| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 | 2026-11-18 |
 <!-- PAPERS:END -->
 
 ## Codex Paper Radar
