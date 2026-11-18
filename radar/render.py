@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import re
 from pathlib import Path
 
 import yaml
@@ -19,11 +20,66 @@ def load_yaml(path: Path):
         return yaml.safe_load(handle)
 
 
+def source_candidates() -> list[dict]:
+    """Load the legacy candidate file plus append-only candidate shards."""
+    records: list[dict] = []
+    legacy = ROOT / "data" / "candidates.yaml"
+    if legacy.exists():
+        records.extend((load_yaml(legacy) or {}).get("papers", []))
+    shard_dir = ROOT / "data" / "candidates"
+    if shard_dir.exists():
+        for path in sorted(shard_dir.glob("*.yaml")):
+            records.extend((load_yaml(path) or {}).get("papers", []))
+    return records
+
+
+def generated_candidate_fallback() -> list[dict]:
+    """Recover legacy discovery records embedded in generated direction pages.
+
+    Older coverage runs committed the rendered Markdown but left candidates.yaml
+    empty. Parsing those generated records prevents a future render from silently
+    deleting thousands of discovery entries. New runs must persist candidates in
+    data/candidates/*.yaml instead.
+    """
+    records: list[dict] = []
+    pattern = re.compile(
+        r"- 🔎 \*\*\[(?P<title>.*?)\]\((?P<url>https?://[^)]+)\)\*\*.*?\n"
+        r"  (?P<date>\d{4}-\d{2}-\d{2}) · \`(?P<method>[^\`]*)\` · \`(?P<sources>[^\`]*)\`  \n"
+        r"  Labels:.*?\n  Authors: (?P<authors>[^\n]+)",
+        re.MULTILINE,
+    )
+    for path in sorted(DIRECTIONS_DIR.glob("*.md")):
+        direction = path.stem
+        text = path.read_text(encoding="utf-8")
+        for match in pattern.finditer(text):
+            url = match.group("url")
+            arxiv = re.search(r"arxiv\.org/abs/([^/?#]+)", url)
+            identifier = f"arxiv:{arxiv.group(1)}" if arxiv else f"url:{url}"
+            authors = [name.strip() for name in match.group("authors").removesuffix(", et al.").split(",") if name.strip()]
+            records.append(
+                {
+                    "id": identifier,
+                    "title": match.group("title"),
+                    "date": match.group("date"),
+                    "direction": direction,
+                    "url": url,
+                    "authors": authors,
+                    "classification_method": match.group("method"),
+                    "source_signals": [item.strip() for item in match.group("sources").split(",") if item.strip()],
+                }
+            )
+    return records
+
+
 def all_records() -> list[dict]:
     curated = [dict(paper) for paper in load_yaml(ROOT / "data" / "papers.yaml")["papers"]]
     known = {paper["id"].lower() for paper in curated}
-    candidates_path = ROOT / "data" / "candidates.yaml"
-    candidates = (load_yaml(candidates_path) or {}).get("papers", []) if candidates_path.exists() else []
+    candidates = source_candidates()
+    source_ids = {paper["id"].lower() for paper in candidates}
+    candidates.extend(
+        paper for paper in generated_candidate_fallback()
+        if paper["id"].lower() not in source_ids
+    )
     for source in candidates:
         if source["id"].lower() in known:
             continue
@@ -35,6 +91,7 @@ def all_records() -> list[dict]:
         )
         candidate["discovery_candidate"] = True
         curated.append(candidate)
+        known.add(candidate["id"].lower())
     return curated
 
 
