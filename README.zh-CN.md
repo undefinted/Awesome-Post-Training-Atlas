@@ -44,21 +44,21 @@
 ## 研究方向
 
 每个方向都有独立的编年页面。数量包含精选论文与带醒目标记的学术发现候选。
-“最新论文发表日期”取该方向已收录论文的首次发表日期，“最近扫描日期”是雷达核查日期；两者不一定相同。
+“最新论文发表日期”取该方向已收录论文的首次发表日期。雷达扫描日期见下方报告。
 
 <!-- DIRECTIONS-ZH:START -->
-| 方向 | 精选 | 发现候选 | 总数 | 最新论文发表日期 | 最近扫描日期 |
-|---|---:|---:|---:|---:|---:|
-| [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 | 2026-11-18 |
-| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2858 | **2864** | 2026-11-17 | 2026-11-18 |
-| [奖励模型与验证器](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 | 2026-11-18 |
-| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 | 2026-11-18 |
-| [蒸馏与策略迁移](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 | 2026-11-18 |
-| [推理与自我改进](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 | 2026-11-18 |
-| [智能体与交互式后训练](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 | 2026-11-18 |
-| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 2 | 885 | **887** | 2026-11-17 | 2026-11-18 |
-| [生成式媒体后训练](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 | 2026-11-18 |
-| [具身智能与 VLA 后训练](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 | 2026-11-18 |
+| 方向 | 精选 | 发现候选 | 总数 | 最新论文发表日期 |
+|---|---:|---:|---:|---:|
+| [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
+| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2858 | **2864** | 2026-11-17 |
+| [奖励模型与验证器](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 |
+| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 |
+| [蒸馏与策略迁移](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 |
+| [推理与自我改进](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 |
+| [智能体与交互式后训练](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 |
+| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 2 | 885 | **887** | 2026-11-17 |
+| [生成式媒体后训练](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 |
+| [具身智能与 VLA 后训练](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 |
 <!-- DIRECTIONS-ZH:END -->
 
 ## Codex 论文雷达
