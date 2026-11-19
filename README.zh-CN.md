@@ -10,8 +10,7 @@
 
 🔎 **[打开可搜索的研究网站](https://undefinted.github.io/Awesome-Post-Training-Atlas/)**(网站右上角可切换 EN / 中文)· [浏览受控标签目录](LABELS.md)
 
-> 本文件是 [README.md](README.md) 的中文译文,英文版为准。下文表格中的
-> 论文数量与日期由自动化流水线生成,以英文版实时数据为准。
+> 本文件是 [README.md](README.md) 的中文版本。方向表格与英文版使用相同的论文数据。
 
 大多数论文列表回答的是“发表了什么”。本图谱试图回答三个更有用的问题:
 
@@ -21,7 +20,7 @@
 
 主索引按 **方向 → 年份 → 月份 → 论文** 组织。每个月内,论文按发表日期
 排序。精选条目来自 [`data/papers.yaml`](data/papers.yaml);直接来自学术搜索
-的结果来自 [`data/candidates.yaml`](data/candidates.yaml),在各方向页面上
+的结果来自 [`data/candidates.yaml`](data/candidates.yaml) 和 [`data/candidates/`](data/candidates/),在各方向页面上
 以醒目的 🔎 `discovery candidate`(发现候选)标记展示,直到其原始论文
 经过人工审核。
 
@@ -44,25 +43,23 @@
 
 ## 研究方向
 
-每个方向都有独立的编年页面。数量包含精选论文与带醒目标记的学术
-发现候选。
+每个方向都有独立的编年页面。数量包含精选论文与带醒目标记的学术发现候选。
+“最新论文发表日期”取该方向已收录论文的首次发表日期，“最近扫描日期”是雷达核查日期；两者不一定相同。
 
-| 方向 | 精选 | 发现候选 | 总数 |
-|---|---:|---:|---:|
-| [监督适配与数据](directions/supervised-adaptation.md) | — | — | 见英文版 |
-| [偏好优化与对齐](directions/preference-alignment.md) | — | — | 见英文版 |
-| [奖励模型与验证器](directions/reward-verifiers.md) | — | — | 见英文版 |
-| [强化学习与可验证奖励(RLVR)](directions/reinforcement-learning.md) | — | — | 见英文版 |
-| [蒸馏与策略迁移](directions/distillation.md) | — | — | 见英文版 |
-| [推理与自我改进](directions/reasoning-self-improvement.md) | — | — | 见英文版 |
-| [智能体与交互式后训练](directions/agentic.md) | — | — | 见英文版 |
-| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | — | — | 见英文版 |
-| [生成式媒体后训练](directions/generative-media.md) | — | — | 见英文版 |
-| [具身智能与 VLA 后训练](directions/embodied-vla.md) | — | — | 见英文版 |
-
-各方向的最新论文数量与日期请见 [README.md](README.md) 中的实时表格,
-或直接在[研究网站](https://undefinted.github.io/Awesome-Post-Training-Atlas/)上
-按方向浏览。
+<!-- DIRECTIONS-ZH:START -->
+| 方向 | 精选 | 发现候选 | 总数 | 最新论文发表日期 | 最近扫描日期 |
+|---|---:|---:|---:|---:|---:|
+| [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 | 2026-11-18 |
+| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2858 | **2864** | 2026-11-17 | 2026-11-18 |
+| [奖励模型与验证器](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 | 2026-11-18 |
+| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 | 2026-11-18 |
+| [蒸馏与策略迁移](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 | 2026-11-18 |
+| [推理与自我改进](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 | 2026-11-18 |
+| [智能体与交互式后训练](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 | 2026-11-18 |
+| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 2 | 885 | **887** | 2026-11-17 | 2026-11-18 |
+| [生成式媒体后训练](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 | 2026-11-18 |
+| [具身智能与 VLA 后训练](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 | 2026-11-18 |
+<!-- DIRECTIONS-ZH:END -->
 
 ## Codex 论文雷达
 
