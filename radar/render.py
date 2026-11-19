@@ -246,15 +246,14 @@ def direction_page(direction: dict, records: list[dict]) -> str:
 def render_index(taxonomy: list[dict], records: list[dict]) -> str:
     status = load_yaml(ROOT / "data" / "radar_status.yaml") or {}
     synced = status.get("last_successful_discovery_at", "not recorded")
-    scan_date = str(synced)[:10] if synced != "not recorded" else synced
     lines = [
         "## Research directions",
         "",
         "Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.",
-        f"Radar last scanned academic sources: **{synced}**. `Latest paper` is the first-publication date; `Last scan` is the radar date.",
+        f"Radar last scanned academic sources: **{synced}**. `Latest paper` is the first-publication date.",
         "",
-        "| Direction | Curated | Discovery | Total | Latest paper | Last scan |",
-        "|---|---:|---:|---:|---:|---:|",
+        "| Direction | Curated | Discovery | Total | Latest paper |",
+        "|---|---:|---:|---:|---:|",
     ]
     for direction in taxonomy:
         selected = [paper for paper in records if paper["direction"] == direction["id"]]
@@ -262,7 +261,7 @@ def render_index(taxonomy: list[dict], records: list[dict]) -> str:
         candidate_count = len(selected) - curated_count
         latest = max((str(paper["date"]) for paper in selected), default="—")
         lines.append(
-            f"| [{direction['title']}](directions/{direction['id']}.md) | {curated_count} | {candidate_count} | **{len(selected)}** | {latest} | {scan_date} |"
+            f"| [{direction['title']}](directions/{direction['id']}.md) | {curated_count} | {candidate_count} | **{len(selected)}** | {latest} |"
         )
     return "\n".join(lines) + "\n"
 
