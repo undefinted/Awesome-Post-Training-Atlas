@@ -3208,7 +3208,6 @@ Automated proposals only; inclusion requires human review.
 | 2025-08-19 | [LENS: Learning to Segment Anything with Unified Reinforced Reasoning](https://arxiv.org/abs/2508.14153) | arxiv-monthly-backfill | 3 | `needs-review` |
 | 2025-08-19 | [ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents](https://arxiv.org/abs/2508.14040) | arxiv-monthly-backfill | 4 | `needs-review` |
 | 2025-08-19 | [Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR](https://arxiv.org/abs/2508.14029) | arxiv-monthly-backfill | 10 | `needs-review` |
-| 2025-08-19 | [Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://arxiv.org/abs/2508.13993) | arxiv-monthly-backfill | 4 | `needs-review` |
 | 2025-08-19 | [InPars+: Supercharging Synthetic Data Generation for Information Retrieval Systems](https://arxiv.org/abs/2508.13930) | arxiv-monthly-backfill | 4 | `needs-review` |
 | 2025-08-19 | [Categorical Policies: Multimodal Policy Learning and Exploration in Continuous Control](https://arxiv.org/abs/2508.13922) | arxiv-monthly-backfill | 3 | `needs-review` |
 | 2025-08-19 | [PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](https://arxiv.org/abs/2508.13911) | arxiv-monthly-backfill | 4 | `needs-review` |
