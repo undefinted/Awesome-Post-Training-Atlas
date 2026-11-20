@@ -51,7 +51,7 @@ Radar last scanned academic sources: **2026-11-18** (all-direction Codex pass). 
 | Direction | Curated | Discovery | Total | Latest paper |
 |---|---:|---:|---:|---:|
 | [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2858 | **2864** | 2026-11-17 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-11-17 |
 | [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 |
 | [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 |
 | [Distillation & Policy Transfer](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 |
