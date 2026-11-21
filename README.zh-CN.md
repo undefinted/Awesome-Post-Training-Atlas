@@ -50,7 +50,7 @@
 | 方向 | 精选 | 发现候选 | 总数 | 最新论文发表日期 |
 |---|---:|---:|---:|---:|
 | [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
-| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2858 | **2864** | 2026-11-17 |
+| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-11-17 |
 | [奖励模型与验证器](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 |
 | [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 |
 | [蒸馏与策略迁移](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 |
