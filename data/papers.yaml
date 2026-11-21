@@ -2208,7 +2208,7 @@ papers:
   - environment-interaction
   - grpo
   - self-correction
-  key_idea: Trains tool use through trial-and-execution: supervised traces expose tool trials and self-correction, then reinforcement learning coordinates exploration and execution with environment feedback.
+  key_idea: 'Trains tool use through trial-and-execution: supervised traces expose tool trials and self-correction, then reinforcement learning coordinates exploration and execution with environment feedback.'
   url: https://arxiv.org/abs/2601.12762
   code: https://github.com/NEUIR/ToolMaster
   authors:
