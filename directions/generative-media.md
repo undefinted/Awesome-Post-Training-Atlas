@@ -25,11 +25,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### November
 
-> **Audit status:** ◐ Incomplete daily scan · checked 2026-11-18.
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - 🔎 **[When Anchors Shift the Target: Advantage-Gated Adaptation for Diffusion Reinforcement Learning](https://arxiv.org/abs/2611.23038)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  
-  Labels: `Diffusion` · `Preference Optimization`  
+  Labels: pending  
   Authors: Pu Cao, Min Zhou, Ying Shu, Tiezheng Ge, Qing Song, Lu Yang
 
 <a id="2026-10"></a>

@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐1 · [Oct](#2026-10) ✓146 · [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
+- [2026](#2026) — [Nov](#2026-11) ◐2 · [Oct](#2026-10) ✓146 · [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
 - [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · [Jan](#2025-01) ✓0
 - [2024](#2024) — [Dec](#2024-12) ✓3 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓3 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓1 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓0 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓3 · [Feb](#2024-02) ✓1 · [Jan](#2024-01) ✓1
 
@@ -24,19 +24,19 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### November
 
-> **Audit status:** ◐ Incomplete daily scan · checked 2026-11-17.
-
-- **[Learning Dynamics of On-Policy Distillation](https://arxiv.org/abs/2611.08016)** — Mechanistically separates how teacher signals become parameter updates from how those updates reshape student rollouts, explaining limited responsiveness and degeneration in on-policy distillation.  
-  2026-11-05 · `on-policy-distillation` · `learning-dynamics` · `rollout-distribution` · `failure-analysis`  
-  Labels: `OPD` · `Distillation` · `On-policy` · `Reasoning`  
-  Authors: Guan Zhe Hong, Sumeet Ramesh Motwani, Liang Chen, Yangchen Pan, Junchi Yu, Jialin Yu, Philip Torr, Yi Ren  
-  Method family: `On-Policy Distillation`  
-  Change axes: `objective, optimization, feedback`
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - 🔎 **[M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2611.23034)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  
-  Labels: `OPD` · `Distillation` · `Multimodal` · `Reasoning`  
+  Labels: pending  
   Authors: Nguyen Quang Trung, Hoang Phan, Shuo Sun, Longyin Zhang, AiTi Aw
+
+- **[Learning Dynamics of On-Policy Distillation](https://arxiv.org/abs/2611.08016)** — Mechanistically separates how teacher signals become parameter updates from how those updates reshape student rollouts, explaining limited responsiveness and degeneration in on-policy distillation.  
+  2026-11-05 · `on-policy-distillation` · `learning-dynamics` · `rollout-distribution` · `failure-analysis`  
+  Labels: `OPD` · `Distillation` · `On-policy`  
+  Authors: Guan Zhe Hong, Sumeet Ramesh Motwani, Liang Chen, Yangchen Pan, Junchi Yu, Jialin Yu, Philip Torr, Yi Ren  
+  Method family: `On-Policy Distillation`  
+  Change axes: `objective, optimization, feedback`
 
 <a id="2026-10"></a>
 

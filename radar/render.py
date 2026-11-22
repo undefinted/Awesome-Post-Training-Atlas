@@ -74,14 +74,16 @@ def generated_candidate_fallback() -> list[dict]:
 def all_records() -> list[dict]:
     curated = [dict(paper) for paper in load_yaml(ROOT / "data" / "papers.yaml")["papers"]]
     known = {paper["id"].lower() for paper in curated}
+    known_urls = {(paper["direction"], paper["url"].lower()) for paper in curated}
     candidates = source_candidates()
     source_ids = {paper["id"].lower() for paper in candidates}
+    source_urls = {(paper.get("direction"), paper["url"].lower()) for paper in candidates}
     candidates.extend(
         paper for paper in generated_candidate_fallback()
-        if paper["id"].lower() not in source_ids
+        if paper["id"].lower() not in source_ids and (paper["direction"], paper["url"].lower()) not in source_urls
     )
     for source in candidates:
-        if source["id"].lower() in known:
+        if source["id"].lower() in known or (source.get("direction"), source["url"].lower()) in known_urls:
             continue
         candidate = dict(source)
         candidate["direction"] = (
@@ -92,6 +94,7 @@ def all_records() -> list[dict]:
         candidate["discovery_candidate"] = True
         curated.append(candidate)
         known.add(candidate["id"].lower())
+        known_urls.add((candidate["direction"], candidate["url"].lower()))
     return curated
 
 
@@ -322,3 +325,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+

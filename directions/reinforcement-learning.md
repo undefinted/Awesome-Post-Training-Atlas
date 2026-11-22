@@ -25,11 +25,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### November
 
-> **Audit status:** ◐ Incomplete daily scan · checked 2026-11-18.
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - 🔎 **[Get Hint-Augmented GRPO Done Right Through Activation Steering](https://arxiv.org/abs/2611.23124)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  
-  Labels: `GRPO` · `RLVR` · `Reasoning`  
+  Labels: pending  
   Authors: Khiem Le, Ting Hua, Nitesh V. Chawla
 
 <a id="2026-10"></a>

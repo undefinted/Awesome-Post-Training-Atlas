@@ -25,11 +25,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### November
 
-> **Audit status:** ◐ Incomplete daily scan · checked 2026-11-18.
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - 🔎 **[Outcome-Balanced PPO and Policy-Induced Flow Rectification for Flow-Based VLA Policies](https://arxiv.org/abs/2611.22878)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  
-  Labels: `VLA` · `PPO` · `Robotics`  
+  Labels: pending  
   Authors: Yuhan Wang, Ruiyang Wang, Jiaguan Zhu
 
 <a id="2026-10"></a>

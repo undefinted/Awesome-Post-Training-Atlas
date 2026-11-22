@@ -25,11 +25,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 ### November
 
-> **Audit status:** ◐ Incomplete daily scan · checked 2026-11-18.
+> **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
 - 🔎 **[Do LLM Agents Still Need to Be Told How to Self-Improve?](https://arxiv.org/abs/2611.23219)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  
-  Labels: `Self-improvement` · `Agent`  
+  Labels: pending  
   Authors: Shobhita Sundaram, Cansu Sancaktar, Phillip Isola
 
 <a id="2026-10"></a>
