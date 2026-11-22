@@ -1,4 +1,4 @@
-last_successful_discovery_at: '2026-11-21T23:19:14-06:00'
+last_successful_discovery_at: '2026-11-22T08:06:49-06:00'
 timezone: America/Chicago
-mode: codex-targeted-recovery-pass
-coverage: partial
+mode: codex-daily-lightweight-pass
+coverage: complete

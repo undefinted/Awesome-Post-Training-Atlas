@@ -49,16 +49,16 @@
 <!-- DIRECTIONS-ZH:START -->
 | 方向 | 精选 | 发现候选 | 总数 | 最新论文发表日期 |
 |---|---:|---:|---:|---:|
-| [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
-| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-11-17 |
+| [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3600 | **3602** | 2026-11-19 |
+| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2859 | **2865** | 2026-11-19 |
 | [奖励模型与验证器](directions/reward-verifiers.md) | 2 | 3374 | **3376** | 2026-11-18 |
-| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 4 | 841 | **845** | 2026-11-19 |
-| [蒸馏与策略迁移](directions/distillation.md) | 25 | 495 | **520** | 2026-11-18 |
-| [推理与自我改进](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 |
-| [智能体与交互式后训练](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 |
-| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 3 | 885 | **888** | 2026-11-18 |
-| [生成式媒体后训练](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 |
-| [具身智能与 VLA 后训练](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 |
+| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 4 | 843 | **847** | 2026-11-19 |
+| [蒸馏与策略迁移](directions/distillation.md) | 25 | 498 | **523** | 2026-11-19 |
+| [推理与自我改进](directions/reasoning-self-improvement.md) | 3 | 863 | **866** | 2026-11-19 |
+| [智能体与交互式后训练](directions/agentic.md) | 3 | 606 | **609** | 2026-11-19 |
+| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 3 | 886 | **889** | 2026-11-19 |
+| [生成式媒体后训练](directions/generative-media.md) | 2 | 437 | **439** | 2026-11-19 |
+| [具身智能与 VLA 后训练](directions/embodied-vla.md) | 1 | 430 | **431** | 2026-11-19 |
 <!-- DIRECTIONS-ZH:END -->
 
 ## Codex 论文雷达
@@ -79,7 +79,7 @@
    定时检索论文。
 
 最近一次有记录的运行是
-[2026-11-21 Codex 雷达报告](data/codex-radar/2026-11-21.md)。完整频率、
+[2026-11-22 Codex 雷达报告](data/codex-radar/2026-11-22.md)。完整频率、
 审核规则与安全约束见 [CODEX_RADAR.md](CODEX_RADAR.md)。
 
 手动运行仓库流水线：

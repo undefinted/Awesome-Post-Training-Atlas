@@ -1,0 +1,261 @@
+papers:
+- id: arxiv:2611.26627
+  title: RL Post-Training in Diffusion Transformers Is Activation Steering
+  date: 2026-11-19
+  direction: generative-media
+  url: https://arxiv.org/abs/2611.26627
+  authors: [Tuna Han Salih Meral, Kaan Oktay, Alec Helbling, Atakan Kara, Duen Horng Chau, Pinar Yanardag]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [diffusion, reinforcement-learning, activation-steering]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; post-training and reinforcement-learning terms'
+  inclusion_reason: Tests whether low-dimensional activation steering accounts for reward gains from diffusion RL post-training and also trains the steering vectors with online RL.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports RL post-training of image and video diffusion transformers.', url: 'https://arxiv.org/abs/2611.26627'}
+- id: arxiv:2611.26615
+  title: 'ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement'
+  date: 2026-11-19
+  direction: distillation
+  url: https://arxiv.org/abs/2611.26615
+  authors: [Yansong Qu, Wesker Zheng, Quanjian Song, Zhiyuan Zhang, Xiao Cao, Shengchuan Zhang, Liujuan Cao]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [on-policy-distillation, world-model, video-generation]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; on-policy-distillation terms'
+  inclusion_reason: Introduces task-asymmetric on-policy distillation to consolidate specialized prediction and refinement teachers into one video-world-model student.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract describes TA-OPD with teacher-specific sampling and history policies.', url: 'https://arxiv.org/abs/2611.26615'}
+- id: arxiv:2611.26584
+  title: 'Represented but misread: Post-training changes how language models read out what they represent'
+  date: 2026-11-19
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.26584
+  authors: [Jochen Laubrock]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [supervised-fine-tuning, representation-analysis, behavioral-readout]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; post-training and supervised-fine-tuning terms'
+  inclusion_reason: Directly diagnoses where supervised fine-tuning changes model judgments and includes a controlled fine-tuning study.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract attributes stage-wise behavioral changes to supervised fine-tuning.', url: 'https://arxiv.org/abs/2611.26584'}
+- id: arxiv:2611.26510
+  title: 'AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher'
+  date: 2026-11-19
+  direction: agentic
+  url: https://arxiv.org/abs/2611.26510
+  authors: [Guoxin Chen, Shuang Sun, Fanzhe Meng, Xinyu Tang, Ruihua Song, Wayne Xin Zhao]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [agent-training, skill-guided-fine-tuning, trajectory-selection]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; post-training and agent-training terms'
+  inclusion_reason: Uses an LLM agent to analyze trajectories, design behavioral skills, select data, and fine-tune agent models on improved teacher rollouts.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract defines Skill-FT and an autonomous feedback loop for Terminal, Search, and software tasks.', url: 'https://arxiv.org/abs/2611.26510'}
+- id: arxiv:2611.26509
+  title: 'GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers'
+  date: 2026-11-19
+  direction: distillation
+  url: https://arxiv.org/abs/2611.26509
+  authors: [Sahibzada Allahyar, Julia White, Dhruv Atreja, George Hurn-Maloney, Urchade Zaratiana]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [reasoning-distillation, soft-target-distillation, decision-model]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; reasoning-distillation terms'
+  inclusion_reason: Transfers reasoning-teacher capabilities into single-pass decision models using multi-teacher soft targets and progressive post-training.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract explicitly reports soft-target distillation from multiple teachers including a reasoning model.', url: 'https://arxiv.org/abs/2611.26509'}
+- id: arxiv:2611.26420
+  title: 'Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience'
+  date: 2026-11-19
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.26420
+  authors: [EngineAI]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [vla, humanoid-robotics, human-trajectory-supervision]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; VLA adaptation terms'
+  inclusion_reason: Jointly supervises a shared VLA action expert with human motion and retargeted robot actions, followed by robot adaptation.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports shared-action-expert supervision and downstream T800 adaptation.', url: 'https://arxiv.org/abs/2611.26420'}
+- id: arxiv:2611.26414
+  title: 'ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain'
+  date: 2026-11-19
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.26414
+  authors: [Zixuan Huang, Yang Zhou, Guli Zhang, Sunzhu Li, Hongyan Xie, Zehao Chen, Fuzhen Zhuang, Kaixuan Wang, Xiaozhi Chen, Yikun Ban, Deqing Wang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [vision-language-navigation, agentic-reinforcement-learning, tool-calling]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; agentic reinforcement-learning and VLM terms'
+  inclusion_reason: Jointly optimizes a VLM navigation brain and action expert through closed-loop agentic RL while avoiding navigation-domain SFT of the brain.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract describes closed-loop RL over slow and fast navigation policies.', url: 'https://arxiv.org/abs/2611.26414'}
+- id: arxiv:2611.26342
+  title: Training LLMs to Follow Reasoning Instructions with Minimal Edits
+  date: 2026-11-19
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.26342
+  authors: [Alexandra Yakovleva, Luat Gia Khoi Nguyen, Juho Kannala, Harri Valpola, Alexander Ilin]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [localized-supervision, reasoning-training, online-adaptation]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; supervised-fine-tuning and reasoning-training terms'
+  inclusion_reason: Supervises only minimal edited spans at the first detected failure in model-generated reasoning trajectories, in offline or online form.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract defines edit-based training on sampled Qwen reasoning trajectories.', url: 'https://arxiv.org/abs/2611.26342'}
+- id: arxiv:2611.26199
+  title: Learning to Think with Images Faithfully via Adaptive Data Selection
+  date: 2026-11-19
+  direction: multimodal
+  url: https://arxiv.org/abs/2611.26199
+  authors: [Yu Zhao, Jiaxin Zhang, Rohit Saxena, Fazl Barez, Pasquale Minervini, Yiwen Guo]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [vlm, adaptive-data-selection, tool-use, reward-design]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; multimodal training and tool-use terms'
+  inclusion_reason: Adapts visual-tool training data to current model capability and adds a reward that distinguishes useful from unnecessary zooming.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract describes capability-adaptive data selection and an adaptiveness reward for VLM training.', url: 'https://arxiv.org/abs/2611.26199'}
+- id: arxiv:2611.26196
+  title: 'EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL'
+  date: 2026-11-19
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.26196
+  authors: [Wei Dai, Jinkun Liu, Jiayi Chen, Han Liu, Wenbo Ding, Shaolun Huang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [embodied-agent, distillation, supervised-fine-tuning, online-reinforcement-learning]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; embodied VLM post-training terms'
+  inclusion_reason: Provides a unified teacher-synthesis, SFT, and online-RL stack for training a VLM to execute closed-loop robot-control code.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract explicitly details distillation, SFT, and group-relative online RL pipelines.', url: 'https://arxiv.org/abs/2611.26196'}
+- id: arxiv:2611.26179
+  title: 'RegionAgent: Two-Stage Preference Optimization for Regional Image Restoration'
+  date: 2026-11-19
+  direction: preference-alignment
+  url: https://arxiv.org/abs/2611.26179
+  authors: [Weiyu Zhou, Jiacong Tang, Tao Hu, Axi Niu, Jinqiu Sun, Peng Wu, Wei Dong, Qingsen Yan]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [dpo, step-level-preference, trajectory-preference, vlm]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; preference-optimization and VLM terms'
+  inclusion_reason: Separates immediate step preferences from full-trajectory preferences to train a VLM action selector with two DPO stages.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports step-level and trajectory-level DPO with newly constructed preference pairs.', url: 'https://arxiv.org/abs/2611.26179'}
+- id: arxiv:2611.26172
+  title: 'Budget Internalization: Fixed-Budget RLVR Trades Test-Time Scaling for In-Budget Accuracy'
+  date: 2026-11-19
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.26172
+  authors: [Ilia Zavidnyi, Alexander Kovrigin, Arina Puchkova, Kirill Gelvan, Sergey Titov]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [rlvr, rollout-budget, test-time-scaling, training-analysis]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; RLVR terms'
+  inclusion_reason: Directly diagnoses how RLVR rollout caps become learned response-length constraints and tests objective-level mitigations.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports controlled RLVR and SFT ablations across three reasoning-model families.', url: 'https://arxiv.org/abs/2611.26172'}
+- id: arxiv:2611.26132
+  title: 'Sage-Evolve-Preview: Adaptive Observation for Post-Training Self-Improvement'
+  date: 2026-11-19
+  direction: reasoning-self-improvement
+  url: https://arxiv.org/abs/2611.26132
+  authors: [Yinhao Tang, Youqing Fang, Yanan Sun, Xintian Shen, Hanyu Sun, Wenran Liu, Yue Wu, Weiming Zhang, Bin Liu, Wenwei Zhang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [recursive-self-improvement, adaptive-observation, harness-evolution]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; self-improvement terms'
+  inclusion_reason: Sustains iterative post-training by adapting the diagnostic observation while keeping the anchor objective fixed and feeding validated increments back into training.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract defines an intervention-training-evaluation RSI loop with adaptive observations.', url: 'https://arxiv.org/abs/2611.26132'}
+- id: arxiv:2611.26007
+  title: 'System-One RSI: Building Muscle Memory for Interactive Agents through Guided Practice'
+  date: 2026-11-19
+  direction: agentic
+  url: https://arxiv.org/abs/2611.26007
+  authors: [Qingxu Fu, Xuanfa Jin, Ziqian Chen, Zhaoyang Liu, Bolin Ding]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [interactive-agent, recursive-self-improvement, trajectory-supervision]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; agent-training and self-improvement terms'
+  inclusion_reason: Converts real interaction records into supervision through an offline reasoning-agent improvement loop, then redeploys the trained decision model.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract describes iterative data capture, derived supervision, parameter updates, and redeployment.', url: 'https://arxiv.org/abs/2611.26007'}
+- id: arxiv:2611.25814
+  title: 'What Does Anti-Hallucination Training Buy? Saying Less, Cheap Pruning, and the Rest'
+  date: 2026-11-19
+  direction: preference-alignment
+  url: https://arxiv.org/abs/2611.25814
+  authors: [Lingkai Bu, Qian Gao]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [dpo, anti-hallucination, vlm, training-analysis]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; preference-training and hallucination terms'
+  inclusion_reason: Audits what VLM preference training changes and directly trains controlled DPO checkpoints with alternative labeling signals.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract compares eight public preference-trained systems and reports controlled DPO experiments.', url: 'https://arxiv.org/abs/2611.25814'}
+- id: arxiv:2611.25597
+  title: Decision-Focused Reinforcement Learning for LLM Post-Training
+  date: 2026-11-19
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.25597
+  authors: [Haotian Zhai, Leqi Liu]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [reinforcement-learning, decision-regret, reward-estimation]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; LLM reinforcement-learning post-training terms'
+  inclusion_reason: Trains LLM predictors on downstream decision regret and proposes warm-start and unbiased reward-correction strategies for costly rewards.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract defines DFRL and evaluates it against SFT prediction-loss baselines.', url: 'https://arxiv.org/abs/2611.25597'}
+- id: arxiv:2611.25529
+  title: 'CoachSI: Self-Improvement of Robot Policies with a Language Coach'
+  date: 2026-11-19
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.25529
+  authors: [Jiachen Tao, Gengyu Zhang, Haoxuan Wang, Bing Liu, Yan Yan]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [robot-policy, self-improvement, language-coaching, hindsight-relabeling]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; robot-policy self-improvement terms'
+  inclusion_reason: Uses a frozen VLM coach to obtain successful long-horizon rollouts, relabels them with original tasks, and fine-tunes the robot policy for unassisted use.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports coached rollouts, hindsight relabeling, and policy fine-tuning.', url: 'https://arxiv.org/abs/2611.25529'}
+- id: arxiv:2611.25457
+  title: 'CANDOR: Contrastive Self-Denoising Rewards for Label-Free Text-to-Image Post-Training'
+  date: 2026-11-19
+  direction: generative-media
+  url: https://arxiv.org/abs/2611.25457
+  authors: [Junhyeok Lee, Byung-Hoon Kim, Kyu Sung Choi]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [text-to-image, intrinsic-reward, flow-grpo, self-denoising]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; text-to-image post-training and reward terms'
+  inclusion_reason: Derives a contrastive intrinsic denoising reward and uses it as the sole Flow-GRPO reward for label-free image-generator post-training.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract defines CANDOR and reports Flow-GRPO post-training results.', url: 'https://arxiv.org/abs/2611.25457'}
+- id: arxiv:2611.25391
+  title: 'HOPD: Historical On-Policy Distillation for SAR MLLM Continual Learning'
+  date: 2026-11-19
+  direction: distillation
+  url: https://arxiv.org/abs/2611.25391
+  authors: [Yuxuan Li, Derrick Goh Xin Deik, Zheng-Peng Duan, Qianru Sun, Weijie Li]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [on-policy-distillation, continual-learning, multimodal, historical-teachers]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; on-policy-distillation and MLLM terms'
+  inclusion_reason: Reuses archived source-adaptation states as teachers on student-generated prefixes to retain capabilities during multimodal continual learning.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract describes persistent historical teachers supervising an evolving MLLM student.', url: 'https://arxiv.org/abs/2611.25391'}
+- id: arxiv:2611.25389
+  title: 'Zero to Four Views: Unified Panorama Generation and Preference RL for Unobserved Regions'
+  date: 2026-11-19
+  direction: generative-media
+  url: https://arxiv.org/abs/2611.25389
+  authors: [Rui Hong, Xugang Ye, Jana Košecká, Kai Fan]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [panorama-generation, grpo, preference-reward, diffusion]
+  search_date: 2026-11-22
+  search_query: 'arXiv submittedDate:[202611190000 TO 202611222359]; generative-media preference-RL terms'
+  inclusion_reason: Adds a GRPO stage that uses VLM pairwise preferences to improve generated panorama regions not covered by conditioning views.
+  source_evidence: {source: arXiv, checked_at: '2026-11-22T08:06:49-06:00', evidence: 'Submitted 19 Nov 2026; abstract defines uncovered-region GRPO after supervised rectified-flow fine-tuning.', url: 'https://arxiv.org/abs/2611.25389'}

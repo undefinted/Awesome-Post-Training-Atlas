@@ -10,7 +10,7 @@ Coverage window: **2024-01 through 2026-11**.
 
 | Month | supervised adaptation | preference alignment | reward verifiers | reinforcement learning | distillation | reasoning self improvement | agentic | multimodal | generative media | embodied vla | Total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 2026-11 | 1 | 1 | 2 | 2 | 3 | 1 | 1 | 2 | 1 | 1 | **15** |
+| 2026-11 | 3 | 3 | 2 | 4 | 6 | 2 | 3 | 3 | 4 | 5 | **35** |
 | 2026-10 | 260 | 114 | 338 | 97 | 146 | 136 | 66 | 57 | 34 | 52 | **1300** |
 | 2026-09 | 12 | 20 | 44 | 13 | 14 | 11 | 25 | 10 | 4 | 20 | **173** |
 | 2026-08 | 119 | 59 | 228 | 59 | 85 | 50 | 57 | 68 | 34 | 22 | **781** |

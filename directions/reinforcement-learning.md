@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**845 papers**: 4 curated and 841 academic discovery candidates.
+**847 papers**: 4 curated and 843 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐2 · [Oct](#2026-10) ✓97 · [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Nov](#2026-11) ◐4 · [Oct](#2026-10) ✓97 · [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓50 · [Nov](#2025-11) ✓43 · [Oct](#2025-10) ✓65 · [Sep](#2025-09) ✓32 · [Aug](#2025-08) ✓47 · [Jul](#2025-07) ✓43 · [Jun](#2025-06) ✓38 · [May](#2025-05) ✓44 · [Apr](#2025-04) ✓29 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓11 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓1 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓1 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓1 · [Jun](#2024-06) ✓2 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓1
 - [2017](#2017) — [Jul](#2017-07) ◐1
@@ -34,6 +34,16 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   Venue: [NeurIPS 2026 Workshop on Transitioning from Pre-Training to Post-Training](https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/)  
   Method family: `RL Optimization & Verifiable Rewards`  
   Change axes: `sampling, optimization, self-improvement`
+
+- 🔎 **[Budget Internalization: Fixed-Budget RLVR Trades Test-Time Scaling for In-Budget Accuracy](https://arxiv.org/abs/2611.26172)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Ilia Zavidnyi, Alexander Kovrigin, Arina Puchkova, Kirill Gelvan, Sergey Titov
+
+- 🔎 **[Decision-Focused Reinforcement Learning for LLM Post-Training](https://arxiv.org/abs/2611.25597)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Haotian Zhai, Leqi Liu
 
 - 🔎 **[Get Hint-Augmented GRPO Done Right Through Activation Steering](https://arxiv.org/abs/2611.23124)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  

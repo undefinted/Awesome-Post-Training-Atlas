@@ -46,20 +46,20 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-11-21T23:19:14-06:00** (partial source coverage; see report). `Latest paper` is the first-publication date.
+Radar last scanned academic sources: **2026-11-22T08:06:49-06:00**. `Latest paper` is the first-publication date.
 
 | Direction | Curated | Discovery | Total | Latest paper |
 |---|---:|---:|---:|---:|
-| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
-| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-11-17 |
+| [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3600 | **3602** | 2026-11-19 |
+| [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2859 | **2865** | 2026-11-19 |
 | [Reward Models & Verifiers](directions/reward-verifiers.md) | 2 | 3374 | **3376** | 2026-11-18 |
-| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 4 | 841 | **845** | 2026-11-19 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 25 | 495 | **520** | 2026-11-18 |
-| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 |
-| [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 |
-| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 3 | 885 | **888** | 2026-11-18 |
-| [Generative Media Post-Training](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 |
-| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 |
+| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 4 | 843 | **847** | 2026-11-19 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 25 | 498 | **523** | 2026-11-19 |
+| [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 863 | **866** | 2026-11-19 |
+| [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 606 | **609** | 2026-11-19 |
+| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 3 | 886 | **889** | 2026-11-19 |
+| [Generative Media Post-Training](directions/generative-media.md) | 2 | 437 | **439** | 2026-11-19 |
+| [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 430 | **431** | 2026-11-19 |
 <!-- PAPERS:END -->
 
 ## Codex Paper Radar
@@ -85,7 +85,7 @@ The operating model is:
    and deployment fallbacks; they no longer schedule paper discovery.
 
 The latest recorded run is the
-[2026-11-21 Codex radar report](data/codex-radar/2026-11-21.md). Full cadence,
+[2026-11-22 Codex radar report](data/codex-radar/2026-11-22.md). Full cadence,
 review rules, and safety constraints are documented in
 [CODEX_RADAR.md](CODEX_RADAR.md).
 
