@@ -46,7 +46,7 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-11-18** (all-direction Codex pass). See the [Codex radar report](data/codex-radar/2026-11-18.md). `Latest paper` is the paper's first-publication date.
+Radar last scanned academic sources: **2026-11-18T12:00:00-06:00**. `Latest paper` is the first-publication date.
 
 | Direction | Curated | Discovery | Total | Latest paper |
 |---|---:|---:|---:|---:|
