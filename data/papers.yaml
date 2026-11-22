@@ -2158,7 +2158,6 @@ papers:
   - self-improvement
   transfer_ideas:
   - Can long-horizon agent feedback reuse the same verifiable-reward recipe without excessive rollout cost?
-
 - id: arxiv:2508.13993
   title: 'Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization'
   date: 2026-07-01
@@ -2171,7 +2170,8 @@ papers:
   - dpo
   - long-context
   - bandit-sampling
-  key_idea: Treats context chunks as multi-armed bandit arms, using reward-guided exploration and exploitation to construct diverse, high-quality preference pairs for long-context DPO.
+  key_idea: Treats context chunks as multi-armed bandit arms, using reward-guided exploration and exploitation to construct
+    diverse, high-quality preference pairs for long-context DPO.
   url: https://arxiv.org/abs/2508.13993
   venue: ACL 2026 Main, Oral
   venue_source: ACL Anthology
@@ -2197,9 +2197,12 @@ papers:
   - objective
   transfer_ideas:
   - Use bandit-guided context selection to improve the informativeness and diversity of long-context preference data.
-
+  auto_labels:
+  - dpo
+  - preference-optimization
+  label_method: controlled-vocabulary-v1
 - id: arxiv:2601.12762
-  title: 'Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction'
+  title: Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction
   date: 2026-01-19
   direction: agentic
   modalities:
@@ -2210,7 +2213,8 @@ papers:
   - environment-interaction
   - grpo
   - self-correction
-  key_idea: 'ToolMaster trains tool use through trial-and-execution: supervised traces expose tool trials and self-correction, then reinforcement learning coordinates exploration and execution with environment feedback.'
+  key_idea: 'ToolMaster trains tool use through trial-and-execution: supervised traces expose tool trials and self-correction,
+    then reinforcement learning coordinates exploration and execution with environment feedback.'
   url: https://arxiv.org/abs/2601.12762
   code: https://github.com/NEUIR/ToolMaster
   authors:
@@ -2231,8 +2235,12 @@ papers:
   - feedback
   - objective
   transfer_ideas:
-  - Replace static tool-call imitation with environment-grounded trials and self-correction for robust generalization to unseen tools.
-
+  - Replace static tool-call imitation with environment-grounded trials and self-correction for robust generalization to unseen
+    tools.
+  auto_labels:
+  - grpo
+  - tool-use
+  label_method: controlled-vocabulary-v1
 - id: arxiv:2611.08016
   title: Learning Dynamics of On-Policy Distillation
   date: 2026-11-05
@@ -2245,7 +2253,8 @@ papers:
   - learning-dynamics
   - rollout-distribution
   - failure-analysis
-  key_idea: Mechanistically separates how teacher signals become parameter updates from how those updates reshape student rollouts, explaining limited responsiveness and degeneration in on-policy distillation.
+  key_idea: Mechanistically separates how teacher signals become parameter updates from how those updates reshape student
+    rollouts, explaining limited responsiveness and degeneration in on-policy distillation.
   url: https://arxiv.org/abs/2611.08016
   authors:
   - Guan Zhe Hong
@@ -2265,3 +2274,8 @@ papers:
   - feedback
   transfer_ideas:
   - Separate local teacher agreement from downstream rollout quality when diagnosing on-policy distillation updates.
+  auto_labels:
+  - opd
+  - distillation
+  - on-policy
+  label_method: controlled-vocabulary-v1
