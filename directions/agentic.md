@@ -1951,7 +1951,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - **[Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762)** — ToolMaster trains tool use through trial-and-execution: supervised traces expose tool trials and self-correction, then reinforcement learning coordinates exploration and execution with environment feedback.  
   2026-01-19 · `tool-use` · `environment-interaction` · `grpo` · `self-correction` · [code](https://github.com/NEUIR/ToolMaster)  
-  Labels: pending  
+  Labels: `GRPO` · `Tool Use`  
   Authors: Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, et al.  
   Method family: `Agentic Feedback & Tool Use`  
   Change axes: `environment, feedback, objective`
