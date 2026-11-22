@@ -46,7 +46,7 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-11-21T23:19:14-06:00**. `Latest paper` is the first-publication date.
+Radar last scanned academic sources: **2026-11-21T23:19:14-06:00** (partial source coverage; see report). `Latest paper` is the first-publication date.
 
 | Direction | Curated | Discovery | Total | Latest paper |
 |---|---:|---:|---:|---:|

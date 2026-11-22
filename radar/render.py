@@ -263,11 +263,12 @@ def direction_page(direction: dict, records: list[dict]) -> str:
 def render_index(taxonomy: list[dict], records: list[dict]) -> str:
     status = load_yaml(ROOT / "data" / "radar_status.yaml") or {}
     synced = status.get("last_successful_discovery_at", "not recorded")
+    coverage_note = " (partial source coverage; see report)" if status.get("coverage") == "partial" else ""
     lines = [
         "## Research directions",
         "",
         "Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.",
-        f"Radar last scanned academic sources: **{synced}**. `Latest paper` is the first-publication date.",
+        f"Radar last scanned academic sources: **{synced}**{coverage_note}. `Latest paper` is the first-publication date.",
         "",
         "| Direction | Curated | Discovery | Total | Latest paper |",
         "|---|---:|---:|---:|---:|",

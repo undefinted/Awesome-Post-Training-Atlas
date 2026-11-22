@@ -1,3 +1,4 @@
 last_successful_discovery_at: '2026-11-21T23:19:14-06:00'
 timezone: America/Chicago
-mode: codex-all-direction-pass
+mode: codex-targeted-recovery-pass
+coverage: partial
