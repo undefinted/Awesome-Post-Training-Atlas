@@ -51,12 +51,12 @@
 |---|---:|---:|---:|---:|
 | [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
 | [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-11-17 |
-| [奖励模型与验证器](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 |
-| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 |
-| [蒸馏与策略迁移](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 |
+| [奖励模型与验证器](directions/reward-verifiers.md) | 2 | 3374 | **3376** | 2026-11-18 |
+| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 4 | 841 | **845** | 2026-11-19 |
+| [蒸馏与策略迁移](directions/distillation.md) | 25 | 495 | **520** | 2026-11-18 |
 | [推理与自我改进](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 |
 | [智能体与交互式后训练](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 |
-| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 2 | 885 | **887** | 2026-11-17 |
+| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 3 | 885 | **888** | 2026-11-18 |
 | [生成式媒体后训练](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 |
 | [具身智能与 VLA 后训练](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 |
 <!-- DIRECTIONS-ZH:END -->
@@ -79,7 +79,7 @@
    定时检索论文。
 
 最近一次有记录的运行是
-[2026-11-18 Codex 雷达报告](data/codex-radar/2026-11-18.md)。完整频率、
+[2026-11-21 Codex 雷达报告](data/codex-radar/2026-11-21.md)。完整频率、
 审核规则与安全约束见 [CODEX_RADAR.md](CODEX_RADAR.md)。
 
 手动运行仓库流水线：

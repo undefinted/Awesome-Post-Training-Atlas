@@ -85,7 +85,7 @@ The operating model is:
    and deployment fallbacks; they no longer schedule paper discovery.
 
 The latest recorded run is the
-[2026-11-18 Codex radar report](data/codex-radar/2026-11-18.md). Full cadence,
+[2026-11-21 Codex radar report](data/codex-radar/2026-11-21.md). Full cadence,
 review rules, and safety constraints are documented in
 [CODEX_RADAR.md](CODEX_RADAR.md).
 

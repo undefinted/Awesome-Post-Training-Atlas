@@ -12,7 +12,21 @@ ROOT = Path(__file__).resolve().parents[1]
 DIRECTIONS_DIR = ROOT / "directions"
 START = "<!-- PAPERS:START -->"
 END = "<!-- PAPERS:END -->"
+ZH_START = "<!-- DIRECTIONS-ZH:START -->"
+ZH_END = "<!-- DIRECTIONS-ZH:END -->"
 LABELS_OUTPUT = ROOT / "LABELS.md"
+ZH_TITLES = {
+    "supervised-adaptation": "监督适配与数据",
+    "preference-alignment": "偏好优化与对齐",
+    "reward-verifiers": "奖励模型与验证器",
+    "reinforcement-learning": "强化学习与可验证奖励（RLVR）",
+    "distillation": "蒸馏与策略迁移",
+    "reasoning-self-improvement": "推理与自我改进",
+    "agentic": "智能体与交互式后训练",
+    "multimodal": "多模态 / VLM / MLLM 后训练",
+    "generative-media": "生成式媒体后训练",
+    "embodied-vla": "具身智能与 VLA 后训练",
+}
 
 
 def load_yaml(path: Path):
@@ -269,6 +283,22 @@ def render_index(taxonomy: list[dict], records: list[dict]) -> str:
     return "\n".join(lines) + "\n"
 
 
+def render_zh_index(taxonomy: list[dict], records: list[dict]) -> str:
+    lines = [
+        "| 方向 | 精选 | 发现候选 | 总数 | 最新论文发表日期 |",
+        "|---|---:|---:|---:|---:|",
+    ]
+    for direction in taxonomy:
+        selected = [paper for paper in records if paper["direction"] == direction["id"]]
+        curated_count = sum(not paper.get("discovery_candidate") for paper in selected)
+        latest = max((str(paper["date"]) for paper in selected), default="—")
+        title = ZH_TITLES[direction["id"]]
+        lines.append(
+            f"| [{title}](directions/{direction['id']}.md) | {curated_count} | {len(selected) - curated_count} | **{len(selected)}** | {latest} |"
+        )
+    return "\n".join(lines) + "\n"
+
+
 def render_label_catalog(records: list[dict]) -> str:
     from radar.labels import effective_labels, vocabulary
 
@@ -299,21 +329,43 @@ def update_readme(check: bool = False) -> bool:
     before, remainder = original.split(START, 1)
     _, after = remainder.split(END, 1)
     updated = f"{before}{START}\n{render_index(taxonomy, records)}{END}{after}"
+    zh_path = ROOT / "README.zh-CN.md"
+    zh_original = zh_path.read_text(encoding="utf-8")
+    zh_before, zh_remainder = zh_original.split(ZH_START, 1)
+    _, zh_after = zh_remainder.split(ZH_END, 1)
+    zh_updated = f"{zh_before}{ZH_START}\n{render_zh_index(taxonomy, records)}{ZH_END}{zh_after}"
+    reports = sorted((ROOT / "data" / "codex-radar").glob("????-??-??.md"))
+    if reports:
+        latest_report = reports[-1].stem
+        updated = re.sub(
+            r"\[\d{4}-\d{2}-\d{2} Codex radar report\]\(data/codex-radar/\d{4}-\d{2}-\d{2}\.md\)",
+            f"[{latest_report} Codex radar report](data/codex-radar/{latest_report}.md)",
+            updated,
+            count=1,
+        )
+        zh_updated = re.sub(
+            r"\[\d{4}-\d{2}-\d{2} Codex 雷达报告\]\(data/codex-radar/\d{4}-\d{2}-\d{2}\.md\)",
+            f"[{latest_report} Codex 雷达报告](data/codex-radar/{latest_report}.md)",
+            zh_updated,
+            count=1,
+        )
     changed = updated != original
+    zh_changed = zh_updated != zh_original
     expected_pages = {
         DIRECTIONS_DIR / f"{direction['id']}.md": direction_page(direction, records)
         for direction in taxonomy
     }
     expected_pages[LABELS_OUTPUT] = render_label_catalog(records)
     stale_pages = [page for page, content in expected_pages.items() if not page.exists() or page.read_text(encoding="utf-8") != content]
-    if check and (changed or stale_pages):
-        raise SystemExit("README or direction pages are stale; run python -m radar.render")
+    if check and (changed or zh_changed or stale_pages):
+        raise SystemExit("README, Chinese README, or direction pages are stale; run python -m radar.render")
     if not check:
         path.write_text(updated, encoding="utf-8", newline="\n")
+        zh_path.write_text(zh_updated, encoding="utf-8", newline="\n")
         DIRECTIONS_DIR.mkdir(exist_ok=True)
         for page, content in expected_pages.items():
             page.write_text(content, encoding="utf-8", newline="\n")
-    return changed or bool(stale_pages)
+    return changed or zh_changed or bool(stale_pages)
 
 
 def main() -> None:
