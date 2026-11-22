@@ -46,18 +46,18 @@ discovery pool so provisional records do not look like confirmed lineage.
 ## Research directions
 
 Each direction has its own chronological page. Counts include curated papers and visibly marked academic discovery candidates.
-Radar last scanned academic sources: **2026-11-18T12:00:00-06:00**. `Latest paper` is the first-publication date.
+Radar last scanned academic sources: **2026-11-21T23:19:14-06:00**. `Latest paper` is the first-publication date.
 
 | Direction | Curated | Discovery | Total | Latest paper |
 |---|---:|---:|---:|---:|
 | [Supervised Adaptation & Data](directions/supervised-adaptation.md) | 2 | 3598 | **3600** | 2026-11-17 |
 | [Preference Optimization & Alignment](directions/preference-alignment.md) | 6 | 2857 | **2863** | 2026-11-17 |
-| [Reward Models & Verifiers](directions/reward-verifiers.md) | 1 | 3374 | **3375** | 2026-11-17 |
-| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 3 | 841 | **844** | 2026-11-17 |
-| [Distillation & Policy Transfer](directions/distillation.md) | 24 | 495 | **519** | 2026-11-17 |
+| [Reward Models & Verifiers](directions/reward-verifiers.md) | 2 | 3374 | **3376** | 2026-11-18 |
+| [Reinforcement Learning & RL with Verifiable Rewards](directions/reinforcement-learning.md) | 4 | 841 | **845** | 2026-11-19 |
+| [Distillation & Policy Transfer](directions/distillation.md) | 25 | 495 | **520** | 2026-11-18 |
 | [Reasoning & Self-Improvement](directions/reasoning-self-improvement.md) | 3 | 862 | **865** | 2026-11-17 |
 | [Agentic & Interactive Post-Training](directions/agentic.md) | 3 | 604 | **607** | 2026-11-17 |
-| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 2 | 885 | **887** | 2026-11-17 |
+| [Multimodal, VLM & MLLM Post-Training](directions/multimodal.md) | 3 | 885 | **888** | 2026-11-18 |
 | [Generative Media Post-Training](directions/generative-media.md) | 2 | 434 | **436** | 2026-11-17 |
 | [Embodied & VLA Post-Training](directions/embodied-vla.md) | 1 | 426 | **427** | 2026-11-17 |
 <!-- PAPERS:END -->

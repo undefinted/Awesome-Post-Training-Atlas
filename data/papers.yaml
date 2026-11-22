@@ -2279,3 +2279,153 @@ papers:
   - distillation
   - on-policy
   label_method: controlled-vocabulary-v1
+- id: arxiv:2611.25135
+  title: 'Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is'
+  date: 2026-11-18
+  direction: reward-verifiers
+  modalities:
+  - language
+  tags:
+  - calibrated-reward
+  - llm-judge
+  - process-reward-model
+  - grpo
+  key_idea: Converts an LLM judge's typed decisions into calibrated probability rewards, enabling reference-free GRPO while
+    exposing when judge confidence becomes unreliable under distribution shift.
+  url: https://arxiv.org/abs/2611.25135
+  authors:
+  - Rudransh Agnihotri
+  - Manasvi Kapoor
+  author_source: arxiv
+  method_family: rlvr-grpo
+  predecessors: []
+  change_axes:
+  - reward
+  - verifier
+  - feedback
+  transfer_ideas:
+  - Calibrate judge confidence on current-policy samples before using it as a dense reward for new reasoning domains.
+  auto_labels:
+  - grpo
+  - verifier
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2611.25926
+  title: 'ROAM-GRPO: Enforcing Reasoning Diversity in GRPO via Routed Off-mode Approach Mining'
+  date: 2026-11-19
+  direction: reinforcement-learning
+  modalities:
+  - language
+  - reasoning
+  tags:
+  - grpo
+  - rlvr
+  - reasoning-diversity
+  - self-distillation
+  key_idea: Routes already-solved problems into a separate track that mines, verifies, and self-distills alternative solution
+    strategies to counter GRPO diversity collapse.
+  url: https://arxiv.org/abs/2611.25926
+  authors:
+  - Jeff Duan
+  - Matt Thomson
+  author_source: arxiv
+  venue: NeurIPS 2026 Workshop on Transitioning from Pre-Training to Post-Training
+  venue_type: workshop
+  venue_url: https://blog.neurips.cc/2026/08/10/announcing-the-neurips-2026-workshops/
+  venue_source: arxiv-author-comment-and-official-neurips-workshop-list
+  method_family: rlvr-grpo
+  predecessors: []
+  change_axes:
+  - sampling
+  - optimization
+  - self-improvement
+  transfer_ideas:
+  - Reserve solved tasks for verified off-mode strategy mining instead of spending every rollout on the current dominant mode.
+  auto_labels:
+  - distillation
+  - rlvr
+  - grpo
+  - self-training
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2611.25069
+  title: 'VisAlloc: Allocating Visual Supervision for On-Policy Self-Distillation'
+  date: 2026-11-18
+  direction: distillation
+  modalities:
+  - vision-language
+  tags:
+  - on-policy-self-distillation
+  - visual-reasoning
+  - token-weighting
+  - multimodal
+  key_idea: Filters examples with paired positive and displaced visual crops, then uses teacher-view disagreement to concentrate
+    on-policy self-distillation on visually sensitive response tokens.
+  url: https://arxiv.org/abs/2611.25069
+  code: https://github.com/Kaelyn01/VisAlloc
+  authors:
+  - Haoran Xu
+  - Tian Chen
+  - Yuhe Wu
+  - Yanbo Zhao
+  - Junchi Liao
+  - Hongyu Wang
+  - Jiaze Li
+  - Wentao Wang
+  - Yanfeng Li
+  - Rui Qian
+  author_source: arxiv
+  method_family: on-policy-distillation
+  predecessors: []
+  change_axes:
+  - data
+  - feedback
+  - credit-assignment
+  - cross-modal
+  transfer_ideas:
+  - Use counterfactual teacher views to allocate distillation weight only where a modality changes the student's evidence.
+  auto_labels:
+  - opsd
+  - distillation
+  - on-policy
+  - self-training
+  - multimodal
+  - reasoning
+  label_method: controlled-vocabulary-v1
+- id: arxiv:2611.23996
+  title: 'ReSynth: Constructing Synthetic Supervision for Multi-Image Understanding'
+  date: 2026-11-18
+  direction: multimodal
+  modalities:
+  - vision-language
+  - image
+  tags:
+  - synthetic-data
+  - grpo
+  - multi-image
+  - visual-reasoning
+  key_idea: Builds verified multi-image relational questions from controllable edits and viewpoint generation, then uses GRPO
+    to train vision-language models without real multi-image training examples.
+  url: https://arxiv.org/abs/2611.23996
+  authors:
+  - Yilin Wang
+  - Xin Yu
+  - Xinyi Guo
+  - Xiangxi Zheng
+  - Dongxing Mao
+  - Linjie Li
+  - Zhengyuan Yang
+  - Alex Jinpeng Wang
+  author_source: arxiv
+  method_family: multimodal-alignment
+  predecessors: []
+  change_axes:
+  - data
+  - reward
+  - cross-modal
+  transfer_ideas:
+  - Pair controllable synthesis with fact verification before converting generated cross-view relations into RL supervision.
+  auto_labels:
+  - grpo
+  - vlm
+  - reasoning
+  label_method: controlled-vocabulary-v1

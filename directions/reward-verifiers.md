@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3375 papers**: 1 curated and 3374 academic discovery candidates.
+**3376 papers**: 2 curated and 3374 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐1 · [Oct](#2026-10) ◐338 · [Sep](#2026-09) ✓44 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Nov](#2026-11) ◐2 · [Oct](#2026-10) ◐338 · [Sep](#2026-09) ✓44 · [Aug](#2026-08) ◐228 · [Jul](#2026-07) ✓229 · [Jun](#2026-06) ✓322 · [May](#2026-05) ◐368 · [Apr](#2026-04) ✓218 · [Mar](#2026-03) ✓237 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓92 · [Nov](#2025-11) ✓104 · [Oct](#2025-10) ✓178 · [Sep](#2025-09) ✓132 · [Aug](#2025-08) ✓83 · [Jul](#2025-07) ✓60 · [Jun](#2025-06) ✓102 · [May](#2025-05) ✓119 · [Apr](#2025-04) ✓41 · [Mar](#2025-03) ✓69 · [Feb](#2025-02) ✓70 · [Jan](#2025-01) ✓23
 - [2024](#2024) — [Dec](#2024-12) ✓48 · [Nov](#2024-11) ✓26 · [Oct](#2024-10) ✓64 · [Sep](#2024-09) ✓20 · [Aug](#2024-08) ✓13 · [Jul](#2024-07) ✓18 · [Jun](#2024-06) ✓30 · [May](#2024-05) ✓27 · [Apr](#2024-04) ✓17 · [Mar](#2024-03) ✓17 · [Feb](#2024-02) ✓22 · [Jan](#2024-01) ✓14
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -26,6 +26,13 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### November
 
 > **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- **[Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is](https://arxiv.org/abs/2611.25135)** — Converts an LLM judge's typed decisions into calibrated probability rewards, enabling reference-free GRPO while exposing when judge confidence becomes unreliable under distribution shift.  
+  2026-11-18 · `calibrated-reward` · `llm-judge` · `process-reward-model` · `grpo`  
+  Labels: `GRPO` · `Verifier`  
+  Authors: Rudransh Agnihotri, Manasvi Kapoor  
+  Method family: `RL Optimization & Verifiable Rewards`  
+  Change axes: `reward, verifier, feedback`
 
 - 🔎 **[Motion-Aware Reward Modeling for Instruction-Guided Video Editing](https://arxiv.org/abs/2611.22495)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  
