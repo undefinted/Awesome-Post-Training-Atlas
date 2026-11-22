@@ -1368,7 +1368,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 - **[Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://arxiv.org/abs/2508.13993)** — Treats context chunks as multi-armed bandit arms, using reward-guided exploration and exploitation to construct diverse, high-quality preference pairs for long-context DPO.  
   2026-07-01 · `preference-optimization` · `dpo` · `long-context` · `bandit-sampling` · [code](https://github.com/NEUIR/LongMab-PO)  
-  Labels: pending  
+  Labels: `DPO` · `Preference Optimization`  
   Authors: Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, et al.  
   Venue: [ACL 2026 Main, Oral](https://aclanthology.org/2026.acl-long.161/)  
   Method family: `Preference Optimization`  
