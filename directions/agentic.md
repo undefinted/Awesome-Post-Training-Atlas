@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**609 papers**: 3 curated and 606 academic discovery candidates.
+**614 papers**: 3 curated and 611 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐3 · [Oct](#2026-10) ✓66 · [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ◐1
+- [2026](#2026) — [Nov](#2026-11) ◐8 · [Oct](#2026-10) ✓66 · [Sep](#2026-09) ✓25 · [Aug](#2026-08) ✓57 · [Jul](#2026-07) ✓38 · [Jun](#2026-06) ✓30 · [May](#2026-05) ✓34 · [Apr](#2026-04) ✓32 · [Mar](#2026-03) ✓20 · [Feb](#2026-02) ✓65 · [Jan](#2026-01) ◐1
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓20 · [Oct](#2025-10) ✓33 · [Sep](#2025-09) ✓33 · [Aug](#2025-08) ✓14 · [Jul](#2025-07) ✓11 · [Jun](#2025-06) ✓13 · [May](#2025-05) ✓16 · [Apr](#2025-04) ✓6 · [Mar](#2025-03) ✓8 · [Feb](#2025-02) ✓7 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓6 · [Nov](#2024-11) ✓4 · [Oct](#2024-10) ✓6 · [Sep](#2024-09) ✓2 · [Aug](#2024-08) ✓4 · [Jul](#2024-07) ✓0 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓3 · [Apr](#2024-04) ✓1 · [Mar](#2024-03) ✓7 · [Feb](#2024-02) ✓4 · [Jan](#2024-01) ✓3
 - [2023](#2023) — [Feb](#2023-02) ◐1
@@ -27,6 +27,31 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### November
 
 > **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Belief-State Management Meets Rubric Rewards for Agentic Forecasting](https://arxiv.org/abs/2611.27286)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Jingyi Chai, Yun Liao, Hao Lu, Kemeng Zhang, Bingyang Zheng, Yujie Ge, Xiangrui Liu, Linfeng Zhang, et al.
+
+- 🔎 **[WEIR: Watershed Exploration and Drift-Aware Prefix Shrinkage for Multi-Turn Agent Reinforcement Learning](https://arxiv.org/abs/2611.27570)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Pixel Nomand, Elena Voss, Marcus Hale, Sofia Reyes
+
+- 🔎 **[Learning When to Ask: Advisor-Aware Post-Training for SLM Agents](https://arxiv.org/abs/2611.27443)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Aasheesh Singh, Vishal Vaddina
+
+- 🔎 **[From Acting to Learning: Experience Selection toward Continually Learning Agents](https://arxiv.org/abs/2611.27159)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Yaoyuan Yan, Haoxiang Jie, Zhiyou Heng, Kailin Wang, Yumiao Li, Lifeng Liu, Anwan Yan
+
+- 🔎 **[Search-RSI: Expanding Search Worlds Along Multimodal Agents' Capability Frontier](https://arxiv.org/abs/2611.27780)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Chengchao Lv, Yin Wang, Chunzheng Zhu, Wanli Chang
 
 - 🔎 **[AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher](https://arxiv.org/abs/2611.26510)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  

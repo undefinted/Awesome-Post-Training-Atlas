@@ -1,0 +1,443 @@
+papers:
+- id: arxiv:2611.27652
+  title: 'Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders'
+  date: 2026-11-20
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.27652
+  authors: [Yunha Seo, Changhoon Kim]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [machine-unlearning, diffusion-language-model, sparse-autoencoder]
+  search_date: 2026-11-23
+  search_query: 'arXiv cs.CL/cs.LG/cs.AI/cs.CV/cs.RO recent pages, submitted 2026-11-20 through 2026-11-23; post-training terms'
+  inclusion_reason: 'Directly audits and intervenes on post-training unlearning in diffusion language models through static and stage-adaptive feature suppression.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract describes controlled DLM unlearning with sparse-autoencoder feature suppression.', url: 'https://arxiv.org/abs/2611.27652'}
+- id: arxiv:2611.27348
+  title: 'Breaking the Long Horizon: Short-Horizon Process Supervision for Long-Form Generation in LLMs'
+  date: 2026-11-20
+  direction: reward-verifiers
+  url: https://arxiv.org/abs/2611.27348
+  authors: [Heyang Xu, HanWen Hao, Qianren Mao, Zhuo Liu, Qili Zhang, Sheng Yang, Jianxin Li]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [process-supervision, rubric-reward, grpo]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; process-supervision and reward terms'
+  inclusion_reason: 'Introduces segment-level rubric rewards and stepwise advantages for GRPO training on long-form generation.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports short-horizon process rewards used in policy optimization.', url: 'https://arxiv.org/abs/2611.27348'}
+- id: arxiv:2611.27083
+  title: 'How Far Does Lossless Re-tokenization Move an RLVR Update?'
+  date: 2026-11-20
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.27083
+  authors: [Zhe Dong, Fang Qin]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [rlvr, retokenization, training-dynamics]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; RLVR terms'
+  inclusion_reason: 'Provides a controlled analysis of how lossless re-tokenization changes RLVR optimization updates.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract measures the effect of tokenization on RLVR updates.', url: 'https://arxiv.org/abs/2611.27083'}
+- id: arxiv:2611.26863
+  title: 'LLMs Memorize Their Own Hallucinations During Post-Training'
+  date: 2026-11-19
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.26863
+  authors: [Anirudh Atmakuru, Tanya Goyal]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [reinforcement-learning, hallucination, memorization]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages with indexing overlap from 2026-11-19; post-training and reinforcement-learning terms'
+  inclusion_reason: 'Directly diagnoses hallucination memorization induced by standard reinforcement-learning post-training.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports controlled RL post-training and audits memorized hallucinations.', url: 'https://arxiv.org/abs/2611.26863'}
+- id: arxiv:2611.26806
+  title: 'MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution'
+  date: 2026-11-19
+  direction: reasoning-self-improvement
+  url: https://arxiv.org/abs/2611.26806
+  authors: [Ziqing Wang, Hamid Palangi, Lili Zhao, Kaize Ding]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [recursive-self-improvement, agent-training, model-harness-coevolution]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages with indexing overlap from 2026-11-19; recursive-self-improvement terms'
+  inclusion_reason: 'Jointly trains a solver and learnable improver using harness-gain rewards in a recursive post-training loop.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 19 Nov 2026; abstract describes joint solver-improver training with a harness-gain reward.', url: 'https://arxiv.org/abs/2611.26806'}
+- id: arxiv:2611.26756
+  title: 'Reinforcement Learning Unlearns Corrupted SFT Reasoning'
+  date: 2026-11-19
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.26756
+  authors: [Anika Misra, Shreyas Vinod, Huteng Dai]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [grpo, supervised-fine-tuning, reasoning-recovery]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages with indexing overlap from 2026-11-19; GRPO and supervised-fine-tuning terms'
+  inclusion_reason: 'Studies whether GRPO can recover reasoning behavior after deliberately corrupted supervised fine-tuning.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports GRPO recovery experiments after corrupted SFT.', url: 'https://arxiv.org/abs/2611.26756'}
+- id: arxiv:2611.27376
+  title: 'Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training'
+  date: 2026-11-20
+  direction: distillation
+  url: https://arxiv.org/abs/2611.27376
+  authors: [Zhen Zhang, Changyi Yang, Xuehai He, Chengzhi Liu, Yutong Yin, Ziyue Liu, Zhuoran Yin, Yangmin Li, Zhihan Liu, Jisen Li, Mingyu Jin, Chuhan Li, Zhaotian Weng, Ruoyu He, Wenyao Gao, Jiaxin Deng, Chenwei Wu, Hui Shen, Wenhao Chai, Chenyang Zhao, Zhuofan Ying, Kieran Liu, Andrew Chen, Pony Ma, Zhaoran Wang, Alkesh Patel, Zhe Gan, Xin Eric Wang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [soft-prompt, expert-distillation, continual-post-training]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; distillation terms'
+  inclusion_reason: 'Distills separate RL experts into composable soft prompts over a frozen pre-RL backbone for continual post-training.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract describes soft-prompt distillation and composition of RL experts.', url: 'https://arxiv.org/abs/2611.27376'}
+- id: arxiv:2611.27286
+  title: 'Belief-State Management Meets Rubric Rewards for Agentic Forecasting'
+  date: 2026-11-20
+  direction: agentic
+  url: https://arxiv.org/abs/2611.27286
+  authors: [Jingyi Chai, Yun Liao, Hao Lu, Kemeng Zhang, Bingyang Zheng, Yujie Ge, Xiangrui Liu, Linfeng Zhang, Siheng Chen]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [belief-state, rubric-reward, ppo, grpo]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; agent-training and rubric-reward terms'
+  inclusion_reason: 'Combines a persistent belief-state harness with rubric rewards for PPO/GRPO post-training of forecasting agents.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports PPO and GRPO agent post-training with rubric rewards.', url: 'https://arxiv.org/abs/2611.27286'}
+- id: arxiv:2611.26803
+  title: 'Don''t Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation'
+  date: 2026-11-19
+  direction: distillation
+  url: https://arxiv.org/abs/2611.26803
+  authors: [Vashisth Tiwari, Emma Strubell, J. Zico Kolter]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [teacher-rollouts, sft, dpo, policy-distillation]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages with indexing overlap from 2026-11-19; policy-distillation terms'
+  inclusion_reason: 'Reuses saved teacher RL traces for a student SFT warm start followed by preference optimization.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 19 Nov 2026; abstract describes student distillation from teacher RL traces via SFT and DPO.', url: 'https://arxiv.org/abs/2611.26803'}
+- id: arxiv:2611.26722
+  title: 'TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator'
+  date: 2026-11-19
+  direction: preference-alignment
+  url: https://arxiv.org/abs/2611.26722
+  authors: [Moritz Pötzsch, Andrea Gentilini, Lisa Rossgoderer, Tom Osterfeld, Kesava Prasad Sanjivi Arul, Swanand Ravindra Kadhe]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [preference-data, tool-calling, dpo]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages with indexing overlap from 2026-11-19; preference-data and tool-use terms'
+  inclusion_reason: 'Introduces a source-agnostic generator for tool-calling preference pairs and validates the data through DPO.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports 4.5M preference pairs and DPO validation.', url: 'https://arxiv.org/abs/2611.26722'}
+- id: arxiv:2611.27645
+  title: 'Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models'
+  date: 2026-11-20
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.27645
+  authors: [Nan Tang, Han-Tao Zhang, Jing-Cheng Pang, Hao-Nan Wang, Hao-Xiang Ren, Yi-Fei Sheng, Jun-Yin Ye, Tian Xu, Fan-Ming Luo, Hao-Xin Lin, Yang Yu]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [vla, model-based-rl, latent-world-model]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; VLA and reinforcement-learning terms'
+  inclusion_reason: 'Improves a pretrained VLA policy with model-based RL using efficient latent subchunk rollouts.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract describes VLA reinforcement learning in a latent world model.', url: 'https://arxiv.org/abs/2611.27645'}
+- id: arxiv:2611.27578
+  title: 'PRISM: Validation-Free Online Batch Selection for LLM Fine-Tuning via Preconditioned Conic Ghost Matching'
+  date: 2026-11-20
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.27578
+  authors: [Lin Tang, Wei Zhang, Jing Li, Hongyu Chen, Ming Zhao, Yuxuan Wang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [data-selection, online-batch-selection, fine-tuning]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; fine-tuning and data-selection terms'
+  inclusion_reason: 'Introduces validation-free online batch selection for efficient LLM fine-tuning.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract presents preconditioned conic ghost matching for LLM fine-tuning batches.', url: 'https://arxiv.org/abs/2611.27578'}
+- id: arxiv:2611.27570
+  title: 'WEIR: Watershed Exploration and Drift-Aware Prefix Shrinkage for Multi-Turn Agent Reinforcement Learning'
+  date: 2026-11-20
+  direction: agentic
+  url: https://arxiv.org/abs/2611.27570
+  authors: [Pixel Nomand, Elena Voss, Marcus Hale, Sofia Reyes]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [multi-turn, agent-rl, prefix-tree]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; multi-turn agent RL terms'
+  inclusion_reason: 'Develops actor-critic exploration and drift-aware prefix shrinkage for multi-turn agent reinforcement learning.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports a prefix-tree method for multi-turn agent RL.', url: 'https://arxiv.org/abs/2611.27570'}
+- id: arxiv:2611.27443
+  title: 'Learning When to Ask: Advisor-Aware Post-Training for SLM Agents'
+  date: 2026-11-20
+  direction: agentic
+  url: https://arxiv.org/abs/2611.27443
+  authors: [Aasheesh Singh, Vishal Vaddina]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [help-seeking, small-language-model, outcome-supervision]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; agent post-training terms'
+  inclusion_reason: 'Uses staged rollouts and environment outcomes to post-train small agents to request help selectively.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract describes advisor-aware post-training from rollout outcomes.', url: 'https://arxiv.org/abs/2611.27443'}
+- id: arxiv:2611.27436
+  title: 'THRIFTY: Cost-Constrained Reasoning-Data Synthesis for Small Language Models'
+  date: 2026-11-20
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.27436
+  authors: [Aasheesh Singh, Vishal Vaddina]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [synthetic-data, reasoning-data, budgeted-teacher]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; synthetic reasoning-data terms'
+  inclusion_reason: 'Optimizes teacher trajectory synthesis under a cost budget to create supervision for small language models.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract describes budgeted teacher-generated reasoning trajectories for adaptation.', url: 'https://arxiv.org/abs/2611.27436'}
+- id: arxiv:2611.27288
+  title: 'Preserving Pretrained CFG Structure in RL for Diffusion Models with Conditional Contrast Regularization'
+  date: 2026-11-20
+  direction: generative-media
+  url: https://arxiv.org/abs/2611.27288
+  authors: [Yunfei Zheng, Xiaolong Wang, Dandan Zheng, Xianjun Deng, Shenghao Liu, Wei Xiang, Yuqian Li, Laurence Tianruo Yang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [diffusion, reinforcement-learning, regularization]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; diffusion RL terms'
+  inclusion_reason: 'Adds conditional contrast regularization to diffusion-model RL to preserve pretrained classifier-free-guidance structure.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports conditional contrast regularization during diffusion RL.', url: 'https://arxiv.org/abs/2611.27288'}
+- id: arxiv:2611.27227
+  title: 'CreditFilter: Calibrated Token Weights over the Within-Response Entropy Rank for RLVR'
+  date: 2026-11-20
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.27227
+  authors: [Hanqing Zhao, Liuyue Xie, Rong-Cheng Tu, Xu Zhang, Davide Modolo, Dacheng Tao]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [rlvr, token-credit, entropy]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; RLVR terms'
+  inclusion_reason: 'Calibrates token-level RLVR credit using within-response entropy ranks.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract presents entropy-rank token weights for RLVR.', url: 'https://arxiv.org/abs/2611.27227'}
+- id: arxiv:2611.27148
+  title: 'Structure Over Scale: Rethinking Adaptation for Reinforcement Learning with Verifiable Rewards'
+  date: 2026-11-20
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.27148
+  authors: [Allan Kazakov, Abdurrahman Javat]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [rlvr, parameter-efficient-adaptation, adapter-geometry]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; RLVR and adaptation terms'
+  inclusion_reason: 'Studies how adapter structure and geometry affect reinforcement learning with verifiable rewards.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports controlled RLVR experiments across adapter configurations.', url: 'https://arxiv.org/abs/2611.27148'}
+- id: arxiv:2611.27375
+  title: 'Gumbel Substitution: Removing Sampler Drift from RL Without Trusting the Sampler'
+  date: 2026-11-20
+  direction: reinforcement-learning
+  url: https://arxiv.org/abs/2611.27375
+  authors: [Romain Fanucci, Malik El Hassani]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [sampler-drift, policy-gradient, importance-correction]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; policy-optimization terms'
+  inclusion_reason: 'Introduces an exact correction for sampler drift in reinforcement-learning updates.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports Gumbel-based sampler-drift correction and training gains.', url: 'https://arxiv.org/abs/2611.27375'}
+- id: arxiv:2611.27495
+  title: 'Trained on Harm, Still Refusing: A Training-Time Defense for Code Generation'
+  date: 2026-11-20
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.27495
+  authors: [Miaoqing Tian, Ruohan Li, Qian Lu, Haipeng Qu]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [safety-alignment, harmful-fine-tuning, refusal]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; fine-tuning and safety-alignment terms'
+  inclusion_reason: 'Adds decision-boundary anchoring and refusal-path reinforcement to preserve refusal behavior during harmful fine-tuning.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract describes SAFEHOLD as a training-time defense during fine-tuning.', url: 'https://arxiv.org/abs/2611.27495'}
+- id: arxiv:2611.27401
+  title: 'Beyond Linear Decodability: Understanding and Improving Instruction Following in World Action Models'
+  date: 2026-11-20
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.27401
+  authors: [Bokai Ji, Jiapeng Chen, Yi Zhang, Zeyuan Ding, Yong Dai, Xiaozhu Ju, Jian Tang, Lemao Liu, Dejing Dou, Yong Li]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [world-action-model, instruction-following, auxiliary-objective]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; world-action adaptation terms'
+  inclusion_reason: 'Introduces linear-decodability supervision as an auxiliary training objective for instruction-following world action models.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports training WAMs with a linear-decodability objective.', url: 'https://arxiv.org/abs/2611.27401'}
+- id: arxiv:2611.27329
+  title: 'H-MSAE: Hierarchical Sparse Concept Coverage for Efficient and Diverse Instruction Data Selection'
+  date: 2026-11-20
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.27329
+  authors: [Bohan Cui, Jingyi Cui, Hongwei Wen, Feng Wang, Simiu Gu]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [instruction-data, data-selection, sparse-autoencoder]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; instruction-data selection terms'
+  inclusion_reason: 'Selects compact instruction-tuning subsets through hierarchical sparse concept coverage and evaluates SFT utility.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports H-MSAE selection on the Tulu 3 data pool.', url: 'https://arxiv.org/abs/2611.27329'}
+- id: arxiv:2611.27159
+  title: 'From Acting to Learning: Experience Selection toward Continually Learning Agents'
+  date: 2026-11-20
+  direction: agentic
+  url: https://arxiv.org/abs/2611.27159
+  authors: [Yaoyuan Yan, Haoxiang Jie, Zhiyou Heng, Kailin Wang, Yumiao Li, Lifeng Liu, Anwan Yan]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [continual-learning, experience-selection, language-agent]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; agent learning and experience-selection terms'
+  inclusion_reason: 'Compares experience selectors through 288 trained language-agent students and validates optimizer-aware selection.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports trained student agents under controlled experience selection.', url: 'https://arxiv.org/abs/2611.27159'}
+- id: arxiv:2611.27133
+  title: 'MAPES: Multi-Value Alignment Pipeline via Expert Specialization'
+  date: 2026-11-20
+  direction: preference-alignment
+  url: https://arxiv.org/abs/2611.27133
+  authors: [SungHo Kim, SangKeun Lee]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [multi-value-alignment, expert-specialization, dpo]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; preference-alignment terms'
+  inclusion_reason: 'Separates value-specific experts and then merges and harmonizes them for multi-value preference alignment.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports a specialization, merging, and harmonization pipeline.', url: 'https://arxiv.org/abs/2611.27133'}
+- id: arxiv:2611.27125
+  title: 'When Students Fail to Learn from Teachers: Learning Dynamics of On-Policy Distillation'
+  date: 2026-11-20
+  direction: distillation
+  url: https://arxiv.org/abs/2611.27125
+  authors: [Xinnan Zhang, Zeyi Liao, Siliang Zeng, Zhongruo Wang, Jiaxiang Li, Xinyan Zhao, Huan Sun, Mingyi Hong]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [on-policy-distillation, learning-dynamics, teacher-student-mismatch]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; on-policy distillation terms'
+  inclusion_reason: 'Diagnoses instability and spurious agreement in on-policy distillation and motivates targeted mismatch correction.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract analyzes failure dynamics in on-policy distillation.', url: 'https://arxiv.org/abs/2611.27125'}
+- id: arxiv:2611.27068
+  title: 'Decision Models Are General-Purpose Process Reward Models'
+  date: 2026-11-20
+  direction: reward-verifiers
+  url: https://arxiv.org/abs/2611.27068
+  authors: [Jiajun Fan, Qinglong Zheng, Ziwen Wang, Bangji Yang, Neil He, Ruihan Guo, Chaoran Cheng, Ge Liu]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [process-reward-model, decision-model, step-credit]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; process-reward terms'
+  inclusion_reason: 'Uses a general-purpose decision model as a zero-shot process reward model for step-level credit in agent RL.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports DM-PRM integrated with multiple policy-gradient methods.', url: 'https://arxiv.org/abs/2611.27068'}
+- id: arxiv:2611.26998
+  title: 'Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming'
+  date: 2026-11-20
+  direction: reward-verifiers
+  url: https://arxiv.org/abs/2611.26998
+  authors: [Chengming Liu, Leon Viti, Hongxu Chen, Erdem Kemik, Mary-Anne Williams, Ruth Oliver]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [reward-integrity, red-teaming, decision-model]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; reward-model and adversarial-RL terms'
+  inclusion_reason: 'Directly audits reward fidelity in adversarial RL and evaluates post-training a decision-model judge.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract compares reward judges and reports post-training gains for Laya.', url: 'https://arxiv.org/abs/2611.26998'}
+- id: arxiv:2611.27780
+  title: 'Search-RSI: Expanding Search Worlds Along Multimodal Agents'' Capability Frontier'
+  date: 2026-11-20
+  direction: agentic
+  url: https://arxiv.org/abs/2611.27780
+  authors: [Chengchao Lv, Yin Wang, Chunzheng Zhu, Wanli Chang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [recursive-self-improvement, multimodal-search, reinforcement-learning]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; multimodal agent self-improvement terms'
+  inclusion_reason: 'Co-evolves search tasks and evidence with an agent, feeding disagreement cases to RL and harder cases to demonstrations.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract describes iterative task growth, reinforcement learning, and self-demonstration.', url: 'https://arxiv.org/abs/2611.27780'}
+- id: arxiv:2611.26954
+  title: 'Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation'
+  date: 2026-11-20
+  direction: distillation
+  url: https://arxiv.org/abs/2611.26954
+  authors: [Jingchen Sun, Jiaxing Zhang, Qingqiao Hu, Dingqiang Ye, Yuqi Jia, Yijun Liang, Di Fu, Yunjie Tian, Dongdi Zhao, Changyou Chen]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [on-policy-self-distillation, video-reasoning, contrastive-advantage]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; on-policy self-distillation terms'
+  inclusion_reason: 'Learns video foresight through on-policy self-distillation and a contrastive privilege advantage over unlabeled video pairs.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract introduces Future-OPSD and reports post-training gains.', url: 'https://arxiv.org/abs/2611.26954'}
+- id: arxiv:2611.26787
+  title: 'Spatial Query Execution as Verifiable Rewards for Multi-step Spatial Reasoning'
+  date: 2026-11-19
+  direction: multimodal
+  url: https://arxiv.org/abs/2611.26787
+  authors: [Jiyoon Pyo, Dongwon Jung, Zekun Li, Nayeon Kim, Muhao Chen, Yao-Yi Chiang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [lvlm, synthetic-data, sft, rlvr]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages with indexing overlap from 2026-11-19; multimodal RLVR terms'
+  inclusion_reason: 'Generates execution-grounded reasoning traces for SFT and deterministic verifiable rewards for subsequent GRPO.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 19 Nov 2026; abstract reports SFT and RLVR for large vision-language models.', url: 'https://arxiv.org/abs/2611.26787'}
+- id: arxiv:2611.27648
+  title: 'Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking'
+  date: 2026-11-20
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.27648
+  authors: [Xuzhe Dang, Stefan Edelkamp]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [humanoid, world-model, policy-gradient]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; robot policy-gradient terms'
+  inclusion_reason: 'Calibrates and caps unreliable imagined policy gradients from a learned world model for humanoid control.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports capped world-model policy gradients and controlled training gains.', url: 'https://arxiv.org/abs/2611.27648'}
+- id: arxiv:2611.27171
+  title: 'Learning from Incomplete Actions: Interval Motion Supervision for Vision-Language-Action Policies'
+  date: 2026-11-20
+  direction: embodied-vla
+  url: https://arxiv.org/abs/2611.27171
+  authors: [Yunpeng Mei, Chenyu Wang, Xiaowen Zhu, Chenbo Xin, Hongjie Cao, Yiyuan Li, Chengye Zhang, YuAn Wang, Gang Wang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [vla, incomplete-supervision, flow-matching]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; VLA supervision terms'
+  inclusion_reason: 'Adds interval-motion composition supervision so VLA policies can learn from demonstrations with missing actions.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports training VLA policies with incomplete action labels.', url: 'https://arxiv.org/abs/2611.27171'}
+- id: arxiv:2611.27710
+  title: 'Abstract What Varies, Reuse Longer Patterns: Efficient Offline Chain-of-Thought Compression'
+  date: 2026-11-20
+  direction: supervised-adaptation
+  url: https://arxiv.org/abs/2611.27710
+  authors: [Shibo Wang, Yuzhe He, Yifeng Zhao, Yunjiao Zhou, Zepeng Ning, Hanzhang Zhou, Kezhi Mao, Junlang Qian]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [chain-of-thought, data-compression, reasoning-supervision]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; chain-of-thought training-data terms'
+  inclusion_reason: 'Compresses recurring chain-of-thought templates into shorter reusable supervision targets for reasoning training.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports offline CoT compression into ordinary-text training targets.', url: 'https://arxiv.org/abs/2611.27710'}
+- id: arxiv:2611.27070
+  title: '$R^2$: Recognizing and Reducing Redundant Visual Tool Use'
+  date: 2026-11-20
+  direction: multimodal
+  url: https://arxiv.org/abs/2611.27070
+  authors: [Yilin Zhao, Jinyu Wang, Wenming Yang]
+  source_signals: [arxiv-primary, codex-daily-radar]
+  classification_method: primary-source-review
+  tags: [visual-tools, grpo, efficiency-reward]
+  search_date: 2026-11-23
+  search_query: 'arXiv recent pages, submitted 2026-11-20 through 2026-11-23; visual tool-use and GRPO terms'
+  inclusion_reason: 'Adds a visual-feedback dependency signal and redundancy-aware GRPO objective to reduce unnecessary tool calls.'
+  source_evidence: {source: arXiv, checked_at: '2026-11-23T08:12:45-06:00', evidence: 'Submitted 20 Nov 2026; abstract reports RA-GRPO training across seven multimodal benchmarks.', url: 'https://arxiv.org/abs/2611.27070'}

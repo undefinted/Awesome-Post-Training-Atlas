@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**889 papers**: 3 curated and 886 academic discovery candidates.
+**891 papers**: 3 curated and 888 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐3 · [Oct](#2026-10) ✓57 · [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Nov](#2026-11) ◐5 · [Oct](#2026-10) ✓57 · [Sep](#2026-09) ✓10 · [Aug](#2026-08) ✓68 · [Jul](#2026-07) ✓34 · [Jun](#2026-06) ✓46 · [May](#2026-05) ✓48 · [Apr](#2026-04) ✓55 · [Mar](#2026-03) ✓54 · [Feb](#2026-02) ✓110 · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓32 · [Nov](#2025-11) ✓36 · [Oct](#2025-10) ✓43 · [Sep](#2025-09) ✓37 · [Aug](#2025-08) ✓26 · [Jul](#2025-07) ✓26 · [Jun](#2025-06) ✓34 · [May](#2025-05) ✓35 · [Apr](#2025-04) ✓12 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓20 · [Jan](#2025-01) ✓7
 - [2024](#2024) — [Dec](#2024-12) ✓4 · [Nov](#2024-11) ✓3 · [Oct](#2024-10) ✓12 · [Sep](#2024-09) ✓7 · [Aug](#2024-08) ✓7 · [Jul](#2024-07) ✓10 · [Jun](#2024-06) ✓4 · [May](#2024-05) ✓9 · [Apr](#2024-04) ✓3 · [Mar](#2024-03) ✓10 · [Feb](#2024-02) ✓6 · [Jan](#2024-01) ✓1
 - [2023](#2023) — [Sep](#2023-09) ◐1 · [Apr](#2023-04) ◐1
@@ -27,10 +27,20 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 > **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
+- 🔎 **[$R^2$: Recognizing and Reducing Redundant Visual Tool Use](https://arxiv.org/abs/2611.27070)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Yilin Zhao, Jinyu Wang, Wenming Yang
+
 - 🔎 **[Learning to Think with Images Faithfully via Adaptive Data Selection](https://arxiv.org/abs/2611.26199)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
   Labels: pending  
   Authors: Yu Zhao, Jiaxin Zhang, Rohit Saxena, Fazl Barez, Pasquale Minervini, Yiwen Guo
+
+- 🔎 **[Spatial Query Execution as Verifiable Rewards for Multi-step Spatial Reasoning](https://arxiv.org/abs/2611.26787)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Jiyoon Pyo, Dongwon Jung, Zekun Li, Nayeon Kim, Muhao Chen, Yao-Yi Chiang
 
 - **[ReSynth: Constructing Synthetic Supervision for Multi-Image Understanding](https://arxiv.org/abs/2611.23996)** — Builds verified multi-image relational questions from controllable edits and viewpoint generation, then uses GRPO to train vision-language models without real multi-image training examples.  
   2026-11-18 · `synthetic-data` · `grpo` · `multi-image` · `visual-reasoning`  

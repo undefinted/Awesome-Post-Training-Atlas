@@ -49,16 +49,16 @@
 <!-- DIRECTIONS-ZH:START -->
 | 方向 | 精选 | 发现候选 | 总数 | 最新论文发表日期 |
 |---|---:|---:|---:|---:|
-| [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3600 | **3602** | 2026-11-19 |
-| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2859 | **2865** | 2026-11-19 |
-| [奖励模型与验证器](directions/reward-verifiers.md) | 2 | 3374 | **3376** | 2026-11-18 |
-| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 4 | 843 | **847** | 2026-11-19 |
-| [蒸馏与策略迁移](directions/distillation.md) | 25 | 498 | **523** | 2026-11-19 |
-| [推理与自我改进](directions/reasoning-self-improvement.md) | 3 | 863 | **866** | 2026-11-19 |
-| [智能体与交互式后训练](directions/agentic.md) | 3 | 606 | **609** | 2026-11-19 |
-| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 3 | 886 | **889** | 2026-11-19 |
-| [生成式媒体后训练](directions/generative-media.md) | 2 | 437 | **439** | 2026-11-19 |
-| [具身智能与 VLA 后训练](directions/embodied-vla.md) | 1 | 430 | **431** | 2026-11-19 |
+| [监督适配与数据](directions/supervised-adaptation.md) | 2 | 3606 | **3608** | 2026-11-20 |
+| [偏好优化与对齐](directions/preference-alignment.md) | 6 | 2861 | **2867** | 2026-11-20 |
+| [奖励模型与验证器](directions/reward-verifiers.md) | 2 | 3377 | **3379** | 2026-11-20 |
+| [强化学习与可验证奖励（RLVR）](directions/reinforcement-learning.md) | 4 | 849 | **853** | 2026-11-20 |
+| [蒸馏与策略迁移](directions/distillation.md) | 25 | 502 | **527** | 2026-11-20 |
+| [推理与自我改进](directions/reasoning-self-improvement.md) | 3 | 864 | **867** | 2026-11-19 |
+| [智能体与交互式后训练](directions/agentic.md) | 3 | 611 | **614** | 2026-11-20 |
+| [多模态 / VLM / MLLM 后训练](directions/multimodal.md) | 3 | 888 | **891** | 2026-11-20 |
+| [生成式媒体后训练](directions/generative-media.md) | 2 | 438 | **440** | 2026-11-20 |
+| [具身智能与 VLA 后训练](directions/embodied-vla.md) | 1 | 434 | **435** | 2026-11-20 |
 <!-- DIRECTIONS-ZH:END -->
 
 ## Codex 论文雷达
@@ -79,7 +79,7 @@
    定时检索论文。
 
 最近一次有记录的运行是
-[2026-11-22 Codex 雷达报告](data/codex-radar/2026-11-22.md)。完整频率、
+[2026-11-23 Codex 雷达报告](data/codex-radar/2026-11-23.md)。完整频率、
 审核规则与安全约束见 [CODEX_RADAR.md](CODEX_RADAR.md)。
 
 手动运行仓库流水线：

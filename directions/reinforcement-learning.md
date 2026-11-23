@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**847 papers**: 4 curated and 843 academic discovery candidates.
+**853 papers**: 4 curated and 849 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐4 · [Oct](#2026-10) ✓97 · [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Nov](#2026-11) ◐10 · [Oct](#2026-10) ✓97 · [Sep](#2026-09) ✓13 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓35 · [Jun](#2026-06) ✓45 · [May](#2026-05) ✓81 · [Apr](#2026-04) ✓31 · [Mar](#2026-03) ✓47 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓50 · [Nov](#2025-11) ✓43 · [Oct](#2025-10) ✓65 · [Sep](#2025-09) ✓32 · [Aug](#2025-08) ✓47 · [Jul](#2025-07) ✓43 · [Jun](#2025-06) ✓38 · [May](#2025-05) ✓44 · [Apr](#2025-04) ✓29 · [Mar](#2025-03) ✓18 · [Feb](#2025-02) ✓11 · [Jan](#2025-01) ✓2
 - [2024](#2024) — [Dec](#2024-12) ✓1 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓1 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓0 · [Jul](#2024-07) ✓1 · [Jun](#2024-06) ✓2 · [May](#2024-05) ✓1 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓0 · [Feb](#2024-02) ✓2 · [Jan](#2024-01) ✓1
 - [2017](#2017) — [Jul](#2017-07) ◐1
@@ -26,6 +26,26 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### November
 
 > **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[How Far Does Lossless Re-tokenization Move an RLVR Update?](https://arxiv.org/abs/2611.27083)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Zhe Dong, Fang Qin
+
+- 🔎 **[CreditFilter: Calibrated Token Weights over the Within-Response Entropy Rank for RLVR](https://arxiv.org/abs/2611.27227)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Hanqing Zhao, Liuyue Xie, Rong-Cheng Tu, Xu Zhang, Davide Modolo, Dacheng Tao
+
+- 🔎 **[Structure Over Scale: Rethinking Adaptation for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2611.27148)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Allan Kazakov, Abdurrahman Javat
+
+- 🔎 **[Gumbel Substitution: Removing Sampler Drift from RL Without Trusting the Sampler](https://arxiv.org/abs/2611.27375)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Romain Fanucci, Malik El Hassani
 
 - **[ROAM-GRPO: Enforcing Reasoning Diversity in GRPO via Routed Off-mode Approach Mining](https://arxiv.org/abs/2611.25926)** — Routes already-solved problems into a separate track that mines, verifies, and self-distills alternative solution strategies to counter GRPO diversity collapse.  
   2026-11-19 · `grpo` · `rlvr` · `reasoning-diversity` · `self-distillation`  
@@ -44,6 +64,16 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
   Labels: pending  
   Authors: Haotian Zhai, Leqi Liu
+
+- 🔎 **[LLMs Memorize Their Own Hallucinations During Post-Training](https://arxiv.org/abs/2611.26863)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Anirudh Atmakuru, Tanya Goyal
+
+- 🔎 **[Reinforcement Learning Unlearns Corrupted SFT Reasoning](https://arxiv.org/abs/2611.26756)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Anika Misra, Shreyas Vinod, Huteng Dai
 
 - 🔎 **[Get Hint-Augmented GRPO Done Right Through Activation Steering](https://arxiv.org/abs/2611.23124)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  

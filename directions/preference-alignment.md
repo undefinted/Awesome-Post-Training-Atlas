@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**2865 papers**: 6 curated and 2859 academic discovery candidates.
+**2867 papers**: 6 curated and 2861 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐3 · [Oct](#2026-10) ✓114 · [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓72 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
+- [2026](#2026) — [Nov](#2026-11) ◐5 · [Oct](#2026-10) ✓114 · [Sep](#2026-09) ✓20 · [Aug](#2026-08) ✓59 · [Jul](#2026-07) ✓72 · [Jun](#2026-06) ✓101 · [May](#2026-05) ✓133 · [Apr](#2026-04) ✓101 · [Mar](#2026-03) ✓104 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ✓96
 - [2025](#2025) — [Dec](#2025-12) ✓76 · [Nov](#2025-11) ✓85 · [Oct](#2025-10) ✓128 · [Sep](#2025-09) ✓109 · [Aug](#2025-08) ✓94 · [Jul](#2025-07) ✓81 · [Jun](#2025-06) ✓120 · [May](#2025-05) ✓149 · [Apr](#2025-04) ✓96 · [Mar](#2025-03) ✓110 · [Feb](#2025-02) ✓132 · [Jan](#2025-01) ✓72
 - [2024](#2024) — [Dec](#2024-12) ✓75 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓145 · [Sep](#2024-09) ✓57 · [Aug](#2024-08) ✓46 · [Jul](#2024-07) ✓49 · [Jun](#2024-06) ✓101 · [May](#2024-05) ✓68 · [Apr](#2024-04) ✓57 · [Mar](#2024-03) ✓51 · [Feb](#2024-02) ✓76 · [Jan](#2024-01) ✓29
 - [2023](#2023) — [May](#2023-05) ◐1
@@ -28,6 +28,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 > **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
 
+- 🔎 **[MAPES: Multi-Value Alignment Pipeline via Expert Specialization](https://arxiv.org/abs/2611.27133)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: SungHo Kim, SangKeun Lee
+
 - 🔎 **[RegionAgent: Two-Stage Preference Optimization for Regional Image Restoration](https://arxiv.org/abs/2611.26179)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
   Labels: pending  
@@ -37,6 +42,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
   Labels: pending  
   Authors: Lingkai Bu, Qian Gao
+
+- 🔎 **[TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator](https://arxiv.org/abs/2611.26722)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Moritz Pötzsch, Andrea Gentilini, Lisa Rossgoderer, Tom Osterfeld, Kesava Prasad Sanjivi Arul, Swanand Ravindra Kadhe
 
 - 🔎 **[Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models](https://arxiv.org/abs/2611.23179)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-17 · `primary-source-review` · `codex-daily-radar, arxiv`  

@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**3602 papers**: 2 curated and 3600 academic discovery candidates.
+**3608 papers**: 2 curated and 3606 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐3 · [Oct](#2026-10) ✓260 · [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
+- [2026](#2026) — [Nov](#2026-11) ◐9 · [Oct](#2026-10) ✓260 · [Sep](#2026-09) ✓12 · [Aug](#2026-08) ✓119 · [Jul](#2026-07) ✓135 · [Jun](#2026-06) ✓196 · [May](#2026-05) ✓229 · [Apr](#2026-04) ✓180 · [Mar](#2026-03) ✓183 · [Feb](#2026-02) ⚠ · [Jan](#2026-01) ⚠
 - [2025](#2025) — [Dec](#2025-12) ✓104 · [Nov](#2025-11) ✓125 · [Oct](#2025-10) ✓184 · [Sep](#2025-09) ✓143 · [Aug](#2025-08) ✓128 · [Jul](#2025-07) ✓90 · [Jun](#2025-06) ✓135 · [May](#2025-05) ✓192 · [Apr](#2025-04) ✓93 · [Mar](#2025-03) ✓112 · [Feb](#2025-02) ✓93 · [Jan](#2025-01) ✓52
 - [2024](#2024) — [Dec](#2024-12) ✓77 · [Nov](#2024-11) ✓53 · [Oct](#2024-10) ✓110 · [Sep](#2024-09) ✓52 · [Aug](#2024-08) ✓51 · [Jul](#2024-07) ✓58 · [Jun](#2024-06) ✓100 · [May](#2024-05) ✓76 · [Apr](#2024-04) ✓55 · [Mar](#2024-03) ✓62 · [Feb](#2024-02) ✓97 · [Jan](#2024-01) ✓41
 - [2023](#2023) — [Oct](#2023-10) ◐1
@@ -27,6 +27,36 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### November
 
 > **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders](https://arxiv.org/abs/2611.27652)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Yunha Seo, Changhoon Kim
+
+- 🔎 **[PRISM: Validation-Free Online Batch Selection for LLM Fine-Tuning via Preconditioned Conic Ghost Matching](https://arxiv.org/abs/2611.27578)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Lin Tang, Wei Zhang, Jing Li, Hongyu Chen, Ming Zhao, Yuxuan Wang
+
+- 🔎 **[THRIFTY: Cost-Constrained Reasoning-Data Synthesis for Small Language Models](https://arxiv.org/abs/2611.27436)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Aasheesh Singh, Vishal Vaddina
+
+- 🔎 **[Trained on Harm, Still Refusing: A Training-Time Defense for Code Generation](https://arxiv.org/abs/2611.27495)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Miaoqing Tian, Ruohan Li, Qian Lu, Haipeng Qu
+
+- 🔎 **[H-MSAE: Hierarchical Sparse Concept Coverage for Efficient and Diverse Instruction Data Selection](https://arxiv.org/abs/2611.27329)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Bohan Cui, Jingyi Cui, Hongwei Wen, Feng Wang, Simiu Gu
+
+- 🔎 **[Abstract What Varies, Reuse Longer Patterns: Efficient Offline Chain-of-Thought Compression](https://arxiv.org/abs/2611.27710)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Shibo Wang, Yuzhe He, Yifeng Zhao, Yunjiao Zhou, Zepeng Ning, Hanzhang Zhou, Kezhi Mao, Junlang Qian
 
 - 🔎 **[Represented but misread: Post-training changes how language models read out what they represent](https://arxiv.org/abs/2611.26584)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  

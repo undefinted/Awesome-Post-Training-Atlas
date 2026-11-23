@@ -2,7 +2,7 @@
 
 [← Back to the atlas](../README.md)
 
-**523 papers**: 25 curated and 498 academic discovery candidates.
+**527 papers**: 25 curated and 502 academic discovery candidates.
 
 Curated entries include a reviewed key idea and tags. 🔎 entries were found directly through academic search and remain visibly provisional until primary-paper review.
 
@@ -12,7 +12,7 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 
 `✓N` audited with N visible records · `✓0` audited with no eligible record · `◐N` records exist but the month audit is incomplete · `⏳` not audited · `⚠` failed or truncated.
 
-- [2026](#2026) — [Nov](#2026-11) ◐6 · [Oct](#2026-10) ✓146 · [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
+- [2026](#2026) — [Nov](#2026-11) ◐10 · [Oct](#2026-10) ✓146 · [Sep](#2026-09) ✓14 · [Aug](#2026-08) ✓85 · [Jul](#2026-07) ✓50 · [Jun](#2026-06) ✓39 · [May](#2026-05) ✓58 · [Apr](#2026-04) ✓18 · [Mar](#2026-03) ✓13 · [Feb](#2026-02) ✓14 · [Jan](#2026-01) ✓14
 - [2025](#2025) — [Dec](#2025-12) ✓4 · [Nov](#2025-11) ✓6 · [Oct](#2025-10) ✓6 · [Sep](#2025-09) ✓3 · [Aug](#2025-08) ✓6 · [Jul](#2025-07) ✓5 · [Jun](#2025-06) ✓3 · [May](#2025-05) ✓4 · [Apr](#2025-04) ✓2 · [Mar](#2025-03) ✓4 · [Feb](#2025-02) ✓5 · [Jan](#2025-01) ✓0
 - [2024](#2024) — [Dec](#2024-12) ✓3 · [Nov](#2024-11) ✓1 · [Oct](#2024-10) ✓3 · [Sep](#2024-09) ✓0 · [Aug](#2024-08) ✓1 · [Jul](#2024-07) ✓2 · [Jun](#2024-06) ✓1 · [May](#2024-05) ✓0 · [Apr](#2024-04) ✓2 · [Mar](#2024-03) ✓3 · [Feb](#2024-02) ✓1 · [Jan](#2024-01) ✓1
 
@@ -25,6 +25,21 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
 ### November
 
 > **Audit status:** ⏳ Not audited yet. No completeness claim is made for this direction-month cell.
+
+- 🔎 **[Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training](https://arxiv.org/abs/2611.27376)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Zhen Zhang, Changyi Yang, Xuehai He, Chengzhi Liu, Yutong Yin, Ziyue Liu, Zhuoran Yin, Yangmin Li, et al.
+
+- 🔎 **[When Students Fail to Learn from Teachers: Learning Dynamics of On-Policy Distillation](https://arxiv.org/abs/2611.27125)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Xinnan Zhang, Zeyi Liao, Siliang Zeng, Zhongruo Wang, Jiaxiang Li, Xinyan Zhao, Huan Sun, Mingyi Hong
+
+- 🔎 **[Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation](https://arxiv.org/abs/2611.26954)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-20 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Jingchen Sun, Jiaxing Zhang, Qingqiao Hu, Dingqiang Ye, Yuqi Jia, Yijun Liang, Di Fu, Yunjie Tian, et al.
 
 - 🔎 **[ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement](https://arxiv.org/abs/2611.26615)** — `discovery candidate`; awaiting primary-paper curation.  
   2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
@@ -40,6 +55,11 @@ Curated entries include a reviewed key idea and tags. 🔎 entries were found di
   2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
   Labels: pending  
   Authors: Yuxuan Li, Derrick Goh Xin Deik, Zheng-Peng Duan, Qianru Sun, Weijie Li
+
+- 🔎 **[Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation](https://arxiv.org/abs/2611.26803)** — `discovery candidate`; awaiting primary-paper curation.  
+  2026-11-19 · `primary-source-review` · `arxiv-primary, codex-daily-radar`  
+  Labels: pending  
+  Authors: Vashisth Tiwari, Emma Strubell, J. Zico Kolter
 
 - **[VisAlloc: Allocating Visual Supervision for On-Policy Self-Distillation](https://arxiv.org/abs/2611.25069)** — Filters examples with paired positive and displaced visual crops, then uses teacher-view disagreement to concentrate on-policy self-distillation on visually sensitive response tokens.  
   2026-11-18 · `on-policy-self-distillation` · `visual-reasoning` · `token-weighting` · `multimodal` · [code](https://github.com/Kaelyn01/VisAlloc)  
